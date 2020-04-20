@@ -1,0 +1,6 @@
+warming_VVG up_RP to_TO take_VVI centre_NN1 stage_NN1 tonight_RT at_II Dundee_NP1 Jazz_NP1 Festival_NP1 
+singer_NN1 Alison_NP1 Burns_NP1 is_VBZ making_VVG a_AT1 welcome_JJ return_NN1 to_II her_APPGE home_NN1 city_NN1 
+now_RT in_II its_APPGE thirty_MC second_MD year_NNT1 
+the_AT festival_NN1 has_VHZ attracted_VVN some_DD of_IO the_AT biggest_JJT names_NN2 in_II the_AT business_NN1 
+venues_NN2 range_VV0 from_II the_AT Frigate_NP1 Unicorn_NP1 in_II the_AT city_NN1 's_GE docks_NN2 
+to_II a_AT1 day_NNT1 of_IO jazz_NN1 at_II bars_NN2 and_CC restaurants_NN2 in_II Broughty_NP1 Ferry_NP1 on_II Sunday_NPD1 

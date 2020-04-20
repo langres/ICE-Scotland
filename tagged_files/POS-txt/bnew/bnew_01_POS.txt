@@ -1,0 +1,15 @@
+earlier_RRR this_DD1 year_NNT1 a_AT1 report_NN1 by_II Professor_NNB John_NP1 Robertson_NP1 of_IO the_AT University_NP1 of_IO the_AT West_NP1 of_IO Scotland_NP1 
+alleged_VVD that_CST broadcast_NN1 coverage_NN1 of_IO the_AT independence_NN1 referendum_NN1 thus_RR far_RR 
+has_VHZ favoured_VVN the_AT No_UH campaign_NN1 
+today_RT the_AT Education_NP1 Committee_NP1 took_VVD evidence_NN1 from_II Professor_NNB Robertson_NP1 
+on_II his_APPGE findings_NN2 
+however_RR the_AT director_NN1 of_IO BBC_NP1 Scotland_NP1 Ken_NP1 MacQuarrie_NP1 
+rejected_VVD the_AT claims_NN2 
+last_MD Thursday_NPD1 it_PPH1 emerged_VVD that_CST there_EX had_VHD been_VBN a_AT1 problem_NN1 with_IW a_AT1 nuclear_JJ test_NN1 reactor_NN1 in_II the_AT Highlands_NP2 
+the_AT fault_NN1 with_IW the_AT vulcan_NN1 reactor_NN1 at_II Dounreay_NP1 happened_VVD in_II twenty_MC21 twelve_MC22 
+and_CC today_RT the_AT Scottish_JJ government_NN1 criticised_VVD the_AT UK_NP1 government_NN1 for_IF not_XX informing_VVG them_PPHO2 at_II the_AT time_NNT1 
+in_II January_NPM1 the_AT Fire_NP1 and_CC Rescue_NP1 Service_NP1 Board_NP1 decided_VVD to_TO close_VVI five_MC of_IO the_AT eight_MC control_NN1 rooms_NN2 across_II the_AT country_NN1 
+as_II part_NN1 of_IO the_AT move_NN1 towards_II a_AT1 single_JJ fire_NN1 service_NN1 
+today_RT fire_NN1 chiefs_NN2 told_VVD MSPs_NP2 this_DD1 would_VM result_VVI in_II a_AT1 better_JJR service_NN1 
+however_RR 
+fire_NN1 trade_NN1 union_NN1 raised_VVD concerns_NN2 over_II the_AT jobs_NN2 of_IO staff_NN currently_RR working_VVG in_II control_NN1 rooms_NN2 

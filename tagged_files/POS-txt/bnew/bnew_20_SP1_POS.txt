@@ -1,0 +1,10 @@
+good_JJ evening_NNT1 I_PPIS1 'm_VBM Norman_NP1 MacLeod_NP1 this_DD1 is_VBZ the_AT STV_NP1 news_NP1 at_II six_MC live_JJ from_II Aberdeen_NP1 
+a_AT1 man_NN1 's_VHZ died_VVN as_CSA a_AT1 winter_NNT1 storm_NN1 with_IW winds_NN2 gusting_VVG at_II more_DAR than_CSN a_AT1 hundred_NNO miles_NNU231 an_NNU232 hour_NNU233 hit_VVD Scotland_NP1 
+the_AT lorry_NN1 driver_NN1 was_VBDZ killed_VVN when_CS his_APPGE HGV_NP1 was_VBDZ blown_VVN over_RP 
+the_AT high_JJ winds_NN2 have_VH0 caused_VVN structural_JJ damage_NN1 and_CC hit_VVD travel_NN1 on_II the_AT roads_NN2 railways_NN2 and_CC at_II sea_NN1 
+at_II one_MC1 point_NN1 more_DAR than_CSN a_AT1 hundred_NNO21 thousand_NNO22 homes_NN2 and_CC businesses_NN2 were_VBDR without_IW power_NN1 
+we_PPIS2 'll_VM be_VBI live_JJ in_II the_AT Highlands_NP2 shortly_RR but_CCB first_MD Ross_NP1 Govans_NP1 reports_VVZ on_II the_AT impact_NN1 
+of_IO the_AT storm_NN1 
+the_AT storm_NN1 slammed_VVD into_II Scotland_NP1 overnight_RT and_CC caused_VVD widespread_JJ damage_NN1 particularly_RR in_II the_AT Highlands_NP2 
+all_DB day_NNT1 a_AT1 major_JJ clearup_NN1 operation_NN1 has_VHZ been_VBN under_RR21 way_RR22 in_II the_AT aftermath_NN1 of_IO the_AT gale_NN1 
+the_AT weather_NN1 misery_NN1 also_RR was_VBDZ also_RR compounded_VVN by_II flooding_NN1 as_CSA Nicola_NP1 McAlley_NP1 reports_VVZ 

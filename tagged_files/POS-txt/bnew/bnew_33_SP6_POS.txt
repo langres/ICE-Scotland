@@ -1,0 +1,16 @@
+eight_MC year-old_JJ Charlotte_NP1 Farrell_NP1 has_VHZ a_AT1 rare_JJ neurological_JJ condition_NN1 
+she_PPHS1 's_VBZ registered_JJ blind_JJ is_VBZ deaf_JJ and_CC has_VHZ severe_JJ epilepsy_NN1 
+she_PPHS1 needs_VVZ a_AT1 twenty_MC21 four_MC22 hour_NNT1 care_NN1 from_II her_APPGE mum_NN1 and_CC gran_NN1 
+and_CC trips_NN2 to_II the_AT local_JJ hospice_NN1 which_DDQ is_VBZ supported_VVN by_II Together_RL for_IF Short_JJ Lives_NP2 
+make_VV0 all_DB the_AT difference_NN1 
+Together_RL for_IF Short_JJ Lives_NP2 is_VBZ one_MC1 of_IO six_MC charities_NN2 which_DDQ will_VM benefit_VVI from_II the_AT money_NN1 raised_VVN through_II Text_VV0 Santa_NP1 
+Guide_NP1 Dogs_NP2 is_VBZ another_DD1 
+Lyn_NP1 Carse_NP1 is_VBZ registered_JJ blind_JJ and_CC relied_VVD on_II help_NN1 from_II her_APPGE two_MC daughters_NN2 to_TO get_VVI around_RP 
+but_CCB now_RT she_PPHS1 has_VHZ her_APPGE own_DA sense_NN1 of_IO freedom_NN1 thanks_II21 to_II22 her_APPGE guide_NN1 dog_NN1 Eva_NP1 
+last_MD year_NNT1 Text_VV0 Santa_NP1 raised_VVD more_DAR than_CSN five_MC million_NNO pounds_NNU2 helping_VVG thousands_NNO2 across_II the_AT country_NN1 
+and_CC tonight_RT 's_GE appeal_NN1 show_NN1 will_VM be_VBI bigger_JJR than_CSN ever_RR 
+presented_VVN by_II Ant_NP1 and_CC Dec_NP1 Phillip_NP1 Schofield_NP1 and_CC Christine_NP1 Bleakley_NP1 
+the_AT three-hour_JJ show_NN1 will_VM feature_VVI celebrities_NN2 including_II George_NP1 Clooney_NP1 
+who_PNQS 'll_VM star_VVI in_II a_AT1 mini_JJ episode_NN1 of_IO Downton_NP1 Abbey_NP1 
+all_DB to_TO raise_VVI as_RG much_DA1 money_NN1 as_CSA possible_JJ for_IF good_JJ causes_NN2 
+Susan_NP1 Ripoll_NP1 STV_NP1 News_NP1 

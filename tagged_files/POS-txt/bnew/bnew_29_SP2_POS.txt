@@ -1,0 +1,22 @@
+good_JJ evening_NNT1 
+Nicola_NP1 Sturgeon_NP1 
+is_VBZ the_AT new_JJ First_MD Minister_NP1 of_IO Scotland_NP1 
+she_PPHS1 was_VBDZ elected_VVN by_II MSPs_NP2 this_DD1 afternoon_NNT1 during_II a_AT1 session_NNT1 of_IO parliament_NN1 
+when_CS opposition_NN1 leaders_NN2 joined_VVD her_PPHO1 in_II marking_VVG what_DDQ is_VBZ 
+a_AT1 significant_JJ day_NNT1 for_IF women_NN2 in_II politics_NN1 
+the_AT SNP_NP1 leader_NN1 pledges_VVZ to_TO be_VBI a_AT1 First_MD Minister_NP1 
+for_IF all_DB of_IO Scotland_NP1 
+here_RL 's_VBZ our_APPGE political_JJ editor_NN1 
+Bernard_NP1 Ponsonby_NP1 
+well_UH Nicola_NP1 Sturgeon_NP1 is_VBZ facing_VVG tough_JJ challenges_NN2 ahead_RL as_CSA Scotland_NP1 's_GE new_JJ First_MD Minister_NP1 
+further_RRR deep_JJ public_JJ spending_NN1 cuts_NN2 are_VBR still_RR to_TO come_VVI 
+and_CC leading_JJ figures_NN2 from_II the_AT fight_NN1 for_IF independence_NN1 
+warn_VV0 that_CST she_PPHS1 's_VBZ now_RT the_AT leader_NN1 
+not_XX just_RR of_IO a_AT1 political_JJ party_NN1 
+but_CCB of_IO a_AT1 movement_NN1 
+our_APPGE political_JJ correspondent_NN1 Claire_NP1 Stewart_NP1 looks_VVZ at_II what_DDQ lies_VVZ ahead_RL for_IF Nicola_NP1 Sturgeon_NP1 
+and_CC Rona_NP1 will_VM have_VHI an_AT1 extended_JJ interview_NN1 with_IW Nicola_NP1 Sturgeon_NP1 on_II this_DD1 evening_NNT1 's_GE Scotland_NP1 Tonight_RT 
+at_II the_AT later_JJR time_NNT1 
+of_IO five_MC31 past_MC32 eleven_MC33 
+but_CCB now_RT more_DAR news_NN1 and_CC sport_NN1 
+from_II your_APPGE part_NN1 of_IO Scotland_NP1 

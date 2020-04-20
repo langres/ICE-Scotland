@@ -1,0 +1,85 @@
+Recipes_NN2 :_: Scottish_JJ dishes_NN2 with_IW Gallic_JJ precision_NN1 
+
+SEASONAL_JJ ingredients_NN2 ,_, beautifully_RR cooked_VVN is_VBZ the_AT mantra_NN1 for_IF Craig_NP1 Sandle_NP1 ,_, executive_NN1 chef_NN1 at_II the_AT Galvin_NP141 Brasserie_NP142 de_NP143 Luxe_NP144 
+Ever_RR since_CS the_AT Beatles_NP2 met_VVD Maharishi_NP1 Mahesh_NP1 Yogi_NP1 in_II 1967_MC ,_, everyone_PN1 wants_VVZ to_TO have_VHI their_APPGE own_DA mantra_NN1 ._. Ours_PPGE happens_VVZ to_TO be_VBI "_" harmony_NN1 in_II the_AT kitchen_NN1 and_CC seasonal_JJ ingredients_NN2 perfectly_RR cooked_VVN "_" ._. 
+We_PPIS2 are_VBR meticulous_JJ with_IW the_AT produce_NN1 we_PPIS2 select_VV0 and_CC with_IW the_AT techniques_NN2 that_DD1 allow_VV0 us_PPIO2 to_TO achieve_VVI exceptional_JJ flavour_NN1 ._. 
+In_II the_AT early_JJ 19th_MD century_NNT1 ,_, Britain_NP1 was_VBDZ dominated_VVN by_II French_JJ cooking_NN1 ,_, under_II great_JJ chefs_NN2 such_II21 as_II22 Marie-Antoine_NP1 Carême_NP1 and_CC Georges_NP1 Auguste_NP1 Escoffier_NP1 ,_, based_VVN in_II the_AT great_JJ hotels_NN2 of_IO the_AT day_NNT1 such_II21 as_II22 the_AT Ritz_NP1 and_CC the_AT Savoy_NP1 in_II London_NP1 ._. At_II such_DA institutions_NN2 rules_NN2 were_VBDR hard_JJ and_CC fast_JJ and_CC transgressed_VVN at_II your_APPGE peril_NN1 ._. 
+Today_RT we_PPIS2 can_VM be_VBI more_RGR relaxed_JJ and_CC are_VBR free_JJ to_TO be_VBI creative_JJ and_CC enterprisingly_RR modern_JJ ;_; we_PPIS2 can_VM adapt_VVI and_CC adopt_VVI the_AT best_JJT of_IO the_AT available_JJ produce_NN1 from_II our_APPGE own_DA island_NN1 as_II31 well_II32 as_II33 importing_VVG the_AT finest_JJT Gallic_JJ offerings_NN2 ._. 
+The_AT great_JJ legacy_NN1 handed_VVN down_RP from_II those_DD2 far-off_JJ days_NNT2 is_VBZ a_AT1 vast_JJ array_NN1 of_IO precision_NN1 techniques_NN2 that_DD1 we_PPIS2 can_VM employ_VVI in_RP today_RT 's_GE kitchens_NN2 and_CC the_AT knowledge_NN1 of_IO the_AT intrinsic_JJ link_NN1 between_II food_NN1 ,_, wine_NN1 and_CC joie_NN131 de_NN132 vivre_NN133 ._. 
+In_II recent_JJ years_NNT2 there_EX has_VHZ been_VBN a_AT1 resurgence_NN1 of_IO interest_NN1 in_II both_RR the_AT classic_JJ French_JJ brasserie_NN1 and_CC the_AT bistro_NN1 ._. 
+This_DD1 to_II me_PPIO1 is_VBZ unsurprising_JJ and_CC a_AT1 wonderful_JJ sign_NN1 that_CST people_NN can_VM appreciate_VVI the_AT outstanding_JJ flavour_NN1 that_DD1 can_VM be_VBI attained_VVN through_II a_AT1 series_NN of_IO processes_NN2 which_DDQ ,_, once_RR learned_VVN ,_, are_VBR relatively_RR simple_JJ to_TO apply_VVI ._. 
+SHOPPING_NN1 LIST_NN1 
+STARTER_NN1 
+1_MC1 tsp_NNU honey_NN1 
+1_MC1 tsp_NNU Dijon_NP1 mustard_NN1 
+25_MC ml_NNU balsamic_NN1 vinegar_NN1 
+75_MC ml_NNU olive_NN1 oil_NN1 
+sea_NN1 salt_NN1 and_CC freshly_RR ground_VVN white_JJ pepper_NN1 
+2_MC heads_NN2 of_IO red_JJ endive_NN1 
+1_MC1 radicchio_NN1 
+1_MC1 radicchio_NN131 di_NP132 Treviso_NP133 (_( or_CC any_DD seasonal_JJ leaf_NN1 )_) 
+2_MC x_FO 125_MC g_NNU balls_NN2 of_IO unpasteurised_JJ buffalo_NN1 mozzarella_NN1 ,_, each_DD1 cut_VVN into_II 6_MC slices_NN2 
+2_MC tbsp_NNU extra_JJ virgin_JJ olive_NN1 oil_NN1 
+8_MC very_RG thin_JJ slices_NN2 of_IO speck_NN1 or_CC Parma_NP1 ham_NN1 
+2_MC blood_NN1 oranges_NN2 ,_, peeled_VVN and_CC divided_VVN into_II segments_NN2 (_( or_CC regular_JJ oranges_NN2 )_) 
+2_MC tbsp_NNU pomegranate_NN1 seeds_NN2 
+12_MC sprigs_NN2 of_IO chervil_NN1 
+MAIN_JJ COURSE_NN1 
+90_MC g_NNU softened_VVN unsalted_JJ butter_NN1 
+80_MC g_NNU curly_JJ parsley_NN1 ,_, chopped_VVN 
+100_MC g_NNU fresh_JJ white_JJ breadcrumbs_NN2 
+2_MC guinea_NN1 fowl_NN crowns_NN2 or_CC 2_MC small_JJ free-range_JJ chickens_NN2 
+2_MC tsp_NNU vegetable_NN1 oil_NN1 
+½_MF garlic_NN1 clove_NN1 
+50_MC ml_NNU white_JJ wine_NN1 
+1_MC1 sprig_NN1 of_IO thyme_NN1 
+300_MC ml_NNU brown_JJ chicken_NN1 stock_NN1 
+sea_NN1 salt_NN1 and_CC freshly_RR ground_VVN white_JJ pepper_NN1 
+½_MF lemon_NN1 
+3_MC tbsp_NNU olive_NN1 oil_NN1 
+quantity_NN1 of_IO herb_NN1 gnocchi_NN2 
+40_MC small_JJ fresh_JJ morel_NN1 mushrooms_NN2 or_CC any_DD seasonal_JJ mushroom_NN1 
+160_MC g_NNU shelled_JJ broad_JJ beans_NN2 ,_, blanched_VVN and_CC thin_JJ outer_JJ skin_NN1 removed_VVN 
+DESSERT_NN1 
+120_MC g_NNU puff_NN1 pastry_NN1 
+110_MC g_NNU softened_JJ salted_JJ butter_NN1 
+130_MC g_NNU caster_NN1 sugar_NN1 
+7_MC Braeburn_NN1 apples_NN2 ,_, peeled_VVN ,_, halved_VVN and_CC cored_VVN 
+120_MC ml_NNU crème_FW21 fraîche_FW22 
+40_MC g_NNU icing_NN1 sugar_NN1 
+1½_MC1 tbsp_NNU Calvados_NP1 
+ENDIVE_NN1 SALAD_NN1 WITH_IW MOZZARELLA_NN1 ,_, BLOOD_NN1 ORANGES_NN2 AND_CC SPECK_NN1 
+This_DD1 makes_VVZ a_AT1 great_JJ starter_NN1 or_CC snack_NN1 and_CC takes_VVZ mere_JJ minutes_NNT2 to_TO put_VVI together_RL ._. 
+Serves_VVZ 4_MC 
+1_MC1 To_TO make_VVI the_AT dressing_NN1 ,_, mix_VV0 the_AT honey_NN1 ,_, mustard_NN1 and_CC balsamic_NN1 vinegar_NN1 together_RL ,_, then_RT gradually_RR whisk_VV0 in_II the_AT 75_MC ml_NNU of_IO olive_NN1 oil_NN1 ._. Season_VV0 with_IW a_AT1 pinch_NN1 of_IO salt_NN1 and_CC pepper_NN1 ._. 
+2_MC Cut_VV0 the_AT bottom_NN1 off_II the_AT endive_NN1 and_CC radicchio_NN1 and_CC separate_VV0 the_AT leaves_NN2 ._. Lightly_RR toss_VV0 them_PPHO2 with_IW a_RR21 little_RR21 of_IO the_AT dressing_NN1 ._. 
+3_MC Drizzle_VV0 the_AT mozzarella_NN1 with_IW the_AT 2_MC tbsp_NNU of_IO extra_JJ virgin_JJ olive_NN1 oil_NN1 and_CC season_NNT1 with_IW salt_NN1 and_CC pepper_NN1 ._. 
+4_MC Make_VV0 a_AT1 small_JJ bed_NN1 of_IO leaves_NN2 on_II each_DD1 serving_NN1 plate_NN1 ,_, lay_VV0 a_AT1 slice_NN1 of_IO speck_NN1 on_II top_NN1 ,_, then_RT three_MC slices_NN2 of_IO mozzarella_NN1 and_CC add_VV0 a_AT1 few_DA2 orange_NN1 segments_NN2 ._. 
+5_MC Curl_VV0 the_AT remaining_JJ slice_NN1 of_IO speck_NN1 on_II top_NN1 and_CC scatter_VV0 the_AT pomegranate_NN1 seeds_NN2 over_II the_AT salad_NN1 ._. 
+6_MC Garnish_VV0 with_IW the_AT chervil_NN1 sprigs_NN2 and_CC finish_VV0 by_II drizzling_VVG a_AT1 tablespoon_NNU of_IO dressing_NN1 on_RP to_II the_AT plate_NN1 ._. 
+SUPREME_NN1 OF_IO GUINEA_NP1 FOWL_NN WITH_IW BROAD_JJ BEANS_NN2 ,_, MUSHROOMS_NN2 AND_CC HERB_NN1 GNOCCHI_NN2 
+I_PPIS1 urge_VV0 you_PPY to_TO try_VVI making_VVG your_APPGE own_DA gnocchi_NN2 ._. It_PPH1 really_RR does_VDZ taste_VVI much_RR better_RRR than_CSN shop-bought_JJ ._. 
+Serves_VVZ 4_MC 
+1_MC1 To_TO make_VVI the_AT herb_NN1 paste_NN1 ,_, put_VV0 the_AT butter_NN1 ,_, parsley_NN1 and_CC breadcrumbs_NN2 in_II a_AT1 food_NN1 processor_NN1 and_CC blitz_VV0 until_CS they_PPHS2 combine_VV0 ._. Transfer_VV0 to_II a_AT1 piping_NN1 bag_NN1 ._. 
+2_MC Prepare_VV0 the_AT guinea_NN1 fowl_NN by_II removing_VVG the_AT wishbone_NN1 and_CC wings_NN2 (_( these_DD2 are_VBR used_VVN in_II the_AT sauce_NN1 later_RRR )_) ,_, then_RT push_VV0 your_APPGE fingers_NN2 between_II the_AT skin_NN1 and_CC breast_NN1 to_TO loosen_VVI ._. Pipe_VV0 the_AT herb_NN1 paste_NN1 into_II this_DD1 cavity_NN1 and_CC spread_VV0 it_PPH1 out_RP evenly_RR ._. 
+3_MC Heat_VV0 the_AT vegetable_NN1 oil_NN1 in_II a_AT1 large_JJ ,_, ovenproof_JJ frying_NN1 pan_NN1 until_CS smoking_VVG hot_JJ ._. Seal_VV0 the_AT guinea_NN1 fowl_NN on_II both_DB2 breasts_NN2 until_CS golden_JJ brown_JJ ._. Transfer_VV0 the_AT pan_NN1 to_II an_AT1 oven_NN1 preheated_VVN to_II 200_MC C_NNU /_/ Gas_NN1 Mark_NN1 6_MC and_CC cook_VV0 for_IF 25_MC minutes_NNT2 ,_, basting_VVG regularly_RR ._. 
+4_MC Remove_VV0 from_II the_AT oven_NN1 and_CC rest_VV0 for_IF 15_MC minutes_NNT2 ,_, then_RT remove_VV0 the_AT breasts_NN2 from_II the_AT crowns_NN2 and_CC keep_VV0 warm_JJ ._. 
+5_MC To_TO make_VVI the_AT sauce_NN1 ,_, chop_VV0 the_AT wing_NN1 bones_NN2 into_II very_RG small_JJ pieces_NN2 ._. Heat_VV0 a_AT1 heavy-based_JJ saucepan_NN1 (_( big_JJ enough_RR to_TO hold_VVI the_AT bones_NN2 in_II a_AT1 single_JJ layer_NN1 )_) until_CS it_PPH1 's_VBZ very_RG hot_JJ ._. Add_VV0 the_AT chopped_JJ bones_NN2 to_II the_AT pan_NN1 with_IW the_AT garlic_NN1 and_CC reduce_VV0 the_AT heat_NN1 slightly_RR ._. Cook_VV0 for_IF 30_MC minutes_NNT2 ,_, stirring_VVG occasionally_RR ,_, ensuring_VVG the_AT pan_NN1 is_VBZ hot_JJ enough_RR to_TO roast_VVI but_CCB not_XX burn_VVI the_AT bones_NN2 ._. They_PPHS2 should_VM turn_VVI a_AT1 deep_JJ golden_JJ yellow_JJ colour_NN1 ._. 
+6_MC Add_VV0 the_AT white_JJ wine_NN1 and_CC thyme_NN1 and_CC cook_VV0 until_CS the_AT mixture_NN1 is_VBZ reduced_VVN by_II three-quarters_MF ._. Add_VV0 the_AT chicken_NN1 stock_NN1 and_CC cook_VV0 for_IF 10-15_MCMC minutes_NNT2 or_CC until_CS it_PPH1 's_VHZ reduced_VVN to_II a_AT1 light_JJ coating_JJ consistency_NN1 ._. Season_VV0 with_IW salt_NN1 ,_, if_CS necessary_JJ ,_, and_CC finish_VV0 with_IW a_AT1 few_DA2 drops_NN2 of_IO lemon_NN1 juice_NN1 ._. Pass_VV0 the_AT sauce_NN1 through_II a_AT1 fine_JJ sieve_NN1 ._. 
+7_MC Just_RR before_II serving_VVG ,_, heat_VV0 1_MC1 tablespoon_NNU of_IO olive_NN1 oil_NN1 in_II a_AT1 frying_NN1 pan_NN1 and_CC sauté_VV0 the_AT gnocchi_NN2 for_IF 2-3_MCMC minutes_NNT2 or_CC until_CS golden_JJ all_RR over_RP ._. Season_VV0 with_IW salt_NN1 and_CC pepper_NN1 and_CC keep_VV0 warm_JJ ._. 
+8_MC Heat_VV0 another_DD1 tablespoon_NNU of_IO olive_NN1 oil_NN1 in_II a_AT1 small_JJ saucepan_NN1 and_CC sauté_VV0 the_AT morels_NN2 gently_RR for_IF 2-3_MCMC minutes_NNT2 or_CC until_CS tender_JJ ._. Season_VV0 with_IW a_AT1 little_JJ salt_NN1 ._. 
+9_MC At_II the_AT same_DA time_NNT1 ,_, reheat_VV0 the_AT broad_JJ beans_NN2 in_II a_AT1 pan_NN1 of_IO boiling_JJ salted_JJ water_NN1 ._. Drain_VV0 ,_, then_RT sauté_VV0 the_AT beans_NN2 in_II the_AT remaining_JJ olive_NN1 oil_NN1 for_IF 30_MC seconds_NNT2 and_CC season_NNT1 with_IW salt_NN1 ._. 
+10_MC To_TO serve_VVI ,_, slice_VV0 each_DD1 guinea_NN1 fowl_NN breast_NN1 into_II three_MC and_CC place_VV0 in_II the_AT centre_NN1 of_IO each_DD1 serving_NN1 plate_NN1 ._. Surround_VV0 with_IW the_AT gnocchi_NN2 ,_, morels_NN2 and_CC broad_JJ beans_NN2 ._. Spoon_VV0 over_RP a_AT1 little_JJ sauce_NN1 and_CC serve_VV0 immediately_RR ._. 
+TARTE_NP1 TATIN_NP1 WITH_IW CRÈME_FW121 NORMANDE_FW22 
+A_AT1 true_JJ French_JJ classic_NN1 ._. Its_APPGE origin_NN1 is_VBZ n't_XX 100_MC per_NNU21 cent_NNU22 clear_JJ ,_, but_CCB I_PPIS1 like_VV0 the_AT idea_NN1 of_IO the_AT apple_NN1 pie_NN1 that_DD1 went_VVD wrong_RR ,_, made_VVN by_II the_AT Tatin_NP1 sisters_NN2 at_II Hotel_NP1 Tatin_NP1 ,_, just_RR south_ND1 of_IO Paris_NP1 ._. 
+Serves_VVZ 4_MC 
+1_MC1 Roll_VV0 out_RP the_AT puff_NN1 pastry_NN1 on_II a_AT1 lightly_RR floured_JJ surface_NN1 to_II a_AT1 21_MC cm_NNU round_NN1 ._. Prick_VV0 all_RR over_RP with_IW a_AT1 fork_NN1 and_CC rest_VV0 in_II the_AT fridge_NN1 for_IF 40_MC minutes_NNT2 ._. 
+2_MC Spread_VV0 the_AT butter_NN1 over_II the_AT bottom_NN1 of_IO a_AT1 20_MC cm_NNU tarte_NN1 Tatin_NP1 mould_NN1 or_CC an_AT1 ovenproof_JJ ,_, non-stick_JJ frying_NN1 pan_NN1 ._. 
+3_MC Sprinkle_VV0 the_AT caster_NN1 sugar_NN1 over_II the_AT mould_NN1 in_II an_AT1 even_JJ layer_NN1 ,_, then_RT arrange_VV0 the_AT apple_NN1 halves_NN2 over_II the_AT sugar_NN1 ,_, standing_VVG them_PPHO2 on_II their_APPGE sides_NN2 ,_, with_IW two_MC halves_NN2 in_II the_AT middle_NN1 ._. 
+4_MC Lay_VV0 the_AT pastry_NN1 round_NN1 over_II the_AT apples_NN2 ,_, tucking_VVG the_AT edges_NN2 down_II the_AT side_NN1 ._. 
+5_MC Place_VV0 the_AT mould_NN1 or_CC pan_NN1 over_II a_AT1 medium_JJ heat_NN1 on_II the_AT hob_NN1 for_IF about_RG ten_MC minutes_NNT2 or_CC until_CS the_AT sugar_NN1 starts_VVZ to_TO caramelise_VVI ._. 
+6_MC Transfer_VV0 to_II an_AT1 oven_NN1 preheated_VVN to_II 160_MC C_NNU /_/ Gas_NN1 Mark_NN1 3_MC and_CC bake_VV0 for_IF 90_MC minutes_NNT2 ._. 
+7_MC For_IF the_AT crème_FW21 Normande_FW22 ,_, mix_VV0 the_AT crème_FW21 fraîche_FW22 ,_, icing_NN1 sugar_NN1 and_CC Calvados_NP1 in_II a_AT1 bowl_NN1 ,_, then_RT cover_VV0 with_IW cling_NN1 film_NN1 and_CC refrigerate_VV0 for_IF one_MC1 hour_NNT1 ._. 
+8_MC Remove_VV0 the_AT tart_NN1 from_II the_AT oven_NN1 and_CC leave_VV0 to_TO cool_VVI for_IF at_RR21 least_RR22 30_MC minutes_NNT2 ._. Invert_VV0 it_PPH1 on_RP to_II a_AT1 chopping_NN1 board_NN1 and_CC cut_VV0 into_II four_MC portions_NN2 ._. 
+9_MC Serve_VV0 with_IW a_AT1 generous_JJ spoonful_NN1 of_IO crème_FW21 Normande_FW22 ._. 
+Edinburgh-born_JJ Craig_NP1 Sandle_NP1 is_VBZ executive_JJ chef_NN1 at_II Galvin_NP141 Brasserie_NP142 de_NP143 Luxe_NP144 (_( galvinbrasseriedeluxe.com_NP )_) and_CC the_AT Pompadour_NP1 by_II Galvin_NP1 (_( thepompadourbygalvin.com_NP )_) ._. 

@@ -1,0 +1,223 @@
+<?xml version='1.0'?>
+<!DOCTYPE annotated PUBLIC "annotated.dtd" "annotated.dtd">
+<annotated version="1.0">
+  <meta>
+    <transcriber>ug</transcriber>
+    <date>2013-04-22</date>
+    <place>Aberdeen</place>
+    <author><gender>m</gender><age>42</age><region>Edinburgh</region></author>
+    <author><gender>f</gender><age>26</age><region>Shetland</region></author>
+  </meta>
+  <text>
+    <heading>I. Meta data</heading>
+    <p>The frame appearing on top of each file contains background 
+    information about the raw data.</p>
+    <p>Transcriber: the person annotating this raw data file - please 
+    use a two-letter code</p>
+    <p>Date: date of publication in the format year-month-day (if one 
+    or more are unknown put a ? instead (e.g. 2007-06-?)</p>
+    <p>Place: place of publication. For online publications please 
+    insert the URL.</p>
+    <p>Author: give gender as &apos;m&apos; or &apos;f&apos;, age and 
+    regional background (where they were born and raused) of author. If 
+    not known please put a ?</p>
+    <p>If the text has a further author you can create another author 
+    line by clicking right behind the last arrow of the element 
+    &quot;regional background&quot;. &quot;Author&quot; pops up again. 
+    In order to create another element &quot;gender&quot;, 
+    &quot;age&quot; etc. press Ctrl+space and select them 
+    accordingly.</p>
+    <heading>II. Annotation of text properties</heading>
+    <heading>1. Headings and paragraphs</heading>
+    <p>Before you type in the heading click with the left-mouse button 
+    under the last paragraph before your heading until you see a 
+    horizontal line. Press Ctrl+space and select heading. Type in the 
+    heading and it will appear in bold.</p>
+    <p>A paragraph is annotated automatically for every line break. 
+    Please make sure that there are no empty lines between paragraphs 
+    as they will be falsely annotated as empty paragraphs (you can see 
+    this is the &quot;Outline&quot; window on the right).</p>
+    <heading>2. Unclear transcription</heading>
+    <p>If you cannot read a word in a handwritten text, please do not 
+    guess what it might be but mark it as an uncertain transcription by 
+    clicking with the right-mouse button at the appropriate place in 
+    the transcription and selecting &quot;unclear&quot;. Three ??? will 
+    appear.</p>
+    <p>Markup: the <unclear words="1"/> car</p>
+    <heading>3. Linebreak marker</heading>
+    <p>If a line-break appears in an unusual place (e.g.in the middle 
+    of a word) mark it by clicking behind the word, pressing Ctrl+space 
+    and selecting &quot;break&quot;.</p>
+    <p>Example: In spit<break />eful ways</p>
+    <heading>4. Punctuation marks</heading>
+    <p>Please mark unusual division of words by hyphen (in hand-written 
+    texts only): Type in the hyphen, select it, press Ctrl+space and 
+    select &quot;punctuation&quot;.</p>
+    <p>Example: An unu<punctuation>-</punctuation>sual division</p>
+    <p>Please mark all dots that do not function as full stops, e.g. 
+    dots in numbers and dates or after abbreviations. Select the dot, 
+    press Ctrl+space and select &quot;punctuation&quot;.</p>
+    <p>Example: Dr<punctuation>.</punctuation> No</p>
+    <heading>5. Text format: Boldface, italic, underline, superscript, 
+    subscript, small capitals, change of typeface</heading>
+    <p>Mark boldface etc. by selecting the numbers/word, pressing 
+    Ctrl+space and selecting the appropriate element.</p>
+    <p>Annotated boldface: This <boldface>is</boldface> true.</p>
+    <p>Annotated italics: This is <italics>true</italics>.</p>
+    <p>Annotated underline: <underline>This</underline> is true.</p>
+    <p>Annotated superscript: 22<superscript>nd</superscript></p>
+    <p>Annotated subscript: H<subscript>2</subscript>O (unfortunately 
+    shown with overline instead as subscript)</p>
+    <p>Annotated small capitals: These are <small-capitals>small 
+    capitals</small-capitals>.</p>
+    <p>Annotated change of typeface: Change of 
+    <typeface-change>typeface</typeface-change>.</p>
+    <heading>6. Quotations</heading>
+    <p>Very brief quotations which the author of the text has 
+    incorporated into the structure of his own sentence should be 
+    marked as quotes, as in the following example. Select the 
+    quotation, press Ctrl+space and select &quot;quote&quot;.</p>
+    <p>Example: The starting point for such a method was to be 
+    &quot;simple sensuous perception&quot;, from which the mind would 
+    be led step-by-step, &quot;as if by machinery&quot;, to inductive 
+    proof.</p>
+    <p>Markup: The starting point for such a method was to be 
+    <quote>&quot;simple sensuous perception&quot;</quote>, from which 
+    the mind would be led step-by-step, <quote>&quot;as if by 
+    machinery&quot;</quote>, to inductive proof.</p>
+    <heading>7. Colloquialism</heading>
+    <p>Mark colloquialism in the text by selecting the word, pressing 
+    Ctrl+space and selecting &quot;coll&quot;. In the Properties window 
+    (usually hiding behind the Console window in the bottom right-hand 
+    corner. You can also make it visible by clicking on 
+    Window-Show-View-Other-Properties) type in the standard notation 
+    (property &quot;for&quot;):</p>
+    <p>Example: This is 4u!</p>
+    <p>Markup: This is <coll for="for you">4u</coll>!</p>
+    <heading>8. Deleted words</heading>
+    <p>Mark words that were deleted by the author (usually in 
+    hand-written texts). Select the word by double-clicking on it, 
+    press Ctrl+space and select &quot;deleted&quot;. The word will 
+    appear as shown below:</p>
+    <p>Example: the fantastic wonderful show</p>
+    <p>Markup: the <deleted>fantastic</deleted> wonderful show</p>
+    <heading>9. Discontinuous words</heading>
+    <p>Discontinuous words typically occur in cases of tmesis, when one 
+    word is inserted within another. Very rare in written texts! Select 
+    the word by double-clicking on it, press Ctrl+space and select 
+    &quot;discontinous&quot;. The word will appear as shown below:</p>
+    <p>Example: the fan-bloody-tastic show</p>
+    <p>Markup: the <discontinuous corrected="bloody fantastic">
+    fan-bloody tastic</discontinuous> show</p>
+    <heading>10. Signature, footnote</heading>
+    <p>Instead of typing in the signature, press Ctrl+space and select 
+    &quot;signature&quot;. Mark footnotes by pressing Ctrl+space and 
+    selecting &quot;footnote&quot;.</p>
+    <p>Example: John Smith</p>
+    <p>Markup: <signature>John Smith</signature></p>
+    <p>Markup footnote: <footnote>This is a footnote</footnote>.</p>
+    <heading>11. Untranscribable elements</heading>
+    <p>Mark up formulas, graphs etc in the raw data by clicking at the 
+    appropriate position, pressing Ctrl+space and selecting 
+    &quot;object&quot;. In the Properties window (usually hiding behind 
+    the Console window in the bottom right-hand corner. You can also 
+    make it visible by clicking on Window-Show-View-Other-Properties) 
+    please select whether it is a table, formula, picture etc.</p>
+    <p>Example: text text picture text</p>
+    <p>Markup: text text <object type="graphic"/> text</p>
+    <heading>12. Corrections of the text: Misspellings, superfluous 
+    words</heading>
+    <p>In general, please make as few corrections as possible. Do not 
+    correct grammatical errors, or what may be perceived as grammatical 
+    or stylistic deviations. This is what we are interested in!</p>
+    <p>12 a) Misspellings: Select the word by double-clicking on it. 
+    Press Ctrl+space and select error. In the Properties window 
+    (usually hiding behind the Console window in the bottom right-hand 
+    corner. You can also make it visible by clicking on 
+    Window-Show-View-Other-Properties) type in the correct spelling 
+    under &quot;value&quot;. The word marked as an error will appear as 
+    shown below:</p>
+    <p>Example: But that&apos;s rank hypocrasy!</p>
+    <p>Markup: But that&apos;s rank <error corrected="hypocrisy">
+    hypocrasy</error>!</p>
+    <p>If a word is spelled incorrectly, but the intended correct word 
+    is not conceivable from the spelling, in the Properties window type 
+    in &quot;?&quot;.</p>
+    <p>Example: They crashed into <error corrected="?">
+    parces</error>.</p>
+    <p>Corrected version: ?</p>
+    <p>If alternative accepted spellings exist for a word, in the 
+    Properties window type in both accepted spellings in alphabetical 
+    order separated by a comma:</p>
+    <p>Example: The house <error corrected="burned,burnt">
+    burnd</error>.</p>
+    <p>Corrected version: burned,burnt</p>
+    <p>12 b) Clearly superfluous words can be deleted in the following 
+    way: Select the word by double-clicking on it. Press Ctrl+space and 
+    select error. In the Properties window (usually hiding behind the 
+    Console window in the bottom right-hand corner. You can also make 
+    it visible by clicking on Window-Show-View-Other-Properties) select 
+    &quot;yes&quot; next to &quot;superfluous&quot;. The word marked as 
+    superfluous will appear as shown below:</p>
+    <p>Example: I didn&apos;t know know that!</p>
+    <p>Markup: I didn&apos;t know <error superfluous="true">
+    know</error> that!</p>
+    <heading>13. Mentions</heading>
+    <p>Mark words which are cited as words. Select the word by 
+    double-clicking on it, press Ctrl+space and select 
+    &quot;mention&quot;. The word will appear as shown below.</p>
+    <p>Example: Dog is a noun.</p>
+    <p>Markup: <mention>Dog</mention> is a noun.</p>
+    <heading>III. Other annotations</heading>
+    <heading>1. Editorial comments</heading>
+    <p>This is used to mark essential comments made by the person 
+    applying the markup. Use it sparingly, and only when no other 
+    markup symbol is applicable.An editorial comment can be used, for 
+    example, to explain an unusual abbreviation. You can also use it as 
+    a note to yourself - please put in your ID-code then.</p>
+    <p>Example: He went out and bought a vid.</p>
+    <p>Markup: He went out and bought a vid 
+    <editor-comment>vid=video</editor-comment>.</p>
+    <heading>2. Other language</heading>
+    <p>Any longer part of a text or recording that does not consist of 
+    English should be marked as &quot;other language&quot;. You can 
+    specify with the attribute &apos;language&apos; in the properties 
+    window which language the passage is in.</p>
+    <p>Example: My wife has no access to email. Dè an t-ainm a tha 
+    oirbh?</p>
+    <p>Markup:My wife has no access to email. <other-language>Dè an 
+    t-ainm a tha oirbh?</other-language></p>
+    <heading>2. Anonymisation of names, places, email 
+    addresses</heading>
+    <p>Delete proper names in private (i.e. unpublished documents and 
+    recordings) in order to preserve anonymity. Press Ctrl+space and 
+    select &quot;x-anonym-x&quot;. In the Properties window (usually 
+    hiding behind the Console window in the bottom right-hand corner. 
+    If not to be found, you can make it visible by clicking on 
+    Window-Show-View-Other-Properties.) choose whether you are 
+    anonymizing a first name, last name, location, email address 
+    etc.</p>
+    <p>Example: Dr Brown of London University</p>
+    <p>Markup: Dr <x-anonym-x type="family-name"/> of 
+    <x-anonym-x type="location"/> University</p>
+    <heading>IV. Steps in carrying out an annotation</heading>
+    <p>The green line at the bottom of the annotation file specifies 
+    the steps that need to be carried out. Remove this TODO marker by 
+    clicking between the brackets and pressing del. After transcription 
+    and annotation please check the spelling by copying the text into 
+    Word. Then, run the Build script and check whether everything 
+    appears ok in the index.html created in the ship folder. Lastly, 
+    check in your new transcription by committing your work. Well 
+    done!</p>
+    <heading>V. Extra-corpus material</heading>
+    <p>Passages that are not annotated at all (because one file is 
+    longer than 2,000 words for example) are marked as 
+    &quot;unannotated&quot; by pressing Ctrl+space and selecting 
+    &quot;unannotated&quot;.</p>
+    <p>Example: This sentence is the last one to be annotated.</p>
+    <unannotated>All the rest of the text is extra-corpus, in ICE 
+    parlance.</unannotated>
+  </text>
+  <TODO-1 />
+  <TODO-2 />
+</annotated>

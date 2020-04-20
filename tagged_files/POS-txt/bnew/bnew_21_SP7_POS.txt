@@ -1,0 +1,14 @@
+Jenny_NP1 Marra_NP1 raised_VVD the_AT issue_NN1 at_II the_AT Scottish_JJ parliament_NN1 yesterday_RT over_II a_AT1 report_NN1 put_VVN out_RP this_DD1 week_NNT1 by_II Healthcare_NP1 Improvement_NP1 Scotland_NP1 
+it_PPH1 highlighted_VVD concerns_NN2 about_II elderly_JJ patients_NN2 waiting_VVG for_IF long_JJ periods_NN2 in_II the_AT corridor_NN1 on_II trolleys_NN2 
+and_CC in_II wheelchairs_NN2 
+at_II the_AT acute_JJ medical_JJ assessment_NN1 unit_NN1 at_II Ninewells_NP2 Hospital_NP1 
+though_CS this_DD1 week_NNT1 the_AT organisation_NN1 acknowledged_VVD progress_NN1 had_VHD been_VBN made_VVN 
+in_II addressing_VVG problems_NN2 they_PPHS2 'd_VHD identified_VVN 
+but_CCB the_AT MSP_NP1 told_VVD Alex_NP1 Salmond_NP1 that_CST failure_NN1 to_TO publish_VVI the_AT original_JJ draft_NN1 of_IO their_APPGE report_NN1 
+raised_VVD suspicions_NN2 of_IO a_AT1 cover-up_NN1 
+but_CCB NHS_NP1 Tayside_NP1 bosses_NN2 strongly_RR disagree_VV0 with_IW the_AT reference_NN1 to_II old_JJ people_NN in_II corridors_NN2 
+MSPs_NP2 were_VBDR being_VBG shown_VVN round_II the_AT newly_RR refurbished_JJ acute_JJ medical_JJ assessment_NN1 unit_NN1 today_RT 
+NHS_NP1 Tayside_NP1 say_VV0 they_PPHS2 've_VH0 been_VBN working_VVG towards_II big_JJ improvements_NN2 before_II last_MD September_NPM1 's_GE inspection_NN1 
+Jenny_NP1 Marra_NP1 wants_VVZ to_TO ask_VVI more_DAR questions_NN2 but_CCB politicians_NN2 were_VBDR unanimous_JJ today_RT that_CST the_AT new_JJ acute_JJ unit_NN1 being_VBG brought_VVN into_II operation_NN1 is_VBZ impressive_JJ 
+Craig_NP1 Millar_NP1 
+STV_NP1 news_NP1 Dundee_NP1 

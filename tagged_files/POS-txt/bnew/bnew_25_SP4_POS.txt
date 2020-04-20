@@ -1,0 +1,26 @@
+when_CS Christine_NP1 Eadie_NP1 and_CC Helen_NP1 Scott_NP1 were_VBDR murdered_VVN 
+DNA_NN1 profiling_NN1 did_VDD n't_XX exist_VVI 
+thirty_MC21 seven_MC22 years_NNT2 on_RP DNA_NN1 evidence_NN1 has_VHZ taken_VVN up_RP more_DAR than_CSN half_DB of_IO the_AT World_NP1 's_GE End_NP1 trial_NN1 
+Angus_NP1 Sinclair_NP1 's_GE QC_NP1 Ian_NP1 Duguid_NP1 
+continued_VVD his_APPGE cross-examination_NN1 of_IO forensic_JJ scientist_NN1 Andrew_NP1 Davidson_NP1 
+who_PNQS 'd_VHD examined_VVN the_AT clothes_NN2 used_VVN to_TO tie_VVI up_RP the_AT two_MC girls_NN2 in_II nineteen_MC31 seventy_MC32 seven_MC33 
+he_PPHS1 said_VVD the_AT clothes_NN2 had_VHD been_VBN in_II a_AT1 very_RG good_JJ condition_NN1 
+very_RG similar_JJ to_II that_DD1 of_IO modern-day_JJ cases_NN2 
+the_AT jury_NN1 has_VHZ been_VBN told_VVN that_CST Angus_NP1 Sinclair_NP1 's_GE DNA_NN1 was_VBDZ found_VVN in_II a_AT1 belt_NN1 which_DDQ had_VHD been_VBN tied_VVN around_II Helen_NP1 Scott_NP1 's_GE neck_NN1 
+questioned_VVN by_II the_AT defence_NN1 Mister_NNB Davidson_NP1 agreed_VVD 
+that_CST that_DD1 DNA_NN1 could_VM have_VHI been_VBN transferred_VVN there_RL 
+by_II someone_PN1 else_RR 
+the_AT scientist_NN1 said_VVD that_DD1 was_VBDZ a_AT1 possibility_NN1 
+in_II any_DD number_NN1 of_IO stains_NN2 involved_JJ in_II this_DD1 case_NN1 
+Angus_NP1 Sinclair_NP1 has_VHZ claimed_VVN that_CST both_RR he_PPHS1 and_CC his_APPGE dead_JJ brother-in-law_NN1 Gordon_NP1 Hamilton_NP1 had_VHD consensual_JJ sex_NN1 with_IW the_AT two_MC girls_NN2 
+and_CC that_CST he_PPHS1 was_VBDZ elsewhere_RL when_CS Hamilton_NP1 murdered_VVD them_PPHO2 
+questioned_VVN by_II the_AT prosecution_NN1 Mister_NNB Davidson_NP1 agreed_VVD it_PPH1 was_VBDZ possible_JJ the_AT DNA_NN1 got_VVD on_II the_AT belt_NN1 from_II Sinclair_NP1 himself_PPX1 
+when_CS it_PPH1 was_VBDZ being_VBG tied_VVN around_II Helen_NP1 's_GE neck_NN1 
+the_AT jury_NN1 has_VHZ also_RR heard_VVN that_CST Christine_NP1 's_GE DNA_NN1 was_VBDZ found_VVN in_II a_AT1 belt_NN1 tied_VVN around_II Helen_NP1 's_GE wrists_NN2 
+Mister_NNB Davidson_NP1 agreed_VVD with_IW the_AT prosecution_NN1 
+that_CST it_PPH1 could_VM have_VHI got_VVN there_RL if_CS Christine_NP1 had_VHD been_VBN forced_VVN to_TO tie_VVI up_RP her_APPGE friend_NN1 
+after_CS evidence_NN1 heard_VVN over_RG twenty_MC days_NNT2 the_AT Crown_NP1 closed_VVD this_DD1 case_NN1 
+Mister_NNB Duguid_NP1 said_VVD he_PPHS1 needed_VVD time_NNT1 to_TO take_VVI instructions_NN2 from_II Angus_NP1 Sinclair_NP1 
+and_CC the_AT case_NN1 was_VBDZ adjourned_VVN until_II tomorrow_RT morning_NNT1 
+David_NP1 Cowan_NP1 STV_NP1 news_NP1 
+Livingston_NP1 

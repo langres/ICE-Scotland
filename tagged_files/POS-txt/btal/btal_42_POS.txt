@@ -1,0 +1,87 @@
+the_AT two_MC statistical_JJ accounts_NN2 of_IO Scotland_NP1 
+covering_VVG the_AT seventeen_MC nineties_MC2 and_CC eigtheen_MC thirties_MC2 
+are_VBR among_II the_AT best_JJT contemporary_JJ reports_NN2 of_IO life_NN1 during_II the_AT agricultural_JJ and_CC industrial_JJ revolutions_NN2 in_II Europe_NP1 
+the_AT Statistical_JJ Accounts_NP2 of_IO Scotland_NP1 provide_VV0 a_AT1 rich_JJ record_NN1 of_IO a_AT1 wide_JJ variety_NN1 of_IO topics_NN2 
+wealth_NN1 and_CC poverty_NN1 
+climate_NN1 
+agriculture_NN1 and_CC wildlife_NN1 
+and_CC even_RR the_AT moral_JJ health_NN1 of_IO the_AT people_NN 
+the_AT accounts_NN2 are_VBR of_IO interest_NN1 to_II a_AT1 range_NN1 of_IO audiences_NN2 from_II academics_NN2 from_II a_AT1 range_NN1 of_IO subjects_NN2 
+local_JJ historians_NN2 
+family_NN1 genealogists_NN2 
+through_RP to_II school_NN1 children_NN2 studying_VVG the_AT history_NN1 of_IO their_APPGE local_JJ area_NN1 
+the_AT first_MD accounts_NN2 were_VBDR instigated_VVN by_II Sir_NNB John_NP1 Sinclair_NP1 member_NN1 of_IO Parliament_NP1 for_IF Caithness_NP1 
+he_PPHS1 wanted_VVD a_AT1 collection_NN1 of_IO information_NN about_II the_AT economic_JJ and_CC social_JJ activities_NN2 
+and_CC the_AT natural_JJ resources_NN2 of_IO Scotland_NP1 
+he_PPHS1 sent_VVD surveys_NN2 containing_VVG a_AT1 hundred_MC41 and_MC42 sixty_MC43 six_MC44 questions_NN2 to_II nearly_RR a_AT1 thousand_NNO parish_NN1 ministers_NN2 in_II seventeen_MC21 ninety_MC22 
+some_DD of_IO the_AT ministers_NN2 '_GE responses_NN2 
+were_VBDR long_JJ in_II coming_VVG back_RP 
+but_CCB eventually_RR after_II sending_VVG statistical_JJ missionaries_NN2 to_TO hurry_VVI up_RP late_JJ entries_NN2 
+and_CC a_AT1 final_JJ demand_NN1 written_VVN in_II red_JJ ink_NN1 
+the_AT twenty_MC21 one_MC22 volumes_NN2 of_IO the_AT parish_NN1 reports_NN2 were_VBDR completed_VVN nine_MC years_NNT2 later_RRR 
+Sir_NNB John_NP1 was_VBDZ sure_JJ that_CST his_APPGE collection_NN1 of_IO well-ordered_JJ facts_NN2 would_VM form_VVI an_AT1 account_NN1 of_IO the_AT quantum_NN1 of_IO happiness_NN1 
+of_IO the_AT communities_NN2 of_IO Scotland_NP1 
+and_CC also_RR be_VBI a_AT1 means_NN of_IO future_JJ improvement_NN1 
+in_II eighteen_MC31 thirty_MC32 two_MC33 the_AT clergy_NN2 were_VBDR once_RR21 again_RR22 asked_VVN to_TO describe_VVI their_APPGE parishes_NN2 
+it_PPH1 felt_VVD that_CST the_AT time_NNT1 was_VBDZ right_JJ for_IF a_AT1 new_JJ edition_NN1 because_II21 of_II22 the_AT great_JJ changes_NN2 which_DDQ had_VHD taken_VVN place_NN1 in_II Scotland_NP1 since_CS the_AT seventeen_MC nineties_MC2 
+the_AT new_JJ statistical_JJ account_NN1 was_VBDZ written_VVN mostly_RR in_II the_AT eighteen_MC thirties_MC2 finally_RR being_VBG issued_VVN as_II fifteen_MC volumes_NN2 in_II eighteen_MC31 forty_MC32 five_MC33 
+the_AT Statistical_JJ Accounts_NP2 of_IO Scotland_NP1 service_NN1 
+was_VBDZ launched_VVN by_II Edina_NP1 
+ten_MC years_NNT2 ago_RA 
+in_II two_MC41 thousand_MC42 and_MC43 one_MC44 
+inside_II the_AT services_NN2 users_NN2 can_VM search_VVI for_IF information_NN using_VVG their_APPGE parish_NN1 name_NN1 
+if_CS they_PPHS2 've_VH0 got_VVN a_AT1 particular_JJ subject_NN1 they_PPHS2 're_VBR interested_JJ in_II 
+they_PPHS2 can_VM do_VDI a_AT1 word_NN1 search_NN1 and_CC the_AT information_NN is_VBZ shown_VVN in_II context_NN1 
+once_RR a_AT1 user_NN1 has_VHZ put_VVN the_AT information_NN 
+that_DD1 they_PPHS2 're_VBR looking_VVG for_IF 
+say_VV0 the_AT parish_NN1 name_NN1 
+into_II the_AT search_NN1 box_NN1 
+they_PPHS2 'll_VM have_VHI to_TO choose_VVI whether_CSW31 or_CSW32 not_CSW33 
+they_PPHS2 use_VV0 the_AT first_MD or_CC second_MD account_NN1 
+after_II that_DD1 
+the_AT information_NN they_PPHS2 see_VV0 is_VBZ the_AT digitised_JJ 
+image_NN1 of_IO the_AT erm_UH 
+account_NN1 for_IF that_DD1 parish_NN1 
+it_PPH1 's_VBZ possible_JJ to_TO look_VVI at_II a_AT1 transcript_NN1 of_IO the_AT parish_NN1 
+at_II the_AT same_DA time_NNT1 which_DDQ will_VM then_RT allow_VVI you_PPY to_TO do_VDI cutting_NN1 and_CC pasting_NN1 
+you_PPY can_VM print_VVI 
+the_AT entire_JJ PDF_NP1 of_IO the_AT 
+parish_NN1 
+or_CC you_PPY can_VM print_VVI individual_JJ pages_NN2 
+the_AT information_NN you_PPY can_VM find_VVI in_II the_AT accounts_NN2 is_VBZ surprisingly_RR detailed_JJ 
+so_RR for_REX21 example_REX22 in_II the_AT parish_NN1 of_IO Linlithgow_NP1 
+there_EX 's_VBZ information_NN about_II the_AT number_NN1 of_IO 
+individuals_NN2 who_PNQS were_VBDR 
+employed_JJ in_II the_AT shoemaking_NN1 industry_NN1 about_RG a_AT1 hundred_NNO 
+and_CC previously_RR 
+over_RG twenty_MC21 four_MC22 thousand_NNO pairs_NN2 of_IO shoes_NN2 a_AT1 year_NNT1 
+had_VHD been_VBN im-_FU 
+exported_VVN 
+to_II 
+America_NP1 
+now_RT times_NNT2 were_VBDR harder_JJR and_CC the_AT shoes_NN2 were_VBDR being_VBG sent_VVN to_II the_AT poor_NN of_IO Edinburgh_NP1 
+or_CC in_II fact_NN1 were_VBDR being_VBG sent_VVN 
+to_II soldiers_NN2 
+abroad_RL 
+as_CSA I_PPIS1 mentioned_VVD previously_RR 
+users_NN2 can_VM search_VVI for_IF individual_JJ words_NN2 
+now_RT tea_NN1 drinking_NN1 was_VBDZ 
+considered_VVN to_TO be_VBI a_AT1 pernicious_JJ habit_NN1 
+amongst_II ladies_NN2 in_II the_AT poorer_JJR class_NN1 
+during_II the_AT seventeen_MC nineties_MC2 
+so_CS if_CS you_PPY search_VV0 for_IF tea_NN1 drinking_NN1 
+you_PPY 'll_VM be_VBI able_JK to_TO see_VVI 
+erm_UH examples_NN2 of_IO the_AT ministers_NN2 '_GE disapproval_NN1 of_IO this_DD1 very_RG bad_JJ habit_NN1 
+set_VVN in_II context_NN1 
+amongst_II the_AT additional_JJ resources_NN2 available_JJ within_II statistical_JJ accounts_NN2 service_NN1 
+there_EX are_VBR thirty_MC21 two_MC22 maps_NN2 that_DD1 have_VH0 been_VBN included_VVN in_II the_AT accounts_NN2 now_RT these_DD2 maps_NN2 are_VBR one_MC1 of_IO 
+s-_FU among_II some_DD of_IO the_AT earliest_JJT maps_NN2 produced_VVN for_IF Scotland_NP1 
+so_RR in_II the_AT example_NN1 that_DD1 we_PPIS2 see_VV0 
+there_EX 's_VBZ a_AT1 map_NN1 of_IO a_AT1 coloured_JJ map_NN1 
+of_IO Linlithgow_NP1 
+subscriptions_NN2 to_II the_AT service_NN1 can_VM be_VBI taken_VVN out_RP by_II individuals_NN2 
+or_CC universities_NN2 
+colleges_NN2 or_CC any_DD other_JJ organisations_NN2 in_II the_AT UK_NP1 or_CC abroad_RL 
+the_AT service_NN1 is_VBZ invaluable_JJ to_II those_DD2 interested_JJ in_II this_DD1 period_NN1 of_IO Scottish_JJ history_NN1 
+and_CC the_AT level_NN1 of_IO usage_NN1 
+demonstrates_VVZ its_APPGE popularity_NN1 

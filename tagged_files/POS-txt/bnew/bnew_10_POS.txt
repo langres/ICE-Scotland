@@ -1,0 +1,17 @@
+Ford_NP1 breaks_VVZ ankle_NN1 on_II Star_NP121 Wars_NP122 set_NN1 
+Harrison_NP1 Ford_NP1 is_VBZ being_VBG treated_VVN in_II hospital_NN1 after_II being_VBG injured_VVN on_II the_AT set_NN1 of_IO the_AT latest_JJT Star_NP121 Wars_NP122 film_NN1 
+the_AT BBC_NP1 understands_VVZ that_CST Ford_NP1 seventy_MC21 one_MC122 
+broke_VVD his_APPGE ankle_NN1 
+in_II an_AT1 incident_NN1 involving_VVG 
+the_AT door_NN1 at_II Pinewood_NP1 Studios_NP2 
+the_AT Hollywood_NP1 actor_NN1 
+who_PNQS starred_VVD as_CSA Han_NP1 Solo_NP1 
+in_II 
+the_AT 
+original_JJ three_MC Star_NP121 Wars_NP122 films_NN2 
+and_CC is_VBZ currently_RR filming_VVG the_AT new_JJ Episode_NP1 
+Seven_MC sequel_NN1 
+was_VBDZ airlifted_VVN to_II John_NP1 Radcliffe_NP1 Hospital_NP1 in_II Oxford_NP1 
+a_AT1 spokesman_NN1 for_IF Lucas_NP1 Films_NP2 said_VVD filming_NN1 will_VM continue_VVI 
+while_CS he_PPHS1 
+recuperate_VV0 

@@ -1,0 +1,63 @@
+<annotated>
+  <text>
+    <p><w c7="JJ">good</w><w c7="NNT1">evening</w><w c7="AT1">a</w><w c7="MC">fifteen</w><w c7="JJ">year-old</w><w c7="NN1">boy</w><w c7="VHZ">has</w><w c7="VBN">been</w><w c7="VVN">remanded</w><w c7="II">in</w><w c7="NN1">custody</w><w c7="VVN">charged</w><w c7="IW">with</w><w c7="JJ">attempted</w><w c7="NN1">murder</w></p>
+    <p><w c7="VVG">following</w><w c7="AT1">an</w><w c7="JJ">alleged</w><w c7="NN1">attack</w><w c7="II">in</w><w c7="NP1">Dundee</w></p>
+    <p><w c7="PPHS1">he</w><w c7="VVD">appeared</w><w c7="RR21">in</w><w c7="RR22">private</w><w c7="II">at</w><w c7="NP1">City</w><w c7="NP1">Sheriff</w><w c7="NP1">Court</w><w c7="DD1">this</w><w c7="NNT1">afternoon</w></p>
+    <p><w c7="PPH1">it</w><w c7="VBZ">'s</w><w c7="VVN">alleged</w><w c7="PPHS1">he</w><w c7="VVD">assaulted</w><w c7="AT1">a</w><w c7="MC">thirty</w><w c7="JJ">year-old</w><w c7="NN1">man</w><w c7="II">in</w><w c7="NP1">Wentworth</w><w c7="NNL1">Lane</w></p>
+    <p><w c7="II">by</w><w c7="RR">repeatedly</w><w c7="VVG">stamping</w><w c7="II">on</w><w c7="APPGE">his</w><w c7="NN1">head</w></p>
+    <p><w c7="NN2">police</w><w c7="VBDR">were</w><w c7="VVN">called</w><w c7="II">to</w><w c7="AT">the</w><w c7="NN1">scene</w><w c7="II">in</w><w c7="AT">the</w><w c7="JJ">early</w><w c7="NNT2">hours</w><w c7="IO">of</w><w c7="NPD1">Saturday</w><w c7="NNT1">morning</w><w c7="VVG">following</w><w c7="NN2">reports</w><w c7="IO">of</w><w c7="AT1">a</w><w c7="NN1">disturbance</w></p>
+    <p><w c7="AT">the</w><w c7="NN1">teenager</w><w c7="VVD">made</w><w c7="AT">no</w><w c7="NN1">plea</w><w c7="CC">or</w><w c7="NN1">declaration</w></p>
+    <p><w c7="PPHS1">he</w><w c7="VBZ">'s</w><w c7="VVN">expected</w><w c7="TO">to</w><w c7="VVI">appear</w><w c7="II">in</w><w c7="NN1">court</w><w c7="RT">again</w><w c7="MD">next</w><w c7="NNT1">week</w></p>
+    <p><w c7="NN1">hospital</w><w c7="NN2">patients</w><w c7="II">in</w><w c7="NP1">Tayside</w><w c7="VBR">are</w><w c7="TO">to</w><w c7="VVI">take</w><w c7="NN1">part</w><w c7="II">in</w><w c7="AT">the</w><w c7="NP1">UK</w><w c7="GE">'s</w><w c7="JJT">largest</w><w c7="RR">ever</w><w c7="NN1">study</w></p>
+    <p><w c7="II">into</w><w c7="NN1">health</w><w c7="NN1">care</w><w c7="NN2">experiences</w></p>
+    <p><w c7="NP1">NHS</w><w c7="NP1">Tayside</w><w c7="VBZ">is</w><w c7="AT">the</w><w c7="MD">first</w><w c7="NN1">healthboard</w><w c7="TO">to</w><w c7="VVI">get</w><w c7="JJ">involved</w><w c7="II">in</w><w c7="AT">the</w><w c7="NN1">survey</w></p>
+    <p><w c7="IW">with</w><w c7="NN2">patients</w><w c7="II">on</w><w c7="MC">thirty</w><w c7="NN2">wards</w><w c7="VVG">filling</w><w c7="RP">out</w><w c7="AT1">a</w><w c7="NN1">questionnaire</w><w c7="II">during</w><w c7="APPGE">their</w><w c7="NN1">stay</w></p>
+    <p><w c7="PPH1">it</w><w c7="VHZ">'s</w><w c7="VBN">been</w><w c7="VVN">led</w><w c7="II">by</w><w c7="AT">the</w><w c7="NP1">University</w><w c7="IO">of</w><w c7="NP1">Stirling</w></p>
+    <p><w c7="IW">with</w><w c7="NN1">input</w><w c7="II">from</w><w c7="NN2">experts</w><w c7="II">at</w><w c7="NP1">Dundee</w><w c7="NP1">University</w></p>
+    <p><w c7="RG">around</w><w c7="MC">six</w><w c7="NNO">thousand</w><w c7="NN2">patients</w></p>
+    <p><w c7="CC">and</w><w c7="MC1">one</w><w c7="NNO">thousand</w><w c7="NN2">nurses</w></p>
+    <p><w c7="VM">will</w><w c7="VBI">be</w><w c7="VVN">surveyed</w><w c7="II">over</w><w c7="AT">the</w><w c7="MD">next</w><w c7="MC">two</w><w c7="NNT2">years</w></p>
+    <p><w c7="AT">the</w><w c7="NN1">body</w><w c7="IO">of</w><w c7="AT1">a</w><w c7="NN1">man</w><w c7="VVN">found</w><w c7="II">off</w><w c7="AT">the</w><w c7="NP1">Angus</w><w c7="NN1">coast</w><w c7="VHZ">has</w><w c7="VBN">been</w><w c7="VVN">identified</w><w c7="II">as</w><w c7="AT1">a</w><w c7="JJ">missing</w><w c7="NN1">pensioner</w></p>
+    <p><w c7="AT1">a</w><w c7="JJ">major</w><w c7="NN1">land</w><w c7="CC">and</w><w c7="NN1">sea</w><w c7="NN1">search</w><w c7="VBDZ">was</w><w c7="VVN">launched</w><w c7="IF">for</w><w c7="MC21">eighty</w><w c7="MC22">five</w><w c7="JJ">year-old</w><w c7="NP1">Edwin</w><w c7="NP1">Gillespie</w></p>
+    <p><w c7="CS">after</w><w c7="PPHS1">he</w><w c7="VVD">disappeared</w><w c7="II">from</w><w c7="APPGE">his</w><w c7="NN1">home</w><w c7="II">in</w><w c7="NP1">Arbroath</w></p>
+    <p><w c7="APPGE">his</w><w c7="NN1">body</w><w c7="VBDZ">was</w><w c7="VVN">located</w><w c7="II">near</w><w c7="NP121">Whiting</w><w c7="NP122">Ness</w><w c7="II">on</w><w c7="NPD1">Saturday</w></p>
+    <p><w c7="RR">meanwhile</w><w c7="AT1">a</w><w c7="MC21">seventy</w><w c7="MC22">two</w><w c7="JJ">year-old</w><w c7="NN1">dementia</w><w c7="NN1">sufferer</w><w c7="II">from</w><w c7="NP1">Dundee</w><w c7="VBZ">is</w><w c7="RP">back</w><w c7="IW">with</w><w c7="APPGE">her</w><w c7="NN1">family</w></p>
+    <p><w c7="II">after</w><w c7="VBG">being</w><w c7="VVN">located</w><w c7="II">by</w><w c7="AT1">a</w><w c7="NN1">navy</w><w c7="NN1">helicopter</w><w c7="GE">'s</w><w c7="JJ">thermal</w><w c7="NN1">imaging</w><w c7="NN1">system</w></p>
+    <p><w c7="II">in</w><w c7="AT">the</w><w c7="JJ">early</w><w c7="NNT2">hours</w><w c7="IO">of</w><w c7="NPD1">Saturday</w><w c7="NNT1">morning</w></p>
+    <p><w c7="NN">people</w><w c7="VVG">living</w><w c7="II">in</w><w c7="NP1">Dundee</w><w c7="VH0">have</w><w c7="VVN">seen</w><w c7="AT">the</w><w c7="JJT">biggest</w><w c7="NN1">rise</w><w c7="II">in</w><w c7="JJ">disposable</w><w c7="NN1">income</w><w c7="II">in</w><w c7="AT">the</w><w c7="NP1">UK</w></p>
+    <p><w c7="II21">according</w><w c7="II22">to</w><w c7="AT1">a</w><w c7="JJ">new</w><w c7="NN1">report</w></p>
+    <p><w c7="AT">the</w><w c7="NN1">amount</w><w c7="IO">of</w><w c7="NN1">cash</w><w c7="PPHS2">they</w><w c7="VH0">have</w><w c7="VVN">left</w><w c7="II">after</w><w c7="VVG">covering</w><w c7="NN1">household</w><w c7="NN2">expenses</w><w c7="CC">and</w><w c7="NN2">taxes</w></p>
+    <p><w c7="VHZ">has</w><w c7="VVN">risen</w><w c7="II">by</w></p>
+    <p><w c7="MC">eighteen</w><w c7="NNU">percent</w><w c7="II">since</w><w c7="MC41">two</w><w c7="MC42">thousand</w><w c7="MC43">and</w><w c7="MC44">six</w></p>
+    <p><w c7="NN1">accountancy</w><w c7="NN1">firm</w><w c7="NP1">UHY</w><w c7="NP1">Hacker</w><w c7="NP1">Young</w></p>
+    <p><w c7="VV0">say</w><w c7="CST">that</w><w c7="II">on</w><w c7="NN1">average</w><w c7="NN2">Dundonians</w><w c7="VH0">have</w><w c7="RR">nearly</w><w c7="MC">fifteen</w><w c7="NNO">thousand</w><w c7="NNU2">pounds</w><w c7="AT1">a</w><w c7="NNT1">year</w></p>
+    <p><w c7="TO">to</w><w c7="VVI">spend</w><w c7="CC">or</w><w c7="VVI">save</w><w c7="CSA">as</w><w c7="PPHS2">they</w><w c7="VV0">choose</w></p>
+    <p><w c7="AT">the</w><w c7="NN1">report</w><w c7="VVZ">puts</w><w c7="NP1">Dundee</w><w c7="GE">'s</w><w c7="NN1">growth</w><w c7="RP">down</w><w c7="II">to</w><w c7="JJ">high</w><w c7="NN2">levels</w><w c7="IO">of</w></p>
+    <p><w c7="JJ">public</w><w c7="NN1">sector</w><w c7="NN1">investment</w></p>
+    <p><w c7="RT">now</w><w c7="VVG">unearthing</w><w c7="AT">the</w><w c7="JJ">final</w><w c7="NN1">resting</w><w c7="NN1">place</w><w c7="IO">of</w><w c7="NNB">King</w><w c7="NP1">James</w><w c7="AT">the</w><w c7="MD">First</w><w c7="IO">of</w><w c7="NP1">Scotland</w><w c7="II">in</w><w c7="NP1">Perth</w></p>
+    <p><w c7="VHZ">has</w><w c7="VBN">been</w><w c7="VVN">likened</w><w c7="II">to</w><w c7="VVG">finding</w><w c7="AT1">a</w><w c7="NN1">needle</w><w c7="II">in</w><w c7="AT1">a</w><w c7="NN1">haystack</w></p>
+    <p><w c7="NN1">attention</w><w c7="VHZ">has</w><w c7="VVN">turned</w><w c7="II">to</w><w c7="AT">the</w><w c7="NN1">grave</w><w c7="IO">of</w><w c7="AT">the</w><w c7="NN1">monarch</w><w c7="PNQS">who</w><w c7="VBDZ">was</w><w c7="VVN">murdered</w><w c7="II">in</w><w c7="AT">the</w><w c7="JJ">Fair</w><w c7="NP1">City</w></p>
+    <p><w c7="II">in</w><w c7="MC31">fourteen</w><w c7="MC32">thirty</w><w c7="MC33">seven</w></p>
+    <p><w c7="VVG">following</w><w c7="AT">the</w><w c7="NN1">discovery</w><w c7="IO">of</w><w c7="AT">the</w><w c7="NN2">remains</w><w c7="IO">of</w><w c7="NP1">Richard</w><w c7="AT">the</w><w c7="MD">Third</w><w c7="II">in</w><w c7="NP1">Leicester</w></p>
+    <p><w c7="NNB">King</w><w c7="NP1">James</w><w c7="VBDZ">was</w><w c7="VVN">buried</w><w c7="II">in</w><w c7="AT">the</w><w c7="NN2">grounds</w><w c7="IO">of</w><w c7="AT">the</w><w c7="JJ">Carthusian</w><w c7="NN1">monastery</w><w c7="DDQ">which</w><w c7="PPHS1">he</w><w c7="VVD">founded</w></p>
+    <p><w c7="RRQV">however</w><w c7="AT">the</w><w c7="NN1">site</w><w c7="II">in</w><w c7="AT">the</w><w c7="NN1">hospital</w><w c7="NN1">street</w><w c7="NN1">area</w><w c7="VBZ">is</w><w c7="JJ">extensive</w></p>
+    <p><w c7="CC">and</w><w c7="PPH1">it</w><w c7="VBZ">'s</w><w c7="XX">not</w><w c7="VVN">known</w><w c7="RR">exactly</w><w c7="RRQ">where</w><w c7="APPGE">his</w><w c7="NN1">body</w><w c7="VVZ">lies</w></p>
+    <p><w c7="AT">the</w><w c7="JJ">Scottish</w><w c7="NP2">Fisheries</w><w c7="NP1">Museum</w><w c7="II">in</w><w c7="NP1">Fife</w><w c7="VHZ">has</w><w c7="VVN">landed</w><w c7="AT1">a</w><w c7="NN1">funding</w><w c7="NN1">deal</w></p>
+    <p><w c7="II">despite</w><w c7="NN2">cuts</w><w c7="II">across</w><w c7="AT">the</w><w c7="JJ">cultural</w><w c7="NN1">sector</w></p>
+    <p><w c7="MC21">seventy</w><w c7="MC22">five</w><w c7="NNO">thousand</w><w c7="NNU2">pounds</w><w c7="VHZ">has</w><w c7="VBN">been</w><w c7="VVN">allocated</w><w c7="II">to</w><w c7="AT">the</w><w c7="NP1">Anstruther</w><w c7="NN1">museum</w></p>
+    <p><w c7="TO">to</w><w c7="VVI">keep</w><w c7="PPH1">it</w><w c7="VVG">running</w><w c7="II">into</w><w c7="MC41">two</w><w c7="MC42">thousand</w><w c7="MC43">and</w><w c7="MC44">fourteen</w></p>
+    <p><w c7="AT">the</w><w c7="JJ">Scottish</w><w c7="NN1">government</w><w c7="VVZ">says</w><w c7="APPGE">its</w><w c7="NN1">funding</w><w c7="VBZ">is</w><w c7="VBG">being</w><w c7="VVN">protected</w></p>
+    <p><w c7="CSA">as</w><w c7="PPH1">it</w><w c7="VVZ">houses</w><w c7="AT1">a</w><w c7="RR">nationally</w><w c7="JJ">recognised</w><w c7="NN1">collection</w><w c7="IO">of</w><w c7="JJ">maritime</w><w c7="NN1">history</w></p>
+    <p><w c7="DD1">this</w><w c7="VVZ">includes</w><w c7="AT">the</w><w c7="NN">herring</w><w c7="NN1">drifter</w><w c7="NP1">Reaper</w></p>
+    <p><w c7="DDQ">which</w><w c7="VBDZ">was</w><w c7="VVN">repaired</w><w c7="MD">last</w><w c7="NNT1">year</w></p>
+    <p><w c7="CC">and</w><w c7="RR">finally</w><w c7="AT1">an</w><w c7="NP1">Angus</w><w c7="NN1">dinner</w><w c7="NN1">lady</w><w c7="VHZ">has</w><w c7="VBN">been</w><w c7="VVN">put</w><w c7="II">to</w><w c7="AT">the</w><w c7="NN1">post</w><w c7="II">in</w><w c7="AT1">a</w><w c7="JJ">culinary</w><w c7="NN1">competition</w></p>
+    <p><w c7="NP1">Wendy</w><w c7="NP1">MacIntosh</w><w c7="VBDZ">was</w><w c7="VVG">hoping</w><w c7="TO">to</w><w c7="VVI">scoop</w><w c7="AT">the</w><w c7="ND1">northeast</w><w c7="CC">and</w><w c7="NP1">Scotland</w></p>
+    <p><w c7="NP1">School</w><w c7="NP1">Chef</w><w c7="IO">of</w><w c7="AT">the</w><w c7="NNT1">Year</w><w c7="NN1">title</w></p>
+    <p><w c7="CCB">but</w><w c7="NP1">Wendy</w><w c7="PNQS">who</w><w c7="VBZ">is</w><w c7="NN1">cook-in-charge</w><w c7="II">at</w><w c7="NP1">Burnside</w><w c7="NP1">primary</w><w c7="II">in</w><w c7="NP1">Carnoustie</w></p>
+    <p><w c7="RR">narrowly</w><w c7="VVD">missed</w><w c7="RP">out</w><w c7="II">on</w><w c7="AT">the</w><w c7="JJ">top</w><w c7="NN1">spot</w></p>
+    <p><w c7="PPHS1">she</w><w c7="VBDZ">was</w><w c7="RR">however</w><w c7="RR">highly</w><w c7="VVN">commended</w><w c7="IF">for</w><w c7="APPGE">her</w><w c7="JJ">main</w><w c7="NN1">course</w></p>
+    <p><w c7="IO">of</w><w c7="NN">fish</w><w c7="NN2">fingers</w></p>
+    <p><w c7="CC">and</w><w c7="RG">very</w><w c7="JJ">tasty</w><w c7="PPHS2">they</w><w c7="VBR">are</w><w c7="RR">too</w><w c7="UH">well</w><w c7="DD1">that</w><w c7="VBZ">'s</w><w c7="PPH1">it</w><w c7="II">from</w><w c7="AT">the</w><w c7="NN1">team</w><w c7="RL">here</w><w c7="II">in</w><w c7="NP1">Tayside</w><w c7="CCB">but</w><w c7="VD0">do</w><w c7="VVI">keep</w><w c7="JJ">up-to-date</w><w c7="RR">online</w></p>
+    <p><w c7="II">at</w><w c7="NP31">stv</w><w c7="NP32">dot</w><w c7="NP33">tv</w></p>
+  </text>
+</annotated>

@@ -1,0 +1,166 @@
+<annotated>
+  <text>
+    <p><w c7="EX">there</w><w c7="VBR">are</w><w c7="NN2">cities</w></p>
+    <p><w c7="DD1">that</w><w c7="VBR">are</w><w c7="DAR">more</w><w c7="CSN">than</w><w c7="RR">just</w></p>
+    <p><w c7="NN2">bricks</w><w c7="CC">and</w><w c7="NN1">mortar</w></p>
+    <p><w c7="NN2">cities</w></p>
+    <p><w c7="VVN">built</w><w c7="II">on</w><w c7="NN2">ideals</w></p>
+    <p><w c7="NN2">cities</w><w c7="VVN">shaped</w><w c7="II">by</w><w c7="NN1">belief</w></p>
+    <p><w c7="CST">that</w><w c7="AT">the</w><w c7="JJ">human</w><w c7="NN1">experience</w><w c7="VM">can</w><w c7="VBI">be</w><w c7="JJR">greater</w></p>
+    <p><w c7="RT">tomorrow</w></p>
+    <p><w c7="CSN">than</w><w c7="PPH1">it</w><w c7="VBZ">is</w><w c7="RT">today</w></p>
+    <p><w c7="NP1">Edinburgh</w></p>
+    <p><w c7="VBZ">is</w><w c7="MC1">one</w><w c7="IO">of</w><w c7="DD2">those</w><w c7="NN2">places</w></p>
+    <p><w c7="VVN">graced</w><w c7="IW">with</w><w c7="RG">over</w><w c7="MC">four</w><w c7="CC">and</w><w c7="AT1">a</w><w c7="DB">half</w><w c7="NNO">thousand</w><w c7="JJ">heritage-listed</w><w c7="NN2">buildings</w></p>
+    <p><w c7="AT">the</w><w c7="JJ">Scottish</w><w c7="NN1">capital</w></p>
+    <p><w c7="VBZ">is</w><w c7="MC1">one</w><w c7="IO">of</w><w c7="AT">the</w><w c7="NN1">world</w><w c7="GE">'s</w><w c7="RGT">most</w><w c7="JJ">beautiful</w><w c7="NN2">cities</w></p>
+    <p><w c7="NP1">Edinburgh</w><w c7="GE">'s</w><w c7="JJ">Old</w><w c7="NP1">Town</w></p>
+    <p><w c7="IW">with</w><w c7="APPGE">its</w></p>
+    <p><w c7="JJ">Royal</w><w c7="NP1">Mile</w></p>
+    <p><w c7="VBZ">is</w><w c7="VVN">filled</w><w c7="IW">with</w><w c7="AT">the</w><w c7="NN2">ghosts</w><w c7="IO">of</w><w c7="JJ">medieval</w><w c7="NN2">merchants</w></p>
+    <p><w c7="NN1">body</w><w c7="NN2">snatchers</w><w c7="CC">and</w><w c7="NN2">poets</w></p>
+    <p><w c7="CS">while</w><w c7="PPH1">it</w><w c7="VBZ">'s</w><w c7="JJ">Georgian</w><w c7="NN1">style</w></p>
+    <p><w c7="JJ">New</w><w c7="NP1">Town</w></p>
+    <p><w c7="RR">still</w><w c7="VVZ">shines</w><w c7="IW">with</w><w c7="AT">the</w><w c7="NN2">glories</w><w c7="IO">of</w><w c7="AT">the</w><w c7="JJ">Scottish</w><w c7="NN1">Enlightenment</w></p>
+    <p><w c7="NP1">Edinburgh</w></p>
+    <p><w c7="VBZ">is</w><w c7="JJ">studded</w><w c7="IW">with</w></p>
+    <p><w c7="JJ">lofty</w><w c7="NN2">crags</w></p>
+    <p><w c7="CC">and</w><w c7="JJ">spectacular</w><w c7="NN2">gardens</w></p>
+    <p><w c7="CC">and</w><w c7="II">throughout</w><w c7="AT">the</w><w c7="NNT1">year</w></p>
+    <p><w c7="NN2">hosts</w><w c7="NN2">parties</w><w c7="CC">and</w><w c7="NN2">festivals</w></p>
+    <p><w c7="II">like</w><w c7="AT">no</w><w c7="JJ">other</w></p>
+    <p><w c7="TO">to</w><w c7="VVI">see</w><w c7="NP1">Edinburgh</w></p>
+    <p><w c7="II">in</w><w c7="DB">all</w><w c7="APPGE">her</w><w c7="NN1">glory</w></p>
+    <p><w c7="VV0">walk</w></p>
+    <p><w c7="VV0">ride</w><w c7="CC">or</w></p>
+    <p><w c7="RR">even</w><w c7="VV0">climb</w><w c7="II">to</w><w c7="NP1">Arthur</w><w c7="GE">'s</w><w c7="NP1">Seat</w></p>
+    <p><w c7="AT">the</w><w c7="JJT">highest</w><w c7="IO">of</w><w c7="AT">the</w><w c7="NN1">city</w><w c7="GE">'s</w></p>
+    <p><w c7="MC">seven</w><w c7="NN2">peaks</w></p>
+    <p><w c7="DD">some</w><w c7="NN2">historians</w><w c7="VV0">believe</w><w c7="CST">that</w><w c7="DD1">this</w><w c7="NN1">peak</w></p>
+    <p><w c7="VBDZ">was</w><w c7="AT">the</w><w c7="NN1">site</w><w c7="IO">of</w><w c7="NNB">King</w><w c7="NP1">Arthur</w><w c7="GE">'s</w><w c7="JJ">legendary</w><w c7="NN1">castle</w><w c7="NP1">Camelot</w></p>
+    <p><w c7="DDQ">which</w><w c7="VBZ">is</w><w c7="RR">hardly</w><w c7="JJ">surprising</w></p>
+    <p><w c7="CSA">as</w><w c7="NP1">Edinburgh</w></p>
+    <p><w c7="VHZ">has</w><w c7="VBN">been</w><w c7="II">at</w><w c7="AT">the</w><w c7="JJ">clashing</w><w c7="NN1">crossroads</w><w c7="IO">of</w><w c7="NN1">history</w></p>
+    <p><w c7="IF">for</w><w c7="NNT2">millennia</w></p>
+    <p><w c7="RL">nearby</w></p>
+    <p><w c7="II">on</w><w c7="DD1">another</w><w c7="JJ">volcanic</w><w c7="NN1">crag</w></p>
+    <p><w c7="VV0">rise</w><w c7="AT">the</w><w c7="NN2">battlements</w><w c7="IO">of</w><w c7="NP1">Edinburgh</w><w c7="NP1">Castle</w></p>
+    <p><w c7="AT">the</w><w c7="JJ">very</w></p>
+    <p><w c7="NN1">symbol</w><w c7="IO">of</w><w c7="NP1">Scotland</w><w c7="PPX1">itself</w></p>
+    <p><w c7="II">over</w><w c7="AT">the</w><w c7="MD">last</w><w c7="MC">eleven</w><w c7="NNT2">centuries</w></p>
+    <p><w c7="DD1">this</w><w c7="NN1">castle</w><w c7="VHZ">has</w><w c7="VBN">been</w><w c7="VVN">laid</w><w c7="NN1">siege</w><w c7="II">to</w></p>
+    <p><w c7="MC21">twenty</w><w c7="MC22">six</w><w c7="NNT2">times</w></p>
+    <p><w c7="CSA">as</w><w c7="JJ">opposing</w><w c7="NN2">clans</w></p>
+    <p><w c7="NN2">kings</w></p>
+    <p><w c7="CC">and</w><w c7="NN2">countries</w></p>
+    <p><w c7="VVD">battled</w><w c7="IW">with</w><w c7="NN1">broadsword</w></p>
+    <p><w c7="CC">and</w><w c7="NN1">cannon</w></p>
+    <p><w c7="CCB">but</w><w c7="RR">still</w><w c7="PPH1">it</w><w c7="VVZ">stands</w></p>
+    <p><w c7="AT1">a</w><w c7="NN1">testimony</w><w c7="II">to</w><w c7="AT">the</w><w c7="JJ">indomitable</w><w c7="NN1">spirit</w></p>
+    <p><w c7="IO">of</w><w c7="AT">the</w><w c7="NN2">Scots</w></p>
+    <p><w c7="NP1">Edinburgh</w></p>
+    <p><w c7="VHZ">has</w><w c7="AT1">a</w><w c7="JJ">special</w><w c7="NN1">place</w><w c7="II">in</w><w c7="AT">the</w><w c7="NN2">hearts</w><w c7="IO">of</w><w c7="RT">today</w><w c7="GE">'s</w><w c7="NN1">monarchy</w></p>
+    <p><w c7="AT">the</w><w c7="MD">last</w><w c7="IO">of</w><w c7="AT1">a</w><w c7="JJ">long</w><w c7="NN1">line</w><w c7="IO">of</w><w c7="JJ">royal</w><w c7="NN2">yachts</w></p>
+    <p><w c7="APPGE">her</w><w c7="NP1">Majesty</w><w c7="GE">'s</w><w c7="NN1">yacht</w></p>
+    <p><w c7="NP1">Britannia</w></p>
+    <p><w c7="VVD">sailed</w><w c7="RG">over</w><w c7="AT1">a</w><w c7="NNO">million</w><w c7="NNU2">miles</w><w c7="CS">before</w><w c7="PPHS1">she</w><w c7="VBDZ">was</w><w c7="VVN">decommissioned</w><w c7="II">in</w><w c7="MC31">nineteen</w><w c7="MC32">ninety</w><w c7="MC33">seven</w></p>
+    <p><w c7="RT">today</w></p>
+    <p><w c7="PPHS1">she</w><w c7="VBZ">'s</w><w c7="RR">permanently</w><w c7="JJ">moored</w><w c7="II">at</w><w c7="NP1">Ocean</w><w c7="NP1">Terminal</w></p>
+    <p><w c7="AT1">a</w><w c7="NN1">symbol</w><w c7="IO">of</w><w c7="AT">the</w><w c7="JJ">Royal</w><w c7="NP1">Family</w><w c7="GE">'s</w><w c7="NN1">affection</w><w c7="IF">for</w><w c7="NP1">Scotland</w></p>
+    <p><w c7="CC">and</w><w c7="AT">the</w><w c7="NN">people</w></p>
+    <p><w c7="IO">of</w><w c7="NP1">Edinburgh</w></p>
+    <p><w c7="NP1">Edinburgh</w></p>
+    <p><w c7="VHZ">has</w><w c7="VBN">been</w><w c7="AT">the</w><w c7="NN1">jewel</w><w c7="II">in</w><w c7="AT">the</w><w c7="NN1">crown</w><w c7="IO">of</w><w c7="NN2">chieftains</w></p>
+    <p><w c7="CC">and</w><w c7="NN2">royals</w></p>
+    <p><w c7="IF">for</w><w c7="NNT2">centuries</w></p>
+    <p><w c7="CCB">but</w><w c7="PPH1">it</w><w c7="VBZ">'s</w><w c7="RR">also</w><w c7="AT1">a</w><w c7="NN1">place</w></p>
+    <p><w c7="CS">where</w><w c7="JJ">old</w><w c7="NN1">world</w><w c7="NN1">chivalry</w></p>
+    <p><w c7="VVZ">continues</w><w c7="RT">today</w></p>
+    <p><w c7="II">beneath</w><w c7="AT1">a</w><w c7="NN1">crown</w><w c7="NN1">spire</w><w c7="IO">of</w><w c7="NP1">Saint</w><w c7="NP1">Giles</w><w c7="GE">'</w><w c7="NN1">cathedral</w></p>
+    <p><w c7="VBZ">is</w><w c7="NP1">Thistle</w><w c7="NP1">Chapel</w></p>
+    <p><w c7="DDQ">which</w><w c7="VVZ">honours</w><w c7="AT">the</w><w c7="MC">sixteen</w><w c7="JJ">living</w><w c7="NN2">knights</w><w c7="CC">and</w><w c7="NN2">ladies</w><w c7="IO">of</w><w c7="NP1">Scotland</w><w c7="GE">'s</w><w c7="JJT">oldest</w><w c7="NN1">order</w></p>
+    <p><w c7="II31">as</w><w c7="II32">well</w><w c7="II33">as</w><w c7="DD2">those</w><w c7="PNQS">who</w><w c7="VVD">came</w><w c7="II">before</w></p>
+    <p><w c7="PPH1">it</w><w c7="VBZ">'s</w><w c7="XX">not</w><w c7="RR">just</w></p>
+    <p><w c7="AT">the</w><w c7="NN">brave</w><w c7="CC">and</w><w c7="NN">chivalrous</w><w c7="PNQS">who</w><w c7="VBR">are</w><w c7="VVN">celebrated</w><w c7="II">in</w><w c7="NP1">Edinburgh</w></p>
+    <p><w c7="DD1">this</w><w c7="VBZ">is</w><w c7="AT1">a</w><w c7="NN1">city</w></p>
+    <p><w c7="DD1">that</w><w c7="VHZ">has</w><w c7="VVN">given</w><w c7="AT">the</w><w c7="NN1">world</w><w c7="DD">some</w><w c7="IO">of</w><w c7="APPGE">its</w></p>
+    <p><w c7="JJ">best-loved</w><w c7="NN2">writers</w><w c7="CC">and</w><w c7="NN2">stories</w></p>
+    <p><w c7="II">in</w><w c7="NP1">Princes</w><w c7="NNL1">Street</w><w c7="NP2">Gardens</w></p>
+    <p><w c7="VVZ">rises</w><w c7="AT">the</w><w c7="NN1">world</w><w c7="VBZ">'s</w></p>
+    <p><w c7="JJT">largest</w><w c7="NN1">monument</w><w c7="II">to</w><w c7="AT1">a</w><w c7="NN1">writer</w></p>
+    <p><w c7="VVN">dedicated</w></p>
+    <p><w c7="II">to</w><w c7="NNB">Sir</w><w c7="NP1">Walter</w><w c7="NP1">Scott</w></p>
+    <p><w c7="PNQS">who</w><w c7="VVD">penned</w><w c7="NN2">epics</w><w c7="II21">such</w><w c7="II22">as</w></p>
+    <p><w c7="NP1">Ivanhoe</w></p>
+    <p><w c7="CC">and</w><w c7="NP1">Rob</w><w c7="NP1">Roy</w></p>
+    <p><w c7="RL">nearby</w></p>
+    <p><w c7="II">at</w><w c7="AT">the</w><w c7="NP2">Writers</w><w c7="GE">'</w><w c7="NP1">Museum</w></p>
+    <p><w c7="VV0">learn</w><w c7="RRR">more</w><w c7="II">about</w><w c7="NP1">Scott</w></p>
+    <p><w c7="CC">and</w><w c7="MC">two</w><w c7="DAR">more</w><w c7="IO">of</w><w c7="NP1">Scotland</w><w c7="GE">'s</w></p>
+    <p><w c7="RGT">most</w><w c7="JJ">cherished</w><w c7="JJ">literary</w><w c7="NN2">adventurers</w></p>
+    <p><w c7="NP1">Robert</w><w c7="NP1">Burns</w></p>
+    <p><w c7="CC">and</w><w c7="NP1">Robert</w><w c7="NP1">Louis</w><w c7="NP1">Stevenson</w></p>
+    <p><w c7="NP1">Edinburgh</w><w c7="VVZ">continues</w><w c7="TO">to</w><w c7="VVI">cast</w><w c7="AT1">a</w><w c7="NN1">spell</w><w c7="II">over</w></p>
+    <p><w c7="JJ">contemporary</w><w c7="NN2">writers</w><w c7="RR">too</w></p>
+    <p><w c7="NP1">J</w><w c7="NP1">K</w><w c7="NP1">Rowling</w></p>
+    <p><w c7="VVD">wrote</w><w c7="AT">the</w><w c7="MD">first</w><w c7="MC">two</w><w c7="IO">of</w><w c7="APPGE">her</w></p>
+    <p><w c7="NP1">Harry</w><w c7="NP1">Potter</w><w c7="NN">series</w></p>
+    <p><w c7="II">in</w><w c7="JJ">cozy</w><w c7="JJ">Old</w><w c7="NP1">Town</w><w c7="NN2">nooks</w></p>
+    <p><w c7="II21">such</w><w c7="II22">as</w><w c7="AT">the</w><w c7="NP1">Elephant</w><w c7="NP1">House</w><w c7="NP1">Cafe</w></p>
+    <p><w c7="CCB">but</w><w c7="NN1">history</w></p>
+    <p><w c7="CC">and</w><w c7="NN1">literature</w><w c7="RL">aside</w></p>
+    <p><w c7="RR">perhaps</w><w c7="AT">the</w><w c7="JJT">greatest</w><w c7="NN2">gifts</w><w c7="DD1">that</w><w c7="NP1">Edinburgh</w><w c7="VHZ">has</w><w c7="VVN">given</w><w c7="NN1">humankind</w></p>
+    <p><w c7="VBZ">is</w><w c7="II">in</w><w c7="AT">the</w><w c7="NN1">field</w></p>
+    <p><w c7="IO">of</w><w c7="NN1">knowledge</w></p>
+    <p><w c7="DDQ">which</w><w c7="RR">once</w><w c7="VVD">earned</w><w c7="AT">the</w><w c7="NN1">city</w></p>
+    <p><w c7="AT">the</w><w c7="NN1">title</w></p>
+    <p><w c7="AT">the</w><w c7="NP1">Athens</w><w c7="IO">of</w><w c7="AT">the</w><w c7="ND1">North</w></p>
+    <p><w c7="IF">for</w><w c7="RG">over</w><w c7="MC">four</w><w c7="NNT2">centuries</w></p>
+    <p><w c7="AT">the</w><w c7="NP1">University</w><w c7="IO">of</w><w c7="NP1">Edinburgh</w></p>
+    <p><w c7="VHZ">has</w><w c7="VVN">given</w><w c7="PPIO2">us</w></p>
+    <p><w c7="JJ">intellectual</w><w c7="NN2">giants</w><w c7="II21">such</w><w c7="II22">as</w></p>
+    <p><w c7="NP1">Charles</w><w c7="NP1">Darwin</w></p>
+    <p><w c7="NP1">David</w><w c7="NP1">Hume</w><w c7="CC">and</w><w c7="NP1">Alexander</w><w c7="NP1">Bell</w></p>
+    <p><w c7="VV0">explore</w><w c7="NNT2">centuries</w><w c7="IO">of</w><w c7="NN1">innovation</w></p>
+    <p><w c7="II">at</w><w c7="AT">the</w><w c7="JJ">Scottish</w><w c7="NP1">Museum</w></p>
+    <p><w c7="CC">or</w><w c7="VV0">head</w><w c7="II">to</w><w c7="ND1">South</w><w c7="NP1">Queensferry</w></p>
+    <p><w c7="TO">to</w><w c7="VVI">see</w><w c7="AT">the</w><w c7="NP1">Forth</w><w c7="NP1">Bridge</w></p>
+    <p><w c7="AT1">an</w><w c7="NN1">engineering</w><w c7="NN1">marvel</w><w c7="CS">when</w><w c7="PPH1">it</w><w c7="VVD">opened</w><w c7="II">in</w><w c7="MC21">eighteen</w><w c7="MC22">ninety</w></p>
+    <p><w c7="CC">and</w><w c7="PN1">one</w><w c7="DDQ">which</w></p>
+    <p><w c7="RR">still</w><w c7="VVZ">takes</w><w c7="AT">the</w><w c7="NN1">breath</w><w c7="RL">away</w><w c7="RT">today</w></p>
+    <p><w c7="NN1">knowledge</w><w c7="CC">and</w><w c7="NN1">beauty</w></p>
+    <p><w c7="VV0">go</w><w c7="NN1">hand</w><w c7="II">in</w><w c7="NN1">hand</w><w c7="II">at</w><w c7="AT">the</w><w c7="JJ">Royal</w><w c7="JJ">Botanic</w><w c7="NP2">Gardens</w><w c7="RR">too</w></p>
+    <p><w c7="VVN">established</w><w c7="II">in</w><w c7="MC21">sixteen</w><w c7="MC22">seventy</w></p>
+    <p><w c7="DD1">this</w><w c7="VBZ">is</w><w c7="MC1">one</w><w c7="IO">of</w><w c7="AT">the</w><w c7="NN1">world</w><w c7="GE">'s</w></p>
+    <p><w c7="JJT">oldest</w><w c7="CC">and</w><w c7="RGT">most</w><w c7="JJ">important</w><w c7="NN2">centres</w><w c7="IO">of</w><w c7="JJ">botanical</w><w c7="NN1">science</w></p>
+    <p><w c7="RR">yet</w></p>
+    <p><w c7="PPH1">it</w><w c7="VBZ">'s</w><w c7="AT1">a</w><w c7="NN1">place</w><w c7="DDQ">which</w><w c7="VVZ">invites</w><w c7="RR">even</w></p>
+    <p><w c7="AT">the</w><w c7="RGT">most</w><w c7="JJ">hurried</w><w c7="NN1">heart</w></p>
+    <p><w c7="TO">to</w><w c7="VVI">slow</w><w c7="RP">down</w></p>
+    <p><w c7="CC">and</w><w c7="VVI">swoon</w></p>
+    <p><w c7="NN1">beauty</w></p>
+    <p><w c7="VBZ">is</w><w c7="VVN">honoured</w><w c7="II">at</w><w c7="AT1">every</w><w c7="NN1">turn</w><w c7="II">in</w><w c7="NP1">Edinburgh</w></p>
+    <p><w c7="CSW">whether</w><w c7="PPH1">it</w><w c7="VBI">be</w><w c7="AT">the</w><w c7="JJ">elegant</w><w c7="NN2">interiors</w><w c7="IO">of</w><w c7="AT">the</w><w c7="JJ">Georgian</w><w c7="NP1">House</w></p>
+    <p><w c7="AT">the</w><w c7="JJ">priceless</w><w c7="NN2">treasures</w><w c7="II">within</w><w c7="AT">the</w><w c7="JJ">Scottish</w><w c7="JJ">National</w><w c7="NP1">Gallery</w></p>
+    <p><w c7="CC">or</w><w c7="AT">the</w><w c7="JJ">simple</w><w c7="NN1">flower</w><w c7="NN2">boxes</w></p>
+    <p><w c7="DDQ">which</w><w c7="VV0">adorn</w><w c7="AT">the</w><w c7="NN1">city</w><w c7="GE">'s</w><w c7="NN2">pubs</w></p>
+    <p><w c7="NP1">Edinburgh</w></p>
+    <p><w c7="VBZ">is</w><w c7="AT1">a</w><w c7="NN1">city</w><w c7="DD1">that</w><w c7="VHZ">has</w><w c7="VVN">given</w><w c7="AT">the</w><w c7="NN1">world</w><w c7="JJ">countless</w><w c7="NN2">gifts</w></p>
+    <p><w c7="CCB">but</w><w c7="RR">perhaps</w><w c7="APPGE">her</w><w c7="JJT">greatest</w><w c7="VBZ">is</w><w c7="DD1">this</w></p>
+    <p><w c7="PPHS1">she</w><w c7="VVZ">shows</w><w c7="PPIO2">us</w></p>
+    <p><w c7="CST">that</w><w c7="DB">all</w><w c7="NN2">parts</w><w c7="IO">of</w><w c7="AT">the</w><w c7="JJ">human</w><w c7="NN1">experience</w></p>
+    <p><w c7="AT">the</w><w c7="NN2">sciences</w><w c7="CC">and</w><w c7="AT">the</w><w c7="NN2">arts</w></p>
+    <p><w c7="AT">the</w><w c7="NN1">past</w></p>
+    <p><w c7="CC">and</w><w c7="AT">the</w><w c7="NN1">present</w></p>
+    <p><w c7="AT">the</w><w c7="NN1">sacred</w></p>
+    <p><w c7="CC">and</w><w c7="AT">the</w><w c7="NN1">lighthearted</w></p>
+    <p><w c7="DB">all</w></p>
+    <p><w c7="VH0">have</w><w c7="JJ">equal</w><w c7="NN1">value</w></p>
+    <p><w c7="CC">and</w><w c7="CST">that</w><w c7="CS">when</w><w c7="VVN">brought</w><w c7="RL">together</w></p>
+    <p><w c7="DD2">these</w><w c7="NN2">things</w><w c7="VM">can</w><w c7="VVI">create</w></p>
+    <p><w c7="AT1">a</w><w c7="NN1">beauty</w></p>
+    <p><w c7="AT1">a</w><w c7="NN1">state</w><w c7="IO">of</w><w c7="NN1">mind</w></p>
+    <p><w c7="AT1">a</w><w c7="NN1">city</w></p>
+    <p><w c7="II">like</w><w c7="AT">no</w><w c7="JJ">other</w></p>
+  </text>
+</annotated>

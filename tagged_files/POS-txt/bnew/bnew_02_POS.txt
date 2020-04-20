@@ -1,0 +1,9 @@
+Questions_NP2 to_II the_AT First_MD Minister_NP1 
+and_CC Johann_NP1 Lamont_NP1 wanted_VVD a_AT1 commitment_NN1 from_II Alex_NP1 Salmond_NP1 that_CST in_II an_AT1 independent_JJ Scotland_NP1 he_PPHS1 would_VM back_VVI a_AT1 fifty_MC p_NNU tax_NN1 rate_NN1 
+for_IF high_JJ earners_NN2 
+Ruth_NP1 Davidson_NP1 criticised_VVD the_AT number_NN1 of_IO police_NN2 stations_NN2 that_DD1 have_VH0 closed_VVN since_II two_MC41 thousand_MC42 and_MC43 seven_MC44 
+and_CC Willie_NP1 Rennie_NP1 also_RR raised_VVD concerns_NN2 over_II the_AT government_NN1 's_GE handling_NN1 
+of_IO justice_NN1 issues_NN2 
+this_DD1 morning_NNT1 senior_JJ police_NN2 officers_NN2 were_VBDR before_II MSPs_NP2 to_TO explain_VVI why_RRQ Police_NP2 Scotland_NP1 's_GE multi-million-pound_JJ IT_NP1 system_NN1 was_VBDZ running_VVG behind_II schedule_NN1 
+and_CC over_II budget_NN1 
+and_CC finally_RR the_AT energy_NN1 minister_NN1 sets_VVZ out_RP the_AT government_NN1 's_GE latest_JJT priorities_NN2 

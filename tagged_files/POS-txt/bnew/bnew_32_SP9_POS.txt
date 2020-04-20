@@ -1,0 +1,19 @@
+this_DD1 is_VBZ Jack_NP1 
+he_PPHS1 's_VBZ one_MC1 of_IO five_MC41 hundred_MC42 and_MC43 forty_MC44 boys_NN2 registered_JJ with_IW that_DD1 name_NN1 between_II January_NPM1 and_CC November_NPM1 
+making_VVG it_PPH1 the_AT most_RGT popular_NN1 in_II Scotland_NP1 this_DD1 year_NNT1 
+this_DD1 is_VBZ Sophie_NP1 hers_PPGE had_VHD been_VBN the_AT favourite_JJ girls_NN2 '_GE name_NN1 for_IF nine_MC years_NNT2 
+but_CCB this_DD1 time_NNT1 Emily_NP1 topped_VVD the_AT list_NN1 instead_RR 
+since_II January_NPM1 
+the_AT births_NN2 of_IO about_RG fifty_MC21 three_MC22 thousand_NNO children_NN2 have_VH0 been_VBN registered_VVN in_II Scotland_NP1 
+in_II all_DB they_PPHS2 have_VH0 seven_MC41 and_MC42 a_MC43 half_MC44 thousand_NNO different_JJ names_NN2 
+but_CCB almost_RR five_MC thousand_NNO of_IO those_DD2 
+are_VBR unique_JJ 
+there_EX are_VBR interesting_JJ regional_JJ differences_NN2 in_II Edinburgh_NP1 James_NP1 is_VBZ the_AT top_JJ boys_NN2 '_GE name_NN1 while_CS Sophie_NP1 is_VBZ the_AT most_RGT popular_NN1 for_IF girls_NN2 
+in_II Glasgow_NP1 Muhammad_NP1 leads_VVZ the_AT list_NN1 for_IF boys_NN2 and_CC it_PPH1 's_VBZ Emily_NP1 for_IF girls_NN2 
+in_II Dundee_NP1 Jacob_NP1 and_CC Olivia_NP1 feature_VV0 most_RGT prominently_RR 
+while_CS in_II Aberdeen_NP1 Daniel_NP1 and_CC Oliver_NP1 jointly_RR are_VBR number_NN1 one_MC1 for_IF boys_NN2 
+and_CC Isla_NP1 and_CC Olivia_NP1 tie_VV0 for_IF girls_NN2 
+a_AT1 full_JJ list_NN1 of_IO every_AT1 single_JJ name_NN1 registered_VVN this_DD1 year_NNT1 will_VM be_VBI available_JJ in_II March_NPM1 
+Gordon_NP1 which_DDQ does_VDZ n't_XX even_RR make_VVI the_AT top_JJ one_PN1 hundred_NNO Chree_NP1 
+STV_NP1 news_NP1 
+Edinburgh_NP1 

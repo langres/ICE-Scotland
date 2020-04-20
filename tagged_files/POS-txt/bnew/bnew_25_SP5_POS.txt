@@ -1,0 +1,20 @@
+Bob_NP1 Leary_NP1 from_II Bonnyrigg_NP1 in_II Midlothian_NP1 contracted_VVD Hepatitis_NP121 C_NP122 from_II an_AT1 infected_JJ blood_NN1 transfusion_NN1 in_II Edinburgh_NP1 in_II nineteen_MC31 eighty_MC32 six_MC33 
+he_PPHS1 took_VVD Interferon_NP1 previously_RR the_AT standard_JJ drug_NN1 for_IF the_AT condition_NN1 
+but_CCB it_PPH1 has_VHZ many_DA2 side_NN1 effects_NN2 
+he_PPHS1 was_VBDZ ill_JJ for_IF nearly_RR twenty_MC years_NNT2 before_CS he_PPHS1 underwent_VVD a_AT1 liver_NN1 transplant_NN1 last_MD Christmas_NNT1 
+for_IF sufferers_NN2 of_IO Hepatitis_NP121 C_NP122 today_RT there_EX 's_VBZ a_AT1 new_JJ drug_NN1 which_DDQ represents_VVZ a_AT1 cure_NN1 in_II all_RR21 but_RR22 name_NN1 
+a_AT1 twelve-week_JJ course_NN1 of_IO Daklinza_NP1 
+costing_VVG twenty_MC21 six_MC22 thousand_NNO pounds_NNU2 
+can_VM end_VVI symptoms_NN2 
+in_II up_RG21 to_RG22 ninety_MC21 eight_MC22 percent_NNU of_IO cases_NN2 
+the_AT drug_NN1 stops_VVZ the_AT Hepatitis_NP121 C_NP122 virus_NN1 replicating_VVG itself_PPX1 
+the_AT sufferer_NN1 's_GE liver_NN1 can_VM then_RT rebuild_VVI 
+allowing_VVG him_PPHO1 to_TO live_VVI a_AT1 normal_JJ life_NN1 
+experts_NN2 say_VV0 Hepatitis_NP1 affects_VVZ around_RG one_MC1 percent_NNU of_IO the_AT Scottish_JJ population_NN1 about_RG fifty_MC thousand_NNO people_NN 
+and_CC it_PPH1 's_VBZ behind_II the_AT bulk_NN1 of_IO liver_NN1 transplant_NN1 operations_NN2 
+doctors_NN2 do_VD0 n't_XX like_VVI using_VVG the_AT term_NN1 medical_JJ cure_NN1 
+but_CCB sufferers_NN2 will_VM see_VVI it_PPH1 as_II just_RR that_DD1 
+Daklinza_NP1 has_VHZ been_VBN registered_VVN today_RT for_IF use_NN1 by_II the_AT Scottish_JJ Medicines_NP2 Consortium_NP1 
+the_AT cure_NN1 for_IF one_MC1 of_IO the_AT world_NN1 's_GE most_RGT infectious_JJ diseases_NN2 
+is_VBZ here_RL 
+Mike_NP1 Edwards_NP1 STV_NP1 news_NP1 Edinburgh_NP1 

@@ -1,0 +1,129 @@
+the_AT judge_NN1 Lord_NNB Matthews_NP1 has_VHZ just_RR given_VVN Angus_NP1 Sinclair_NP1 
+his_APPGE third_MD 
+life_NN1 sentence_NN1 he_PPHS1 called_VVD him_PPHO1 
+a_AT1 dangerous_JJ predator_NN1 
+capable_JJ of_IO sinking_VVG to_II the_AT depths_NN2 of_IO depravity_NN1 
+he_PPHS1 's_VHZ ordered_VVN that_CST he_PPHS1 should_VM serve_VVI 
+thirty_MC21 seven_MC22 years_NNT2 before_CS he_PPHS1 can_VM apply_VVI for_IF parole_NN1 that_DD1 's_VBZ a_AT1 record_NN1 
+minimum_JJ life_NN1 time_NNT1 in_II Scotland_NP1 
+and_CC it_PPH1 means_VVZ that_CST Sinclair_NP1 would_VM have_VHI to_TO live_VVI to_II one_MC41 hundred_MC42 and_MC43 six_MC44 before_CS he_PPHS1 was_VBDZ able_JK to_TO be_VBI 
+asked_VVN to_TO be_VBI released_VVN from_II jail_NN1 the_AT judge_NN1 said_VVD he_PPHS1 picked_VVD that_DD1 figure_NN1 
+deliberately_RR 
+our_APPGE first_MD report_NN1 tonight_RT comes_VVZ from_II Sharon_NP1 Frew_NP1 
+on_II today_RT 's_GE verdict_NN1 
+all_DB judges_NN2 have_VH0 been_VBN trying_VVG to_TO find_VVI words_NN2 that_DD1 describe_VV0 
+Angus_NP1 Sinclair_NP1 and_CC his_APPGE crimes_NN2 
+but_CCB over_RG half_DB a_AT1 century_NNT1 has_VHZ a_AT1 
+an_AT1 appalling_JJ record_NN1 and_CC it_PPH1 's_VHZ taken_VVN four_MC decades_NNT2 
+to_TO bring_VVI him_PPHO1 to_II justice_NN1 for_IF the_AT World_NP1 's_GE End_NP1 murders_NN2 
+but_CCB that_DD1 's_VHZ happened_VVN now_RT 
+thanks_II21 to_II22 DNA_NN1 
+thanks_II21 to_II22 prosecutors_NN2 
+and_CC thanks_II21 to_II22 thousands_NNO2 of_IO police_NN2 officers_NN2 
+who_PNQS never_RR gave_VVD up_RP 
+Angus_NP1 Sinclair_NP1 has_VHZ spent_VVN more_DAR than_CSN half_DB his_APPGE life_NN1 in_II prison_NN1 
+but_CCB only_RR now_RT has_VHZ the_AT full_JJ horror_NN1 of_IO his_APPGE crimes_NN2 emerged_VVN 
+a_AT1 sixty_MC21 nine_MC22 year-old_JJ man_NN1 with_IW failing_JJ health_NN1 
+stands_VVZ convicted_JJ as_II a_AT1 serial_JJ killer_NN1 
+who_PNQS got_VVD away_RL with_IW murder_NN1 
+for_IF decades_NNT2 
+today_RT 's_GE verdict_NN1 means_VVZ Sinclair_NP1 has_VHZ four_MC confirmed_JJ victims_NN2 
+but_CCB detectives_NN2 are_VBR convinced_JJ 
+there_EX were_VBDR at_RR21 least_RR22 three_MC more_DAR 
+Alan_NP1 Jones_NP1 spent_VVD fourteen_MC years_NNT2 investigating_VVG the_AT World_NP1 's_GE End_NP1 murders_NN2 
+Sinclair_NP1 was_VBDZ just_RR fifteen_MC when_CS he_PPHS1 killed_VVD for_IF the_AT first_MD time_NNT1 
+raping_VVG and_CC strangling_VVG a_AT1 little_JJ girl_NN1 in_II his_APPGE home_NN1 town_NN1 of_IO Glasgow_NP1 
+charged_VVN with_IW murdering_VVG Catherine_NP1 Rehill_NP1 
+he_PPHS1 was_VBDZ allowed_VVN to_TO plead_VVI guilty_JJ to_II culpable_JJ homicide_NN1 
+on_II the_AT grounds_NN2 of_IO diminished_JJ responsibility_NN1 
+fifty_MC21 three_MC22 years_NNT2 ago_RA the_AT authorities_NN2 knew_VVD how_RGQ dangerous_JJ Angus_NP1 Sinclair_NP1 was_VBDZ and_CC the_AT threat_NN1 he_PPHS1 would_VM pose_VVI in_II the_AT future_NN1 
+the_AT judge_NN1 who_PNQS jailed_VVD him_PPHO1 at_II these_DD2 Courts_NP2 
+called_VVD him_PPHO1 callous_JJ wicked_JJ and_CC cunning_JJ 
+a_AT1 psychiatrist_NN1 said_VVD he_PPHS1 showed_VVD signs_NN2 of_IO being_VBG a_AT1 psychopath_NN1 
+but_CCB in_II nineteen_MC31 sixty_MC32 eight_MC33 he_PPHS1 was_VBDZ released_VVN 
+free_JJ 
+to_TO kill_VVI again_RT 
+and_CC again_RT 
+Agnes_NP1 Cooney_NP1 Hilda_NP1 McAuley_NP1 Anna_NP1 Kenny_NP1 and_CC Mary_NP1 Gallacher_NP1 were_VBDR killed_VVN in_II Glasgow_NP1 between_II nineteen_MC31 seventy_MC32 seven_MC33 and_CC nineteen_MC31 seventy_MC32 eight_MC33 
+Sinclair_NP1 was_VBDZ never_RR a_AT1 suspect_NN1 
+police_NN2 reconstructed_VVD Helen_NP1 Scott_NP1 's_GE and_CC Christine_NP1 Eadie_NP1 's_GE last_MD known_JJ movements_NN2 
+but_CCB despite_II a_AT1 huge_JJ enquiry_NN1 Sinclair_NP1 was_VBDZ never_RR caught_VVN 
+sexually_RR motivated_JJ murders_NN2 of_IO women_NN2 in_II the_AT West_ND1 and_CC East_ND1 of_IO Scotland_NP1 
+were_VBDR n't_XX linked_VVN 
+Joe_NP1 Jackson_NP1 secured_VVD the_AT confession_NN1 that_DD1 took_VVD Sinclair_NP1 off_II the_AT streets_NN2 for_IF good_JJ 
+in_II nineteen_MC31 eighty_MC32 two_MC33 he_PPHS1 admitted_VVD raping_VVG and_CC sexually_RR assaulting_VVG eleven_MC girls_NN2 in_II Glasgow_NP1 
+aged_JJ between_II three_MC and_CC fourteen_MC 
+jailed_VVN for_IF life_NN1 Sinclair_NP1 has_VHZ spent_VVN the_AT last_MD thirty_MC21 two_MC22 years_NNT2 behind_II bars_NN2 
+at_II the_AT start_NN1 of_IO the_AT new_JJ century_NNT1 DNA_NN1 was_VBDZ breathing_VVG new_JJ life_NN1 into_II old_JJ cases_NN2 
+Sinclair_NP1 's_GE genetic_JJ fingerprint_NN1 was_VBDZ linked_VVN to_II seventeen_MC year-old_JJ Mary_NP1 Gallacher_NP1 
+raped_VVN and_CC strangled_VVN in_II Glasgow_NP1 in_II nineteen_MC31 seventy_MC32 eight_MC33 
+he_PPHS1 received_VVD a_AT1 second_MD life_NN1 sentence_NN1 
+then_RT the_AT World_NP1 's_GE End_NP1 enquiry_NN1 found_VVD Sinclair_NP1 's_GE DNA_NN1 on_II Helen_NP1 Scott_NP1 's_GE cords_NN2 stored_VVN carefully_RR since_II nineteen_MC31 seventy_MC32 seven_MC33 
+the_AT breakthrough_NN1 
+and_CC their_APPGE reward_NN1 
+for_IF never_RR giving_VVG up_RP 
+this_DD1 is_VBZ Sinclair_NP1 around_II that_DD1 time_NNT1 
+a_AT1 small_JJ man_NN1 who_PNQS 'd_VHD kept_VVN himself_PPX1 fit_JJ in_II jail_NN1 
+in_II hours_NNT2 of_IO questioning_NN1 by_II police_NN2 
+he_PPHS1 gave_VVD nothing_PN1 away_RL 
+a_AT1 stonewall_NN1 silence_NN1 
+the_AT new_JJ science_NN1 and_CC old-fashioned_JJ detective_NN1 work_NN1 revealed_VVD Sinclair_NP1 's_GE accomplice_NN1 
+his_APPGE brother-in-law_NN1 Gordon_NP1 Hamilton_NP1 was_VBDZ cremated_VVN in_II nineteen_MC31 ninety_MC32 six_MC33 
+but_CCB police_NN2 chased_VVD the_AT flat_NN1 he_PPHS1 decorated_VVD years_NNT2 ago_RA 
+and_CC found_VVD one_MC1 of_IO his_APPGE hairs_NN2 
+and_CC his_APPGE DNA_NN1 
+in_II the_AT coving_NN1 
+it_PPH1 looked_VVD like_CS they_PPHS2 had_VHD their_APPGE man_NN1 
+but_CCB at_II trial_NN1 the_AT judge_NN1 threw_VVD the_AT prosecution_NN1 case_NN1 out_RP of_II court_NN1 
+ruling_VVG there_EX was_VBDZ n't_XX enough_DD evidence_NN1 for_IF a_AT1 conviction_NN1 
+within_II four_MC years_NNT2 the_AT Scottish_JJ government_NN1 changed_VVD the_AT rule_NN1 on_II double_JJ jeopardy_NN1 
+allowing_VVG retrials_NN2 if_CS the_AT prosecution_NN1 had_VHD strong_JJ new_JJ evidence_NN1 
+Sinclair_NP1 
+was_VBDZ back_RP in_II the_AT dock_NN1 
+the_AT Crown_NP1 presented_VVD the_AT courts_NN2 with_IW new_JJ DNA_NN1 evidence_NN1 
+from_II the_AT clothes_NN2 he_PPHS1 used_VVD to_TO tie_VVI up_RP the_AT girls_NN2 
+Helen_NP1 Scott_NP1 's_GE brother_NN1 
+was_VBDZ eleven_MC when_CS she_PPHS1 died_VVD 
+this_DD1 is_VBZ the_AT moment_NN1 he_PPHS1 phoned_VVD her_APPGE father_NN1 
+with_IW the_AT result_NN1 
+the_AT Lord_NNB Advocates_NP2 admit_VV0 the_AT families_NN2 the_AT day_NNT1 after_II the_AT first_MD trial_NN1 collapsed_VVD 
+and_CC led_VVD the_AT prosecution_NN1 at_II the_AT second_MD 
+Frank_NP1 Mulholland_NP1 spoke_VVD to_II STV_NP1 news_NP1 where_CS the_AT girls_NN2 were_VBDR found_VVN in_II East_NP1 Lothian_NP1 
+half_DB a_AT1 century_NNT1 ago_RA a_AT1 psychiatrist_NN1 predicted_VVD Sinclair_NP1 would_VM kill_VVI again_RT if_CS given_VVN the_AT chance_NN1 
+the_AT judge_NN1 had_VHD said_VVN no_AT young_JJ girl_NN1 would_VM be_VBI safe_JJ with_IW him_PPHO1 about_RP 
+words_NN2 which_DDQ echo_VV0 down_RP the_AT years_NNT2 
+warnings_NN2 
+which_DDQ were_VBDR forgotten_VVN 
+Tom_NP1 Wood_NP1 led_VVD a_AT1 national_JJ investigation_NN1 which_DDQ links_VVZ Sinclair_NP1 to_II Agnes_NP1 Cooney_NP1 Hilda_NP1 McAuley_NP1 and_CC to_II Anna_NP1 Kenny_NP1 
+three_MC more_DAR suspected_JJ victims_NN2 
+of_IO his_APPGE killing_NN1 spree_NN1 from_II nineteen_MC31 seventy_MC32 seven_MC33 
+but_CCB the_AT forensic_JJ evidence_NN1 has_VHZ n't_XX survived_VVN 
+Angus_NP1 Sinclair_NP1 had_VHD a_AT1 son_NN1 who_PNQS was_VBDZ convicted_VVN of_IO murder_NN1 while_CS serving_VVG with_IW the_AT army_NN1 
+his_APPGE own_DA child_NN1 has_VHZ nothing_PN1 to_TO do_VDI with_IW the_AT man_NN1 whose_DDQGE crimes_NN2 caused_VVD such_DA grief_NN1 and_CC misery_NN1 
+Morain_NP1 Scott_NP1 has_VHZ visited_VVN his_APPGE daughter_NN1 's_GE grave_NN1 
+every_AT1 weekend_NNT1 for_IF the_AT last_MD thirty_MC21 seven_MC22 years_NNT2 
+Helen_NP1 Scott_NP1 had_VHD a_AT1 shopping_NN1 list_NN1 in_II her_APPGE pocket_NN1 when_CS she_PPHS1 was_VBDZ found_VVN 
+she_PPHS1 had_VHD plans_NN2 for_IF the_AT future_NN1 
+big_JJ 
+and_CC small_JJ 
+when_CS her_APPGE father_NN1 visits_VVZ her_PPHO1 this_DD1 Sunday_NPD1 
+he_PPHS1 'll_VM know_VVI that_CST Helen_NP1 and_CC her_APPGE friend_NN1 have_VH0 received_VVN justice_NN1 at_RR21 last_RR22 
+and_CC their_APPGE killer_NN1 
+will_VM never_RR be_VBI freed_VVN 
+well_UH after_II a_AT1 
+five-week_JJ trial_NN1 the_AT jury_NN1 took_VVD two_MC hours_NNT2 and_CC twenty_MC minutes_NNT2 
+to_TO deliver_VVI unanimous_JJ guilty_JJ verdicts_NN2 at_II the_AT request_NN1 of_IO STV_NP1 news_NP1 
+cameras_NN2 were_VBDR allowed_VVN into_II the_AT High_JJ Court_NP1 
+to_II film_VVI Lord_NNB Matthews_NP1 
+passing_VVG sentence_NN1 
+well_UH as_CSA you_PPY 'd_VM expect_VVI there_EX was_VBDZ a_AT1 great_JJ deal_NN1 of_IO emotion_NN1 in_II the_AT court_NN1 this_DD1 afternoon_NNT1 tears_NN2 from_II family_NN1 members_NN2 
+hugs_NN2 with_IW police_NN2 officers_NN2 the_AT Lord_NNB Advocate_NP1 named_VVD eleven_MC detectives_NN2 who_PNQS 'd_VHD worked_VVN on_II the_AT case_NN1 
+over_II the_AT thirty_MC21 seven_MC22 years_NNT2 some_DD of_IO them_PPHO2 
+no_RR21 longer_RR22 alive_JJ 
+but_CCB tonight_RT 
+finally_RR 
+what_DDQ was_VBDZ arguably_RR Scotland_NP1 's_GE most_RGT notorious_JJ unsolved_JJ crime_NN1 
+has_VHZ been_VBN solved_VVN 
+and_CC Angus_NP1 Sinclair_NP1 has_VHZ received_VVN another_DD1 life_NN1 sentence_NN1 which_DDQ will_VM guarantee_VVI 
+he_PPHS1 dies_VVZ in_II jail_NN1 
+back_RP to_II you_PPY 

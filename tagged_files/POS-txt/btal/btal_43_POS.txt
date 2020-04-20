@@ -1,0 +1,63 @@
+the_AT Hebridean_JJ Smoke_NP1 House_NP1 is_VBZ in_II Clachan_NP1 
+on_II the_AT isle_NN1 of_IO North_NP1 Uist_NP1 
+in_II the_AT Outer_JJ Hebrides_NP2 
+its_APPGE main_JJ product_NN1 is_VBZ salmon_NN 
+though_CS it_PPH1 also_RR does_VDZ scallops_NN2 
+and_CC sea_NN1 trout_NN 
+these_DD2 are_VBR sold_VVN worldwide_RL 
+with_IW orders_NN2 coming_VVG from_II as_RG far_RR away_RL as_II North_ND1 America_NP1 and_CC Japan_NP1 
+although_CS most_DAT of_IO its_APPGE business_NN1 is_VBZ done_VDN by_II post_NN1 
+its_APPGE doors_NN2 are_VBR always_RR open_JJ to_II visitors_NN2 
+who_PNQS wish_VV0 to_TO see_VVI how_RRQ the_AT work_NN1 is_VBZ done_VDN 
+most_DAT of_IO the_AT work_NN1 is_VBZ done_VDN 
+in_II two_MC separate_JJ sealed_JJ rooms_NN2 
+in_II the_AT wet_JJ room_NN1 
+the_AT fresh_JJ salmon_NN are_VBR prepared_VVN for_IF smoking_NN1 
+this_DD1 requires_VVZ various_JJ things_NN2 to_TO be_VBI done_VDN 
+firstly_RR 
+the_AT fish_NN are_VBR cleaned_VVN and_CC filleted_VVN 
+a_AT1 sharp_JJ knife_NN1 is_VBZ also_RR used_VVN to_TO trim_VVI the_AT fish_NN 
+after_II filleting_NN1 and_CC trimming_NN1 
+the_AT fish_NN is_VBZ salted_VVN 
+this_DD1 reduces_VVZ the_AT amount_NN1 of_IO water_NN1 in_II the_AT fish_NN 
+and_CC helps_VVZ to_TO preserve_VVI it_PPH1 
+after_II salting_NN1 
+the_AT fish_NN is_VBZ carefully_RR rinsed_VVN 
+and_CC checked_VVN for_IF quality_NN1 
+if_CS it_PPH1 passes_VVZ 
+it_PPH1 is_VBZ ready_JJ to_TO go_VVI for_IF smoking_NN1 
+peat_NN1 
+has_VHZ been_VBN the_AT natural_JJ fuel_NN1 in_II Uist_NP1 for_IF many_DA2 centuries_NNT2 
+usually_RR it_PPH1 is_VBZ cut_VVN on_II the_AT moor_NN1 in_II the_AT early_JJ spring_NNT1 
+and_CC left_VVN to_TO dry_VVI for_IF the_AT summer_NNT1 
+before_II being_VBG brought_VVN in_RP 
+to_TO smoke_VVI the_AT fish_NN 
+it_PPH1 is_VBZ broken_VVN up_RP 
+into_II small_JJ pieces_NN2 
+it_PPH1 is_VBZ then_RT packed_VVN into_II the_AT firebox_NN1 
+where_CS it_PPH1 burns_VVZ slowly_RR 
+it_PPH1 burns_VVZ 
+with_IW a_AT1 very_RG characteristic_JJ smell_NN1 
+which_DDQ helps_VVZ to_TO flavour_VVI the_AT fish_NN 
+the_AT temperature_NN1 varies_VVZ between_II twenty_MC and_CC twenty_MC21 eight_MC22 degrees_NNU221 centigrade_NNU222 
+and_CC the_AT fish_NN is_VBZ smoked_VVN for_IF up_RG21 to_RG22 twenty_MC hours_NNT2 
+the_AT fish_NN is_VBZ placed_VVN in_II the_AT kiln_NN1 
+through_II doors_NN2 that_DD1 open_VV0 from_II the_AT wet_JJ room_NN1 side_NN1 
+after_II smoking_NN1 it_PPH1 is_VBZ removed_VVN through_II doors_NN2 that_DD1 open_VV0 into_II the_AT dry_JJ room_NN1 side_NN1 
+this_DD1 is_VBZ where_RRQ the_AT final_JJ stages_NN2 of_IO the_AT preparation_NN1 are_VBR completed_VVN 
+everything_PN1 in_II the_AT dry_JJ room_NN1 
+has_VHZ to_TO be_VBI completely_RR clean_JJ 
+the_AT smoked_JJ fish_NN is_VBZ generally_RR hand-sliced_VVN before_II packaging_NN1 
+depending_II21 on_II22 requirements_NN2 
+slices_NN2 can_VM be_VBI packed_VVN in_II different_JJ quantities_NN2 
+some_DD fish_NN may_VM be_VBI sliced_VVN 
+and_CC then_RT put_VVN back_RP together_RL as_II a_AT1 sliced_JJ side_NN1 
+after_II vacuum_NN1 packing_NN1 
+the_AT fish_NN is_VBZ ready_JJ for_IF sending_NN1 off_II the_AT island_NN1 to_II customers_NN2 elsewhere_RL in_II the_AT UK_NP1 and_CC worldwide_RL 
+there_EX is_VBZ also_RR a_AT1 small_JJ shop_NN1 on_II the_AT premises_NN2 
+this_DD1 does_VDZ a_AT1 steady_JJ trade_NN1 with_IW the_AT local_JJ community_NN1 
+and_CC summer_NNT1 visitors_NN2 to_II the_AT island_NN1 
+so_RR the_AT Smoke_NP1 House_NP1 is_VBZ an_AT1 interesting_JJ example_NN1 of_IO an_AT1 industry_NN1 that_DD1 is_VBZ firmly_RR island-based_JJ 
+yet_RR it_PPH1 looks_VVZ out_RP to_II the_AT wider_JJR world_NN1 with_IW confidence_NN1 
+knowing_VVG it_PPH1 offers_VVZ ready_JJ access_NN1 to_II a_AT1 taste_NN1 and_CC experience_NN1 
+that_DD1 is_VBZ uniquely_RR Hebridean_JJ 

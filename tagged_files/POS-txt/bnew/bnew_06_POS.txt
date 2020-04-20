@@ -1,0 +1,21 @@
+an_AT1 elderly_JJ woman_NN1 has_VHZ died_VVN in_II a_AT1 two_MC car_NN1 crash_NN1 on_II the_AT A_NP131 eighty_NP132 two_NP133 in_II the_AT Loch_NNL1 Lormond_NP1 and_CC Trossachs_NP1 National_JJ Park_NP1 
+emergency_NN1 services_NN2 were_VBDR called_VVN to_II the_AT stretch_NN1 of_IO road_NN1 
+near_II the_AT Falls_NP2 of_IO Falloch_NP1 just_RR after_II five_MC21 fifteen_MC22 on_II Monday_NPD1 evening_NNT1 
+the_AT woman_NN1 who_PNQS died_VVD was_VBDZ eighty_MC21 six_MC22 
+a_AT1 number_NN1 of_IO other_JJ occumen-_FU occupants_NN2 in_II the_AT car_NN1 were_VBDR seriously_RR injured_VVN 
+the_AT road_NN1 was_VBDZ closed_VVN for_IF several_DA2 hours_NNT2 to_TO allow_VVI accident_NN1 investigations_NN2 to_TO take_VVI place_NN1 
+Dundee_NP1 University_NP1 staff_NN have_VH0 voted_VVN in_II31 favour_II32 of_II33 strike_NN1 action_NN1 over_II plans_NN2 to_TO cut_VVI a_MC41 hundred_MC42 and_MC43 twenty_MC44 jobs_NN2 
+a_AT1 total_NN1 of_IO sixty_MC21 nine_MC22 percent_NNU of_IO the_AT university_NN1 and_CC college_NN1 union_NN1 members_NN2 who_PNQS voted_VVD backed_VVD the_AT strike_NN1 action_NN1 
+while_CS eighty_MC21 four_MC22 percented-_FU 
+eighty_MC21 four_MC22 percent_NNU supported_VVD industrial_JJ action_NN1 short_JJ of_IO a_AT1 strike_NN1 
+the_AT UCU_NP1 held_VVD a_AT1 ballot_NN1 over_II redundancies_NN2 being_VBG proposed_VVN 
+as_II part_NN1 of_IO a_AT1 cost-cutting_NN1 scheme_NN1 
+a_AT1 spokesman_NN1 said_VVD the_AT university_NN1 was_VBDZ extremely_RR disappointed_VVN by_II the_AT vote_NN1 
+police_NN2 are_VBR investigating_VVG after_II a_AT1 card_NN1 skimming_NN1 machine_NN1 was_VBDZ found_VVN on_II two_MC ATMs_NP2 in_II Angus_NP1 towns_NN2 
+a_AT1 device_NN1 was_VBDZ found_VVN at_II the_AT Co-op_NN1 filling_NN1 station_NN1 in_II Forfar_NP1 at_II midday_NNT1 on_II Monday_NPD1 
+but_CCB was_VBDZ removed_VVN before_II police_NN2 arrived_VVD 
+less_DAR than_CSN an_AT1 hour_NNT1 later_RRR a_AT1 device_NN1 was_VBDZ recovered_VVN from_II another_DD1 cash_NN1 machine_NN1 also_RR at_II the_AT coop_NN1 
+in_II nearby_JJ Friockheim_NP1 
+police_NN2 want_VV0 to_TO trace_VVI a_AT1 silver_JJ car_NN1 which_DDQ may_VM have_VHI been_VBN at_II both_DB2 scenes_NN2 as_II31 well_II32 as_II33 men_NN2 seen_VVN acting_VVG suspiciously_RR 
+around_II the_AT machines_NN2 
+at_II the_AT time_NNT1 

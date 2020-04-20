@@ -1,0 +1,7 @@
+Raigmore_NP1 Hospital_NP1 ward_NN1 reopens_VVZ after_II flu_NN1 outbreak_NN1 
+
+A_AT1 HOSPITAL_NN1 ward_NN1 at_II Raigmore_NP1 in_II Inverness_NP1 has_VHZ reopened_VVN after_II being_VBG closed_VVN for_IF a_AT1 week_NNT1 because_II21 of_II22 a_AT1 flu_NN1 outbreak_NN1 ._. 
+Ward_NP121 7C_NP122 at_II the_AT hospital_NN1 closed_VVD on_II 20th_MD January_NPM1 after_II seven_MC patients_NN2 were_VBDR hit_VVN by_II the_AT bug_NN1 ._. 
+The_AT total_NN1 later_RRR increased_VVD to_II 11_MC but_CCB a_AT1 spokeswoman_NN1 for_IF NHS_NP1 Highland_NP1 confirmed_VVD it_PPH1 was_VBDZ open_JJ again_RT after_II no_AT new_JJ cases_NN2 were_VBDR reported_VVN for_IF five_MC days_NNT2 ._. 
+"_" While_CS the_AT ward_NN1 has_VHZ reopened_VVN to_II visitors_NN2 we_PPIS2 would_VM ask_VVI members_NN2 of_IO the_AT public_NN1 if_CSW they_PPHS2 ,_, or_CC someone_PN1 they_PPHS2 live_VV0 with_IW ,_, have_VH0 been_VBN ill_JJ with_IW flu_NN1 or_CC flu_NN1 like_JJ symptoms_NN2 that_CST they_PPHS2 refrain_VV0 from_II coming_VVG in_RP to_II the_AT hospital_NN1 to_TO visit_VVI patients_NN2 ,_, "_" she_PPHS1 said_VVD ._. 
+"_" Coming_VVG in_RP to_II hospital_NN1 to_TO visit_VVI a_AT1 family_NN1 member_NN1 or_CC friend_NN1 when_CS you_PPY have_VH0 been_VBN ill_JJ with_IW symptoms_NN2 such_II21 as_II22 those_DD2 associated_VVN with_IW flu_NN1 could_VM put_VVI them_PPHO2 ,_, and_CC our_APPGE other_JJ patients_NN2 ,_, at_II risk_NN1 so_CS we_PPIS2 would_VM ask_VVI that_CST you_PPY hold_VV0 off_RP visiting_NN1 until_CS you_PPY are_VBR better_JJR ._. "_" 

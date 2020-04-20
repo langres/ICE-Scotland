@@ -1,0 +1,134 @@
+and_CC my_APPGE name_NN1 is_VBZ John_NP1 Scott_NP1 
+and_CC as_II Deputy_NP1 Presiding_JJ Officer_NP1 
+it_PPH1 's_VBZ my_APPGE pleasure_NN1 
+to_TO welcome_VVI you_PPY 
+to_II the_AT Scottish_JJ parliament_NN1 tonight_RT 
+and_CC 
+to_II the_AT grand_JJ final_NN1 
+of_IO the_AT two_MC41 thousand_MC42 and_MC43 thirteen_MC44 two_MC41 thousand_MC42 and_MC43 fourteen_MC44 
+Donald_NP1 Dewar_NP1 
+memorial_NP1 debating_NP1 tournament_NP1 
+I_PPIS1 am_VBM delighted_JJ 
+to_TO be_VBI chairing_VVG 
+this_DD1 prestigious_JJ event_NN1 
+once_RR21 again_RR22 
+the_AT Dewar_NP1 debate_NN1 is_VBZ indeed_RR a_AT1 highlight_NN1 
+in_II the_AT parliamentary_JJ calendar_NN1 
+and_CC having_VHG presided_VVN 
+over_II proceedings_NN2 in_II this_DD1 chamber_NN1 throughout_II the_AT week_NNT1 
+I_PPIS1 'm_VBM greatly_RR looking_VVG forward_RL to_II hearing_VVG the_AT arguments_NN2 and_CC ideas_NN2 
+of_IO our_APPGE younger_JJR 
+speakers_NN2 
+this_DD1 evening_NNT1 
+a_AT1 hundred_MC41 and_MC42 twenty_MC43 eight_MC44 teams_NN2 representing_VVG schools_NN2 from_II around_II the_AT country_NN1 
+set_VVD out_RP on_II the_AT road_NN1 to_II Holyrood_NP1 in_II November_NPM1 
+last_MD year_NNT1 
+thirty_MC21 two_MC22 first_MD round_NN1 heats_NN2 
+sixteen_MC second_MD round_NN1 heats_NN2 
+and_CC four_MC semi-finals_NN2 
+have_VH0 whittled_VVN down_RP the_AT field_NN1 
+to_II the_AT four_MC 
+talented_JJ teams_NN2 
+who_PNQS 'll_VM be_VBI competing_VVG 
+in_II this_DD1 evening_NNT1 's_GE 
+grand_JJ final_NN1 
+and_CC my_APPGE congratulations_NN2 
+to_II the_AT finalists_NN2 
+who_PNQS I_PPIS1 will_VM introduce_VVI shortly_RR 
+and_CC to_II the_AT other_JJ 
+six_MC teams_NN2 
+who_PNQS will_VM also_RR 
+who_PNQS are_VBR also_RR 
+in_II seats_NN2 in_II the_AT chamber_NN1 
+and_CC they_PPHS2 will_VM have_VHI the_AT opportunity_NN1 
+to_TO participate_VVI in_II the_AT open_JJ floor_NN1 debates_NN2 
+during_II the_AT course_NN1 
+of_IO the_AT proceedings_NN2 
+this_DD1 competition_NN1 
+is_VBZ superbly_RR organised_VVN 
+by_II the_AT Law_NP1 Society_NP1 of_IO Scotland_NP1 
+and_CC I_PPIS1 offer_VV0 my_APPGE thanks_NN2 to_II everyone_PN1 
+from_II the_AT society_NN1 
+for_IF all_DB their_APPGE hard_JJ work_NN1 
+and_CC their_APPGE efforts_NN2 in_II this_DD1 regard_NN1 
+I_PPIS1 'd_VM also_RR like_VVI to_TO thank_VVI the_AT tournament_NN1 sponsors_NN2 
+Hodder_NP1 Gibson_NP1 
+publishers_NN2 
+and_CC the_AT Glasgow_NP1 Bar_NP1 Association_NP1 
+for_IF their_APPGE 
+much_RR valued_JJ 
+support_NN1 
+and_CC following_VVG the_AT untimely_JJ death_NN1 
+of_IO Donald_NP1 Dewar_NP1 
+Scotland_NP1 's_GE 
+first_MD 
+First_MD Minister_NP1 
+in_II the_AT early_JJ years_NNT2 of_IO this_DD1 parliament_NN1 
+this_DD1 debating_NN1 tournament_NN1 
+was_VBDZ dedicated_VVN 
+to_II Donald_NP1 's_GE memory_NN1 
+Donald_NP1 Dewar_NP1 
+was_VBDZ himself_PPX1 a_AT1 student_NN1 
+of_IO history_NN1 and_CC law_NN1 
+and_CC practised_VVD as_II a_AT1 solicitor_NN1 
+in_RL21 between_RL22 stints_NN2 as_II a_AT1 member_NN1 of_IO the_AT House_NP1 of_IO Commons_NP2 
+where_CS he_PPHS1 represented_VVD seats_NN2 in_II Aberdeen_NP1 
+and_CC Glasgow_NP1 
+Donald_NP1 was_VBDZ also_RR a_AT1 member_NN1 of_IO the_AT Glasgow_NP1 University_NP1 dialectic_NP1 society_NP1 
+and_CC was_VBDZ a_AT1 frequent_JJ participant_NN1 
+in_II its_APPGE debates_NN2 
+alongside_RL 
+his_APPGE many_DA2 well-known_JJ contemporaries_NN2 
+Donald_NP1 retained_VVD his_APPGE passion_NN1 for_IF debating_NN1 right_RR through_II his_APPGE political_JJ career_NN1 in_II the_AT House_NP1 of_IO Commons_NP2 
+and_CC in_II the_AT very_RG early_JJ days_NNT2 of_IO this_DD1 parliament_NN1 
+and_CC in_II his_APPGE maiden_JJ speech_NN1 
+in_II the_AT new_JJ 
+Scottish_JJ parliament_NN1 
+Donald_NP1 stated_VVD 
+today_RT 
+there_EX is_VBZ 
+a_AT1 new_JJ voice_NN1 in_II the_AT land_NN1 
+the_AT voice_NN1 
+of_IO a_AT1 democratic_JJ parliament_NN1 
+a_AT1 voice_NN1 
+to_TO shape_VVI Scotland_NP1 
+a_AT1 voice_NN1 
+for_IF the_AT future_NN1 
+so_CS it_PPH1 's_VBZ fitting_JJ therefore_RR 
+that_CST occupying_VVG the_AT seats_NN2 
+of_IO our_APPGE parliamentarians_NN2 tonight_RT 
+are_VBR potentially_RR 
+the_AT lawmakers_NN2 
+the_AT politicians_NN2 
+the_AT lawyers_NN2 
+of_IO the_AT future_NN1 
+and_CC it_PPH1 's_VBZ also_RR fitting_JJ 
+that_CST this_DD1 chamber_NN1 continues_VVZ to_TO reverberate_VVI 
+to_II the_AT sound_NN1 
+of_IO a_AT1 new_JJ generation_NN1 
+of_IO debators_NN2 
+through_II this_DD1 
+annual_JJ competition_NN1 
+finally_RR 
+joining_VVG us_PPIO2 in_II the_AT public_JJ gallery_NN1 this_DD1 evening_NNT1 
+are_VBR many_DA2 
+proud_JJ parents_NN2 
+classmates_NN2 
+and_CC teachers_NN2 
+and_CC it_PPH1 's_VBZ wonderful_JJ 
+to_TO see_VVI 
+all_DB of_IO you_PPY here_RL tonight_RT 
+as_RR21 well_RR22 
+and_CC I_PPIS1 hope_VV0 you_PPY 
+enjoy_VV0 
+your_APPGE evening_NNT1 
+here_RL 
+at_II Holyrood_NP1 
+I_PPIS1 wish_VV0 all_DB the_AT finalists_NN2 
+the_AT very_RG best_RRT of_IO luck_NN1 
+and_CC I_PPIS1 hope_VV0 you_PPY all_DB 
+have_VH0 an_AT1 enjoyable_JJ 
+evening_NNT1 here_RL 
+in_II your_APPGE 
+Scottish_JJ parliament_NN1 
+thanks_NN2 very_RG much_RR 

@@ -1,0 +1,33 @@
+<annotated>
+  <text>
+    <p><w c7="NP1">Apache</w><w c7="VBZ">is</w><w c7="MC1">one</w><w c7="IO">of</w><w c7="AT">the</w><w c7="NP1">North</w><w c7="NNL1">Sea</w><w c7="GE">'s</w><w c7="JJT">biggest</w><w c7="NN2">producers</w></p>
+    <p><w c7="RRR">earlier</w><w c7="DD1">this</w><w c7="NNT1">year</w><w c7="PPH1">it</w><w c7="VVD">opened</w><w c7="AT1">a</w><w c7="JJ">new</w><w c7="NN">headquarters</w><w c7="II">in</w><w c7="NP1">Aberdeen</w></p>
+    <p><w c7="CCB">but</w><w c7="CSA">as</w><w c7="AT">the</w><w c7="NN1">oil</w><w c7="NN1">price</w><w c7="VVZ">plummets</w><w c7="RR">close</w><w c7="II">to</w><w c7="MC">sixty</w><w c7="NNU2">dollars</w><w c7="AT1">a</w><w c7="NNU1">barrel</w></p>
+    <p><w c7="RT">today</w><w c7="PPH1">it</w><w c7="VHZ">'s</w><w c7="VBN">been</w><w c7="VVN">forced</w><w c7="TO">to</w><w c7="VVI">cut</w><w c7="NN2">contractors</w><w c7="GE">'</w><w c7="NN2">wages</w><w c7="II">by</w><w c7="MC">ten</w><w c7="NNU">percent</w></p>
+    <p><w c7="PPH1">it</w><w c7="VBZ">'s</w><w c7="AT1">a</w><w c7="NN1">pattern</w><w c7="VBG">being</w><w c7="VVN">repeated</w></p>
+    <p><w c7="II">across</w><w c7="AT">the</w><w c7="NN1">sector</w></p>
+    <p><w c7="DD1">this</w><w c7="VBZ">is</w><w c7="AT1">an</w><w c7="NN1">industry</w><w c7="RR">well</w><w c7="JJ">used</w><w c7="II">to</w><w c7="NN2">peaks</w><w c7="CC">and</w><w c7="NN2">troughs</w></p>
+    <p><w c7="CCB">but</w><w c7="AT">the</w><w c7="JJ">plunging</w><w c7="NN1">oil</w><w c7="NN1">price</w><w c7="VHZ">has</w><w c7="VVN">resulted</w><w c7="II">in</w><w c7="NN2">companies</w><w c7="VHG">having</w><w c7="TO">to</w><w c7="VVI">slash</w><w c7="NN2">costs</w></p>
+    <p><w c7="VVI">shelve</w><w c7="NN2">projects</w></p>
+    <p><w c7="CC">and</w><w c7="VVI">cut</w><w c7="NN">staff</w></p>
+    <p><w c7="NP1">Shell</w><w c7="CC">and</w><w c7="NP1">Chevron</w><w c7="VH0">have</w><w c7="VVN">announced</w><w c7="RG">around</w><w c7="MC">five</w><w c7="NNO">hundred</w><w c7="NN1">job</w><w c7="NN2">losses</w><w c7="II">between</w><w c7="PPHO2">them</w><w c7="II">in</w><w c7="AT">the</w><w c7="NP1">UK</w></p>
+    <p><w c7="NP1">ConocoPhillips</w><w c7="VH0">have</w><w c7="VVN">shed</w><w c7="MC41">two</w><w c7="MC42">hundred</w><w c7="MC43">and</w><w c7="MC44">sixty</w></p>
+    <p><w c7="CS">while</w><w c7="NP1">BP</w><w c7="VBZ">is</w><w c7="VVN">expected</w><w c7="TO">to</w><w c7="VVI">reveal</w><w c7="AT">the</w><w c7="NN1">extent</w><w c7="IO">of</w><w c7="APPGE">its</w><w c7="NN1">job</w><w c7="NN2">cuts</w><w c7="II">in</w><w c7="AT">the</w><w c7="NP1">North</w><w c7="NNL1">Sea</w></p>
+    <p><w c7="MD">next</w><w c7="NNT1">month</w></p>
+    <p><w c7="IW">with</w><w c7="MC1">one</w><w c7="JJ">leading</w><w c7="NN1">industry</w><w c7="NN1">figure</w><w c7="VVG">predicting</w><w c7="AT">the</w><w c7="NP1">UK</w><w c7="NN1">sector</w></p>
+    <p><w c7="VBZ">is</w><w c7="RT">now</w><w c7="JJ">close</w><w c7="II">to</w><w c7="NN1">collapse</w></p>
+    <p><w c7="AT">the</w><w c7="NN1">subject</w></p>
+    <p><w c7="VVD">dominated</w><w c7="NN2">exchanges</w></p>
+    <p><w c7="II">at</w><w c7="MD">First</w><w c7="NP1">Minister</w><w c7="GE">'s</w><w c7="NP2">Questions</w></p>
+    <p><w c7="NN1">oil</w><w c7="NN1">veteran</w><w c7="NNB">Sir</w><w c7="NP1">Ian</w><w c7="NP1">Wood</w><w c7="VVD">told</w><w c7="NP1">STV</w><w c7="NP1">news</w><w c7="MD">last</w><w c7="NNT1">week</w><w c7="MC">ten</w><w c7="NNU">percent</w><w c7="IO">of</w><w c7="AT">the</w><w c7="NP1">North</w><w c7="NNL1">Sea</w><w c7="NN1">workforce</w><w c7="VM">could</w><w c7="VBI">be</w><w c7="VVN">lost</w></p>
+    <p><w c7="II">in</w><w c7="RR">just</w><w c7="MC">eighteen</w><w c7="NNT2">months</w></p>
+    <p><w c7="CCB">but</w><w c7="VM">could</w><w c7="AT">the</w><w c7="JJ">falling</w><w c7="NN1">oil</w><w c7="NN1">price</w><w c7="VVI">benefit</w><w c7="AT">the</w><w c7="NP1">UK</w><w c7="NN1">economy</w></p>
+    <p><w c7="II">as</w><w c7="AT1">a</w><w c7="NN1">whole</w></p>
+    <p><w c7="IW">with</w><w c7="AT">no</w><w c7="JJ">immediate</w><w c7="NN1">sign</w><w c7="IO">of</w><w c7="AT1">an</w><w c7="NN1">increase</w><w c7="II">in</w><w c7="AT1">a</w><w c7="NNU1">barrel</w><w c7="IO">of</w><w c7="JJ">crude</w></p>
+    <p><w c7="NN2">analysts</w><w c7="VBR">are</w><w c7="VVG">predicting</w><w c7="RRR">further</w><w c7="JJ">dark</w><w c7="NNT2">days</w><w c7="RL">ahead</w></p>
+    <p><w c7="IF">for</w><w c7="AT">the</w><w c7="NP1">North</w><w c7="NNL1">Sea</w></p>
+    <p><w c7="NP1">Ross</w><w c7="NP1">Govans</w></p>
+    <p><w c7="NP1">STV</w><w c7="NP1">news</w></p>
+    <p><w c7="NP1">Aberdeen</w></p>
+  </text>
+</annotated>

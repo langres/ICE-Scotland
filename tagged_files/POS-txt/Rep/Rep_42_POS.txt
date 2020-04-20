@@ -1,0 +1,16 @@
+A9_NP1 travellers_NN2 face_VV0 traffic_NN1 restrictions_NN2 
+Written_VVN by_II Tom_NP1 Ramage_NP1 
+
+Traffic_NN1 restrictions_NN2 on_II two_MC sections_NN2 of_IO the_AT A9_NP1 are_VBR being_VBG imposed_VVN next_MD week_NNT1 as_CSA work_NN1 is_VBZ carried_VVN out_RP for_IF the_AT dualling_JJ programme_NN1 ._. 
+The_AT restrictions_NN2 ,_, starting_VVG on_II Wednesday_NPD1 (_( Oct_NPM1 1_MC1 )_) will_VM "_" enable_VVI vital_JJ ground_NN1 investigations_NN2 to_TO be_VBI carried_VVN out_RP on_II the_AT carriageway_NN1 of_IO the_AT existing_JJ A9_NP1 as_II the_AT dualling_JJ proposals_NN2 are_VBR progressed_VVN "_" a_AT1 Transport_NP1 Scotland_NP1 spokesman_NN1 said_VVD ._. 
+The_AT work_NN1 will_VM take_VVI place_NN1 on_II the_AT A9_NP1 between_II Kincraig_NP1 and_CC Dalraddy_NP1 –_– the_AT first_MD section_NN1 to_TO be_VBI dualled_VVN –_– and_CC between_II Birnam_NP1 and_CC the_AT Tay_NP1 Crossing_NP1 (_( Jubilee_NP1 Bridge_NP1 )_) ._. 
+"_" It_PPH1 is_VBZ anticipated_VVN that_CST the_AT investigation_NN1 works_NN2 between_II Kincraig_NP1 and_CC Dalraddy_NP1 ,_, which_DDQ are_VBR the_AT completion_NN1 of_IO work_NN1 carried_VVN out_RP in_II the_AT summer_NNT1 ,_, will_VM take_VVI around_RG two_MC weeks_NNT2 ,_, finishing_VVG on_II October_NPM1 12_MC ._. "_" 
+The_AT work_NN1 between_II Birnam_NP1 and_CC Tay_NP1 Crossing_NP1 ,_, one_MC1 of_IO the_AT most_RGT challenging_JJ parts_NN2 of_IO the_AT route_NN1 ,_, is_VBZ expected_VVN to_TO take_VVI around_RG 15_MC weeks_NNT2 ,_, starting_VVG next_MD Wednesday_NPD1 and_CC finishing_VVG in_II early_JJ January_NPM1 2015_MC ._. 
+No_AT works_NN2 will_VM take_VVI place_NN1 during_II the_AT two-week_JJ festive_JJ period_NN1 ,_, say_VV0 Transport_NP1 Scotland_NP1 ._. 
+"_" The_AT work_NN1 is_VBZ needed_VVN to_TO get_VVI vital_JJ information_NN on_II the_AT existing_JJ A9_NP1 carriageway_NN1 as_II the_AT Scottish_JJ Government_NP1 's_GE plans_NN2 to_TO dual_VVI the_AT route_NN1 are_VBR progressed_VVN ._. 
+"_" The_AT traffic_NN1 management_NN1 arrangements_NN2 will_VM include_VVI relatively_RR short_JJ contra-flow_JJ sections_NN2 controlled_VVN by_II temporary_JJ traffic_NN1 signals_NN2 ._. 
+"_" The_AT contra-flow_JJ sections_NN2 will_VM be_VBI moved_VVN along_II the_AT length_NN1 of_IO each_DD1 scheme_NN1 as_II the_AT work_NN1 progresses_VVZ ._. 
+"_" Transport_NP1 Scotland_NP1 apologises_VVZ for_IF any_DD inconvenience_NN1 caused_VVN by_II the_AT works_NN2 and_CC thanks_VVZ road_NN1 users_NN2 and_CC local_JJ communities_NN2 for_IF their_APPGE patience_NN1 over_II the_AT next_MD four_MC months_NNT2 ._. "_" 
+The_AT contractors_NN2 for_IF both_DB2 GI_NP1 works_NN2 will_VM closely_RR monitor_VVI the_AT operation_NN1 of_IO their_APPGE traffic_NN1 management_NN1 to_TO ensure_VVI that_CST delays_NN2 are_VBR kept_VVN to_II a_AT1 minimum_NN1 and_CC that_CST any_DD incidents_NN2 on_II site_NN1 are_VBR quickly_RR dealt_VVN with_IW ._. 
+"_" Road_NN1 users_NN2 are_VBR encouraged_VVN to_TO visit_VVI the_AT Traffic_NP1 Scotland_NP1 website_NN1 in_II advance_NN1 of_IO any_DD journey_NN1 to_TO get_VVI the_AT latest_JJT information_NN on_II the_AT traffic_NN1 management_NN1 arrangements_NN2 ._. "_" 
+More_DAR on_II this_DD1 in_II Thursday_NPD1 's_GE "_" Strathy_NP1 "_" ._. 

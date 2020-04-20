@@ -1,0 +1,27 @@
+as_II the_AT country_NN1 was_VBDZ battered_VVN by_II storm-force_JJ winds_NN2 
+a_AT1 driver_NN1 died_VVD when_CS his_APPGE HGV_NN1 toppled_VVD onto_II a_AT1 number_NN1 of_IO cars_NN2 in_II West_NP1 Lothian_NP1 
+this_DD1 lorry_NN1 was_VBDZ lying_VVG precariously_RR on_II the_AT guard_NN1 rail_NN1 of_IO the_AT Friarton_NP1 Bridge_NP1 in_II Perth_NP1 
+motorists_NN2 were_VBDR caught_VVN in_II eight_MC miles_NNU2 of_IO tail_NN1 backs_NN2 as_CSA the_AT vehicle_NN1 was_VBDZ recovered_VVN 
+bridges_NN2 including_II the_AT Tay_NP1 Forth_NP1 and_CC Skye_NP1 were_VBDR closed_VVN 
+driving_NN1 on_II coastal_JJ routes_NN2 in_II Orkney_NP1 was_VBDZ hazardous_JJ as_CSA waves_NN2 crashed_VVD over_II the_AT sea_NN1 defences_NN2 
+ferries_NN2 to_II the_AT Western_NP1 Isles_NNL2 were_VBDR cancelled_VVN 
+this_DD1 car_NN1 was_VBDZ engulfed_VVN by_II a_AT1 wave_NN1 at_II the_AT harbour_NN1 at_II Portsoy_NP1 in_II Aberdeenshire_NP1 
+this_DD1 morning_NNT1 the_AT entire_JJ rail_NN1 network_NN1 north_ND1 of_IO the_AT border_NN1 was_VBDZ also_RR shut_VVN down_RP 
+leaving_VVG passengers_NN2 stranded_JJ 
+roads_NN2 were_VBDR blocked_VVN since_CS hundreds_NNO2 of_IO trees_NN2 needed_VVD to_TO be_VBI cleared_VVN 
+mature_JJ trees_NN2 snapped_VVD like_II twigs_NN2 as_II a_AT1 graphic_JJ illustration_NN1 of_IO the_AT strength_NN1 of_IO the_AT storm-force_JJ winds_NN2 
+which_DDQ have_VH0 caused_VVN disruption_NN1 across_II most_DAT of_IO the_AT country_NN1 
+on_II the_AT roads_NN2 
+on_II the_AT rail_NN1 network_NN1 
+and_CC at_II sea_NN1 
+tonight_RT engineers_NN2 are_VBR continuing_VVG attempts_NN2 to_TO restore_VVI power_NN1 with_IW overhead_JJ cables_NN2 cuts_NN2 
+at_II its_APPGE highest_JJT 
+more_DAR than_CSN one_MC1 hundred_NNO21 thousand_NNO22 homes_NN2 and_CC businesses_NN2 were_VBDR affected_VVN 
+in_II Aberdeen_NP1 the_AT River_NN1 Dee_NP1 burst_VVD its_APPGE banks_NN2 
+while_CS some_DD buildings_NN2 suffered_VVD structural_JJ damage_NN1 
+forecasters_NN2 say_VV0 the_AT winds_NN2 
+are_VBR easing_VVG 
+but_CCB the_AT impact_NN1 could_VM be_VBI felt_VVN 
+for_IF several_DA2 days_NNT2 
+Ross_NP1 Govans_NP1 
+STV_NP1 news_NP1 

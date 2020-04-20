@@ -1,0 +1,53 @@
+Tom_NP1 Kitchin_NP1 :_: Summer_NNT1 tomato_NN1 recipes_NN2 
+
+by_II TOM_NP1 KITCHIN_NP1 
+TOMATOES_NN2 are_VBR a_AT1 wonderful_JJ ingredient_NN1 ._. Often_RR they_PPHS2 're_VBR seen_VVN as_II an_AT1 accompaniment_NN1 ,_, the_AT base_NN1 of_IO a_AT1 sauce_NN1 or_CC an_AT1 addition_NN1 to_II a_AT1 dish_NN1 ,_, but_CCB I_PPIS1 believe_VV0 you_PPY can_VM make_VVI them_PPHO2 the_AT centrepiece_NN1 of_IO a_AT1 meal_NN1 –_– especially_RR in_II fresh_JJ ,_, light_JJ summer_NNT1 suppers_NN2 ._. 
+The_AT secret_NN1 is_VBZ to_TO get_VVI your_APPGE hands_NN2 on_II some_DD high_JJ quality_NN1 ,_, fresh_JJ tomatoes_NN2 and_CC find_VVI a_AT1 recipe_NN1 that_DD1 brings_VVZ out_RP their_APPGE juicy_JJ ,_, natural_JJ flavour_NN1 ._. 
+July_NPM1 is_VBZ a_AT1 brilliant_JJ time_NNT1 to_TO enjoy_VVI tomatoes_NN2 and_CC heritage_NN1 varieties_NN2 are_VBR worth_JJ seeking_VVG out_RP if_CS you_PPY can_VM ._. Heritage_NN1 tomatoes_NN2 –_– or_CC heirloom_NN1 tomatoes_NN2 as_CSA they_PPHS2 're_VBR sometimes_RT known_VVN –_– are_VBR grown_VVN more_RGR naturally_RR ,_, as_CSA they_PPHS2 would_VM have_VHI been_VBN in_II the_AT past_NN1 ,_, hence_RR the_AT name_NN1 ._. 
+They_PPHS2 lack_VV0 the_AT genetic_JJ mutation_NN1 that_DD1 gives_VVZ modern_JJ tomatoes_NN2 an_AT1 appealing_JJ red_JJ colour_NN1 while_CS sacrificing_VVG the_AT fruit_NN 's_GE sweet_JJ taste_NN1 ._. They_PPHS2 are_VBR less_RGR uniform_JJ than_CSN the_AT perfect_JJ ,_, flawless_JJ varieties_NN2 you_PPY 'll_VM find_VVI in_II supermarkets_NN2 ,_, but_CCB I_PPIS1 think_VV0 that_DD1 's_VBZ what_DDQ makes_VVZ them_PPHO2 all_DB the_AT more_RGR enjoyable_JJ and_CC attractive_JJ on_II the_AT plate_NN1 ._. 
+Heritage_NN1 tomatoes_NN2 come_VV0 in_II all_DB shapes_NN2 and_CC sizes_NN2 and_CC the_AT joy_NN1 is_VBZ you_PPY can_VM create_VVI a_AT1 plate_NN1 of_IO vibrant_JJ reds_NN2 ,_, yellows_NN2 ,_, purples_NN2 and_CC greens_NN2 and_CC every_AT1 bite_NN1 will_VM bring_VVI with_IW it_PPH1 a_AT1 lovely_JJ new_JJ burst_NN1 of_IO flavour_NN1 ._. Most_DAT will_VM taste_VVI a_RR21 lot_RR22 more_RGR beefy_JJ and_CC flavoursome_JJ ._. 
+What_DDQ I_PPIS1 also_RR love_VV0 about_II them_PPHO2 is_VBZ the_AT shapes_NN2 –_– small_JJ ,_, large_JJ ,_, round_JJ or_CC bumpy_JJ –_– you_PPY 'll_VM rarely_RR find_VVI two_MC exactly_RR the_AT same_DA ,_, which_DDQ is_VBZ the_AT great_JJ thing_NN1 about_II serving_VVG and_CC eating_VVG them_PPHO2 ._. 
+Grown_VVN naturally_RR ,_, heritage_NN1 tomatoes_NN2 are_VBR left_VVN to_TO soak_VVI up_RP the_AT summer_NNT1 sun_NN1 ,_, making_VVG them_PPHO2 seriously_RR sweet_JJ ,_, ripe_JJ and_CC delicious_JJ ._. You_PPY 'll_VM find_VVI more_DAR than_CSN 25_MC varieties_NN2 ,_, and_CC part_NN1 of_IO the_AT fun_NN1 is_VBZ trying_VVG as_RG many_DA2 different_JJ types_NN2 as_CSA you_PPY can_VM ,_, from_II vibrant_JJ red_JJ "_" sweet_JJ cherry_NN1 "_" tomatoes_NN2 to_II sweet_JJ ,_, orange_JJ "_" sun_NN1 gold_NN1 "_" tomatoes_NN2 ,_, the_AT smoky_JJ sweetness_NN1 of_IO "_" black_JJ cherry_NN1 "_" ,_, or_CC the_AT distinctive_JJ red_JJ and_CC yellow_JJ stripes_NN2 of_IO the_AT "_" tigerella_NN1 "_" ._. 
+To_TO let_VVI the_AT flavours_NN2 really_RR shine_VVI ,_, make_VV0 a_AT1 heritage_NN1 tomato_NN1 salad_NN1 ,_, and_CC complement_VV0 it_PPH1 simply_RR with_IW some_DD fresh_JJ herbs_NN2 and_CC oils_NN2 or_CC cheeses_NN2 ._. Heritage_NN1 tomatoes_NN2 also_RR really_RR bring_VV0 out_RP the_AT flavour_NN1 of_IO this_DD1 season_NNT1 's_GE meats_NN2 and_CC fish_NN ._. 
+Right_RR now_RT at_II the_AT restaurant_NN1 we_PPIS2 're_VBR serving_VVG a_AT1 wonderful_JJ dish_NN1 on_II our_APPGE "_" celebration_NN1 of_IO the_AT season_NNT1 menu_NN1 "_" –_– a_AT1 heritage_NN1 tomato_NN1 salad_NN1 with_IW Newhaven_NP1 lobster_NN1 served_VVN with_IW olive_NN1 toast_NN1 and_CC a_AT1 tomato_NN1 consommé_FW ._. This_DD1 creates_VVZ a_AT1 wonderful_JJ plate_NN1 which_DDQ tastes_VVZ like_II the_AT essence_NN1 of_IO summer_NNT1 ._. 
+Whether_CSW you_PPY 're_VBR planning_VVG a_AT1 barbecue_NN1 ,_, a_AT1 summer_NNT1 meal_NN1 with_IW friends_NN2 or_CC a_AT1 simple_JJ ,_, light_JJ ,_, seasonal_JJ supper_NN1 ,_, I_PPIS1 would_VM certainly_RR recommend_VVI that_CST you_PPY bring_VV0 heritage_NN1 tomatoes_NN2 to_II the_AT forefront_NN1 of_IO your_APPGE dish_NN1 rather_II21 than_II22 simply_RR letting_VVG them_PPHO2 sit_VVI on_II the_AT sidelines_NN2 ._. 
+Heritage_NN1 tomato_NN1 ,_, mozzarella_NN1 salad_NN1 with_IW homemade_JJ pesto_NN1 Serves_VVZ four_MC 
+For_IF the_AT pesto_NN1 :_: 
+50_MC g_NNU fresh_JJ basil_NN1 
+1_MC1 clove_NN1 of_IO garlic_NN1 –_– crushed_VVN 
+5_MC tbsp_NNU quality_NN1 extra_JJ virgin_JJ olive_NN1 oil_NN1 
+25_MC g_NNU quality_NN1 Pecorino_NP1 cheese_NN1 –_– finely_RR grated_VVN 
+For_IF the_AT salad_NN1 :_: 
+8_MC heritage_NN1 tomatoes_NN2 –_– sliced_VVN 
+50_MC g_NNU fresh_JJ basil_NN1 leaves_NN2 
+250_MC g_NNU mozzarella_NN1 –_– roughly_RR chopped_VVN 
+salt_NN1 and_CC pepper_NN1 for_IF seasoning_NN1 
+For_IF the_AT pesto_NN1 ,_, using_VVG a_AT1 pestle_NN1 and_CC mortar_NN1 or_CC a_AT1 blender_NN1 combine_VV0 the_AT basil_NN1 ,_, garlic_NN1 and_CC extra_JJ virgin_JJ olive_NN1 oil_NN1 to_TO create_VVI a_AT1 paste_NN1 ._. Stir_VV0 in_RP the_AT finely_RR grated_JJ cheese_NN1 ._. For_IF the_AT salad_NN1 ,_, divide_VV0 the_AT tomatoes_NN2 equally_RR among_II four_MC plates_NN2 and_CC place_VV0 the_AT mozzarella_NN1 on_II top_NN1 ._. Lightly_RR drizzle_VV0 with_IW the_AT pesto_NN1 and_CC olive_NN1 oil_NN1 ,_, and_CC season_VV0 with_IW salt_NN1 and_CC pepper_NN1 ._. Garnish_VV0 with_IW the_AT fresh_JJ basil_NN1 leaves_NN2 and_CC serve_VV0 ._. 
+Summer_NNT1 tomato_NN1 salad_NN1 served_VVN with_IW tomato_NN1 consommé_FW and_CC tapenade_NN1 Serves_VVZ two_MC to_II three_MC 
+The_AT flavours_NN2 of_IO summer_NNT1 are_VBR undiminished_JJ in_II this_DD1 raw_JJ salad_NN1 set_VVN off_RP by_II salty_JJ tapenade_NN1 ._. You_PPY can_VM use_VVI vegetarian_JJ Worcestershire_NP1 sauce_NN1 if_CS desired_VVN ._. 
+For_IF the_AT vegetable_NN1 consommé_FW :_: 
+12_MC ripe_JJ tomatoes_NN2 ,_, chopped_VVN 
+¼_MF cucumber_NN1 ,_, chopped_VVN 
+splash_NN1 Worcestershire_NP1 sauce_NN1 
+splash_NN1 red_JJ wine_NN1 vinegar_NN1 
+salt_NN1 
+2_MC garlic_NN1 cloves_NN2 
+handful_NN1 basil_NN1 leaves_NN2 
+For_IF the_AT tapenade_NN1 :_: 
+1_MC1 garlic_NN1 clove_NN1 
+4_MC tbsp_NNU capers_NN2 
+200_MC g_NNU black_JJ olives_NN2 
+splash_NN1 sherry_NN1 vinegar_NN1 
+extra_JJ virgin_JJ olive_NN1 oil_NN1 
+salt_NN1 and_CC freshly_RR ground_JJ black_JJ pepper_NN1 
+For_IF the_AT salad_NN1 :_: 
+5_MC tomatoes_NN2 ,_, preferably_RR mixed_JJ colours_NN2 
+3_MC asparagus_NN1 spears_NN2 ,_, tips_NN2 only_RR 
+5_MC radishes_NN2 
+½_MF bulb_NN1 fennel_NN1 
+100_MC g_NNU broad_JJ beans_NN2 
+small_JJ bunch_NN1 baby_NN1 basil_NN1 
+For_IF the_AT vegetable_NN1 consommé_FW ,_, season_VV0 the_AT tomatoes_NN2 and_CC cucumber_NN1 with_IW Worcestershire_NP1 sauce_NN1 and_CC red_JJ wine_NN1 vinegar_NN1 ._. Blend_VV0 all_DB the_AT ingredients_NN2 together_RL in_II a_AT1 food_NN1 processor_NN1 ._. Place_VV0 a_AT1 sieve_NN1 lined_VVN with_IW a_AT1 muslin_NN1 cloth_NN1 on_II31 top_II32 of_II33 a_AT1 bowl_NN1 ,_, then_RT pour_VV0 in_RP the_AT vegetable_NN1 consommé_FW mixture_NN1 ._. Bring_VV0 the_AT edges_NN2 of_IO the_AT muslin_NN1 together_RL ,_, tie_VV0 with_IW a_AT1 piece_NN1 of_IO string_NN1 and_CC hang_VV0 over_RP the_AT bowl_NN1 ._. Leave_VV0 for_IF six_MC hours_NNT2 to_TO drain_VVI ._. Reserve_VV0 the_AT liquid_NN1 consommé_FW collected_VVN in_II the_AT bowl_NN1 ._. 
+For_IF the_AT tapenade_NN1 ,_, blend_VV0 all_DB of_IO the_AT ingredients_NN2 in_II a_AT1 food_NN1 processor_NN1 adding_VVG just_RR enough_DD olive_NN1 oil_NN1 until_CS it_PPH1 forms_VVZ a_AT1 paste_NN1 ,_, seasoning_VVG to_II taste_NN1 with_IW salt_NN1 and_CC pepper_NN1 ._. 
+For_IF the_AT salad_NN1 ,_, slice_VV0 the_AT tomatoes_NN2 into_II different_JJ sized_JJ pieces_NN2 ._. Slice_VV0 the_AT asparagus_NN1 ,_, radishes_NN2 and_CC fennel_NN1 and_CC place_VV0 them_PPHO2 in_II a_AT1 bowl_NN1 of_IO iced_JJ water_NN1 to_TO chill_VVI ._. When_CS ready_JJ to_TO serve_VVI ,_, drain_VV0 ._. 
+To_TO serve_VVI ,_, divide_VV0 the_AT tomatoes_NN2 ,_, broad_JJ beans_NN2 and_CC chilled_JJ vegetables_NN2 among_II four_MC small_JJ serving_NN1 bowls_NN2 and_CC garnish_VV0 with_IW the_AT tapenade_NN1 and_CC baby_NN1 basil_NN1 ._. Pour_VV0 over_RP the_AT consommé_FW ._. 

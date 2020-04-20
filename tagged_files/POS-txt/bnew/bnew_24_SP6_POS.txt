@@ -1,0 +1,38 @@
+health_NN1 inspectors_NN2 made_VVD an_AT1 unannounced_JJ visit_NN1 to_II Hairmyers_NP1 hospital_NN1 East_ND1 Kilbride_NP1 in_II September_NPM1 
+of_IO this_DD1 year_NNT1 
+what_DDQ they_PPHS2 saw_VVD concerned_VVD them_PPHO2 so_RG much_RR 
+they_PPHS2 alerted_VVD senior_JJ management_NN1 
+the_AT inspection_NN1 regime_NN1 included_VVD six_MC wards_NN2 and_CC departments_NN2 
+including_II Accident_NP1 and_CC Emergency_NP1 
+and_CC Intensive_NP1 Care_NP1 
+inspectors_NN2 took_VVD photographs_NN2 of_IO the_AT blood_NN1 
+and_CC bodily_JJ fluid_NN1 
+that_DD1 they_PPHS2 found_VVD 
+on_II numerous_JJ pieces_NN2 of_IO hospital_NN1 equipment_NN1 
+this_DD1 photograph_NN1 is_VBZ blood_NN1 
+on_II the_AT underside_NN1 of_IO a_AT1 patient_NN1 trolley_NN1 
+body_NN1 fluid_NN1 was_VBDZ found_VVN on_II these_DD2 seated_JJ scales_NN2 
+this_DD1 
+is_VBZ removable_JJ dirt_NN1 
+on_II a_AT1 shower_NN1 floor_NN1 
+and_CC on_II this_DD1 bedrail_NN1 of_IO a_AT1 patient_NN1 trolley_NN1 
+there_EX is_VBZ blood_NN1 contamination_NN1 
+NHS_NP1 Lanarkshire_NP1 promised_VVD to_TO make_VVI improvements_NN2 
+but_CCB on_II a_AT1 second_MD unannounced_JJ visit_NN1 a_AT1 few_DA2 weeks_NNT2 later_RRR 
+Scotland_NP1 's_GE chief_JJ hospital_NN1 inspector_NN1 was_VBDZ so_RG concerned_JJ 
+she_PPHS1 reported_VVD NHS_NP1 Lanarkshire_NP1 to_II the_AT Scottish_JJ government_NN1 
+over_II their_APPGE repeated_JJ hygiene_NN1 failures_NN2 
+in_II ward_NN1 nineteen_MC for_REX21 example_REX22 inspectors_NN2 say_VV0 they_PPHS2 found_VVD faecal_JJ contamination_NN1 
+on_II panels_NN2 at_II the_AT back_NN1 of_IO two_MC communal_JJ toilets_NN2 
+and_CC also_RR on_II the_AT toilet_NN1 wall_NN1 
+they_PPHS2 found_VVD faecal_JJ matter_NN1 
+on_II the_AT nurse_NN1 call_NN1 bell_NN1 at_II the_AT side_NN1 of_IO a_AT1 toilet_NN1 
+today_RT NHS_NP1 Lanarkshire_NP1 apologised_VVD 
+today_RT the_AT Health_NP1 Secretary_NP1 Alex_NP1 Neil_NP1 
+acknowledged_VVD the_AT unacceptable_JJ levels_NN2 of_IO cleanliness_NN1 at_II Hairmyers_NP1 hospital_NN1 
+but_CCB he_PPHS1 said_VVD that_CST 
+health_NN1 protection_NN1 teams_NN2 
+are_VBR now_RT working_VVG alongside_II staff_NN 
+to_TO tackle_VVI the_AT issues_NN2 raised_VVN 
+Karen_NP1 Greenshields_NP1 STV_NP1 news_NP1 
+East_ND1 Kilbride_NP1 

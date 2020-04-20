@@ -1,0 +1,51 @@
+<annotated>
+  <text>
+    <p><w c7="RL">here</w><w c7="VBZ">is</w><w c7="AT">the</w><w c7="NN1">news</w><w c7="II">at</w><w c7="MC">six</w><w c7="RA">o'clock</w></p>
+    <p><w c7="NNB">King</w><error><w c7="FU">Clarlos</w></error><w c7="UH">erm</w></p>
+    <p><w c7="NP1">Carlos</w><w c7="IO">of</w><w c7="NP1">Spain</w><w c7="VVZ">abdicates</w></p>
+    <p><w c7="NNB">King</w><w c7="NP1">Juan</w><w c7="NP1">Carlos</w><w c7="IO">of</w><w c7="NP1">Spain</w><w c7="VHZ">has</w><w c7="VVN">announced</w><w c7="APPGE">his</w><w c7="NN2">intentions</w><w c7="TO">to</w><w c7="VVI">abdicate</w><w c7="II">after</w><w c7="RR">nearly</w></p>
+    <p><w c7="MC">forty</w><w c7="NNT2">years</w><w c7="II">on</w><w c7="AT">the</w><w c7="NN1">throne</w></p>
+    <p><w c7="AT1">a</w><w c7="JJ">new</w><w c7="NN1">generation</w><w c7="VM">must</w><w c7="VBI">be</w><w c7="II">at</w><w c7="AT">the</w><w c7="NN1">forefront</w><w c7="JJR">younger</w><w c7="NN">people</w></p>
+    <p><w c7="JJ">new</w><w c7="NN2">energies</w><w c7="AT">the</w><w c7="MC21">seventy</w><w c7="MC22">six</w><w c7="NNT1">year</w><w c7="JJ">old</w><w c7="NN1">king</w><w c7="VVD">said</w><w c7="II">at</w><w c7="AT1">a</w><w c7="JJ">televised</w><w c7="NN1">address</w></p>
+    <p><w c7="APPGE">his</w><w c7="NN1">son</w><w c7="NN1">crown</w><w c7="NN1">prince</w></p>
+    <p><w c7="NP1">Felipe</w></p>
+    <p><w c7="MC21">forty</w><w c7="MC22">five</w><w c7="VM">will</w><w c7="VVI">take</w><w c7="RP">over</w><w c7="AT">the</w><w c7="NN1">throne</w></p>
+    <p><w c7="IF">for</w><w c7="DA1">much</w><w c7="IO">of</w><w c7="APPGE">his</w><w c7="NN1">reign</w><w c7="NP1">Juan</w><w c7="NP1">Carlos</w></p>
+    <p><w c7="VBDZ">was</w><w c7="VVN">seen</w><w c7="II">as</w><w c7="AT">the</w><w c7="RGT">most</w></p>
+    <p><w c7="NN1">world</w><w c7="GE">'s</w><w c7="RGT">most</w><w c7="JJ">popular</w><w c7="NN1">monarch</w><w c7="CCB">but</w><w c7="RR">recently</w><error><w c7="FU">ma-</w></error><w c7="DA2">many</w><w c7="NN2">Spaniards</w></p>
+    <p><w c7="VH0">have</w><w c7="VVN">lost</w></p>
+    <p><w c7="NN1">confidence</w></p>
+    <p><w c7="II">in</w><w c7="PPHO1">him</w></p>
+    <p><w c7="NP1">Juan</w><w c7="NP1">Carlos</w><w c7="VHZ">has</w><w c7="VBN">been</w><w c7="NN1">king</w><w c7="IF">for</w></p>
+    <p><w c7="MC21">thirty</w><w c7="MC22">nine</w><w c7="NNT2">years</w><w c7="CC">and</w><w c7="VVD">came</w><w c7="II">to</w><w c7="AT">the</w><w c7="NN1">throne</w><w c7="MC">two</w><w c7="NNT2">days</w><w c7="II">after</w><w c7="NNB">General</w><w c7="NP1">Franco</w><w c7="GE">'s</w><w c7="NN1">death</w></p>
+    <p><w c7="NNB">King</w><w c7="NP1">Juan</w><w c7="NP1">Carlos</w><w c7="VVZ">plays</w></p>
+    <p><w c7="AT1">a</w><w c7="JJ">pivotal</w><w c7="NN1">role</w><w c7="II">in</w><w c7="NP1">Spain</w><w c7="GE">'s</w><w c7="NN1">transition</w><w c7="II">to</w><w c7="NN1">democracy</w><w c7="II">after</w><w c7="NNB">General</w><w c7="NP1">Francisco</w><w c7="NP1">Franco</w><w c7="GE">'s</w><w c7="NN1">death</w></p>
+    <p><w c7="II">in</w><w c7="MC31">nineteen</w></p>
+    <p><w c7="MC32">seventy</w><w c7="MC22">five</w></p>
+    <p><w c7="AT">the</w><w c7="NN1">jury</w><w c7="II">at</w><w c7="AT">the</w><w c7="NN1">trial</w><w c7="IO">of</w><w c7="NP1">Rolf</w><w c7="NP1">Harris</w></p>
+    <p><w c7="VHZ">has</w><w c7="VVN">seen</w><w c7="AT1">a</w><w c7="NN1">video</w><w c7="NN2">prosecutors</w></p>
+    <p><w c7="VV0">say</w><w c7="VVZ">contradicts</w><w c7="APPGE">his</w><w c7="NN2">assertions</w><w c7="PPHS1">he</w><w c7="VM">could</w><w c7="XX">not</w><w c7="VHI">have</w><w c7="VBN">been</w><w c7="II">at</w><w c7="AT">the</w><w c7="NN1">location</w><w c7="IO">of</w><w c7="MC1">one</w><w c7="IO">of</w><w c7="APPGE">his</w><w c7="JJ">alleged</w><w c7="JJ">indecent</w><w c7="NN2">assaults</w></p>
+    <p><w c7="AT">the</w><w c7="NN1">footage</w><w c7="II">from</w><w c7="AT1">an</w><w c7="NP1">ITV</w><w c7="NN1">game</w></p>
+    <p><w c7="NN1">show</w></p>
+    <p><w c7="NN1">star</w><w c7="NN2">games</w><w c7="VBDZ">was</w><w c7="VVN">filmed</w><w c7="II">in</w><w c7="NP1">Cambridge</w><w c7="II">in</w><w c7="MC31">nineteen</w><w c7="MC32">seventy</w><w c7="MC33">eight</w></p>
+    <p><w c7="AT">the</w><w c7="NN1">entertainer</w><w c7="VHZ">has</w><w c7="VVN">told</w><w c7="AT">the</w><w c7="NN1">court</w><w c7="PPHS1">he</w><w c7="MD">first</w><w c7="VVD">visited</w><w c7="AT">the</w><w c7="NN1">city</w><w c7="MC">forty</w><w c7="NNT2">years</w><w c7="RA">ago</w></p>
+    <p><w c7="NNB">Mister</w><w c7="NP1">Harris</w><w c7="MC21">eighty</w><w c7="MC22">four</w><w c7="VVZ">denies</w><w c7="MC">twelve</w><w c7="JJ">indecedent</w><w c7="NN2">assaults</w><w c7="II">between</w><w c7="MC31">nineteen</w><w c7="MC32">sixty</w><w c7="MC33">eight</w><w c7="CC">and</w><w c7="MC31">nineteen</w><w c7="MC32">eighty</w><w c7="MC33">six</w></p>
+    <p><w c7="II">in</w><w c7="NN1">cross-examination</w><w c7="PPHS1">he</w><w c7="VVD">said</w><w c7="PPHS1">he</w><w c7="VHD">had</w><w c7="XX">not</w><w c7="VVN">realised</w></p>
+	<p><w c7="CS">where</w><w c7="AT">the</w><w c7="NN1">show</w></p>
+    <p><w c7="VBDZ">was</w><w c7="VVN">shot</w></p>
+    <p><w c7="NN2">police</w><w c7="VVG">investigating</w><w c7="AT">the</w><w c7="NN1">disappearance</w><w c7="IO">of</w><w c7="NP1">Madeleine</w><w c7="NP1">McCann</w><w c7="VH0">have</w><w c7="VVN">sealed</w><w c7="RP">off</w><w c7="AT1">a</w><w c7="JJ">large</w><w c7="NN1">area</w><w c7="IO">of</w><w c7="NN1">scrubland</w></p>
+    <p><w c7="II">in</w><w c7="NP1">Algarve</w><w c7="NN1">resort</w></p>
+    <p><w c7="IO">of</w><w c7="NP131">Praia</w><w c7="NP132">da</w><w c7="NP133">Luz</w></p>
+    <p><w c7="AT">the</w><w c7="JJ">British</w><w c7="NN1">girl</w><w c7="VBDZ">was</w><w c7="MC">three</w></p>
+    <p><w c7="CS">when</w><w c7="PPHS1">she</w><w c7="VVD">went</w><w c7="JJ">missing</w><w c7="II">in</w><w c7="AT">the</w><w c7="NN1">resort</w><w c7="II">in</w><w c7="MC41">two</w><w c7="MC42">thousand</w><w c7="MC43">and</w><w c7="MC44">seven</w></p>
+    <p><w c7="II">on</w><w c7="NPM1">May</w><w c7="MD21">twenty</w><w c7="MD22">second</w></p>
+    <p><w c7="NP1">Scotland</w><w c7="NP1">Yard</w><w c7="VVD">said</w></p>
+    <p><w c7="AT1">a</w><w c7="JJ">substantial</w><w c7="NN1">phase</w><w c7="IO">of</w><w c7="NN1">operation</w><w c7="NN1">activity</w><w c7="VM">will</w><w c7="VVI">start</w><w c7="II">in</w><w c7="NP1">Portugal</w><w c7="II">in</w><w c7="AT">the</w><w c7="JJ">coming</w><w c7="NNT2">weeks</w></p>
+    <p><w c7="AT">the</w><w c7="NP1">BBC</w><w c7="VVZ">understands</w><w c7="PPH1">it</w></p>
+    <p><w c7="PPH1">it</w></p>
+    <p><w c7="VHZ">has</w><w c7="RT">now</w><w c7="VVN">started</w><w c7="IW">with</w><w c7="AT">the</w><w c7="FU">?</w><w c7="VVN">planned</w></p>
+    <p><w c7="NN1">search</w><w c7="II">by</w><w c7="JJ">Portuguese</w><w c7="CC">and</w><w c7="JJ">British</w></p>
+    <p><w c7="NN2">police</w></p>
+    <p><w c7="NN2">officers</w></p>
+  </text>
+</annotated>
