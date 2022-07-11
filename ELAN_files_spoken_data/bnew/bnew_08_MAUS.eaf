@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-04-14T14:21:33+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-06-04T15:07:10+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/User/pacx_workspace_icescot/icescot/raw/spoken/broadcast news/bnew_08.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../../raw/spoken/broadcast news/bnew_08.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:1567d2c7-1e76-432a-85f2-921038f9087a</PROPERTY>
@@ -13163,7 +13163,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1455" TIME_SLOT_REF1="ts948" TIME_SLOT_REF2="ts949">
-                <ANNOTATION_VALUE>W</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>w</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

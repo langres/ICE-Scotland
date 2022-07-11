@@ -1,7 +1,7 @@
 the_AT passing_NN1 of_IO nearly_RR four_MC decades_NNT2 has_VHZ left_VVN no_AT trace_NN1 of_IO what_DDQ happened_VVD here_RL 
 no_AT flowers_NN2 or_CC tributes_NN2 or_CC scraps_NN2 of_IO police_NN2 tape_NN1 
 it_PPH1 looks_VVZ like_II an_AT1 ordinary_JJ beach_NN1 on_II the_AT shores_NN2 of_IO the_AT Forth_NP1 
-but_CCB it_PPH1 's_VBZ far_RR from_II that_DD1 
+but_CCB it_PPH1 's_VBZ far_RR21 from_RR22 that_DD1 
 this_DD1 is_VBZ Gosford_NP1 Sands_NP2 
 where_CS Christine_NP1 Eadie_NP1 was_VBDZ found_VVN in_II October_NPM1 nineteen_MC31 seventy_MC32 seven_MC33 
 the_AT jury_NN1 looked_VVD at_II the_AT high_JJ water_NN1 mark_NN1 where_CS she_PPHS1 lay_VVD naked_JJ bound_JJ and_CC gagged_JJ 

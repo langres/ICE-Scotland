@@ -1,0 +1,286 @@
+CANADA BUSINESS REPORT
+
+1. Introduction
+This report explores the potential risks and opportunities to a 
+    consumer goods organisation operating within Canada. The framework 
+    utilised by this report is a PESTEL analysis, with a more 
+    pronounced focus on the political, economic and social aspects, 
+    with technological and other aspects out with this framework found 
+    within the report. Information and raw data have been gathered from 
+    a number of references such as the World Economic Forum and the 
+    IMF.
+2. Method and Findings
+Using a PESTEL Analysis framework, the table below is a repeat 
+    of the key findings from the report. Following the table is the 
+    source of the data and a discussion that allowed the findings to be 
+    summarised more clearly in the table and at the end. The following 
+    sections will go into further detail, to convey the methodology.
+
+2.1 Economic
+Firstly, this section will look at the current economic 
+    indicators underpinning Canada. Canada’s GDP amounts to 1.713 
+    trillion US dollars meaning that Canada has the 10th largest GDP in 
+    the world (Data.worldbank.org, 2019) In addition, real growth is 
+    currently at 1.5% in 2019 down from 3% in 2017 (Imf.org, 2019). 
+    This could be related to escalating global trade tensions (see 
+    Geopolitical Risks). From the raw data provided, it can be seen 
+    that Canadas economy is currently experiencing relatively stable 
+    growth, this is also forecasted to remain at roughly 1.5% for the 
+    next 3 years (Alexander, 2019).
+2.1.1 International Trading Conditions
+Canada is an exporting nation, the 12th largest in the world to 
+    be exact and is part of two key trade agreements (Oec.world, 2017). 
+    The first of which is the Comprehensive Economic and Trade 
+    Agreement (CETA). This is a free trade agreement that took more 
+    than 10 years to negotiate and means that businesses operating in 
+    Canada will be able to export or import to and from the EU, which 
+    is Canada’s second largest trading partner, with 98% of tariff 
+    lines being duty free (Canada, 2019). This is important for 
+    multinational consumer goods businesses operating in Canada who 
+    rely on imports from the EU or ones who export their goods to the 
+    EU. It is even more beneficial for businesses that trade in 
+    machinery or use machinery to add value to their product. This is 
+    because machinery accounted for 24% of imports (Ec.europa.eu, 2019; 
+    The OEC, 2019). In 2017 exports to the European Union were worth 
+    10% of total exports, 16% of total imports and the value of trade 
+    between the two, in 2018 now amounts to 72.3 billion euros (ibid.). 
+    CETA gives businesses the opportunity to grow in this market and 
+    find it relatively easy to trade with the EU from Canada. However, 
+    of this 10%, it is important to note that the UK accounts for 4%, 
+    in 2017 (The OEC, 2019). If Brexit occurs this could mean trade 
+    with the UK would be done under world trade organisation rules, 
+    resulting in more difficulty trading with the UK through possible 
+    tariffs. Overall, trading conditions in regard to Europe appear to 
+    be relatively frictionless because of this agreement and increases 
+    product market competition through reducing/removing trading 
+    barriers. The OECD forecasts that this will improve productivity 
+    that has been causing a slowdown in GDP growth (OECD, 2019).
+Canada’s largest and closest trading partner however is the US. 
+    Exports accounted for 73% of total trade in 2017 valued at $275 
+    billion (The OEC, 2019). Total imports from the country amounted to 
+    46%. The President of the US, Donald Trump has recently ratified 
+    the previous North American Free Trade agreement (NAFTA) and has 
+    replaced it with the United States-Mexico-Canada Agreement (USMCA). 
+    One of the major changes is that any member of the agreement can 
+    pull out of the agreement with 6 months’ notice. This is a 
+    potential uncertainty that lingers over businesses who trade within 
+    North America. One of Canada’s largest exports is cars worth 12% of 
+    its total exports (The OEC, 2019). Previously with NAFTA to claim 
+    no tariffs on cars 62.5% of parts must be produced in one of the 3 
+    nations, however that has now increased to 75%., which may 
+    incentivise business to source more parts from one of the three 
+    nations, however as labour conditions and wages are higher in North 
+    America, this could lead to increase of prices for businesses in 
+    this industry (Kiley, 2019). This ratification has also meant that 
+    previous tariffs threatened by Trump will, for the moment, not take 
+    place. However, 25% worth of tariffs do remain on aluminium and 
+    steel (ibid.). Trump’s solution to the US trade deficit is to rip 
+    up or ratify trade agreements and increase tariffs on any industry 
+    or country that the US has a trade deficit with. Due to this, 
+    businesses operating in Canada need to remain vigilant. As 
+    previously stated, a nation can pull out of the agreement with just 
+    6 months’ notice. Canada’s economy, much like the rest of the 
+    worlds has been shook by the US’s new trade policies in particular 
+    the mounting trade war between Canada and China, as well as other 
+    rising trade tensions across the globe, in particular the movement 
+    away from frictionless trade and one towards tariffs (World 
+    Economic Forum, 2019).
+In spite of this Canada is in a relatively good position in 
+    terms of trade. It has agreements with both of its two largest 
+    trading partners the US and the EU, making it easier for 
+    multinational organisations to do business there and gives them the 
+    opportunity to grow in these markets and increase exports/imports. 
+    No tariffs may also allow businesses to trade more and reduce 
+    prices on products. Another opportunity is with no tariffs 
+    manufacturing goods may be able to improve efficiency by operating 
+    Just in Time policies across borders. The deal with the EU is long 
+    term and expected to remain with little to not ratification in the 
+    foreseeable future. On the other hand, the deal with the US and 
+    Mexico, is slightly more uncertain, but not much. It is advised 
+    that Multinationals listen to the rhetoric from the US president in 
+    the run up to the 2020 election, in order to assess future trade 
+    risks between the US and Canada.
+2.1.2 Geopolitical Risks to Canada's Economy
+There are 2 key geopolitical events that are posing risk to the 
+    Canadian, and global economy, briefly described earlier. First, is 
+    the mounting trade tensions between the US and China, and the 
+    second is a disorderly departure of the UK from Europe. Both of 
+    which could damage the global economy and could potentially result 
+    in Canada entering a recession (Alexander, 2019). Thus, raising the 
+    question: how resilient is Canadas financial services?
+2.1.3 Resilience of Financial Markets
+The Financial crisis of 2008-2009 resulted Canada going into 
+    recession, but it managed to recover relatively quickly. This is 
+    because Canada, at the time, had the most financially sound banking 
+    system in the world. Little has changed, in 2017-2018 Canada has 
+    been ranked 2nd in the world only to Finland (Global 
+    Competitiveness Index, 2018). Canada’s the 3rd largest oil exporter 
+    in the world and was hit greatly by the 2014 oil price shock, 
+    forcing Canada into a recession in 2015. The IMF states that 
+    through “accommodative monetary policy” Canada quickly recovered 
+    and had the strongest growth rates out of the G7 nations in 2017 
+    (IMF, 2019). Businesses operating here will be able to be fairly 
+    certain and confident in the financial resilience of the 
+    country.
+2.2 Politics
+2.2.1 Current Political Scenario
+Canada operates as a federal parliamentary democracy under a 
+    constitutional monarchy. The parliamentary terms are 5 years with 
+    no term limits, and the government can remain so long as it has the 
+    confidence of parliament (Cia.gov, 2019). This is important because 
+    it means business can understand that decisions are more likely to 
+    be planned for the term of government so within a 5-year term limit 
+    or if they are fairly confident, longer. The most recent election 
+    held in Canada took place on the 21st October 2019 
+    (Enr.elections.ca, 2019). Justin Trudeau, leader of the liberal 
+    party, has retained his position as the Prime Minister of Canada. 
+    The most prominent parties that could be voted for across all 10 
+    provinces are Justin Trudeau’s centre left Liberal party and the 
+    centre right Conservative party (centre right). This last election 
+    saw the Liberal Party lose its majority and saw their total seats 
+    drop to 157 out of 358. The Conservatives came second with 121 
+    seats (Enr.elections.ca, 2019). Thus, more co-operation will be 
+    needed across the parliament in order for the Canadian government 
+    to advance its policies. This is important for organisations to 
+    know as it means government policy will be harder to implement over 
+    the next 5 years.
+In general, Canadian politics are relatively stable, with 
+    governments being formed either by the Conservatives or the Liberal 
+    Party. One important social fragmentation to consider is that the 
+    3rd largest party is now the Bloc Quebecois, a party who argues for 
+    Quebec to be independent (Enr.elections.ca, 2019). The government 
+    may rely on their votes to pass policies, which might involve 
+    financial benefits for Quebec or more political power than the 
+    province currently holds. Dependent on the government of Quebec, 
+    opportunities may arise for businesses operating in the province. 
+    However, in terms of risk, it does not look likely that the 
+    province of Quebec will separate from Canada based on the fact 
+    there has been no specific big event or change, similar to Brexit, 
+    that could increase support for an independent Quebec.
+In terms of policies, Canada does tend to be pro-business and 
+    has banks for business development and a bank that helps business 
+    looking to export (BDC, 2019). Each of which provides opportunities 
+    in themselves. In recent years, emphasis has been put on education 
+    as well as infrastructure, with the government setting up a bank 
+    for infrastructure, which has a resulted in deals that will result 
+    in the port in Montreal to be expanded and a hydroelectricity 
+    expansion project (Canada Infrastructure Bank, 2019).
+2.2.2 Transparency and Corruption
+According to a report published by Transparency International 
+    (2018), Canada has “one of the most well-established and robust 
+    lobbying regulations worldwide”. One of the acts passed by the 
+    Canadian parliament in 1985 and last amended in 2008, is The 
+    Lobbying Act (Laws.justice.gc.ca, 2019). This act in effect means 
+    that organisations who do lobby in Canada, will be published openly 
+    online. Breaching this act can result in “fines of up to CA$200,000 
+    and/or imprisonment” (Transparency International, 2018). This is of 
+    course important for business to understand the risks surrounding 
+    lobbying and transparency in general. It also shows that corruption 
+    in Canada is minimal compared to other countries, making the ease 
+    of doing business relatively simple so long as transparency is 
+    upheld.
+2.2.3 Legislation
+Current legislation is based off English common law on a federal 
+    level (Cia.gov, 2019). Based on current legislation, organisations 
+    in Canada find it relatively easy to pay taxes, with Canada being 
+    ranked 19th in the world in terms of ease of paying taxes, above 
+    that of the US (World Bank Group, 2019).
+2.3 Social
+2.3.1 Demographic overview
+Internally, Canada has an estimated population in 2018 of 
+    35,881,659 (Cia.gov, 2019). The northern area of Canada is largely 
+    unhabitable, for this reason the vast number of the population are 
+    spread across the largest land border in the world with the US 
+    (ibid.). This is a very large market and is graded as one with a 
+    high income and highly educated people (World Bank Group, 2019).
+2.3.2 Importance of Language / Mind your Language
+Canada has two official languages English (58.7%) and French 
+    (22%) (Cia.gov, 2019). The languages spoken have of course 
+    implications on organisations operating in Canada. First of all, 
+    with the CETA agreement previously discussed, businesses have the 
+    opportunity to hire French speakers to help increase market share 
+    in France or to make doing trading with the country easier. 
+    Quebec’s official language is French and has strict legislation and 
+    regulation to encourage the French language to be used. This poses 
+    risks such as internal trade barriers, with marketing needing to be 
+    in French to operate or sell goods in this province. The most 
+    recent case involved Air Canada, in which the court ruled that the 
+    airline violated a French couples linguistic rights. One of the 
+    reasons given was that the French word for ‘exit’ was written 
+    smaller than that of the English one (BBC News, 2019).
+2.3.3 Workforce
+The unemployment rate hit a record low this year and currently 
+    sits at 5.5%. (Ceicdata.com. 2019). This is relatively healthy 
+    giving organisations the opportunity to recruit from a reasonable 
+    sized pool of labour and little risk of a decrease in customer 
+    spending from this number. Risks to Canada’s economy and workforce 
+    is, like in many western nations, an ageing population with less 
+    women giving birth to children, and more placing value on their 
+    future career (Whiting, 2018) Canada understands this and the 
+    current government announced in 2018 to increase migration to the 
+    country by just over one million people over a three-year basis. 
+    With that said, 48% of the total admitted will be skilled workers 
+    facilitated by economic programmes (Whiting, 2018). This gives 
+    business the opportunity to fill their own skill gaps that may have 
+    persisted in the past, in addition given the open political 
+    situation discussed above, this report forecasts more immigration 
+    in the future. Through this increase in worker population through 
+    migration, the risk of corporate or individual income tax hikes 
+    remains low. It is also important to note that Canada has the most 
+    diverse workforce in the world (WEF, 2019), which has been leading 
+    to new ideas and supporting Canada as an innovative and outward 
+    looking nation. The new ideas from such a diverse workforce can 
+    lead to opportunity of innovation within organisations operating in 
+    Canada. Another factor is that Canada’s is highly educated, and 
+    this is set to increase as the Liberal Party promises further 
+    spending increases in higher education institutions (WEF, 2019). 
+    This also plays a positive role in innovation and developing 
+    skilled roles within organisations operating there.
+3. Concluding Summary
+This report has highlighted key opportunities and risks for 
+    businesses operating in Canada. Most of which can be found in the 
+    table at the beginning of this report. Canada’s political system is 
+    transparent and for the foreseeable future easy to predict, 
+    providing business with certainty towards future legislation and 
+    therefore is in its nature low in risk. Government policy makes it 
+    easy to do business in this country through the introduction of 
+    specific banks for specific economic challenges facing businesses. 
+    This includes banks that provide advice for businesses looking to 
+    export and banks that are set up specifically to improve 
+    infrastructure. In terms of economic outlook, GDP is set to grow at 
+    a sustainable level of 1.5 percent for the next 3 years. In 
+    addition, international trade is a great opportunity for 
+    organisations operating in this market through trade deals with 
+    Canada’s two largest trading partners. This provides businesses 
+    with the opportunity to improve efficiency in manufacturing, which 
+    will have a positive effect on supply chains. In addition, 
+    organisations have access to large markets beyond Canada, allowing 
+    a number of opportunities from sourcing high quality materials at 
+    lower costs or grow markets internally and externally. There are 
+    key geopolitical risks, that have been highlighted: mounting global 
+    trade tensions and a disorderly Brexit, that could cause Canada’s 
+    economy to suffer. However as pointed out, financial institutions 
+    in Canada are some of the strongest in the world and have 
+    previously provided much needed resilience to previous economic 
+    shocks. Finally, the report placed emphasis on the demographics, 
+    focusing on the workforce. The workforce is highly educated and the 
+    most diverse in the world, this has resulted in opportunities in 
+    terms of new creative ideas which could further encourage 
+    innovation within organisations operating there. There are risks, 
+    for example, an ageing population, but government policy has 
+    countered the risks through economic programmes that will allow 
+    immigration of more than 1 million over the next three years, 48% 
+    of which will be skilled workers specific to skill gaps faced by 
+    industry in the country.
+Based on the concluding ideas Canada has risks, however they are 
+    very low and organisations in Canada have more opportunities than 
+    not.
+3.1 Limitations
+The limitations of this report are that the framework used, and 
+    the analysis does tend to overlap with one another. Political 
+    decisions mentioned do have an impact on the social aspects of the 
+    workforce as mentioned above. That is the reason behind the table 
+    at the start and the long summary at the end to bring the ideas 
+    spoken about into a coherent and clear structure that leads to the 
+    concluding ideas.
+

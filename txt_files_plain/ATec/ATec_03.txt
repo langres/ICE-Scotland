@@ -1,0 +1,208 @@
+1.2. Development Workflows
+In the field of Instructional design (ID) there are a number of 
+    frameworks that are useful when developing elearning content. These 
+    range from ID design approaches and implementations, to models of 
+    evaluation. A common elearning design approach used at RGU is the 
+    traditional stage-based ADDIE approach [8]. The workflow of an 
+    ADDIE project follows a step-wise workflow from Analysis, to design 
+    and development then implementation and finally evaluation. In this 
+    manner, ADDIE project progression is often depicted as water 
+    flowing serially down a single staircase. Development projects 
+    typically take place in response to an identified learning need and 
+    are staffed with elearning support personnel partnered with 
+    experts, commonly lecturers, in the target field.
+The needs are diagnosed for the learner and a complete solution 
+    is implemented. In-house staff have found ADDIE-based projects to 
+    work well for large scale changes scheduled during student breaks 
+    or major course redevelopments, however it is less suited to 
+    term-time developments where staff resources are spread thin due to 
+    concurrent teaching and general learning support demands.
+Whilst having reduced development time during semesters, there 
+    is a general high availability of potential test users. Utilising 
+    students as a resource, allows development projects to follow a 
+    rapid prototyping methodology [9]. This method involves iterative 
+    developmental steps that utilise early feedback received from both 
+    the student learners and tutor stakeholders. Development loosely 
+    follows ADDIE steps but in spiral workflow with each successive 
+    loop a self-contained output item with increasing functional 
+    complexity.
+As a complement to the iterative nature of the development 
+    process, an adapted just-in-time teaching approach was chosen to 
+    develop a resource which met current needs, but inherently 
+    contained capacity to be extended. Just-in-time teaching is a 
+    combination of classroom and web-based training introduced by 
+    Physics Professor Gregor Novak as a solution to falling engagement 
+    within his science classes [10]. In order to maximise the 
+    efficiency of a classroom session with human instructors, Novak 
+    designed a web-based learning component intended for students to 
+    review outside the classroom prior to attending their lessons. 
+    Review can take place at any time convenient for the learner, and 
+    can therefore be subjectively viewed as “in my own time” or “just 
+    for me” learning by the learner [11]. The web component was split 
+    in to WarmUps, typically thought-provoking 
+    background information of a given classroom topic and 
+    Puzzles relating the background information 
+    presented [12,13]. As part of a feedback loop, students were 
+    invited to give their feedback on the web component to help the 
+    teacher build a so-called active learner 
+    classroom. Here, the teacher is expected to take the 
+    feedback onboard and adjust the teaching accordingly.
+During our learning intervention, an engaging just-in-time 
+    teaching approach was employed using the web activity usage 
+    statistics, word-of-mouth and open-entry reflective comments as 
+    feedback to inform classroom learning.
+2. Methodology: Project Development
+There were 3 phases to this project; (1) design and development 
+    of the core elearing object, 
+    (2) completion and implementation of an elearning activity, and (3) 
+    overall evaluation of any change effects upon use of the module 
+    elearning content. The sample group was 146 first year 
+    undergraduate (2011/2012) MPharm students undertaking the SCQF 7 
+    (Pharmaceutical Biology) and SCQF 8 (Integrative Physiology) 
+    modules.
+2.1. Phase 1: Development of Core Elearning Elements—A 3D 
+    Virtual Arm
+The open source 3D tool “MakeHuman” was used to create a 
+    gender-neutral human form (Figure 1) as a 3D mesh (MakeHuman.org, 
+    Giulianova, Italy) [14].
+Using the 3D CAD package Blender 2.5 (Stichting Blender 
+    Foundation, Amsterdam, Netherlands) [15], the full human form was 
+    reduced to a core arm template The majority 
+    of the time allowance for core development was devoted to this 
+    stage of the project with no iterative feedback required. Expertise 
+    in 3D mesh editing and texturising was required as was anatomical 
+    expertise to reproduce a simplified internal skin structure 
+    depicting different skin layers.
+From the complete limb, an arm was extracted from the 3D mesh 
+    and a representative cross section “block” imported into the 
+    free-to-use package Trimble SketchUp (Trimble Navigation, 
+    Sunnyvale, CA, USA) [16] formally Google SketchUp (Google, Mountain 
+    View, CA, USA). In both phases, development time was monitored at 
+    each stage.
+Figure 1. 3D Virtual Arm template 
+    creation.
+
+2.2. Phase 2: Design and Implementation of the Learning 
+    Activity
+The virtual arm 3D object was edited and formed into an 
+    elearning activity. Using organic modeling tools with the SketchUp 
+    application 3D features of various skin lesions were re-created 
+    from 2D photographs and each added and saved as separate instances 
+    of the main template. (Trimble Navigation, Sunnyvale, CA, USA) [16] 
+    Open-source rendering software Kerkythea was used to create a 
+    series of angular “shots” of each block section (Solid Iris 
+    Technologies, Attiki, Greece) [17].
+Each set of shots were processed using commercial Adobe Flash 
+    software to create a 3D object tour [18], a common feature 
+    typically viewed on product websites to virtually rotate a given 
+    product. This allowed students to manipulate the area under review 
+    and to identify the specific skin layers involved. Areas of each 
+    lesion example were labeled and all objects embedded into the 
+    commercial Articulate™ elearning development package (Figure 2). 
+    Once added to the Articulate™ software (Articulate, New York, NY, 
+    USA) [19], further photographs, text descriptions with voice over, 
+    and quiz elements were added.
+Prior to using the “virtual arm”, clear and concise instructions 
+    for using the presentation were provided. To ensure students had 
+    the opportunity to assess their learning they were provided with 
+    appropriate feedback and a quiz evolved including “fun” tasks such 
+    as a sequence, spell and visual test. If a student achieved a 
+    correct answer they were immediately “rewarded” with a “round of 
+    applause”. The students 
+    score was still provided at the end of the quiz together with the 
+    pass rate of 80%.
+Figure 2. Skin legions activity created and 
+    embedded using presentation tool.
+
+2.3. Phase 3: Evaluation
+Kirkpatrick’s 1998 four-level model was adapted to help 
+    structure the qualitative and quantitative data collected for 
+    evaluation [20]. An updated description of Kirkpatrick’s model that 
+    includes elearning considerations and a fifth-level to examine 
+    return of investment or ROI [21] was used. Levels 1 to 3 (Reaction, 
+    Learning and behavior), embody a subjective form of evaluation 
+    which were combined with the more objective levels 4 to 5, namely 
+    Results and Return of Investment (ROI).
+Level 1: Reaction. The first evaluation level of Kirpatrick’s 
+    model is Learner Reaction [20]. Data at this level gauges initial 
+    impressions using a quick form of feedback. Reaction to the 
+    material was gauged via discussions in-lecture and practical 
+    sessions. This also acted to verify the accessibility and 
+    functionality of the learning object’s final stage of 
+    prototyping.
+Level 2: Learning. At level 2, our evaluation moves to a 
+    comparison between the personal learning experiences of the 
+    students and the intended goals. Views of personal learning were 
+    obtained from portfolio reflections following ethical approval from 
+    the RGU ethics committee. Students were asked on a voluntary basis 
+    to reflect on their learning experience as part of their 
+    e-portfolio and share these reflections.
+Level 3: Behavior. Behavior seeks to determine the success in 
+    meeting the organisational goals, and identifying the strengths and 
+    weaknesses in the training process. Behavior was gauged by looking 
+    at how reflective comments such as those detailing how learner 
+    actions were effected by the presence of the Virtual Arm 
+    activity.
+Level 4: Results. Results in the context of the Kirkpatick model 
+    produce the most clear quantitative evidence of meeting the 
+    training goals [20]. Data was obtained from overall Multiple Choice 
+    Question (MCQ) results produced from student assessment.
+Level 5: Return of investment (ROI). The ROI is a performance 
+    measure which is best suited to financial comparisons between what 
+    is spent to and what is obtained from any given intervention. This 
+    metric helps stakeholders determine whether the project can be 
+    repeated efficiently. Whilst staff hours translating to a financial 
+    value were logged during the project, student outcomes are less 
+    easily quantifiable in cash terms at the departmental level. The 
+    equation to determine ROI in terms of financial efficiency is given 
+    as:
+ROI = (Gain of investment (£) − Cost of investment (£))/Cost of 
+    investment (1)
+The authors propose an ROI that can measure efficiency based on 
+    use of existing and novel materials as measured by development 
+    time. The development and implementation of the 3D object was 
+    conducted in 2 phases, (1) the creation of the reusable core 
+    object, and (2) the customisation of the core object onto an 
+    elearning activity. Materials efficiency can then be measured as a 
+    percentage of the total time investment that can be reused for 
+    projects that require the same resources, therefore:
+ROI materials = (Time spent creating 
+    reusable template/time spent creating entire object) × 100 (2)
+Whilst this ROI approach does not deliver a generic cash-based 
+    comparison with other projects, standalone efficiency is still 
+    represented in terms of creating further developments from the 
+    existing core 3D object.
+3. Results and Discussion
+3.1. Use of the Virtual Arm alongside Existing 
+    Elearning
+Pharmacy students require an appreciation of the structure and 
+    function of the integumentary system and not simply its role as a 
+    defence mechanism. A pilot learning object branded “The Virtual 
+    Arm” based on supportive immune and integumentary system notes for 
+    the SCQF level 8 (Integrative Physiology) courseworks was designed 
+    as described above and instigated as a new component during the 
+    courseworks. Articulate™ Presenter software was used to design a 
+    supportive presentation around material covered in the courseworks 
+    but also to introduce new material to the students. Supplemental to 
+    the 3D Virtual Arm object, Articulate™ Engage (Articulate, New 
+    York, NY, USA) was used to develop in-depth introductions to the 
+    immune and integumentary systems [19]. Articulate™ Quiz maker 
+    software (Articulate, New York, NY, USA) was used to design a 
+    revision quiz for both immune and the integumentary systems [19]. 
+    The pass rate for all quizzes was set at 80% and this information 
+    was shown to the students together with their own score at the end 
+    of the quiz. All questions were randomised as was the order in 
+    which the descriptors and key were presented to students. No 
+    restrictions were put on access and all e-learning materials were 
+    available to students either on or off campus throughout the course 
+    of the module.
+An external software package, from the University of California, 
+    the Ouchterlony simulation was also used in this project [22]. 
+    Together with an adapted feedback presentation these illustrated 
+    one of the major concepts of the immune system, antigen-antibody 
+    interaction. Various mammalian and avian antibody/antigen 
+    combinations were used to place the information into context. In 
+    addition to the elearning materials appropriate articles from 
+    healthcare journals were used to enhance 
+    students learning 
+    [23].

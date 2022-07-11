@@ -1,0 +1,44 @@
+Hands on ... Lytro light field camera
+This gadget is a camera, albeit one that has little in 
+    common with the vast majority of digital cameras.
+The Lytro is the brainchild of Ren Ng, a Stanford University 
+    graduate whose research into light field photography won the 
+    academic institution's prize for best thesis in computer 
+    science.
+The key selling point of the Lytro is that images can be focused 
+    after the fact. Unlike a conventional camera where moving optics 
+    focus incoming light against a flat plane, the Lytro camera sensor 
+    records the colour, intensity and direction of individual light 
+    rays, allowing the photographs to be reconstructed and refocused 
+    after they are captured.
+The camera sports a large, sharp lens with 8x optical zoom. Zoom 
+    level is controlled by a touch sensitive slider on top of the 
+    camera which is, in all honesty, a bit of a pain to use. The 
+    touch-sensitive area is defined only by a subtle line of raised 
+    dots, and it takes several swipes across the camera to go from the 
+    widest to tightest zoom settings.
+Even at the widest setting the Lytro isn't a match for most 
+    smartphone cameras, making it difficult to capture landscapes or 
+    even whole buildings in a single shot. In side-by-side testing with 
+    an iPhone, I found the Lytro would capture around one-quarter of 
+    the overall scene captured by the phone camera.
+Most cameras can be measured in terms of their megapixel (MP) 
+    count - the number of individual points of light that the camera 
+    records, measured in millions. A typical modern compact camera will 
+    record 8-12MP.
+By contrast, the unique way the Lytro records pictures requires 
+    a different measure - megarays. The Lytro sports a seemingly 
+    impressive 11-megaray sensor, but this produces photographs that 
+    are equivalent to just 1.2MP in old money, which is only big enough 
+    to produce a sharp 4in print.
+Not only are the images of a similar size and resolution to a 
+    late 1990s digital camera, but the colour accuracy and sharpness 
+    are reminiscent of that era too; images can have a strong blue or 
+    orange cast, often look flat and suffer from excess noise or grain 
+    in anything less than bright daylight.
+The Lytro camera is a great science project and Ren Ng was a 
+    worthy award winner at Stanford, but that doesn't necessarily 
+    make the Lytro a great product. At £400 there are many faster, 
+    sharper, lighter and simpler cameras on the market, leaving the 
+    Lytro in a very narrow niche - a camera that does something clever 
+    that nobody needs.

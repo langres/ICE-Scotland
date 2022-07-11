@@ -1,0 +1,150 @@
+<annotated>
+  <text>
+    <p><w c7="NNB">Ms</w><w c7="NP1">McBride</w><w c7="VBZ">is</w><w c7="AT1">a</w><w c7="NN1">fingerprint</w><w c7="NN1">expert</w></p>
+    <p><w c7="PPHS1">she</w><w c7="CC">and</w><w c7="JJ">certain</w><w c7="JJ">other</w><w c7="NN2">fingerprints</w><w c7="NN2">experts</w></p>
+    <p><w c7="NN1">fingerprint</w><w c7="NN2">experts</w></p>
+    <p><w c7="PNQS">who</w><w c7="VVD">worked</w><w c7="IF">for</w><w c7="AT">the</w><w c7="JJ">Scottish</w><w c7="JJ">criminal</w><w c7="NN2">records</w><w c7="NN1">office</w></p>
+    <p><w c7="VBDR">were</w><w c7="JJ">involved</w><w c7="II">in</w><w c7="AT">the</w><w c7="JJ">disputed</w><w c7="NN1">identification</w></p>
+    <p><w c7="IO">of</w><w c7="AT1">a</w><w c7="NN1">fingerprint</w></p>
+    <p><w c7="II">at</w><w c7="AT">the</w><error><w c7="FU">scem-</w></error><w c7="IO">of</w><w c7="AT1">a</w><w c7="NN1">crime</w></p>
+    <p><w c7="II">at</w><w c7="AT">the</w><w c7="NN1">scene</w><w c7="IO">of</w><w c7="AT1">a</w><w c7="NN1">crime</w></p>
+    <p><w c7="CSA">as</w><w c7="VVG">belonging</w><w c7="II">to</w><w c7="NNB">Detective</w><w c7="NNB">Constable</w><w c7="NP1">Shirley</w><w c7="NP1">McKie</w></p>
+    <p><w c7="DD1">this</w><w c7="VVD">resulted</w><w c7="II">in</w><error><w c7="FU">d-</w></error></p>
+    <p><w c7="NNB">Detective</w><w c7="NNB">Constable</w><w c7="NP1">McKie</w><w c7="VBG">being</w><w c7="VVN">prosecuted</w><w c7="IF">for</w><w c7="NN1">perjury</w></p>
+    <p><w c7="CC">and</w><w c7="II">after</w><w c7="AT1">a</w><w c7="NN1">trial</w></p>
+    <p><w c7="II">in</w><w c7="DDQ">which</w><w c7="AT">the</w><w c7="NN1">accuracy</w><w c7="IO">of</w><w c7="DD1">that</w><w c7="NN1">fingerprint</w><w c7="NN1">evidence</w><w c7="VBDZ">was</w><w c7="VVN">challenged</w></p>
+    <p><w c7="VVN">acquitted</w></p>
+    <p><w c7="IO">of</w><w c7="DD1">that</w><w c7="NN1">charge</w></p>
+    <p><w c7="AT">the</w><w c7="NN2">events</w><w c7="VVD">created</w><w c7="AT1">a</w><w c7="NN1">scandal</w><w c7="II">in</w><w c7="NP1">Scotland</w></p>
+    <p><w c7="CC">and</w><w c7="VVD">generated</w><w c7="DA1">much</w><w c7="NN1">criticism</w><w c7="IO">of</w><w c7="AT">the</w><w c7="NN1">fingerprint</w><w c7="NN1">service</w></p>
+    <p><w c7="NNB">Ms</w><w c7="NP1">McBride</w><w c7="CC">and</w><w c7="AT">the</w><w c7="JJ">other</w><w c7="NN2">experts</w><w c7="JJ">involved</w><w c7="II">in</w><w c7="AT">the</w><w c7="JJ">disputed</w><w c7="NN1">identification</w></p>
+    <p><w c7="VBDR">were</w><w c7="VVN">suspended</w><w c7="II">from</w><w c7="APPGE">their</w><w c7="NN2">duties</w></p>
+    <p><w c7="II">during</w><w c7="AT1">an</w><w c7="NN1">investigation</w></p>
+    <p><w c7="CCB">but</w></p>
+    <p><w c7="CS">after</w><w c7="AT">the</w><w c7="NN1">investigation</w><w c7="VVD">rejected</w></p>
+    <p><w c7="DD">any</w><w c7="JJ">malicious</w><w c7="NN1">wrong-doing</w></p>
+    <p><w c7="CC">and</w><w c7="VVD">recommended</w><w c7="CST">that</w><w c7="PPHS2">they</w><w c7="VV0">return</w><w c7="II">to</w><w c7="NN1">work</w><w c7="IW">without</w><w c7="JJ">disciplinary</w><w c7="NN1">action</w></p>
+    <p><w c7="PPHS1">she</w><w c7="CC">and</w><w c7="PPHS2">they</w><w c7="VVD">resumed</w><w c7="NN1">work</w></p>
+    <p><w c7="UH">erm</w><w c7="II">on</w><w c7="JJ">restricted</w><w c7="NN2">duties</w></p>
+    <p><w c7="II">in</w><w c7="NPM1">May</w></p>
+    <p><w c7="MC41">two</w><w c7="MC42">thousand</w><w c7="MC43">and</w><w c7="MC44">two</w></p>
+    <p><w c7="PPHS2">they</w><w c7="VVD">sought</w><w c7="TO">to</w><w c7="VVI">return</w><w c7="II">to</w><w c7="APPGE">their</w><w c7="JJ">full</w><w c7="NN2">duties</w></p>
+    <p><w c7="DDQ">which</w><w c7="VVD">included</w><w c7="VVG">signing</w><w c7="NN1">fingerprint</w><w c7="NN2">reports</w><w c7="IF">for</w><w c7="NN1">use</w><w c7="II">in</w><w c7="NN1">court</w></p>
+    <p><w c7="CC">and</w><w c7="RR">also</w><w c7="VVG">giving</w><w c7="JJ">oral</w><w c7="NN1">evidence</w><w c7="II">in</w><w c7="NN1">court</w></p>
+    <p><w c7="CCB">but</w></p>
+    <p><w c7="CS">because</w><w c7="EX">there</w><w c7="VVD">remained</w><w c7="NN1">disagreement</w><w c7="II">among</w><w c7="NN1">fingerprint</w><w c7="NN2">experts</w></p>
+    <p><w c7="II">over</w><w c7="AT">the</w><w c7="NP1">McKie</w><w c7="NN1">scandal</w></p>
+    <p><w c7="CC">and</w><w c7="CS">because</w><w c7="AT">the</w><w c7="JJ">prosecuting</w><w c7="NN2">authorities</w></p>
+    <p><w c7="VDD">did</w><w c7="XX">not</w><w c7="VVI">want</w><w c7="APPGE">their</w><w c7="NN1">evidence</w><w c7="II">at</w><w c7="NN1">trial</w><w c7="TO">to</w><w c7="VBI">be</w><w c7="VVN">undermined</w></p>
+    <p><w c7="II">by</w><w c7="NN1">cross-examination</w><w c7="VVG">relating</w><w c7="II">to</w><w c7="AT">the</w><error><w c7="FU">m-</w></error></p>
+    <p><w c7="NP1">McGee</w></p>
+    <p><w c7="UH">erm</w><w c7="NP1">Mc</w><w c7="NP1">McKie</w></p>
+    <p><w c7="NN1">scandal</w></p>
+    <p><w c7="APPGE">their</w><w c7="NN1">employer</w><w c7="VDD">did</w><w c7="XX">not</w><w c7="VVI">allow</w><w c7="PPHO2">them</w></p>
+    <p><w c7="TO">to</w><w c7="VVI">resume</w><w c7="DD2">those</w><w c7="NN2">duties</w></p>
+    <p><w c7="CS">when</w><w c7="AT">the</w><w c7="JJ">Scottish</w><w c7="NP2">Police</w><w c7="NP2">Services</w><w c7="NP1">Authority</w><w c7="VBDZ">was</w><w c7="VVN">established</w><w c7="II">in</w><w c7="MC41">two</w><w c7="MC42">thousand</w><w c7="MC43">and</w><w c7="MC44">seven</w></p>
+    <p><w c7="AT">the</w><w c7="NN1">officer</w><w c7="VVN">charged</w><w c7="IW">with</w><w c7="APPGE">its</w><w c7="NN1">establishment</w><w c7="VVD">made</w><w c7="JJ">clear</w></p>
+    <p><w c7="CST">that</w><w c7="PPHS1">he</w><w c7="VDD">did</w><w c7="XX">not</w><w c7="VVI">want</w><w c7="AT">the</w><w c7="NN1">fingerprint</w><w c7="NN2">experts</w><w c7="PNQS">who</w><w c7="VHD">had</w><w c7="VBN">been</w><w c7="JJ">involved</w><w c7="II">in</w><w c7="AT">the</w><w c7="NP1">McKie</w><w c7="NN1">scandal</w></p>
+    <p><w c7="TO">to</w><w c7="VVI">transfer</w><w c7="II">to</w><w c7="DD1">that</w><w c7="NN1">service</w></p>
+    <p><w c7="PPHS1">he</w><w c7="VVD">proposed</w></p>
+    <p><w c7="CST">that</w><w c7="PPHS2">they</w><w c7="VM">should</w><w c7="VBI">be</w><w c7="VVN">redeployed</w></p>
+    <p><w c7="CS">when</w><w c7="APPGE">her</w><w c7="NN1">employment</w><w c7="VBDZ">was</w><w c7="VVN">transferred</w><w c7="II">to</w><w c7="AT">the</w><w c7="NP1">SPSA</w></p>
+    <p><w c7="II">in</w><w c7="NPM1">April</w><w c7="MC41">two</w><w c7="MC42">thousand</w><w c7="MC43">and</w><w c7="MC44">seven</w></p>
+    <p><w c7="NNB">Ms</w><w c7="NP1">McBride</w><w c7="VVD">indicated</w><w c7="CST">that</w><w c7="PPHS1">she</w><w c7="VM">would</w><w c7="VVI">discuss</w><w c7="NN1">redeployment</w></p>
+    <p><w c7="CCB">but</w><w c7="MD">first</w><w c7="PPHS1">she</w><w c7="VVD">wished</w><w c7="TO">to</w><w c7="VVI">discuss</w></p>
+    <p><w c7="NN1">reinstatement</w></p>
+    <p><w c7="II">to</w><w c7="JJ">unrestricted</w><w c7="NN2">duties</w></p>
+    <p><w c7="DD1">this</w><w c7="NN1">discussion</w></p>
+    <p><w c7="VDD">did</w><w c7="XX">not</w><w c7="VVI">happen</w></p>
+    <p><w c7="CC">and</w><w c7="PPHS1">she</w><w c7="VBDZ">was</w><w c7="VVN">dismissed</w><w c7="II">by</w><w c7="APPGE">her</w><w c7="NN2">employers</w></p>
+    <p><w c7="II">on</w><w c7="MD">first</w><w c7="IO">of</w><w c7="NPM1">May</w></p>
+    <p><w c7="MC41">two</w><w c7="MC42">thousand</w><w c7="MC43">and</w><w c7="MC44">seven</w></p>
+    <p><w c7="CS">after</w><w c7="APPGE">her</w><w c7="JJ">internal</w><w c7="NN1">appeal</w><w c7="VVD">failed</w></p>
+    <p><w c7="PPHS1">she</w><w c7="VVD">succeeded</w><w c7="II">in</w><w c7="VVG">establishing</w><w c7="II">in</w><w c7="NN1">employment</w><w c7="NN1">tribunal</w></p>
+    <p><w c7="CST">that</w><w c7="PPHS1">she</w><w c7="VHD">'d</w><w c7="VBN">been</w><w c7="RR">unfairly</w><w c7="VVN">dismissed</w></p>
+    <p><w c7="DD1">that</w><w c7="NN1">finding</w></p>
+    <p><w c7="VHZ">has</w><w c7="XX">not</w><w c7="VBN">been</w><w c7="VVN">challenged</w></p>
+    <p><w c7="CCB">but</w><w c7="AT">the</w><w c7="NN1">tribunal</w><w c7="GE">'s</w><w c7="NN1">order</w><w c7="CST">that</w><w c7="PPHS1">she</w><w c7="VM">should</w><w c7="VBI">be</w><w c7="VVN">reinstated</w></p>
+    <p><w c7="VBDZ">was</w><w c7="RR">successfully</w><w c7="VVN">challenged</w></p>
+    <p><w c7="II">on</w><w c7="NN1">appeal</w></p>
+    <p><w c7="AT">the</w><w c7="NN1">employment</w><w c7="NN1">tribunal</w><w c7="VHD">had</w><w c7="VVN">ordered</w><w c7="CST">that</w><w c7="NNB">Ms</w><w c7="NP1">McBride</w><w c7="VM">should</w><w c7="VBI">be</w><w c7="VVN">reinstated</w><w c7="II">to</w><w c7="AT">the</w><w c7="NN1">position</w><w c7="II">as</w><w c7="NN1">fingerprint</w><w c7="NN1">officer</w></p>
+    <p><w c7="CC">and</w><w c7="VVN">treated</w><w c7="II">in</w><w c7="DB">all</w><w c7="NN2">respects</w></p>
+    <p><w c7="CS21">as</w><w c7="CS22">if</w><w c7="PPHS1">she</w><w c7="VHD">had</w><w c7="XX">not</w><w c7="VBN">been</w></p>
+    <p><w c7="VVN">dismissed</w></p>
+    <p><w c7="CCB">but</w><w c7="AT">the</w><w c7="NN1">employment</w><w c7="NN1">appeal</w><w c7="NN1">tribunal</w><w c7="VVD">overturned</w><w c7="DD1">that</w><w c7="NN1">ruling</w></p>
+    <p><w c7="II">on</w><w c7="AT">the</w><w c7="NN1">ground</w><w c7="CST">that</w><w c7="AT">the</w></p>
+    <p><w c7="NN1">employment</w><w c7="NN1">tribunal</w><w c7="VBDZ">was</w><w c7="JJ">perverse</w></p>
+    <p><w c7="II">in</w><w c7="VVG">holding</w><w c7="CST">that</w><w c7="PPH1">it</w><w c7="VBDZ">was</w><w c7="JJ">practicable</w></p>
+    <p><w c7="IF">for</w><w c7="AT">the</w><w c7="NN2">employers</w></p>
+    <p><w c7="TO">to</w><w c7="VVI">comply</w><w c7="IW">with</w><w c7="AT">the</w><w c7="NN1">order</w></p>
+    <p><w c7="IF">for</w><w c7="NN1">reinstatement</w></p>
+    <p><w c7="II">on</w><w c7="NNB">Ms</w><w c7="NP1">McBride</w><w c7="GE">'s</w><w c7="JJR">further</w><w c7="NN1">appeal</w><w c7="II">to</w><w c7="AT">the</w><w c7="JJ">Inner</w><w c7="NP1">House</w><w c7="IO">of</w><w c7="AT">the</w><w c7="NP1">Court</w><w c7="IO">of</w><w c7="NNT1">Session</w></p>
+    <p><w c7="AT">the</w><w c7="JJ">Inner</w><w c7="NP1">House</w><w c7="VVD">rejected</w></p>
+    <p><w c7="AT">the</w><w c7="NP1">EAT</w><w c7="GE">'s</w><w c7="NN1">finding</w><w c7="IO">of</w><w c7="NN1">perversity</w></p>
+    <p><w c7="CCB">but</w><w c7="VVD">held</w><w c7="CST">that</w><w c7="AT">the</w><w c7="NN1">employment</w><w c7="NN1">tribunal</w><w c7="VHD">had</w><w c7="VVN">erred</w></p>
+    <p><w c7="II">in</w><w c7="NN1">law</w></p>
+    <p><w c7="CS">because</w><w c7="PPHS2">they</w><w c7="VHD">had</w><w c7="II">in</w><w c7="NN1">effect</w><w c7="VVN">ordered</w><w c7="CST">that</w><w c7="NNB">Ms</w><w c7="NP1">McBride</w><w c7="VBI">be</w><w c7="VVN">reemployed</w></p>
+    <p><w c7="II">on</w><w c7="JJ">altered</w></p>
+    <p><w c7="JJ">contractual</w><w c7="NN2">terms</w></p>
+    <p><w c7="CC">and</w><w c7="CST">that</w><w c7="DD1">that</w><w c7="VM">could</w><w c7="XX">not</w><w c7="VBI">be</w><w c7="VDN">done</w></p>
+    <p><w c7="II">by</w><w c7="AT1">an</w><w c7="NN1">order</w></p>
+    <p><w c7="IF">for</w><w c7="NN1">reinstatement</w></p>
+    <p><w c7="NNB">Ms</w><w c7="NP1">McBride</w><w c7="VVD">appealed</w><w c7="II">to</w><w c7="DD1">this</w><w c7="NN1">court</w></p>
+    <p><w c7="II">in</w><w c7="AT">the</w><w c7="JJ">unanimous</w><w c7="NN1">judgement</w><w c7="DD1">this</w><w c7="NN1">court</w><w c7="VVZ">allows</w><w c7="APPGE">her</w><w c7="NN1">appeal</w></p>
+    <p><w c7="DD1">this</w><w c7="NN1">court</w><w c7="VVZ">interprets</w><w c7="AT">the</w><w c7="NN1">employment</w><w c7="NN1">tribunal</w><w c7="GE">'s</w><w c7="NN1">order</w></p>
+    <p><w c7="XX">not</w><w c7="CSA">as</w><w c7="VVG">changing</w><w c7="APPGE">her</w><w c7="NN1">contract</w></p>
+    <p><w c7="CCB">but</w><w c7="CSA">as</w><w c7="VVG">recognising</w><w c7="AT1">a</w><w c7="JJ">practical</w><w c7="NN1">limitation</w></p>
+    <p><w c7="II">on</w><w c7="AT">the</w><w c7="NN1">scope</w><w c7="IO">of</w><w c7="APPGE">her</w><w c7="NN1">work</w></p>
+    <p><w c7="II21">because</w><w c7="II22">of</w><w c7="NN2">circumstances</w><w c7="II">beyond</w></p>
+    <p><w c7="APPGE">her</w><w c7="NN1">control</w></p>
+    <p><w c7="CC">and</w><w c7="RR">also</w><w c7="CST">that</w><w c7="IO">of</w><w c7="APPGE">her</w><w c7="NN2">employers</w></p>
+    <p><w c7="CS">if</w><w c7="AT">the</w><w c7="NN2">prosecutors</w><w c7="VM">would</w><w c7="XX">not</w><w c7="VVI">use</w><w c7="PPHO1">her</w><w c7="II">in</w><w c7="NN1">court</w></p>
+    <p><w c7="EX">there</w><w c7="VBDZ">was</w><w c7="PN1">nothing</w><w c7="DD1">that</w><w c7="APPGE">her</w><w c7="NN2">employers</w><w c7="VM">could</w><w c7="VDI">do</w></p>
+    <p><w c7="TO">to</w><w c7="VVI">give</w><w c7="APPGE">her</w><w c7="DA">such</w><w c7="NN2">duties</w></p>
+    <p><w c7="PPIS2">we</w><w c7="VH0">have</w></p>
+    <p><w c7="PPIS2">we</w><w c7="VH0">have</w><w c7="UH">erm</w></p>
+    <p><w c7="VVN">given</w><w c7="MC">four</w><w c7="NN2">reasons</w><w c7="IF">for</w><w c7="APPGE">our</w><w c7="NN1">view</w></p>
+    <p><w c7="MD">first</w></p>
+    <p><w c7="II">as</w><w c7="AT">the</w><w c7="NN1">employment</w><w c7="NN1">tribunal</w><w c7="VVD">knew</w></p>
+    <p><w c7="IF">for</w><w c7="DA2">several</w><error><w c7="FU">rea-</w></error></p>
+    <p><w c7="NNT2">years</w><w c7="PPHS1">she</w><w c7="VHD">had</w><w c7="VVN">worked</w><w c7="IW">without</w><w c7="VBG">being</w><w c7="VVN">asked</w><w c7="TO">to</w><w c7="VVI">sign</w><w c7="NN2">reports</w></p>
+    <p><w c7="CC">or</w><w c7="VVI">give</w><w c7="NN1">evidence</w><w c7="II">in</w><w c7="NN1">court</w></p>
+    <p><w c7="AT">the</w><w c7="NN1">reinstatement</w><w c7="NN1">order</w></p>
+    <p><w c7="RR">simply</w><w c7="VVD">returned</w><w c7="PPHO1">her</w><w c7="II">to</w><w c7="DD1">that</w><w c7="NN121">status</w><w c7="NN122">quo</w></p>
+    <p><w c7="RR">secondly</w></p>
+    <p><w c7="AT">the</w><w c7="NN1">employment</w><w c7="NN1">tribunal</w><w c7="VVD">knew</w><w c7="CST">that</w><w c7="PPHS1">she</w><w c7="VVD">wished</w><w c7="TO">to</w><w c7="VVI">return</w><w c7="II">to</w><w c7="DD2">those</w><w c7="NN2">duties</w></p>
+    <p><w c7="CCB">but</w><w c7="VVD">held</w><w c7="CST">that</w><w c7="APPGE">her</w><w c7="NN1">employer</w><w c7="GE">'s</w><w c7="NN1">decision</w></p>
+    <p><w c7="CST">that</w><w c7="PPHS1">she</w><w c7="VM">could</w><w c7="XX">not</w></p>
+    <p><w c7="VBDZ">was</w></p>
+    <p><w c7="JJ">reasonable</w></p>
+    <p><w c7="RR">thirdly</w></p>
+    <p><w c7="AT">the</w><w c7="NN1">employment</w><w c7="NN1">tribunal</w><w c7="VVD">accepted</w><w c7="NN1">evidence</w><w c7="II">from</w><w c7="APPGE">her</w><w c7="NN2">managers</w></p>
+    <p><w c7="CST">that</w><w c7="PPHS1">she</w><w c7="VHD">'d</w><w c7="VVN">made</w><w c7="AT1">a</w><w c7="JJ">valuable</w><w c7="NN1">contribution</w></p>
+    <p><w c7="II">during</w><w c7="AT">the</w><w c7="NNT2">years</w><w c7="II">in</w><w c7="DDQ">which</w><w c7="APPGE">her</w><w c7="NN2">duties</w><w c7="VHD">had</w><w c7="VBN">been</w><w c7="VVN">curtailed</w></p>
+    <p><w c7="CC">and</w><w c7="RR">fourthly</w></p>
+    <p><w c7="II">on</w><w c7="AT1">a</w><w c7="JJ">proper</w><w c7="NN1">construction</w></p>
+    <p><w c7="AT">the</w><w c7="NN1">employment</w><w c7="NN1">tribunal</w><w c7="GE">'s</w><w c7="JJ">parenthetical</w><w c7="NN1">statement</w></p>
+    <p><w c7="IO">of</w><w c7="APPGE">her</w><w c7="VBG">being</w><w c7="VVN">reinstated</w><w c7="CC">and</w><w c7="PPIS1">I</w><w c7="VV0">quote</w></p>
+    <p><w c7="II">to</w><w c7="AT1">a</w><w c7="NN1">non-court</w><w c7="VVG">going</w><w c7="NN1">role</w></p>
+    <p><w c7="VBDZ">was</w><w c7="AT1">an</w><w c7="NN1">expression</w><w c7="IO">of</w><w c7="APPGE">their</w><w c7="NN1">understanding</w><w c7="IO">of</w><w c7="AT">the</w><w c7="JJ">practical</w><w c7="NN1">context</w></p>
+    <p><w c7="IO">of</w><w c7="AT">the</w><w c7="NN1">reinstatement</w></p>
+    <p><w c7="CC">and</w><w c7="XX">not</w><w c7="AT1">an</w><w c7="NN1">alteration</w><w c7="IO">of</w><w c7="AT">the</w><w c7="NN2">terms</w><w c7="IO">of</w><w c7="APPGE">her</w><w c7="NN1">employment</w></p>
+    <p><w c7="II">in</w><w c7="JJ">other</w><w c7="NN2">words</w><w c7="PPH1">it</w><w c7="VVD">made</w><w c7="JJ">clear</w></p>
+    <p><w c7="CST">that</w><w c7="AT">the</w><w c7="NN1">reinstatement</w><w c7="VDD">did</w><w c7="XX">not</w><w c7="VVI">require</w><w c7="APPGE">her</w><w c7="NN2">employers</w></p>
+    <p><w c7="TO">to</w><w c7="VVI">restore</w><w c7="PPHO1">her</w></p>
+    <p><w c7="II">to</w><w c7="AT">the</w><w c7="NN2">duties</w></p>
+    <p><w c7="II">from</w><w c7="DDQ">which</w><w c7="PPHS1">she</w><w c7="VHD">had</w><w c7="VBN">been</w><w c7="VVN">excluded</w></p>
+    <p><w c7="AT">the</w><w c7="NN1">court</w><w c7="RR">also</w><w c7="VVD">rejected</w><w c7="AT1">an</w><w c7="NN1">argument</w><w c7="II">by</w><w c7="AT">the</w><w c7="NN2">employers</w></p>
+    <p><w c7="DDQ">which</w><w c7="VHD">had</w><w c7="XX">not</w><w c7="VBN">been</w><w c7="VVN">advanced</w><w c7="II">in</w><w c7="AT">the</w><w c7="NN2">tribunals</w><w c7="CC">or</w><w c7="II">in</w><w c7="AT">the</w><w c7="NN1">court</w><w c7="RL">below</w></p>
+    <p><w c7="UH">erm</w><w c7="PPH1">it</w><w c7="VDD">did</w><w c7="XX">not</w><w c7="VVI">accept</w></p>
+    <p><w c7="CST">that</w><w c7="AT">the</w><w c7="NN1">order</w><w c7="IO">of</w><w c7="NN1">reinstatement</w><w c7="VM">would</w><w c7="VVI">expose</w><w c7="AT">the</w><w c7="NN2">employers</w><w c7="II">to</w><w c7="AT1">a</w><w c7="NN1">claim</w><w c7="II">by</w><w c7="NNB">Ms</w><w c7="NP1">McBride</w></p>
+    <p><w c7="IF">for</w><w c7="NN1">breach</w><w c7="IO">of</w><w c7="NN1">contract</w></p>
+    <p><w c7="IF">for</w><w c7="VVG">refusing</w><w c7="TO">to</w><w c7="VVI">allow</w><w c7="PPHO1">her</w><w c7="TO">to</w><w c7="VVI">return</w></p>
+    <p><w c7="II">to</w><w c7="AT">the</w><w c7="JJ">excluded</w><w c7="NN2">duties</w></p>
+    <p><w c7="VHD">had</w><w c7="DA">such</w><w c7="AT1">an</w><w c7="NN1">argument</w><w c7="VBN">been</w><w c7="VVN">developed</w><w c7="RL">below</w></p>
+    <p><w c7="PPH1">it</w><w c7="VM">would</w><w c7="VHI">have</w><w c7="VVN">failed</w></p>
+    <p><w c7="II31">in</w><w c7="II32">face</w><w c7="II33">of</w><w c7="AT">the</w><w c7="NN2">employers</w></p>
+    <p><w c7="NN1">employment</w><w c7="NN1">tribunal</w><w c7="GE">'s</w></p>
+    <p><w c7="NN2">findings</w><w c7="IO">of</w><w c7="NN1">fact</w></p>
+  </text>
+</annotated>

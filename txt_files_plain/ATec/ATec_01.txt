@@ -1,0 +1,227 @@
+3.1. Keeping Users Safe and Preventing Attacks
+Many users participate in risky security behaviour, particularly 
+    when it involves passwords, as highlighted by Stanton et 
+    al. [6]. A number of attempts have been made to 
+    understand the problems users face when dealing with passwords, 
+    with tools developed to aid users. Furnell et 
+    al. [18] conducted a study in 2006, to gain an insight 
+    into how end-users deal with passwords. The survey found that 22% 
+    of participants said they lacked security awareness, with 13% of 
+    people admitting they required security training. Participants also 
+    found browser security dialogs confusing and in some cases, 
+    misunderstood the warnings they were provided with. The majority of 
+    participants considered themselves as above average in terms of 
+    their understanding of technology, yet many struggled with basic 
+    security. As result of confusion in end-users, a number of studies 
+    have been conducted in an attempt to improve 
+    users security awareness in 
+    terms of passwords.
+Bicakci et al. [19] explored the use of using 
+    graphical passwords built into a browser extension, based on the 
+    notion that humans are better at memorising images than text. The 
+    aim of the software developed was to make passwords more usable, 
+    decreasing the likelihood of users engaging in risky security 
+    behaviour. Participants could select five points on an image with a 
+    grid overlay to produce a password, which was compared against 
+    previous research conducted with plain images. Results from the 
+    study showed the grid had little effect on the password chosen 
+    however, in a survey of end-users, the grid proved to be more 
+    successful than an image without a grid in terms of usability when 
+    rated using a Likert scale.
+To demonstrate the strength of a chosen password, Ur et 
+    al. [12] investigated how strength meters placed next to 
+    password fields improved the security and usability of passwords. 
+    Participants were asked to rate their password security perceptions 
+    on a Likert scale. Immediately after creating a password with the 
+    aid of a meter, they were surveyed regarding their opinion of the 
+    tool. The tool was deemed to be a useful aid in password creation 
+    with participants noting that use of words such as “weak” 
+    encouraged them into creating a stronger password. However, the 
+    study was repeated the following day and between 77% and 89% 
+    (depending on the different groups) were able to recall their 
+    passwords, which fails to sufficiently test the memorability of a 
+    password at a much later date. Additionally, 38% of participants 
+    admitted to writing down their password from the previous day, 
+    highlighting that despite the encouragement of the password meter, 
+    complex passwords are still difficult to remember.
+Much of the research conducted into keeping users safe online, 
+    educating them about risky security behaviour revolves around 
+    phishing attacks. Recently, a number of solutions have been 
+    developed to gauge how best to inform users about the dangers of 
+    phishing attacks, with the hope that education will reduce 
+    participation in risky security behaviours.
+Dhamija and Tygar [20] produced a method to enable users to 
+    distinguish between spoofed websites and genuine sites. A Firefox 
+    extension was developed which provided users with a trusted window 
+    in which to enter login details. A remote server generated a unique 
+    image which is used to customise the web page the user is visiting, 
+    whilst the browser detects the image and displays it in the trusted 
+    window, e.g., as a background image on the page. Content from the 
+    server is authenticated via the use of the secure Remote Password 
+    Protocol. If the images match, the website is genuine and provides 
+    a simple way for a user to verify the authenticity of the 
+    website.
+Sheng et al. [21] tried a different approach 
+    to reducing risky behaviour, gamifying the subject of phishing with 
+    a tool named Anti-Phishing Phil. The game involves a fish named 
+    Phil who has to catch worms, avoiding the worms, on the end of 
+    fishermen’s hooks (these are the phishing attempts). The study 
+    compared three approaches to teaching users about phishing: playing 
+    the Anti-Phishing Phil game, reading a tutorial developed or 
+    reading existing online information. After playing the game, 41% of 
+    participants viewed the URL of the web page, checking if it was 
+    genuine. The game produced some unwanted results in that 
+    participants became overly cautious, producing a number of 
+    false-positives during the experimental phase.
+PhishGuru is another training tool designed by Kumaraguru 
+    et al. [22] to discourage people from revealing 
+    information in phishing attacks. When a user clicks on a link in a 
+    suspicious email, they are presented with a cartoon message, 
+    warning them of the dangers of phishing, and how they can avoid 
+    becoming a victim. The cartoon proved to be effective: participants 
+    retained the information after 28 days. The tool didn’t cause 
+    participants to become overly cautious and they continued to click 
+    on links in genuine emails however, a longer study is required.
+Information that allows phishing emails to be targeted towards 
+    specific users can come from revealing too much information online. 
+    A proposed series of nutrition labels for online privacy have been 
+    designed in an effort to reduce risky behaviour [23]. While it has 
+    been shown users don’t fully understand privacy policies online, 
+    the nutrition labels seek to present the information in a format 
+    that is easier for users to understand. Labels were designed using 
+    a simplified grid design with a series of symbols representing how 
+    a site utilises data: how it is collected and used, and whether 
+    data is required (opt-in or opt-out). Results from a small study 
+    found that visually, the labels were more interesting to read than 
+    a traditional security policy and presented an easier way for users 
+    to find information.
+Besmer et al. [24] acknowledged that various 
+    applications may place users at risk by revealing personal 
+    information. A tool was developed and tested on Facebook to present 
+    a simpler way of informing the user about who could view their 
+    information. A prototype user interface highlighted the information 
+    the site required, optional information, the profile data the user 
+    had provided and the percentage of the 
+    users friends who could see 
+    the information entered. The study showed that those who were 
+    already interested in protecting their information found the 
+    interface useful in viewing how applications handled the data.
+In addition to security tools which have been developed to 
+    target privacy issues on social networking sites, studies have also 
+    focussed on more general warning tools when the user is browsing 
+    the web. A Firefox extension developed by Maurer [25] attempts to 
+    provide alert dialogs when users are entering sensitive data such 
+    as credit card information. The extension seeks to raise security 
+    awareness, providing large JavaScript dialogs to warn users, noting 
+    that the use of certain colours made the user feel more secure.
+3.2. Issues with Traditional Security Tools and 
+    Advice
+Some of the tools discussed in Section 3.1 provided unwanted 
+    results, in particular, studies found that, users became overly 
+    cautious when browsing the web and produced a number of false 
+    positive results when detecting phishing attacks [21]. Another 
+    study highlighted that although the tool developed for submitting 
+    private information online performed well in experiments, it was 
+    difficult to encourage users to make use of it. Instead, several 
+    participants continued to use web forms, which they were more 
+    familiar with [26].
+Many of the tools created focus on one specific area where users 
+    are vulnerable, e.g., they educate people about privacy, passwords 
+    or phishing attempts. Despite the number of tools created and 
+    designed to help protect users online, users continue to engage in 
+    risky security behaviour, placing their information and devices at 
+    risk. The tools developed span a number of years, indicating that 
+    the issue of risky security behaviour has yet to be resolved. There 
+    are a multitude of common threats online, highlighted in Section 
+    2.3, and there is a requirement that newer tools focus on more than 
+    one potential threat area.
+4. Methodology
+The research outlined in this section proposes the use of a 
+    browser extension to automatically detect risky security behaviour, 
+    taking a number of different threats into consideration. Future 
+    work seeks to explore the possibility of utilising an affective 
+    feedback mechanism in enhancing security risk awareness on 
+    detection of risky behaviour within the browser.
+4.1. Proposed System Overview
+The research proposed seeks to develop a software prototype, in 
+    the form of a Firefox browser extension, which monitors user 
+    behaviour. The prototype will contain feedback agents, several of 
+    which will utilise affective feedback techniques. Should the user 
+    engage in potentially risky security behaviour whilst browsing, 
+    e.g., entering a password or credit card number into a form, an 
+    affective feedback mechanism will trigger, warning users regarding 
+    the dangers of their actions. Feedback mechanisms have been 
+    explored in previous research and will include colour-based 
+    feedback (e.g., green indicating good behaviour), text-based 
+    feedback using specific terms and avatars using subtle cues within 
+    the browser window [27]. Experiments using these agents will 
+    investigate (a) if security risk awareness improves in end-users; 
+    and (b) if overall system security improves through the use of 
+    affective feedback. The success of the software will be gauged via 
+    a series of end-user experiments followed by a questionnaire 
+    utilising a Likert scale. Figure 1 attempts to summarise how the 
+    software prototype (browser extension) will work. When the user is 
+    interacting with a web browser, the tool will monitor these 
+    interactions, and compare them to a knowledge base of known risky 
+    behaviours. If a risky behaviour is detected, an affective feedback 
+    agent will be triggered, providing suitable feedback to the 
+    end-user in an attempt to raise awareness of risky behaviour.
+Figure 1. Overview of system 
+    architecture.
+
+4.2. Technical Details
+Following a comparison between XUL-based Firefox extensions (XML 
+    User Interface Language) and those created by Mozilla’s Add-on SDK, 
+    a prototype solution was constructed using a XUL-based extension. 
+    This method allows for extensive customisation of the user 
+    interface, which a tool of this type requires and additional 
+    functionality can be gained via the links to the XPCOM (cross 
+    platform component object model) [28]. When developing Firefox 
+    extensions to capture user behaviour and provide feedback to users, 
+    a number of files are required. Extensions follow the same basic 
+    structure, with several files, which must be included. In terms of 
+    modifying an extension in an attempt to monitor user behaviour and 
+    provide cues to modify the behaviour, particular files are very 
+    important.
+The browser.xul file within the content folder contains a number 
+    of links to other required files and is essentially the foundation 
+    for the whole extension. This file has the ability to link to 
+    JavaScript files, including the jQuery library, should it need to 
+    be embedded in an extension. The file also allows additional XUL 
+    constructs to be added, allowing the menus and toolbars within 
+    Firefox to be modified e.g., adding a link into a menu to allow the 
+    user to run an extension.
+Another file, which can be modified extensively, is the 
+    JavaScript file within the content folder. It can call a number of 
+    functions, including referencing the jQuery library and can make 
+    use of the Mozilla framework. The file can manipulate the DOM 
+    (document object model) of the website displayed in the browser 
+    e.g., attach event listeners to all links on a page or modify 
+    anchor tags. Additionally, the file can utilise AJAX, passing data 
+    back and forth between a web server and theJavaScript file.
+To provide a full example of how a Firefox extension may be 
+    developed to monitor user behaviour and provide appropriate 
+    feedback, details of the Link Detector extension are outlined 
+    (Figure 2). The Link Detector extension is designed to warn users 
+    about malicious links. When the user starts the Firefox extension, 
+    the browser.xul file makes a call to the JavaScript file to run the 
+    initial function. The DOM is then manipulated, using JavaScript to 
+    add event listeners to all links on a given website. If a user 
+    approaches a link with the cursor, an event is triggered. 
+    JavaScript passes the link value to a PHP script via AJAX, and is 
+    checked against a list of known malicious links. The list of 
+    malicious links is sourced from a third-party database, which is 
+    managed and updated by Malwarebytes, the company with the 
+    anti-malware tool of the same name [29]. The AJAX request then 
+    returns a value indicating if the link is known to be malicious. If 
+    the link is flagged as being potentially dangerous, the JavaScript 
+    file then manipulates the DOM, highlighting the malicious link in 
+    red. This is repeated for each link a user approaches.
+The Link Detector is a small prototype browser extension, 
+    exploring the possibility of raising awareness regarding risky 
+    security behaviours in end-users via the use of affective feedback. 
+    As such, this may aid in preventing users revealing information to 
+    websites, which have been hijacked via an XSS attack. The final 
+    prototype developed will not be restricted to scanning for 
+    dangerous links only, and seeks to tackle a number of the threats 
+    outlined in Section 2.3.

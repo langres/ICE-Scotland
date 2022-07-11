@@ -1,0 +1,243 @@
+1. Introduction
+Geothermal energy is thermal energy produced naturally in the 
+    planetary interior [1,2], principally by the decay of radioisotopes 
+    of potassium, uranium and thorium [3]. As such, it is the only 
+    renewable energy source independent of solar radiation and/or the 
+    gravitational attraction of the sun and moon [4]. Since time 
+    immemorial, geothermal energy emerging at the earth’s surface as 
+    natural hot springs has been instinctively harnessed by human 
+    beings—and indeed other animals, most famously the macaque (snow 
+    monkeys) of Japan [5]—as a source of comfort and cleansing. For 
+    instance, in the ancient Roman Empire, few natural hot springs were 
+    overlooked for their potential to service the hot water demands of 
+    the public baths that were such an indispensable part of army life 
+    and wider Roman culture [2]. Natural thermal springs have also long 
+    been used for laundry purposes, and even for cooking. All of these 
+    uses—together with space heating and various industrial heating 
+    applications—are instances of direct use of geothermal resources 
+    [6].
+The only other, indirect, use of geothermal energy is for power 
+    generation. Where high-enthalpy reservoirs exist, this is most 
+    commonly achieved using various types of flash plant, in which the 
+    pressure of hot, deep fluids is carefully manipulated to achieve 
+    quantitative conversion of hot water to high-pressure steam, which 
+    can then be used to spin conventional steam turbines [7]. The 
+    earliest plant of this type was commissioned little over a century 
+    ago at Larderello, Italy [2,7]. In cases where the temperature of 
+    the geothermal fluid is too low for flashing to steam, electricity 
+    can still be produced by means of “binary” power plants [4], in 
+    which a secondary working fluid with a far lower boiling point than 
+    water is heated via a heat-exchanger such that it is converted to a 
+    high-pressure gaseous phase, which again can spin a turbine.
+As the water exiting a flash or binary geothermal power plant is 
+    typically still hot enough for myriad direct uses, geothermal 
+    energy is especially suited to combined-heat-and-power (CHP) 
+    applications [8]. If thus exploited, the overall efficiency of 
+    geothermal power conversion is far higher than for most other forms 
+    of energy. Furthermore, geothermal power plants are characterized 
+    by extremely high capacity factors (typically in excess of 90%, 
+    with many over 95%), which means that they are typically operated 
+    24/7, producing copious amounts of baseload power and heat [6]. As 
+    geothermal power plants typically have very low carbon emissions, 
+    their ability to supply baseload puts them on a par with nuclear 
+    energy for overall performance [4,9], with none of the operational 
+    safety and hazardous waste management issues posed by nuclear.
+The baseload power and heat production attributes of geothermal 
+    distinguish it from most other renewables [4]: although biomass CHP 
+    plants can perform similar service, they typically have far higher 
+    operating expenditure (opex) requirements than geothermal plants, 
+    due to the need to continually supply fuels of rather low 
+    energy-density; furthermore, their capacity factors tend to be 
+    rather lower than for geothermal, due to their greater maintenance 
+    requirements and vulnerability to interruptions of fuel supply. 
+    Solar, wind and wave notoriously suffer from intermittency, 
+    reflected in low capacity factors (<30%); and although tidal 
+    power is highly predictable, any one plant still tends to have a 
+    capacity factor less than 60%. The capacity factors for hydropower 
+    plants are seldom much greater. It is also important to note that 
+    wind, wave, tidal and hydropower cannot directly produce heat, and 
+    using the electricity they produce for conventional heating (i.e., 
+    without heat-pumps) is a very wasteful use of high-grade energy. 
+    While solar thermal energy is growing in importance, it is 
+    generally restricted to producing hot water and rarely manages to 
+    provide much space heating.
+However, despite all these advantages, the uptake of geothermal 
+    energy has to date been disappointing, with annual growth rates in 
+    installed capacity since 2004 averaging around 5%, which compares 
+    highly unfavourably with the equivalent rates for wind and solar PV 
+    (25%–30%) [10]. While lack of appropriate technology for deep, 
+    mid-enthalpy systems is partly to blame, and is exacerbated by a 
+    persistent lack of public understanding of invisible, subsurface 
+    phenomena [11], discussions with investors and engineers throughout 
+    the geothermal sector invariably identify two common factors 
+    inhibiting more rapid uptake of geothermal energy across all 
+    enthalpy categories:
+(i) uncertainties over resource availability in poorly-explored 
+    reservoirs; and 
+(ii) the cost profile, in which a large proportion of the 
+    full-lifetime costs of systems are concentrated in early-stage 
+    capital expenditure (capex).
+Some of the solutions to these problems surely lie, at least in 
+    part, in the domain of economic policy instruments, such as 
+    dry-hole insurance schemes [12] and long-term loan arrangements. 
+    However, there is still ample scope for technological innovation to 
+    contribute to addressing the barriers to uptake [13], particularly 
+    in non-volcanic regions where the majority of resources are low- to 
+    mid-enthalpy (“petrothermal”) resources in deep strata of 
+    unexceptional natural permeability [10]. 
+ 
+This paper critically appraises some recently-reported 
+    innovations and identifies gaps for future developments, taking a 
+    broad view across the entire spectrum of geothermal technology: 
+    from drilling and reservoir stimulation, through reservoir 
+    modelling and management, to design and operation of mechanical 
+    plant at surface that completes the energy conversion process. It 
+    also ranges across the entire range of enthalpies found in the 
+    subsurface [14], and concludes with a proposal for a whole-system 
+    research agenda to expedite realization of the full global 
+    potential of geothermal energy. 
+2. Historical Context and Resource Categorization
+The development of modern geothermal energy technology has had 
+    at least two dimensions: from high-enthalpy to low-enthalpy 
+    resources; and from direct use, through indirect use to CHP and 
+    heat-pump applications [2,6,9,10,15]. The earliest impetus for 
+    technological development was as an alternative to imported fossil 
+    fuels in countries that lacked these in abundance. While the prime 
+    motivations related to economics and securing energy supplies, the 
+    air-quality benefits of switching from smog-producing coal and oil 
+    combustion to the near-zero particulate emissions of geothermal was 
+    soon recognized as an important auxiliary advantage [16]. By the 
+    dawn of the 21st Century, the principal motivation for developing 
+    geothermal had become its low-carbon and renewable credentials. In 
+    the case of geothermal, these credentials are not as 
+    straightforward to assure as for solar and wind. For instance, the 
+    renewability of geothermal can be compromised by poor reservoir 
+    management—especially any shortcomings in the reinjection of cooled 
+    geothermal fluids—which can lead to quite marked overdraft of the 
+    resource base, at least locally and temporarily (albeit the 
+    time-scale may be decadal). Similarly, some geothermal systems can 
+    have quite high CO2 emissions, especially in 
+    volcanic regions where the magma conduits cut through carbonate 
+    sedimentary rocks (as in much of Italy, for instance; [17]). 
+    However, the majority of geothermal systems have very low carbon 
+    emissions, with systems used only for heating purposes having some 
+    of the lowest carbon emissions of any renewable technologies, at 
+    around 4 g of CO2 equivalent per kWh 
+    [9,18].
+As previously noted, the very earliest human use of geothermal 
+    resources was for recreational direct-use purposes [2] with 
+    electricity generation commencing only in 1912 at Larderello 
+    (Italy) [7]. These two historic uses exploit, respectively, low and 
+    high enthalpy resources. Far more recent are the various attempts 
+    to exploit very low enthalpy systems (which is solely for 
+    direct-use purposes and requires the use of heat-pumps) and 
+    mid-enthalpy systems (mainly for direct use, but also potentially 
+    for power generation—and thus CHP—by means of binary cycle power 
+    plants; [6,7,8,9,19]). Meanwhile, deep drilling in Iceland has 
+    successfully intercepted a super-critical geothermal reservoir 
+    [20], which had originally been discovered by accident. If 
+    super-critical reservoirs can be successfully engineered—without 
+    inducing pressure decreases within the reservoirs that would take 
+    them below the critical point—the rewards will be high indeed: a 
+    single super-critical geothermal well can be expected to produce an 
+    order of magnitude more energy than a well of similar dimensions 
+    accessing only sub-critical high-enthalpy resources [20].
+Given these recent developments at both ends of the enthalpy 
+    spectrum, the old bipartite categorization of geothermal resources 
+    into low- and high-enthalpy systems [1,9] is no longer fit for 
+    purpose [14]. A more refined categorization of resources, which 
+    corresponds quite closely with the optimal domains for application 
+    of different energy conversion technologies, was recently proposed 
+    by Younger [14], and is further developed here in graphical form 
+    (Figure 1).
+ Figure 1. 
+    Categorization of geothermal resources on the basis of enthalpy. 
+    The shaded areas indicate parts of the parameter space that are 
+    rare/impossible in natural systems. The numbers on the lines 
+    dividing the different enthalpy categories are approximate values 
+    of enthalpy in kJ/kg. 
+3. Recent Innovations 
+3.1. Spheres of Endeavour
+It is both the fascination and the challenge of geothermal 
+    energy that it is a multifaceted business, requiring critical 
+    inputs from a wide range of engineering, natural science and social 
+    science disciplines. As in all commercial spheres, not all 
+    significant innovations are reported in the open literature, either 
+    due to economic sensitivities, or simply due to a lack of a 
+    pressure for industrial innovators to publish. This paper is also 
+    focused on introducing and explaining the context for this 
+    geothermal Special Issue of the journal Energies. Hence, the 
+    account that follows will inevitably be partial. In broad terms, 
+    however, it is clear that significant innovations in geothermal 
+    energy have been made in the following areas: 
+- Reservoir exploration and development; 
+- Reservoir management and modelling; 
+- Design, operation and maintenance of energy conversion 
+    technologies; and 
+- Socio-economic constraints on geothermal energy use.
+Each of these areas is explored in the following sub-sections. 
+    
+3.2. Reservoir Exploration and Development
+The concept of “reservoir” is seldom discussed in connection 
+    with very low-enthalpy geothermal resources exploited using closed- 
+    or open-loop heat-pump systems. There has been a tendency to 
+    tacitly assume that individual heat-pump systems are unlikely to 
+    interfere with each other, so that the overall heat (and water) 
+    balance of the “reservoir” can be neglected. Where ground-coupled 
+    heat-pump systems (GCHPS) are used for individual dwellings in 
+    rural areas, this tacit assumption may be unproblematic. However, 
+    for larger GCHPS, and wherever neighbouring systems occur in close 
+    proximity to one another, failure to characterise and manage the 
+    ground exploited by the system can lead to poor performance, 
+    manifest in coefficients of performance (COPs) well below the usual 
+    minimal target design value of 3 [15]. It can also result in mutual 
+    interference between adjoining subsurface heat-exchangers, 
+    diminishing the ability of a given volume of ground to support the 
+    desired heating/cooling load [21]. A volume of ground used for such 
+    purposes has been termed an “aestifer” [22], being a body of 
+    geological material that stores and transmits heat. As such, an 
+    aestifer is analogous to the more familiar “aquifer” that stores 
+    and transmits water. Indeed, for large open-loop systems an 
+    aestifer might be entirely identified with an aquifer. However, 
+    because heat conduction is not limited solely to permeable rocks, 
+    non-aquifer lithologies may fall within the boundaries of an 
+    aestifer, particularly where the GCHPS exploiting it is a large 
+    closed-loop system. In such cases, characterisation of an aestifer 
+    involves delineation of spatial boundaries and determination of its 
+    intrinsic thermal properties, especially thermal conductivity and 
+    specific heat capacity [22].
+Clearly drilling, in situ testing, sample 
+    retrieval and laboratory testing all have crucial parts to play in 
+    identifying fields of thermal properties within an aestifer, and 
+    indeed of point-specific temperature as a key state variable. 
+    However, as in all other arenas of geological exploration, such 
+    direct measurement methods can never fully capture the totality of 
+    the parameter fields. It is in this connection that geophysical 
+    methods can play an important role, both in guiding the siting of 
+    the limited number of boreholes that the project can afford, and in 
+    interpolating petrophysical properties between boreholes. While 
+    routinely used in applied investigations of geology at substantial 
+    depths (e.g., for mineral prospecting, hydrocarbon exploration and 
+    high-enthalpy geothermal exploration), the overall neglect of 
+    aestifer characterization in very low-enthalpy GCHPS applications 
+    is reflected in a scarcity of geophysical investigations of shallow 
+    soils and rocks coupled to heat pumps. However, in a rigorous 
+    review of experiences to date, Hermans et al. 
+    [23] have found that a combination of electrical resistivity 
+    tomography (ERT), the self-potential method (SP) and distributed 
+    temperature sensing (DTS) can provide reliable sensing of 
+    variations in subsurface temperatures and, by joint inversion with 
+    other geoscientific information, powerful insights into spatial 
+    variations in thermal conductivity and specific heat capacity. 
+A particular category of aestifer with potentially widespread 
+    use in many old industrial conurbations in Europe and North America 
+    are flooded coalmines [24]. Large open-loop GCHPS exploiting these 
+    are operating successfully in Springhill (Nova Scotia), Heerlen 
+    (Netherlands) and Miéres (Spain) [14]. As the movement of both 
+    ground water and heat in flooded mine workings is typically 
+    complex, sometimes involving turbulent flow conditions atypical of 
+    most natural aquifers, assessment of these aestifers is 
+    particularly challenging. However, statutory compilation of mine 
+    plans in most jurisdictions means that records of former mines are 
+    generally quite good, at least for mines dating from the final 
+    quarter of the 19th Century onwards. 

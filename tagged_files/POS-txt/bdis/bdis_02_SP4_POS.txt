@@ -1,0 +1,2 @@
+does_VDZ Scotland_NP1 really_RR need_VVI Trident_NP1 
+is_VBZ it_PPH1 a_AT1 consension_NN1 

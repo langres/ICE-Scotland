@@ -1,0 +1,47 @@
+Snails can make complex decisions ‘with only two brain 
+    cells’ 
+
+Snails are not known for their quick thinking but can 
+    make complex decisions using just two brain cells, scientists have 
+    learned.
+One cell tells the mollusc if it is hungry or not while the 
+    other lets it know when food is present.
+The discovery, made using electrodes to measure activity in the 
+    brains of freshwater snails searching for lettuce, could help 
+    engineers design more efficient robots.
+Lead researcher Professor George Kemenes, from the University of 
+    Sussex, said: “What goes on in our brains when we make 
+    complex behavioural decisions and carry them out is poorly 
+    understood.
+“Our study reveals for the first time how just two 
+    neurons can create a mechanism in an animal’s brain which drives 
+    and optimises complex decision-making tasks.
+“It also shows how this system helps to manage how much 
+    energy they use once they have made a decision.
+“Our findings can help scientists to identify other core 
+    neuronal systems which underlie similar decision-making 
+    processes.
+“This will eventually help us design the ‘brains’ of 
+    robots based on the principle of using the fewest possible 
+    components necessary to perform complex tasks.”
+In order to test the snail’s decision-making, the researchers 
+    hooked up electrodes to monitor changes in activity in its brain, 
+    which picked up on spikes in the activity of individual neurons.
+They found that the two cells – a controller and a motivator – 
+    fed back to each other to make the decision. If food is present, 
+    the controller lets the animal know, and if the motivator says it 
+    is hungry, then the snail will nibble away.
+But if food is not present, then the circuit can dial itself 
+    down, saving energy.
+Seeking out food is a fundamental survival skill for animals and 
+    an example of goal-directed behaviour.
+During such goal-directed decision making, an animal must 
+    integrate information about both its external environment and 
+    internal state while using as little energy as possible.
+Professor Kemenes said: ‘Our findings can help scientists 
+    to identify other core neuronal systems which underlie similar 
+    decision making processes.
+“This will eventually help us design the ‘brains’ of 
+    robots based on the principle of using the fewest possible 
+    components necessary to perform complex tasks.”
+The study is published in the journal Nature Communications.

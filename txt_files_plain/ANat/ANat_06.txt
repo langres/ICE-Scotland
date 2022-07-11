@@ -1,20 +1,260 @@
-1 . Introduction 
-The incidence of acute pancreatitis ( AP ) varies between populations ranging from 150 and 420 patients per million population in the UK to 330–430 patients per million in the USA [ 1,2 ] . One in five patients , however , will develop organ failure with or without local complications – a setting that defines severe acute pancreatitis . Half of the deaths attributable to AP occur within the first 7 days of admission [ 3 ] , with the majority in the first 3 days . Patients with severe AP who survive this first phase of illness , particularly those with persistent SIRS or organ failure [ 4 ] , are at risk of developing secondary infection of pancreatic necrosis . Mortality in patients with infected necrosis and organ failure may reach 20–30 % and an increased mortality is seen with increasing age [ 5 ] . The aim of this paper is to discuss the role of minimally invasive surgical intervention in severe acute pancreatitis , provide a rationale for adopting either a single or multimodality approach based on the often variable clinical scenarios , and highlight potential complications . 
-2 . Revised Atlanta Classification 2012 
-The 2012 Revised Atlanta Classification [ 6 ] divides acute pancreatitis into three categories : mild , moderate , and severe disease . These categories are based on the absence or presence of local and / or systemic complications . In addition to disease severity , early mortality is strongly associated with age and comorbidity . Furthermore , the classification further categorizes local complications on the basis of time from presentation ( <4> weeks ) and on the presence of necrosis ( Table 1 ) . The vast majority of acute fluid collections without necrosis will resolve within 4 weeks and a persistent fluid collection with minimal or no necrotic component ( " pseudocyst " ) is very rare . Collections may be sterile or infected . The majority of peripancreatic complications are therefore related to either acute necrotic collections ( <4 weeks ) or walled-off pancreatic necrosis ( >4 weeks ) . This temporal separation is somewhat arbitrary , as the clinical management and surgical approach are determined by multifactorial individual patient factors . However , this does serve to provide a timeline beyond which , if appropriate , intervention should be delayed . A subsequent 
-Table 1 : Local complications in acute pancreatitis ( 2012 Revised Atlanta Classification ) . 
-addendum added a category of " critical " recognizing those patients with sepsis and organ failure which was associated with the highest mortality [ 7 ] . 
-3 . " Step Up " Management of Postacute Peripancreatic Collections 
-Whilst the early management , rationale , timing , and technique of early percutaneous catheter drainage within a " step-up " framework have been discussed in previous sections , it is worth establishing the basis on which pancreatic necrosectomy may be considered within the minimally invasive era . Early debridement [ 8 ] has for many years been associated with an adverse outcome , in the absence of major ( usually vascular ) complications , being considered current standard practice . Freeny [ 9 ] and his colleagues in the 1990 's showed that aggressive percutaneous sepsis control would promote recovery in the absence of formal necrosectomy , and this finding was confirmed within the PANTER trial [ 10 ] which demonstrated that 35 % of patients with established necrotic collections did not require any further intervention over simple small diameter percutaneous catheter drainage . Therefore , whilst a proportion of patients will recover without requirement for enhanced drainage , the majority will continue to exhibit signs of sepsis despite percutaneous catheter drainage alone . There is consensus that in those patients with persistent sepsis , a minimally invasive approach is preferred over open surgical necrosectomy , as described by Bradley , Warshaw , and Beger [ 11–13 ] . A number of " step-up " approaches have been described , including percutaneous necrosectomy ( MIRP ) [ 14 ] , video-assisted retroperitoneal debridement ( VARD ) [ 15 ] and endoscopic [ 16 ] and laparoscopic [ 17 ] cystgastrostomy . Laparoscopic direct necrosectomy was described in the 1990 's [ 18 ] but failed to gain popularity due to technical difficulty . There are 2 retrospective studies [ 19 , 20 ] describing laparoscopic necrosectomy alone with a total of 29 patients . The patients were highly selected and no median follow-up was available for either study . The choice of one approach over another is determined by the clinical condition of the patient , local experience and expertise , anatomical position / content of the collection , and the time from presentation / maturation of the wall of the collection . There is an acceptance that due to the complexity of presentation , no single technique is a panacea , and all options share a common concept of achieving minimally invasive sepsis control , whilst maintaining adequate nutritional competence . A detailed discussion surrounding nutritional support is beyond the scope of this paper but focuses on nasoenteric feeding [ 21 ] ( NG or NJ ) , occasionally resorting to dual feeding ( NJ / TPN ) if nutritional targets are not being met enterically . Percutaneous gastrostomy or jejunostomy feeding tubes were commonplace in the open surgical era but are associated with procedure related complications which outweigh any advantage over the nasoenteric route and are not used in our unit . The optimal approach is developing through evolution and the management concepts of the last decade , where solid predominant or infected necrotic collections were managed percutaneously by MIRP or VARD and well-organized predominantly fluid collections managed by endoscopic or laparoscopic transgastric drainage are now being challenged in randomized trials . The choice of initial percutaneous or endoscopic drainage is now largely based on the position of the collection relative to the stomach , colon , liver , spleen , and kidney . Furthermore , the ability to perform EUS guided puncture within an ITU setting , without moving the patient to the radiology department for CT guided drainage , may be safer in a patient in extremis . In general , lateral collections and those extending behind the colon are usually better approached from the left or right flank whereas those medial collections where a percutaneous route is compromised by overlying bowel , spleen , or liver , may be better approached endoscopically . Initial percutaneous drainage is with an 8–12 FG single pigtail at the discretion of the radiologist , and catheter diameter or type does not seem to influence the requirement for secondary intervention . The route of percutaneous drainage should ideally take into account the probability of subsequent " step-up " escalation utilizing that drain tract , but the initial priority must be sepsis control , and if the initial drain placement is suboptimal , secondary alternative access can be obtained , sometimes involving a combination of percutaneous and endoscopic techniques . Both MIRP and VARD retroperitoneal techniques are modifications of the open lateral approach initially described in the 1980 's by Fagniez et al. [ 22 ] which utilised a loin / subcostal and retrocolic approach to allow debridement of pancreatic and peripancreatic necrosis . This open approach was associated with major morbidity ( enteric fistula 45 % , haemorrhage 40 % , and colonic necrosis 15 % ) and failed to gain popularity . For both minimally invasive techniques , 
-Figure 1 : Acute walled-off pancreatic necrotic collection ( W. O. P. N ) at 6 weeks . 
-a left-sided small diameter percutaneous drain is ideally placed into the acute necrotic collection between the spleen , kidney , and colon ( Figure 1 ) . Right-sided or transperitoneal drainage is also possible . In those who fail to respond adequately to simple drainage this access drain is then used as a guide to gain enhanced drainage of the collection . For percutaneous necrosectomy , the catheter is exchanged for a radiological guidewire and then a low compliance balloon dilator is inserted into the collection and dilated to 30 FG . Access to the cavity is achieved by passing the operating nephroscope through an Amplatz sheath , which allows debridement under direct vision . The nephroscopeh is an operating channel that permits standard ( 5 mm ) laparoscopic graspers as well as an irrigation / suction channel . High flow lavage promotes initial evacuation of pus and liquefied necrotic material , exposing residual black or grey devascularised pancreatic necrosis and peripancreatic fat , which if loose is extracted in a piecemeal fashion until , after several procedures , a cavity lined by viable granulation tissue is created . At the end of the procedure an 8 FG catheter sutured to a 24 FG drain is passed into the cavity to allow continuous postoperative lavage of warm 0.9 % normal saline initially at 250 mls an hour ( Figure 2 ) . The subsequent rate of lavage is determined by the return and can be reduced as the effluent clears and the clinical control of sepsis is achieved . Chemically assisted debridement with hydrogen peroxide has been reported during endoscopic drainage [ 23 ] , but concerns regarding the risk of air embolism have been highlighted in previous studies [ 24 ] and should only be considered within a study format . Subsequent conversion of the lavage system to simple drainage may be all that is required prior to recovery or the procedure may be repeated until sepsis control is achieved and interval CT confirms resolution . A video-assisted retroperitoneal debridement ( VARD ) procedure is performed with the patient placed in a supine position with the left side 30–40 ° elevated . A subcostal incision of 5 cm is placed in the left flank at the midaxillary line , close to the exit point of the percutaneous drain . Using the in situ percutaneous drain as a guide the retroperitoneal collection is entered . The cavity is cleared of purulent material using a standard suction device . Visible necrosis is carefully removed with the use of long grasping forceps , and deeper 
-Figure 2 : Retroperitoneal drain following enhanced " step-up " percutaneous necrosectomy in same patient as in Figure 1 . 
-access is facilitated using a 0 ° laparoscope , and further debridement performed with laparoscopic forceps under videoscopic assistance . As with a percutaneous necrosectomy , complete necrosectomy is not the aim of this procedure and only loosely adherent pieces of necrosis are removed , minimizing the risk of haemorrhage . Two large bore single lumen drains are positioned in the cavity and the fascia closed to facilitate a closed continuous postoperative lavage system . 
-4 . Early Procedure Related Complications 
-4.1 . SIRS / Bacteraemia Requiring Critical Care Support . Occasionally intervention is associated with a significant SIRS or postprocedure bacteraemia , requiring critical care admission for organ support and often vasopressor therapy . This often resolves within 24–48 hours with appropriate supportive management . Therefore if possible , it is often beneficial for these patients to be observed in a critical care environment following intervention , particularly if they were not receiving level two care before procedure . 
+1. Introduction
+The incidence of acute pancreatitis (AP) varies between 
+    populations ranging from 150 and 420 patients per million 
+    population in the UK to 330–430 patients per million in the USA 
+    [1,2]. One in five patients, however, will develop organ failure 
+    with or without local complications–a setting that defines severe 
+    acute pancreatitis. Half of the deaths attributable to AP occur 
+    within the first 7 days of admission [3], with the majority in the 
+    first 3 days. Patients with severe AP who survive this first phase 
+    of illness, particularly those with persistent SIRS or organ 
+    failure [4], are at risk of developing secondary infection of 
+    pancreatic necrosis. Mortality in patients with infected necrosis 
+    and organ failure may reach 20–30% and an increased mortality is 
+    seen with increasing age [5]. The aim of this paper is to discuss 
+    the role of minimally invasive surgical intervention in severe 
+    acute pancreatitis, provide a rationale for adopting either a 
+    single or multimodality approach based on the often variable 
+    clinical scenarios, and highlight potential complications.
+2. Revised Atlanta Classification 2012
+The 2012 Revised Atlanta Classification [6] divides acute 
+    pancreatitis into three categories: mild, moderate, and severe 
+    disease. These categories are based on the absence or presence of 
+    local and/or systemic complications. In addition to disease 
+    severity, early mortality is strongly associated with age and 
+    comorbidity. Furthermore, the classification further categorizes 
+    local complications on the basis of time from presentation 
+    (<or>4 weeks) and on the presence of necrosis (Table 1).The 
+    vast majority of acute fluid collections without necrosis will 
+    resolve within 4 weeks and a persistent fluid collection with 
+    minimal or no necrotic component (“pseudocyst”) is very rare. 
+    Collections may be sterile or infected. The majority of 
+    peripancreatic complications are therefore related to either acute 
+    necrotic collections (<4 weeks) or walled-off pancreatic 
+    necrosis (>4 weeks). This temporal separation is somewhat 
+    arbitrary, as the clinical management and surgical approach are 
+    determined by multifactorial individual patient factors. However, 
+    this does serve to provide a timeline beyond which, if appropriate, 
+    intervention should be delayed. A subsequent
+Table 1: Local complications in acute 
+    pancreatitis (2012 Revised Atlanta Classification).
+addendum added a category of “critical” recognizing those 
+    patients with sepsis and organ failure which was associated with 
+    the highest mortality [7].
+3. ‘‘Step Up’’ Management of Postacute Peripancreatic 
+    Collections
+Whilst the early management, rationale, timing, and technique of 
+    early percutaneous catheter drainage within a “step-up” framework 
+    have been discussed in previous sections, it is worth establishing 
+    the basis on which pancreatic necrosectomy may be considered within 
+    the minimally invasive era. Early debridement [8] has for many 
+    years been associated with and 
+    adverse outcome, in the absence of major (usually vascular) 
+    complications, being considered current standard practice. Freeny 
+    [9] and his colleagues in the 1990’s showed that aggressive 
+    percutaneous sepsis control would promote recovery in the absence 
+    of formal necrosectomy, and this finding was confirmed within the 
+    PANTER trial [10] which demonstrated that 35% of patients with 
+    established necrotic collections did not require any further 
+    intervention over simple small diameter percutaneous catheter 
+    drainage.Therefore, whilst a proportion of patients will recover 
+    without requirement for enhanced drainage, the majority will 
+    continue to exhibit signs of sepsis despite percutaneous catheter 
+    drainage alone. There is consensus that in those patients with 
+    persistent sepsis, a minimally invasive approach is preferred over 
+    open surgical necrosectomy, as described by Bradley, Warshaw, and 
+    Beger [11–13]. A number of “step-up” approaches have been 
+    described, including percutaneous necrosectomy (MIRP) [14], 
+    video-assisted retroperitoneal debridement (VARD) [15] and 
+    endoscopic [16] and laparoscopic [17] cystgastrostomy. Laparoscopic 
+    direct necrosectomy was described in the 1990’s [18] but failed to 
+    gain popularity due to technical difficulty. There are 2 
+    retrospective studies [19,20] describing laparoscopic necrosectomy 
+    alone with a total of 29 patients. The patients were highly 
+    selected and no median follow-up was available for either study. 
+    The choice of one approach over another is determined by the 
+    clinical condition of the patient, local experience and expertise, 
+    anatomical position/content of the collection, and the time from 
+    presentation/maturation of the wall of the collection. There is an 
+    acceptance that due to the complexity of presentation, no single 
+    technique is a panacea, and all options share a common concept of 
+    achieving minimally invasive sepsis control, whilst maintaining 
+    adequate nutritional competence. A detailed discussion surrounding 
+    nutritional support is beyond the scope of this paper but focuses 
+    on nasoenteric feeding [21] (NG or NJ), occasionally resorting to 
+    dual feeding (NJ/TPN) if nutritional targets are not being met 
+    enterically. Percutaneous gastrostomy or jejunostomy feeding tubes 
+    were commonplace in the open surgical era but are associated with 
+    procedure related complications which outweigh any advantage over 
+    the nasoenteric route and are not used in our unit. The optimal 
+    approach is developing through evolution and the management 
+    concepts of the last decade, where solid predominant or infected 
+    necrotic collections were managed percutaneously by MIRP or VARD 
+    and well-organized predominantly fluid collections managed by 
+    endoscopic orlaparoscopic transgastric drainage are now being 
+    challenged in randomized trials.The choice of initial percutaneous 
+    or endoscopic drainage is now largely based on the position of the 
+    collection relative to the stomach, colon, liver, spleen, and 
+    kidney. Furthermore, the ability to perform EUS guided puncture 
+    within an ITU setting, without moving the patient to the radiology 
+    department for CT guided drainage, may be safer in a patient in 
+    extremis. In general, lateral collections and those extending 
+    behind the colon are usually better approached from the left or 
+    right flank whereas those medial collections where a percutaneous 
+    route is compromised by overlying bowel, spleen, or liver, may be 
+    better approached endoscopically. Initial percutaneous drainage is 
+    with an 8–12 FG single pigtail at the discretion of the 
+    radiologist, and catheter diameter or type does not seem to 
+    influence the requirement for secondary intervention. The route of 
+    percutaneous drainage should ideally take into account the 
+    probability of subsequent “step-up” escalation utilizing that drain 
+    tract, but the initial priority must be sepsis control, and if the 
+    initial drain placement is suboptimal, secondary alternative access 
+    can be obtained, sometimes involving a combination of percutaneous 
+    and endoscopic techniques. Both MIRP and VARD retroperitoneal 
+    techniques are modifications of the open lateral approach initially 
+    described in the 1980’s by Fagniez et al. [22] which utilised a 
+    loin/subcostal and retrocolic approach to allow debridement of 
+    pancreatic and peripancreatic necrosis. This open approach was 
+    associated with major morbidity (enteric fistula 45%, haemorrhage 
+    40%, and colonic necrosis 15%) and failed to gain popularity. For 
+    both minimally invasive techniques,
+Figure 1: Acute walled-off pancreatic 
+    necrotic collection (W. O. P. N) at 6 weeks.
+a left-sided small diameter percutaneous drain is ideally placed 
+    into the acute necrotic collection between the spleen, kidney, and 
+    colon (Figure 1). Right-sided or transperitoneal drainage is also 
+    possible. In those who fail to respond adequately to simple 
+    drainage this access drain is then used as a guide to gain enhanced 
+    drainage of the collection. For percutaneous necrosectomy, the 
+    catheter is exchanged for a radiological guidewire and then a low 
+    compliance balloon dilator is inserted into the collection and 
+    dilated to 30 FG. Access to the cavity is achieved by passing the 
+    operating nephroscope through an Amplatz sheath, which allows 
+    debridement under direct vision. The nephroscopeh 
+    as an operating channel that permits 
+    standard (5 mm) laparoscopic graspers as well as an 
+    irrigation/suction channel. High flow lavage promotes initial 
+    evacuation of pus and liquefied necrotic material, exposing 
+    residual black or grey devascularised pancreatic necrosis and 
+    peripancreatic fat,which if loose is extracted in a piecemeal 
+    fashion until, after several procedures, a cavity lined by viable 
+    granulation tissue is created. At the end of the procedure an 8 FG 
+    catheter sutured to a 24 FG drain is passed into the cavity to 
+    allow continuous postoperative lavage of warm 0.9% normal saline 
+    initially at 250 mls an hour (Figure 2). The subsequent rate of 
+    lavage is determined by the return and can be reduced as the 
+    effluent clears and the clinical control of sepsis is achieved. 
+    Chemically assisted debridement with hydrogen peroxide has been 
+    reported during endoscopic drainage [23], but concerns regarding 
+    the risk of air embolism have been highlighted in previous studies 
+    [24] and should only be considered within a study format. 
+    Subsequent conversion of the lavage system to simple drainage may 
+    be all that is required prior to recovery or the procedure may be 
+    repeated until sepsis control is achieved and interval CT confirms 
+    resolution. A video-assisted retroperitoneal debridement (VARD) 
+    procedure is performed with the patient placed in a supine position 
+    with the left side 30–40° elevated. A subcostal incision of 5 cm is 
+    placed in the left flank at the midaxillary line, close to the exit 
+    point of the percutaneous drain. Using the in 
+    situ percutaneous drain as a guide the retroperitoneal 
+    collection is entered. The cavity is cleared of purulent material 
+    using a standard suction device. Visible necrosis is carefully 
+    removed with the use of long grasping forceps, and deeper
+Figure 2: Retroperitoneal drain 
+    following enhanced “step-up” percutaneous necrosectomy in same 
+    patient as in Figure 1.
+access is facilitated using a 0° laparoscope, and further 
+    debridement performed with laparoscopic forceps under videoscopic 
+    assistance. As with a percutaneous necrosectomy, complete 
+    necrosectomy is not the aim of this procedure and only loosely 
+    adherent pieces of necrosis are removed, minimizing the risk of 
+    haemorrhage.Two large bore single lumen drains are positioned in 
+    the cavity and the fascia closed to facilitate a closed continuous 
+    postoperative lavage system.
+4. Early Procedure Related Complications
+4.1. SIRS/Bacteraemia Requiring Critical Care 
+    Support. Occasionally intervention is associated with a 
+    significant SIRS or postprocedure bacteraemia, requiring critical 
+    care admission for organ support and often vasopressor therapy. 
+    This often resolves within 24–48 hours with appropriate supportive 
+    management. Therefore if possible, it is often beneficial for these 
+    patients to be observed in a critical care environment following 
+    intervention, particularly if they were not receiving level two 
+    care before procedure.
 
-4.2 . Acute or Delayed Haemorrhage . Probably the most frequent scenario is brisk haemorrhage complicating early or overenthusiastic necrosectomy . Attempts at open surgical haemostasis are associated with significant mortality , and in this setting control is usually achieved by packing , or balloon tamponade , but emergency angiography may occasionally have to be considered for arterial bleeding . Venous bleeding is common and should be suspected in patients with a nondiagnostic angiogram but usually settles with correction of any coagulopathy and with local pressure , by simple drain occlusion , a modified Sengstaken-Blakemore tube having amputated the gastric balloon ( MIRP ) , or gauze packing if there is sufficient cutaneous access ( VARD ) . Secondary haemorrhage is occasionally sudden and massive , but here is usually a prelude with a " heraldbleed " , a self-terminating bleed presenting clinically with haemorrhage into a retroperitoneal drain or occasionally a gastrointestinal bleed . An arterial origin of haemorrhage is more common than venous when this occurs as a spontaneous secondary bleed . Overall , the mortality exceeds 30–40 % and a high index of suspicion is essential in order to optimise proactive treatment . In our unit the patient is rapidly stabilized with controlled volume support of the circulation and a simultaneous emergency CT angiogram . Upper gastrointestinal endoscopy in this setting is usually nondiagnostic so should not delay radiological assessment which allows definitive management . Where arterial bleeding is identified on formal angiography embolisation offers the best chance of survival . The increased intracavity pressure , associated with haemorrhage into an infected cavity , may also often be followed by escalating organ dysfunction through bacteraemia and sepsis ; therefore early introduction of targeted antimicrobials is essential . 
-4.3 . Enteric Fistulation . Spontaneous discharge of a postacute collection into the gastrointestinal tract is also recognised which can decompress the collection and result in a clinical improvement without intervention , usually where the fistulous communication involved is the stomach or duodenum , mimicking an endoscopic drainage . It can also present with haematemesis or melaena and should be managed as described above . Whilst spontaneous resolution is possible , fistulation into the colon will often result in persistent sepsis and poorly controlled collections , and therefore , in this situation a defunctioning colostomy / ileostomy or resection may be necessary . 
-4.4 . Late Complications 
-4.4.1 . Pancreatic Fistulation . Parenchymal necrosis is commonly associated with disruption of the main pancreatic duct , and following resolution of associated sepsis residual duct leakage of amylase rich fluid is common , leading to a pancreatic fistula . Early endoscopic intervention should be discouraged whilst collections remain as this may introduce infection and usually prove detrimental . Following resolution of sepsis and any significant collection , transpapillary pancreatic duct stent insertion at ERCP may result in resolution of a persistent fistula , but persistent drainage is often associated with more extensive parenchymal loss or a disconnected tail ( see below ) . Prolonged catheter drainage will lead to maturation of the fistula tract and interval drain removal may result in spontaneous resolution or development of a postacute pseudocyst , which can often be resolved by transmural endoscopic cystgastrostomy achieving enteric diversion . 
-4.4.2 . Disconnected Tail . Where the necrosis extends across most of the transverse diameter of the body or tail , complete separation of the main pancreatic duct in the head of the pancreas and tail may occur leading to a persistent fistula and " disconnected duct syndrome " . Ductal occlusion at the level of parenchymal loss often precludes transpapillary access but if this has not occurred , intracystic transpapillary stenting may result in resolution . If transpapillary access is not possible , options may be transmural EUS guided drainage . Surgical options are dependent on the anatomy and degree of anatomic distortion following resolution of the early phase of disease [ 25 ] and include a formal pancreaticojejunostomy , fistula-jejunostomy , or a " salvage " distal pancreatectomy to excise the residual disconnected functional pancreatic parenchyma , often in combination with a splenectomy , performing a limited pancreatico- ( fistula- ) jejunostomy . 
+4.2. Acute or Delayed Haemorrhage. Probably 
+    the most frequent scenario is brisk haemorrhage complicating early 
+    or overenthusiastic necrosectomy. Attempts at open surgical 
+    haemostasis are associated with significant mortality, and in this 
+    setting control is usually achieved by packing, or balloon 
+    tamponade, but emergency angiography may occasionally have to be 
+    considered for arterial bleeding. Venous bleeding is common and 
+    should be suspected in patients with a nondiagnostic angiogram but 
+    usually settles with correction of any coagulopathy and with local 
+    pressure, by simple drain occlusion, a modified 
+    Sengstaken-Blakemore tube having amputated the gastric balloon 
+    (MIRP), or gauze packing if there is sufficient cutaneous access 
+    (VARD). Secondary haemorrhage is occasionally sudden and massive, 
+    but here is usually a prelude with a “heraldbleed 
+    ,” a self-terminating bleed 
+    presenting clinically with haemorrhage into a retroperitoneal drain 
+    or occasionally a gastrointestinal bleed. An arterial origin of 
+    haemorrhage is more common than venous when this occurs as a 
+    spontaneous secondary bleed. Overall, the mortality exceeds 30–40% 
+    and a high index of suspicion is essential in order to optimise 
+    proactive treatment. In our unit the patient is rapidly stabilized 
+    with controlled volume support of the circulation and a 
+    simultaneous emergency CT angiogram. Upper gastrointestinal 
+    endoscopy in this setting is usually nondiagnostic so should not 
+    delay radiological assessment which allows definitive management. 
+    Where arterial bleeding is identified on formal angiography 
+    embolisation offers the best chance of survival. The increased 
+    intracavity pressure, associated with haemorrhage into an infected 
+    cavity, may also often be followed by escalating organ dysfunction 
+    through bacteraemia and sepsis; therefore early introduction of 
+    targeted antimicrobials is essential.
+4.3. Enteric Fistulation. Spontaneous 
+    discharge of a postacute collection into the gastrointestinal tract 
+    is also recognised which can decompress the collection and result 
+    in a clinical improvement without intervention, usually where the 
+    fistulous communication involved is the stomach or duodenum, 
+    mimicking an endoscopic drainage. It can also present with 
+    haematemesis or melaena and should be managed as described above. 
+    Whilst spontaneous resolution is possible, fistulation into the 
+    colon will often result in persistent sepsis and poorly controlled 
+    collections, and therefore, in this situation a defunctioning 
+    colostomy/ileostomy or resection may be necessary.
+4.4. Late Complications
+4.4.1. Pancreatic Fistulation. Parenchymal 
+    necrosis is commonly associated with disruption of the main 
+    pancreatic duct, and following resolution of associated sepsis 
+    residual duct leakage of amylase rich fluid is common, leading to a 
+    pancreatic fistula. Early endoscopic intervention should be 
+    discouraged whilst collections remain as this may introduce 
+    infection and usually prove detrimental. Following resolution of 
+    sepsis and any significant collection, transpapillary pancreatic 
+    duct stent insertion at ERCP may result in resolution of a 
+    persistent fistula, but persistent drainage is often associated 
+    with more extensive parenchymal loss or a disconnected tail (see 
+    below). Prolonged catheter drainage will lead to maturation of the 
+    fistula tract and interval drain removal may result in spontaneous 
+    resolution or development of a postacute pseudocyst, which can 
+    often be resolved by transmural endoscopic cystgastrostomy 
+    achieving enteric diversion.
+4.4.2. Disconnected Tail. Where the necrosis 
+    extends across most of the transverse diameter of the body or tail, 
+    complete separation of the main pancreatic duct in the head of the 
+    pancreas and tail may occur leading to a persistent fistula and 
+    “disconnected duct syndrome.” 
+    Ductal occlusion at the level of parenchymal loss often precludes 
+    transpapillary access but if this has not occurred, intracystic 
+    transpapillary stenting may result in resolution. If transpapillary 
+    access is not possible, options may be transmural EUS guided 
+    drainage. Surgical options are dependent on the anatomy and degree 
+    of anatomic distortion following resolution of the early phase of 
+    disease [25] and include a formal pancreaticojejunostomy, 
+    fistula-jejunostomy, or a “salvage” distal pancreatectomy to excise 
+    the residual disconnected functional pancreatic parenchyma, often 
+    in combination with a splenectomy, performing a limited 
+    pancreatico- (fistula-) jejunostomy.

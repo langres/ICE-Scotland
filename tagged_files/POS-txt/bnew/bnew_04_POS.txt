@@ -4,7 +4,7 @@ with_IW the_AT Labour_NP1 party_NN1 calling_VVG for_IF the_AT Health_NP1 Secreta
 over_II allegations_NN2 that_CST he_PPHS1 'd_VHD misled_VVN parliament_NN1 
 Conservative_JJ leader_NN1 Ruth_NP1 Davidson_NP1 asked_VVD why_RRQ the_AT Scottish_JJ government_NN1 had_VHD n't_XX released_VVN North_NP1 Sea_NNL1 oil_NN1 projections_NN2 
 and_CC for_IF the_AT Liberal_JJ Democrats_NP2 Willie_NP1 Rennie_NP1 criticised_VVD the_AT number_NN1 of_IO police_NN2 officers_NN2 carrying_VVG guns_NN2 
-once_CS the_AT session_NNT1 concluded_VVD the_AT questions_NN2 continued_VVD as_CSA the_AT Labour_JJ party_NN1 brought_VVD forward_RL a_AT1 motion_NN1 of_IO no_AT confidence_NN1 in_II Alex_NP1 Neil_NP1 
+once_CS the_AT session_NNT1 concluded_VVD the_AT questions_NN2 continued_VVD as_CSA the_AT Labour_NP1 party_NN1 brought_VVD forward_RL a_AT1 motion_NN1 of_IO no_AT confidence_NN1 in_II Alex_NP1 Neil_NP1 
 accusing_VVG the_AT Health_NP1 Secretary_NP1 of_IO intervening_VVG to_TO save_VVI mental_JJ health_NN1 beds_NN2 at_II a_AT1 hospital_NN1 in_II his_APPGE constituency_NN1 
 and_CC then_RT removing_VVG himself_PPX1 from_II the_AT process_NN1 
 at_II decision_NN1 time_NNT1 parliament_NN1 rejected_VVD the_AT motion_NN1 of_IO no_AT confidence_NN1 

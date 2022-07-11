@@ -1,0 +1,137 @@
+2. CASE STUDY
+2.1 3D Digital Documentation of The Heart of Neolithic 
+    Orkney and Cultural Heritage Applications
+The World Heritage Site in Orkney covers a unique cultural 
+    landscape, dating back approximately 5,000 years. One of the main 
+    sites within this landscape is Skara Brae, a Neolithic village 
+    comprising individual domestic housing. It is the best preserved 
+    group of prehistoric houses in Western Europe. The chambered tomb 
+    at Maeshowe is significant not only as a Neolithic monumental 
+    masterpiece and the finest example of its kind in NW Europe, but 
+    also for its fantastic collection of 
+    12th century Viking inscriptions, the 
+    interior walls being covered with graffiti runes and other 
+    carvings. Stone circles and standing stones complete the current 
+    World Heritage inscription.
+The sites are conserved and managed by Historic Scotland, the 
+    Scottish government agency charged with safeguarding the 
+    nations heritage and 
+    promoting its enjoyment and understanding for future generations. 
+    In August 2010, the Centre for Digital Documentation and 
+    Visualisation working in partnership with Historic Scotland 
+    undertook a comprehensive 3D survey of all sites within the World 
+    Heritage zone.
+2.2 Objectives
+The objectives of the project were numerous:
+• Generate a highly accurate digital 3D survey.
+• Develop an interpretation and education tool, based on virtual 
+    reality reconstructions.
+• Visual aid to understanding construction phases of 
+    structures.
+• Conservation aid.
+• Condition monitoring.
+• Coastal erosion monitoring.
+• Promote public engagement and partnership working.
+• Allow virtual access to remote and inaccessible sites.
+• Develop and promote virtual tourism.
+3. METHODOLOGY
+Airborne LiDAR data and ortho-rectified photography was 
+    collected for the entire World Heritage zone at 0.5m resolution 
+    with imagery in 24-bit colour.
+Terrestrial laser scanning (TLS) is now a well-established 
+    method for large-scale heritage documentation (e.g. Bedford and 
+    Papworth 2009, Lerma et al. 2010, Wilson 
+    et al. 2010). TLS was therefore the principal 
+    survey technique used at each main site, and was carried out at 
+    5-10mm resolution using a combination of time-of-flight and 
+    phase-based scanners (Leica ScanStation 2 and C10 and Leica 
+    HDS6100). Closed-loop traverses provided an accuracy of ±2mm for 
+    each site. Additional scans were registered to the primary point 
+    cloud using high definition surveying (HDS) targets. TLS data 
+    collection was augmented by digital total station surveys (Leica 
+    TCRA 1105+) and GPS data collection (Leica GNSS 1200+ receiver) to 
+    fully georeference the point clouds. High-resolution 360° panoramic 
+    photography was obtained from each scan location using a Nikon D3X 
+    camera with Nikon 12mm lens and a Nodal Ninja mount to enable 
+    photo-mapping directly onto the point cloud.
+Triangulation laser scanners were used for sub-mm close-range 
+    capture of carvings and inscriptions (Hexagon Romer arm with 
+    Perceptron Scanworks v5 laser scanner and Konica-Minolta Vivid 
+    9i).
+Data processing is currently in progress on this project, but 
+    some initial results are given here. The project utilises Leica 
+    Cyclone, Leica GeoOffice, TheoLt (using the TheoNetAdjust 
+    functionality), Polyworks and 3D Studio Max software packages. All 
+    datasets will be combined and used within a GIS environment (using 
+    ArcGIS).
+4. RESULTS AND DISCUSSION
+4.1 Skara Brae
+Skara Brae village is situated in very close proximity to the 
+    North Sea. It consists of a complex system of small houses 
+    interlinked by passageways and tunnel systems (Figure 1). The site 
+    has been fully documented in 3D and georeferenced, with an overall 
+    point cloud accuracy of ±6mm.
+ Figure 1. Aerial photo of Skara Brae, 
+    showing close network of houses and proximity of site to coastline 
+    © P. and M. Snodin 2009.
+Recording
+Generating an accurate survey record for the site was an 
+    important priority for Historic Scotland. Since the village is 
+    composed of numerous low and narrow passages, some very difficult 
+    to access, the site has never been mapped in its entirety. The team 
+    were able to position the Leica HDS6100 and C10 scanners in 
+    crevices and passageways too small for a person to fit, thus 
+    obtaining a comprehensive map (Figure 2).
+ Figure 2. Point cloud showing plan view 
+    of Skara Brae village, coloured by intensity values © CDDV 2010.
+The registered point cloud data will be utilised in facilities 
+    management of the site, allowing accurate dimensions to be taken 
+    and assisting with planning and implementation of ongoing 
+    conservation and maintenance works.
+Monitoring
+Coastal erosion is a critical heritage management issue at this 
+    site. A defensive sea wall has been installed and TLS included 
+    recording of this wall from the shoreline (Figure 3). Permanent 
+    survey markers were installed for the TLS work, allowing for 
+    regular repeat scans and monitoring of coastal erosion.
+ Figure 3. Sea wall defences visible in 
+    TLS data from Skara Brae, as recorded from the shoreline and 
+    coloured by intensity values © CDDV 2010.
+This initial dataset will act as a baseline and subsequent 
+    recording will be carried out at defined time intervals. 
+    Digitisation of the sea wall defences will be of assistance in 
+    quantifying any future erosion (Figure 4). Conservation 
+    intervention will take place when and where necessary.
+ Figure 4. Digitisation of sea wall 
+    defences from TLS data © CDDV 2011.
+Airborne LiDAR data will also be useful for monitoring longterm 
+    and large-scale coastal erosion. The coastal topographic data 
+    collected for this project will serve as a baseline. LiDAR data in 
+    XYZ format was meshed to form a polygonal model, then high 
+    resolution aerial photography was UVW mapped onto this surface, as 
+    shown in Figure 5. The model was then rendered using a direct 
+    shadow casting light to emphasise topological change in the 
+    terrain.
+ Figure 5. Model from airborne LiDAR 
+    data showing site and coastal defenses at Skara Brae © CDDV 
+    2011.
+Remote sensing techniques such as LiDAR are well-regarded 
+    methodologies for archaeological site or feature identification 
+    (e.g. Crutchley 2010, Devereux et al. 2005, 
+    2008). LiDAR data will therefore be interrogated with a view to 
+    identifying potential new archaeological sites within the World 
+    Heritage Zone. The area is extremely rich in Neolithic and later 
+    heritage and much undoubtedly remains to be discovered.
+Visualisation
+Virtual reconstruction of the village, based on the accurate 3D 
+    survey data will enable visitors, both on site and remote, to view 
+    the village in its original appearance and to observe different 
+    construction phases. House 7 within the village is the best 
+    preserved and to maintain this condition, the house has been roofed 
+    over and visitor access prohibited. The TLS data and its 
+    interpretative visualisation will allow virtual access to this 
+    space without compromising conservation and maintenance plans 
+    (Figures 6, 7). High-resolution photography will be mapped onto the 
+    model surfaces to create virtual tours of the as-built structures, 
+    while virtual reconstructions will make use of archaeological 
+    evidence.

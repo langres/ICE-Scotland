@@ -1,0 +1,131 @@
+this_DD1 appeal_NN1 arises_VVZ out_II21 of_II22 an_AT1 accident_NN1 in_II which_DDQ Mrs_NNB Robinson_NP1 
+a_AT1 lady_NN1 then_RT aged_JJ seventy_MC21 six_MC22 
+was_VBDZ knocked_VVN over_RP 
+on_II a_AT1 shopping_NN1 street_NN1 in_II the_AT centre_NN1 of_IO Huddersfield_NP1 
+by_II a_AT1 group_NN1 of_IO men_NN2 
+two_MC of_IO the_AT men_NN2 were_VBDR police_NN2 officers_NN2 
+and_CC the_AT third_MD was_VBDZ a_AT1 suspected_JJ drug_NN1 dealer_NN1 
+whom_PNQO they_PPHS2 were_VBDR attempting_VVG to_TO arrest_VVI 
+the_AT officers_NN2 approached_VVD him_PPHO1 and_CC erm_UH seize_VV0 hold_NN1 of_IO him_PPHO1 
+as_CSA he_PPHS1 was_VBDZ standing_VVG outside_II a_AT1 shop_NN1 
+with_IW Mrs_NNB Robinson_NP1 standing_VVG close_JJ by_RP 
+as_CSA the_AT officers_NN2 struggled_VVD with_IW the_AT suspect_NN1 
+he_PPHS1 backed_VVD into_II Mrs_NNB Robinson_NP1 
+who_PNQS fell_VVD over_RP 
+and_CC the_AT three_MC men_NN2 fell_VVD on_II31 top_II32 of_II33 her_PPHO1 
+causing_VVG her_PPHO1 to_TO be_VBI injured_VVN 
+the_AT officers_NN2 had_VHD foreseen_VVN that_CST the_AT suspect_NN1 would_VM attempt_VVI to_TO escape_VVI 
+and_CC that_CST anyone_PN1 nearby_RL might_VM be_VBI injured_VVN 
+but_CCB they_PPHS2 had_VHD not_XX noticed_VVN that_CST Mrs_NNB Robinson_NP1 was_VBDZ in_II his_APPGE immediate_JJ vicinity_NN1 
+when_CS they_PPHS2 attempted_VVD 
+to_TO make_VVI the_AT arrest_NN1 
+the_AT principal_JJ questions_NN2 to_TO be_VBI decided_VVN in_II the_AT appeal_NN1 
+are_VBR whether_CSW the_AT officers_NN2 were_VBDR under_II any_DD duty_NN1 to_TO take_VVI reasonable_JJ care_NN1 for_IF Mrs_NNB Robinson_NP1 's_GE safety_NN1 
+and_CC if_CS they_PPHS2 were_VBDR 
+whether_CSW they_PPHS2 were_VBDR in_II breach_NN1 of_IO that_DD1 duty_NN1 
+the_AT judge_NN1 held_VVD that_CST the_AT officers_NN2 had_VHD been_VBN negligent_JJ towards_II Mrs_NNB Robinson_NP1 
+but_CCB that_CST the_AT police_NN2 were_VBDR immune_JJ from_II claims_NN2 against_II them_PPHO2 in_II negligence_NN1 
+the_AT court_NN1 of_IO appeal_NN1 found_VVD that_CST most_DAT claims_NN2 against_II the_AT police_NN2 when_CS engaged_VVN in_II their_APPGE core_NN1 functions_NN2 
+will_VM fail_VVI the_AT third_MD stage_NN1 of_IO the_AT Caparo_NP1 test_NN1 
+a_AT1 test_NN1 which_DDQ they_PPHS2 derived_VVD from_II a_AT1 previous_JJ decision_NN1 of_IO the_AT House_NP1 of_IO Lords_NP2 in_II a_AT1 case_NN1 called_VVN Caparo_NP1 
+to_II the_AT effect_NN1 that_CST the_AT duty_NN1 of_IO care_NN1 will_VM not_XX exist_VVI 
+unless_CS its_APPGE imposition_NN1 is_VBZ fair_JJ just_JJ and_CC reasonable_JJ 
+on_II the_AT particular_JJ facts_NN2 of_IO a_AT1 case_NN1 
+the_AT court_NN1 of_IO appeal_NN1 also_RR found_VVD that_CST it_PPH1 was_VBDZ the_AT suspect_NN1 
+not_XX the_AT police_NN2 officers_NN2 
+who_PNQS had_VHD caused_VVN Mrs_NNB Robinson_NP1 to_TO be_VBI injured_VVN 
+by_II attempting_VVG to_TO escape_VVI 
+finally_RR the_AT court_NN1 of_IO appeal_NN1 considered_VVD 
+that_CST even_CS21 if_CS22 the_AT officers_NN2 had_VHD owed_VVN Mrs_NNB Robinson_NP1 
+a_AT1 duty_NN1 of_IO care_NN1 
+they_PPHS2 had_VHD not_XX acted_VVN in_II breach_NN1 of_IO it_PPH1 
+Mrs_NNB Robinson_NP1 has_VHZ appealed_VVN to_II the_AT Supreme_JJ Court_NP1 
+the_AT Supreme_JJ Court_NP1 unanimously_RR allows_VVZ her_APPGE appeal_NN1 
+the_AT lead_NN1 judgment_NN1 is_VBZ given_VVN by_II myself_PPX1 
+and_CC Lady_NNB Hale_NP1 and_CC Lord_NNB Hodge_NP1 agree_VV0 with_IW it_PPH1 
+Lord_NNB Mance_NP1 and_CC Lord_NNB Hughes_NP1 
+reach_VV0 the_AT same_DA conclusion_NN1 
+by_II different_JJ reasoning_NN1 
+the_AT majority_NN1 of_IO the_AT court_NN1 reject_VV0 the_AT idea_NN1 
+that_CST there_EX is_VBZ a_AT1 Caparo_NP1 test_NN1 
+which_DDQ applies_VVZ to_II all_DB claims_NN2 in_II the_AT modern_JJ law_NN1 of_IO negligence_NN1 
+and_CC that_CST in_II consequence_NN1 the_AT court_NN1 will_VM only_RR impose_VVI a_AT1 duty_NN1 of_IO care_NN1 
+where_CS it_PPH1 consi-_FU where_CS it_PPH1 considers_VVZ it_PPH1 
+fair_JJ just_JJ and_CC reasonable_JJ to_TO do_VDI so_RR on_II the_AT particular_JJ facts_NN2 
+it_PPH1 is_VBZ only_RR where_CS established_JJ legal_JJ principles_NN2 
+do_VD0 not_XX provide_VVI a_AT1 clear_JJ answer_NN1 to_II the_AT question_NN1 before_II the_AT court_NN1 
+that_CST the_AT court_NN1 may_VM need_VVI to_TO consider_VVI 
+whether_CSW a_AT1 duty_NN1 of_IO the_AT scope_NN1 contended_VVN for_IF 
+would_VM be_VBI a_AT1 reasonable_JJ development_NN1 of_IO the_AT law_NN1 
+consistent_JJ with_IW established_JJ principles_NN2 
+in_II other_JJ words_NN2 
+fair_JJ just_JJ and_CC reasonable_JJ 
+this_DD1 case_NN1 on_II the_AT other_JJ hand_NN1 involves_VVZ the_AT application_NN1 of_IO well-established_JJ principles_NN2 of_IO law_NN1 of_IO negligence_NN1 
+and_CC does_VDZ not_XX require_VVI the_AT court_NN1 
+to_TO consider_VVI any_DD development_NN1 of_IO the_AT law_NN1 
+in_II31 accordance_II32 with_II33 the_AT general_JJ law_NN1 of_IO tort_NN1 
+the_AT police_NN2 are_VBR generally_RR under_II a_AT1 duty_NN1 to_TO take_VVI reasonable_JJ care_NN1 
+to_TO avoid_VVI causing_VVG injury_NN1 to_II persons_NN2 
+whom_PNQO it_PPH1 is_VBZ reasonably_RR foreseeable_JJ will_VM be_VBI injured_VVN 
+if_CS such_DA care_NN1 is_VBZ not_XX taken_VVN 
+the_AT legal_JJ decisions_NN2 on_II which_DDQ the_AT court_NN1 of_IO appeal_NN1 based_VVD its_APPGE contrary_JJ view_NN1 
+were_VBDR not_XX concerned_JJ with_IW the_AT police_NN2 themselves_PPX2 causing_VVG injury_NN1 
+but_CCB were_VBDR mostly_RR concerned_JJ with_IW their_APPGE failing_VVG to_TO prevent_VVI harm_NN1 caused_VVN by_II third_MD parties_NN2 
+in_RR21 particular_RR22 the_AT decision_NN1 of_IO the_AT House_NP1 of_IO Lords_NP2 in_II the_AT case_NN1 of_IO Hill_NP1 
+and_CC the_AT chief_JJ constable_NN1 of_IO West_ND1 Yorkshire_NP1 
+which_DDQ held_VVD that_CST the_AT police_NN2 were_VBDR not_XX liable_JJ in_II damages_NN2 
+to_II the_AT mother_NN1 of_IO one_MC1 of_IO the_AT victims_NN2 of_IO Peter_NP1 Sudcliffe_NP1 
+the_AT so-called_JJ Yorkshire_NP1 ripper_NN1 
+for_IF failing_VVG to_TO catch_VVI him_PPHO1 
+before_CS he_PPHS1 murdered_VVD her_APPGE daughter_NN1 
+is_VBZ not_XX authority_NN1 for_IF the_AT proposition_NN1 
+that_CST the_AT police_NN2 enjoy_VV0 a_AT1 general_JJ immunity_NN1 
+in_II31 respect_II32 of_II33 anything_PN1 done_VDN by_II them_PPHO2 
+in_II the_AT course_NN1 of_IO investigating_VVG or_CC preventing_VVG crime_NN1 
+the_AT effect_NN1 of_IO the_AT decision_NN1 
+in_II the_AT case_NN1 of_IO Hill_NP1 
+was_VBDZ more_RGR limited_JJ 
+but_CCB the_AT police_NN2 do_VD0 not_XX erm_UH normally_RR 
+owe_VVI a_AT1 duty_NN1 of_IO care_NN1 
+to_TO protect_VVI the_AT public_NN1 
+from_II harm_NN1 
+caused_VVN by_II third_MD parties_NN2 
+through_II the_AT performance_NN1 of_IO their_APPGE function_NN1 of_IO investigating_VVG crime_NN1 
+that_DD1 is_VBZ consistent_JJ with_IW the_AT general_JJ approach_NN1 of_IO a_AT1 common_JJ law_NN1 
+it_PPH1 does_VDZ not_XX normally_RR impose_VVI liability_NN1 for_IF ommissions_NN2 
+or_CC more_RGR particularly_RR 
+for_IF a_AT1 failure_NN1 to_TO prevent_VVI harm_NN1 caused_VVN by_II the_AT conduct_NN1 with_IW third_MD parties_NN2 
+on_II the_AT other_JJ hand_NN1 
+the_AT police_NN2 may_VM be_VBI under_II a_AT1 duty_NN1 of_IO care_NN1 like_II anybody_PN1 else_RR 
+to_TO protect_VVI an_AT1 individual_NN1 
+from_II a_AT1 danger_NN1 of_IO injury_NN1 
+which_DDQ they_PPHS2 have_VH0 themselves_PPX2 created_VVN 
+in_II the_AT present_JJ case_NN1 
+the_AT arresting_JJ officer_NN1 was_VBDZ aware_JJ of_IO the_AT risk_NN1 that_CST the_AT suspect_NN1 would_VM attempt_VVI to_TO escape_VVI 
+and_CC of_IO the_AT risk_NN1 to_II members_NN2 of_IO the_AT public_NN1 in_II that_DD1 event_NN1 
+he_PPHS1 would_VM not_XX have_VHI attempted_VVN the_AT arrest_NN1 at_II a_AT1 time_NNT1 
+when_CS he_PPHS1 was_VBDZ aware_JJ that_CST someone_PN1 was_VBDZ in_II harm_NN1 's_GE way_NN1 
+but_CCB he_PPHS1 simply_RR failed_VVD to_TO notice_VVI 
+that_CST Mrs_NNB Robinson_NP1 was_VBDZ there_RL 
+although_CS she_PPHS1 was_VBDZ in_II plain_JJ sight_NN1 
+in_II no_AT circumstances_NN2 
+the_AT officers_NN2 owed_VVD a_AT1 duty_NN1 of_IO care_NN1 towards_II Mrs_NNB Robinson_NP1 
+and_CC were_VBDR in_II breach_NN1 of_IO that_DD1 duty_NN1 
+Mrs_NNB Robinson_NP1 's_GE erm_UH injuries_NN2 were_VBDR caused_VVN by_II their_APPGE breach_NN1 of_IO their_APPGE duty_NN1 of_IO care_NN1 
+she_PPHS1 was_VBDZ injured_VVN as_II a_AT1 result_NN1 of_IO being_VBG exposed_VVN to_II a_AT1 danger_NN1 
+erm_UH 
+erm_UH danger_NN1 resulting_VVG from_II the_AT attempt_NN1 to_II erm_UH by_II the_AT suspect_NN1 to_TO escape_VVI 
+from_II which_DDQ they_PPHS2 had_VHD a_AT1 duty_NN1 of_IO care_NN1 to_TO protect_VVI her_PPHO1 
+the_AT court_NN1 emphasises_VVZ that_CST the_AT duty_NN1 of_IO the_AT police_NN2 is_VBZ only_RR to_TO take_VVI such_DA care_NN1 as_CSA is_VBZ reasonable_JJ in_II the_AT circumstances_NN2 
+and_CC that_CST it_PPH1 is_VBZ important_JJ that_CST the_AT courts_NN2 do_VD0 not_XX impose_VVI 
+unrealistically_RR demanding_JJ standards_NN2 of_IO care_NN1 
+on_II police_NN2 officers_NN2 
+acting_VVG in_II the_AT course_NN1 of_IO their_APPGE operational_JJ duties_NN2 
+that_DD1 is_VBZ most_RGT obviously_RR the_AT case_NN1 
+where_CS decisions_NN2 have_VH0 to_TO be_VBI made_VVN in_II stressful_JJ circumstances_NN2 
+with_IW little_JJ or_CC no_AT time_NNT1 for_IF considered_JJ thought_NN1 
+but_CCB the_AT present_JJ case_NN1 does_VDZ not_XX fall_VVI into_II that_DD1 category_NN1 
+the_AT officers_NN2 waited_VVD for_IF an_AT1 appropriate_JJ moment_NN1 to_TO arrest_VVI the_AT suspect_NN1 
+and_CC simply_RR failed_VVD to_TO notice_VVI 
+an_AT1 elderly_JJ lady_NN1 
+who_PNQS was_VBDZ standing_VVG next_II21 to_II22 him_PPHO1 

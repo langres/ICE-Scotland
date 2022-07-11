@@ -1,0 +1,141 @@
+IFSS UK Coursework – Financial Regulation, Benefits of 
+    Intermediation, and Role of the Central Banks
+Introduction
+As societies and economies progress and become more increasingly 
+    modern, the need to have sufficient bodies which regulate the 
+    activities of financial institutions increases. While regulation is 
+    important, it is also important that these bodies which regulate 
+    create a balance so as not to stifle economic growth and progress. 
+    Regulation can help overcome some issues that arise from a free 
+    market.
+Main section
+Regardless of area in society we are required to have some form 
+    of regulation to ensure that there is as much of a level playing 
+    field as possible so that advantage cannot be taken by one 
+    party.
+Why is financial regulation so important?
+Compared to other areas of society, failure in financial 
+    services has much more serious implications. This requires 
+    regulation to go further than it would usually do in other sectors 
+    to ensure that one failure does not have a domino effect of a 
+    liquidity crisis or some other form of crisis knocking onto more 
+    than one institution. Some of the bodies who impose regulation are 
+    the Bank of International Settlements which passes “soft law” that 
+    can be adopted by the Financial Policy Committee, and Prudential 
+    Regulatory Authority as part of the Bank of England as well as the 
+    Financial Conduct Authority, part of HM Treasury.
+These bodies intend to use this prudential regulation in order 
+    to mitigate as much as possible against a couple of problems as 
+    Ford (2015) stipulates Power has passed to 
+    the regulators. They lay down the law in banking boardrooms, 
+    prescribing not only how financial institutions conduct themselves, 
+    but also the type of risks that they should run.
+These problems are the externalities problem, asymmetric 
+    information, the moral hazard problem and principal agent problem. 
+    The externalities problem concerns the effect of a crisis within a 
+    financial institution has on the environment around it such as 
+    causing further crises across the wider economy. The asymmetric 
+    information problem is where directors and managers have better 
+    knowledge on company than potential lenders or investors which 
+    could mislead these parties. This could also take the form of 
+    insider dealing where critical information known to insiders of a 
+    company is used to benefit those in the know. Countries have laws 
+    against this. The moral hazard being encouraged to take more risk 
+    than is necessary due to there being safety net “compensation” in 
+    event of failure. The principal-agent problem directors and manager 
+    agents of shareholders but might choose to work to their own 
+    targets which might involve having to take more risk at the expense 
+    of shareholders.
+As a result of the issues above prudential regulation is imposed 
+    through various means one of which is capital adequacy.
+Capital adequacy ratio relates to the amount of capital funds 
+    that a financial intuition holds “in reserve” so that should there 
+    be a crisis or the value of the institutions assets fall 
+    dramatically, then the institution has enough “reserve” to fall 
+    back on. The current minimum capital adequacy ratio for a financial 
+    institution in the UK as per the Bank of England (2015) is to be 
+    11% of risk-weighted assets. This means that institutions are 
+    required to hold 11% of the value of their assets value (mortgage 
+    loans, etc.) in the form of capital as opposed to liabilities such 
+    as short term deposits.
+If the problems discussed above are not controlled then this can 
+    lead to financial institutions becoming reckless which could lead 
+    to their downfall and leads to a larger distrust of the financial 
+    services sector generally. We see examples of this recklessness 
+    through things like inappropriate selling of financial products or 
+    services such the incident described by McCormick, M., & 
+    Binham, C. (2019) The Financial Conduct 
+    Authority levied a £29.1m fine on Carphone Warehouse….after the 
+    mobile-phone retailer mis-sold its “Geek Squad” insurance and 
+    technical-support product . Another example of recklessness is 
+    fines which are issued for breaches of sanctions placed onto 
+    financial institutions. Yet another example of recklessness is 
+    having anti-money laundering processes which are not sufficient 
+    enough to stop these crimes being committed using financial 
+    institutions as laid out by the Financial Conduct Authority (FCA) 
+    (2019) The FCA found serious and sustained 
+    shortcomings in Standard Chartered’s AML controls relating to 
+    customer due diligence and ongoing monitoring….Standard Chartered’s 
+    agreement to accept the FCA’s findings meant it qualified for a 30% 
+    discount. Otherwise, the FCA would have imposed a financial penalty 
+    of £145,947,500. add to this the 
+    events as described by Jenkins (2012) HSBC is braced for a 
+    settlement with US regulators that could top $2bn….from its 
+    involvement in alleged money laundering and other rule breaches.
+Prudential regulation, however is not the only type of 
+    regulation which is imposed on financial institutions.
+How does it differ from “ordinary” regulation?
+There are more examples of other types of regulation which 
+    cannot be escaped structural regulation and investment 
+    protection.
+Structural regulation differs from prudential regulation as 
+    is sets physical limits onto the 
+    affairs of financial institutions, dictating which services that 
+    they can offer, products that they can sell to customers and 
+    exactly where they are allowed to do business described by Ford 
+    (2015) Banks can do little without regulatory 
+    blessing. They cannot buy and sell subsidiaries or launch new 
+    products….its financial policy committee can step in and curb how 
+    many loans of a certain type they can sell. This idea of 
+    restriction on trade is much like the regulation around the 
+    licensing of alcohol sale as the UK Government (2005) allude to 
+    Licensing (Scotland) Act 2005 63 Prohibition of sale, consumption 
+    and taking away of alcohol outwith licensed hours 
+    
+(1)Subject to subsection (2), a person commits an offence if, 
+    outwith licensed hours, the person—
+(a)sells alcohol, or allows alcohol to be sold, on licensed 
+    premises,
+(b)allows alcohol to be consumed on licensed premises, or
+(c)allows alcohol to be taken from licensed premises. 
+    that restricts the activities of 
+    licensed premises as to the timing of which they are allowed to 
+    sell alcohol. As with institutions which break regulation in a 
+    financial setting, there are also fines for breaching alcohol 
+    legislation however these are smaller in comparison as alluded to 
+    by the UK Government (2005) A person guilty 
+    of an offence under this section is liable on summary conviction to 
+    a fine not exceeding level 3 on the standard scale.
+Investment protection (conduct of business) also differs from 
+    prudential regulation as this covers measures designed to protect 
+    investors from events such as mismanagement of funds, incompetence, 
+    malpractice and fraud. Some examples of this idea outside of 
+    financial services are things which are designed to protect 
+    consumers such as health and safety legislation as stated by Tesco 
+    PLC (2015) Our own standards exceed basic 
+    legal requirements to ensure that no-one is exposed to injury or 
+    harm. as well as food standards also 
+    alluded to by Tesco PLC (2015) Our customers 
+    expect us to only sell products made to the highest quality and 
+    they trust us to ensure that all our products are safe and comply 
+    with all applicable laws and regulations.
+Conclusion
+While having competent and robust regulation in place is 
+    important as set out above, it is also important that this 
+    regulation seeks to strike a balance between penalising where 
+    appropriate and allowing the market to be as free as it possibly 
+    can. This is to ensure that the financial services sector can still 
+    function and grow exponentially without fear of plateauing or 
+    conceding business due to over-regulation which could lead to a 
+    less stable marketplace that would be less favourable to every 
+    institution operating within its reaches.

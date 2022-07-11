@@ -1,0 +1,28 @@
+iPhone_NP1 6_NP1 launch_NN1 :_: What_DDQ can_VM we_PPIS2 expect_VVI from_II Apple_NP1 ?_? 
+
+by_II ANGUS_NP1 HOWARTH_NP1 
+APPLE_NN1 is_VBZ set_VVN to_TO launch_VVI the_AT iPhone_NP121 6_NP122 at_II an_AT1 event_NN1 tonight_RT in_II California_NP1 ,_, but_CCB what_DDQ can_VM we_PPIS2 expect_VVI from_II the_AT tech_NN1 giants_NN2 ?_? 
+The_AT company_NN1 has_VHZ already_RR boldly_RR claimed_VVN that_CST it_PPH1 has_VHZ its_APPGE best_JJT products_NN2 in_II a_AT1 quarter_MF of_IO a_AT1 century_NNT1 ready_JJ to_TO release_VVI ._. Here_RL ,_, we_PPIS2 look_VV0 at_II what_DDQ chief_JJ executive_NN1 Tim_NP1 Cook_NP1 may_VM announce_VVI when_CS he_PPHS1 takes_VVZ to_II the_AT stage_NN1 this_DD1 evening_NNT1 ._. 
+iPhone_NP121 6_NP122 
+The_AT latest_JJT model_NN1 of_IO Apple_NP1 's_GE iPhone_NP1 is_VBZ set_VVN to_TO be_VBI unveiled_VVN at_II the_AT event_NN1 ._. 
+Smartphones_NN2 represent_VV0 over_RG half_MF of_IO Apple_NP1 's_GE revenue_NN1 ,_, and_CC two_MC models_NN2 of_IO the_AT iPhone_NP1 6_NP1 are_VBR due_JJ to_TO be_VBI revealed_VVN ._. 
+It_PPH1 is_VBZ thought_VVN that_CST the_AT two_MC models_NN2 will_VM have_VHI different_JJ screen_NN1 sizes_NN2 ,_, with_IW one_PN1 measuring_VVG 5.5_MC in_NNU and_CC the_AT other_JJ 4.7_MC in_NNU ._. The_AT iPhone_NP1 5S_NP1 measures_VVZ just_RR 4_MC in_NNU ._. 
+The_AT new_JJ phone_NN1 is_VBZ also_RR likely_JJ to_TO be_VBI at_RR21 least_RR22 partly_RR made_VVN from_II scratch-resistant_JJ material_NN1 as_II31 well_II32 as_II33 wireless_JJ payment_NN1 capabilities_NN2 ._. 
+iWatch_NP1 
+This_DD1 is_VBZ the_AT big_JJ one_PN1 ,_, of_RR21 course_RR22 ,_, given_CS21 that_CS22 Apple_NP1 's_GE rivals_NN2 have_VH0 already_RR rolled_VVN out_RP '_' wearable_JJ tech_NN1 '_' ._. 
+A_AT1 number_NN1 of_IO leading_JJ fashion_NN1 editors_NN2 and_CC bloggers_NN2 have_VH0 been_VBN invited_VVN to_II the_AT event_NN1 leading_VVG to_II speculation_NN1 that_CST the_AT much-vaunted_JJ iWatch_NP1 will_VM finally_RR be_VBI unveiled_VVN ._. 
+However_RR ,_, industry_NN1 experts_NN2 have_VH0 predicted_VVN that_CST it_PPH1 might_VM not_XX be_VBI released_VVN until_II some_DD time_NNT1 in_II 2015_MC ._. 
+Speculation_NN1 is_VBZ growing_VVG that_CST the_AT iWatch_NP1 would_VM be_VBI able_JK to_TO track_VVI the_AT wearer_NN1 's_GE health_NN1 and_CC fitness_NN1 and_CC display_VVI messages_NN2 among_II other_JJ functions_NN2 ._. 
+iOS8_NP1 
+The_AT new_JJ iPhone_NP1 will_VM introduce_VVI the_AT new_JJ Apple_NP1 operating_NN1 system_NN1 –_– iOS8_NP1 –_– to_II the_AT world_NN1 ._. 
+But_CCB the_AT launch_NN1 of_IO iOS8_NP1 is_VBZ likely_JJ to_TO be_VBI held_VVN back_RP ._. 
+The_AT new_JJ operating_NN1 system_NN1 was_VBDZ confirmed_VVN by_II Apple_NP1 at_II the_AT WWDC_NP1 2014_MC event_NN1 ,_, and_CC resembles_VVZ iOS7_NP1 in_II appearance_NN1 ._. 
+However_RR ,_, it_PPH1 is_VBZ expected_VVN to_TO come_VVI with_IW a_AT1 number_NN1 of_IO updated_JJ and_CC new_JJ features_NN2 ,_, including_II the_AT ability_NN1 to_TO carry_VVI out_RP tasks_NN2 on_II Mac_NP1 PCs_NN2 running_VVG OS_NP131 X_NP132 Yosemite_NP133 and_CC other_JJ iDevices_NP2 ._. 
+The_AT notification_NN1 centre_NN1 has_VHZ been_VBN upgraded_VVN to_TO allow_VVI users_NN2 to_TO deal_VVI with_IW messages_NN2 or_CC emails_NN2 without_IW leaving_VVG the_AT lockscreen_NN1 ,_, as_II31 well_II32 as_II33 an_AT1 enhanced_JJ battery_NN1 manager_NN1 which_DDQ will_VM allow_VVI users_NN2 to_TO manage_VVI or_CC even_RR uninstall_VVI apps_NN2 using_VVG up_RP a_AT1 lot_NN1 of_IO battery_NN1 life_NN1 ._. 
+The_AT Handoff_NP1 feature_NN1 will_VM let_VVI users_NN2 start_VVI a_AT1 task_NN1 on_II any_DD device_NN1 running_VVG iOS8_NP1 and_CC complete_VVI it_PPH1 on_II another_DD1 ._. 
+Siri_NP1 has_VHZ been_VBN given_VVN an_AT1 extensive_JJ update_NN1 ,_, as_CSA has_VHZ the_AT iMessage_NP1 function_NN1 and_CC the_AT Photos_NP2 app_NN1 ._. 
+The_AT new_JJ Health_NP1 app_NN1 will_VM collate_VVI heart_NN1 rate_NN1 ,_, sleep_NN1 patterns_NN2 ,_, oxygen_NN1 levels_NN2 etc._RA through_II third-party_JJ apps_NN2 such_II21 as_II22 Nike_NP1 and_CC Fidbit_NP1 ._. 
+The_AT Camera_NP1 will_VM have_VHI a_AT1 timelapse_NN1 function_NN1 similar_JJ to_II Instagram_NP1 's_GE Hyperlapse_NP1 while_CS the_AT Family_NP1 Sharing_NP1 service_NN1 allows_VVZ sharing_NN1 of_IO what_DDQ a_AT1 user_NN1 has_VHZ bought_VVN from_II iTunes_NP2 ,_, iBooks_NP2 and_CC the_AT App_NP1 Stores_NP2 through_II the_AT same_DA credit_NN1 or_CC debit_NN1 card_NN1 with_IW up_RG21 to_RG22 six_MC people_NN ._. 
+Anything_PN1 else_RR ?_? 
+Apple_NP1 has_VHZ a_AT1 history_NN1 of_IO springing_VVG surprises_NN2 at_II its_APPGE events_NN2 ,_, and_CC executives_NN2 have_VH0 done_VDN nothing_PN1 to_TO dampen_VVI growing_JJ excitement_NN1 ahead_II21 of_II22 this_DD1 launch_NN1 ._. 
+Possible_JJ surprises_NN2 announcements_NN2 could_VM include_VVI a_AT1 bigger_JJR iPad_NP1 ,_, Apple_NP1 television_NN1 or_CC something_PN1 completely_RR different_JJ ._. Watch_VV0 this_DD1 space_NN1 ..._... 

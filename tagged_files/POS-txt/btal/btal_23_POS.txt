@@ -68,7 +68,7 @@ to_TO improve_VVI intelligence_NN1 to_TO monitor_VVI patrol_NN1
 and_CC where_RRQ necessary_JJ 
 to_TO act_VVI 
 erm_UH the_AT winter_NNT1 fleet_NN1 for_IF trunk_NN1 roads_NN2 
-will_VM have_VHI an_AT excess_NN1 of_IO one_MC51 hundred_MC52 and_MC53 ninety_MC54 five_MC55 vehicles_NN2 available_JJ for_IF spreading_VVG salt_NN1 
+will_VM have_VHI an_AT1 excess_NN1 of_IO one_MC51 hundred_MC52 and_MC53 ninety_MC54 five_MC55 vehicles_NN2 available_JJ for_IF spreading_VVG salt_NN1 
 and_CC ploughing_VVG 
 which_DDQ is_VBZ the_AT highest_JJT level_NN1 ever_RR available_JJ on_II our_APPGE trunk_NN1 roads_NN2 
 all_DB of_IO that_DD1 fleet_NN1 will_VM be_VBI available_JJ to_TO provide_VVI support_NN1 to_II the_AT front_JJ line_NN1 and_CC patrol_NN1 vehicles_NN2 

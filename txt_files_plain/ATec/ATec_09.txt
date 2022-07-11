@@ -1,0 +1,242 @@
+1. Introduction
+Detecting gravitational waves has been one of the most 
+    challenging experimental projects ever to be undertaken. 
+    Gravitational waves are predicted from Einstein’s general theory of 
+    relativity, and are associated with the acceleration of mass [1], 
+    with the largest signals expected from violent astronomical events. 
+    In September and December 2015, Advanced LIGO (aLIGO) [2] detected 
+    gravitational waves associated with the merger of stellar mass 
+    black holes [3,4], opening a new area of observational astronomy 
+    and shedding new insight on the relativistic nature of our 
+    Universe. General relativity describes gravitational waves as 
+    fluctuating quadrupolar tidal strains in space, which thus produce 
+    differential strains along perpendicular paths in space. This 
+    differential strain can be measured by suspending mirrors (to 
+    isolate from environmental effects) a distance apart, then using 
+    laser interferometry to monitor their relative positions. In the 
+    case of Advanced LIGO, the core optical configuration is that of a 
+    simple Michelson interferometer, comprising a beamsplitter (BS) and 
+    mirrors (Mx). Fabry-Perot cavities (FP) are incorporated within the 
+    4 km arms, in addition to power recycling (PR) and signal recycling 
+    (SR) mirrors at the input and output ports, respectively. A simple 
+    schematic is shown in Figure 1. This paper will specifically 
+    discuss the status and future requirements of the coating 
+    technology required to make the highly reflective mirrors in these 
+    instruments. Further details of how gravitational wave detectors 
+    operate, the variety of astrophysical sources that might be 
+    observed, and the main sources of fundamental noise expected within 
+    these instruments, is detailed elsewhere, for example by Pitkin et 
+    al. [5].
+ Figure 1. (a) 
+    Simplified schematic interferometric configuration used in Advanced 
+    LIGO; (b) LIGO Livingston gravitational wave detector.
+To achieve the sensitivities required to detect gravitational 
+    waves, significant optical power is required inside the optical 
+    cavities of the interferometers in order to reduced shot noise [6]. 
+    This sets a formidable challenge on the required mirror 
+    specifications, particularly in relation to the optical losses 
+    associated with absorption and scatter. Optical losses will limit 
+    the achievable optical gain within the cavities. Optical absorption 
+    will also heat the mirrors, which can adversely affect 
+    interferometer stability (e.g., thermal lensing). Furthermore, 
+    optical scatter produces stray light that may reenter the 
+    interferometer and create unwanted noise. In the case of Advanced 
+    LIGO, the reflectivity required is >99.9%, with absorption 
+    levels of <0.5 ppm, and scatter losses per mirror of <2 ppm 
+    [7]. The only method by which this can be achieved over large areas 
+    (diameter = 34 cm) is by using multilayer interference coatings 
+    fabricated using ion-beam deposition (IBD) [8].
+2. Thermal noise
+Thermal noise associated with dielectric multilayer coatings 
+    sets an important limit in precision measurement applications, such 
+    as highly frequency-stabilized lasers [9,10,11], atomic clocks 
+    [12,13], and gravitational wave detectors [14,15,16,17]. We discuss 
+    here the connections between thermal noise and elastic dissipation 
+    in mirrors, and between that dissipation and the structure of 
+    amorphous films.
+The first reported observation of thermally-driven displacement 
+    was by Brown in 1828, of the irregular motion of pollen grains 
+    suspended in water [18]. It was not until 1905 that a full 
+    mathematical treatment of Brownian motion was presented by Einstein 
+    [19]. It is now well understood that any parameter characterizing a 
+    dissipative system will exhibit spontaneous thermal fluctuations, 
+    as described by the fluctuation-dissipation theorem [20,21,22]. The 
+    frequency-dependent behavior of these fluctuating motions, 
+    Sx(f), (the power spectral density of the 
+    fluctuations) is associated with the dissipative part of the 
+    system’s impedance, Z(f), and can be shown to 
+    be:
+
+Where kB is 
+    Boltzmann’s constant, T is the temperature, and 
+    f is the frequency. The thermal fluctuations 
+    (noise) are, therefore, related to the real part of the mechanical 
+    impedance, which is the dissipative part and, therefore, 
+    represented by the damping coefficient of the system. This can be 
+    in the form of external damping, such as gas damping, recoil 
+    damping, and/or electrostatic damping, however, external damping 
+    effects are intentionally minimized in the design of gravitational 
+    wave detectors. Internal damping (friction) arises from 
+    anelasticity, where the strain response in a material is not 
+    instantaneous when a stress is applied [23,24]. The phase lag 
+    between the stress and the strain is known as the mechanical loss 
+    angle, or the mechanical dissipation factor. In the following 
+    section, the importance of the mechanical dissipation factor for 
+    the thermal noise of high-reflection (HR) coatings will be 
+    discussed.
+3. Mechanical Dissipation in Thin Film Coatings
+The mechanical dissipation factor can be defined as:
+
+where Etotal is the 
+    total energy stored in the oscillating system, 
+    Elost per cycle
+is the energy dissipated per cycle of the oscillation, 
+    Δf is the width of the resonance peak (FWHM), 
+    and Q is the mechanical quality factor.
+Within the gravitational wave community, the mechanical 
+    dissipation associated with optical coatings has been primarily 
+    measured using mechanical ringdown experiments on cylindrical 
+    samples, disks, or flexures/cantilevers. In this case, a resonant 
+    mode of a sample is excited and then left to freely decay. If the 
+    external sources of damping are minimized, then the mechanical 
+    dissipation, φ(f0), can 
+    be calculated from the time-dependent amplitude 
+    decay,A(t):
+
+where A0 is the 
+    initial excitation amplitude and 
+    f0 is the resonant 
+    frequency. Further details of the experimental techniques can be 
+    found in the literature [25,26].
+The mechanical loss associated with mirror coatings is typically 
+    calculated by measuring the mechanical loss of identical (or 
+    nominally identical) substrates, one with a coating and the other 
+    uncoated (control). The coating loss is then calculated from the 
+    difference between the two samples, with a scaling factor that 
+    provides the proportional energy stored in the coating for the 
+    distortion associated with the resonant mode [27]. For some coating 
+    and substrate combinations, it can also be important to remove the 
+    coating thermoelastic loss, due to heat flow associated with the 
+    different thermomechanical properties of the coating and substrate 
+    [28,29]. The coating loss, 
+    ϕ(f0)coating
+can, therefore, be expressed as [30,31]:
+
+where 
+    ϕ(f0)coating 
+    is the measured mechanical loss of the coated sample, and 
+    ϕ(f0)substrate 
+    is the loss of the uncoated substrate (control), and 
+    ES and 
+    EC are the elastic strain 
+    energies stored in the substrate and coating, respectively.
+4. Coating Thermal Noise Calculation
+Work carried out by Levin [32], and later by Lui and Thorne 
+    [33], quantified the importance of the location of the mechanical 
+    losses within the interferometer mirrors in a gravitational wave 
+    detector. The approach relies on a direct application of the 
+    fluctuation-dissipation theorem to the interferometer readout (the 
+    probing incident laser beam) on the front face of the mirror. In 
+    this case, the thermal noise is calculated by applying a 
+    hypothetical pressure on the front face of the mirror, with same 
+    intensity distribution as the incident laser beam. The power 
+    spectral density of the thermal displacement 
+    Sx(f) then becomes:
+
+where F0 is the 
+    amplitude of the force, and 
+    Wdiss is the power 
+    dissipated due to the application of this force. (Noise equations 
+    are typically presented in the form of power spectral density. The 
+    amplitude spectral density of the thermal noise, measured in 
+    m/√(Hz), is given by the square root of this quantity). The value 
+    of this dissipation term can be calculated by integrating the force 
+    across the volume of the mirror, taking into account the elastic 
+    properties and mechanical dissipation at each location. In the 
+    simple case of homogeneous mechanical loss, and where the incident 
+    laser beam is considerably smaller than the mirror radius, the 
+    Brownian thermal noise, 
+    SITMx(f), 
+    can be shown to be:
+
+where ϕsubstrate is the mechanical 
+    dissipation of the substrate material, Y and 
+    σ are the Young’s modulus and Poisson’s ratio, 
+    and ωm is the radius of the incident beam 
+    (where electric field amplitude falls to 1/e of the maximum value). 
+    Nakagawa et al. extended these calculations in order to approximate 
+    the thermal noise in a coated mirror by assuming the coating to be 
+    a thin surface layer of thickness and mechanical loss 
+    ϕcoating [34]. Applying the Levin approach 
+    eventually leads to the expression for the thermal noise of a 
+    coated optic to be [35]:
+
+where UB and 
+    US are the strain 
+    energies associated with bulk and shear displacements, and 
+    ϕB and ϕS are the 
+    mechanical losses of the coating associated with bulk and shear 
+    motions. Assuming the mechanical losses associated with bulk and 
+    shear motions are equal, 
+    ϕB=ϕS=ϕC 
+    (ϕC= coating mechanical loss), the thermal 
+    noise of the coating can be written as:
+
+This equation highlights a number of key aspects of coating 
+    thermal noise. For example, the thermal noise amplitude will depend 
+    on the square root of the loss-thickness product, in addition to 
+    scaling inversely with the probing laser beam radius. Therefore, 
+    strategies for reducing Brownian thermal noise in precision 
+    experiments are typically targeted on some combination of (a) 
+    reducing the mechanical dissipation associated with mirror 
+    coatings, (b) minimizing the required coating thickness, and (c) 
+    increasing the laser beam diameter. It should be noted that future 
+    experiments also plan to cryogenically cool the suspended mirrors 
+    to directly reduce thermal noise through the reduction of the total 
+    thermal energy in the mirror [36,37]. However, the mechanical loss 
+    of some materials is strongly temperature dependent and, thus, 
+    cooling does not always result in a reduction in thermal noise. In 
+    particular, the mirror substrates of current detectors are made 
+    from fused silica. This material is not suitable for use at low 
+    temperature as the mechanical loss increases by approximately five 
+    orders of magnitude due to a broad peak centered around 40 K, 
+    resulting in a significant increase in thermal noise from cooling 
+    to these temperatures. A change in mirror substrate is, therefore, 
+    required for cryogenic detectors, with crystalline silicon and 
+    sapphire being the most studied candidate materials (discussion of 
+    this is detailed in [36]). It should be noted that silicon is not 
+    transparent at the current wavelength of 1064 nm and, thus, to 
+    enable light to couple into the arm cavities of the 
+    interferometers, a change in mirror substrate would also require a 
+    change in the laser wavelength used in detectors, possibly to 1550 
+    nm or 2000 nm. Suitable coatings for use at longer wavelengths and 
+    at cryogenic temperature will be discussed in a later section.
+5. Current Status of Mirror Coatings for Gravitational 
+    Wave Detectors
+The initial interferometric gravitational wave detectors used 
+    multilayer mirror coatings consisting of ion beam-sputtered 
+    amorphous silica (SiO2) and tantalum 
+    pentoxide (Ta2O5), 
+    which were demonstrated to achieve close to 1 ppm level total 
+    optical losses (absorption plus scatter) [8]. A standard HR mirror 
+    coating design was used, in which materials with high and low 
+    refractive indices are deposited in alternative layers, each having 
+    an optical thickness of λ/4, where λ is the wavelength of the laser 
+    used in the detector (1064 nm for current room temperature 
+    detectors). Figure 2 shows the design of the Advanced LIGO mirror 
+    suspension stack, in addition to a cross-section image of a 
+    standard HR coating stack. The mechanical loss of these coatings 
+    was found to be dominated by the high index tantala layers, which 
+    exhibit a mechanical loss of ~4 × 10−4 
+    compared to a loss of ~5 × 10−5 for the 
+    silica layers [25]. A reduction in the mechanical loss of these 
+    coatings was later achieved through the incorporation of titania 
+    within the tantala layers by the Laboratoire des Matériaux Avancés 
+    (LMA) in Lyon. Titania was understood to pack densely within the 
+    tantalum-oxygen structure, and its high melting point could help 
+    stabilize the amorphous structure. Initial experiments demonstrated 
+    that a 40% reduction in coating mechanical loss could be achieved 
+    with a titania content of 22.5% (cation concentration) [38,39]. 
+    Similar reductions were observed in films deposited by different 
+    vendors, however, the initial baseline losses appear to vary 
+    between vendors [40].

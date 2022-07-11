@@ -1,0 +1,24 @@
+<annotated>
+  <text>
+    <p><w c7="NP1">Sam</w><w c7="NP1">Gibson</w></p>
+    <p><w c7="UH">erm</w><w c7="PPY">you</w><w c7="CC">and</w><w c7="PPIS1">I</w></p>
+    <p><w c7="PPIS1">I</w><w c7="VV0">think</w><w c7="PPY">you</w><w c7="VV0">find</w></p>
+    <p><w c7="CST">that</w><w c7="PPIS2">we</w><w c7="VDD">did</w><w c7="XX">n't</w><w c7="VVI">explain</w><w c7="AT">the</w><w c7="NN1">jargon</w></p>
+    <p><w c7="CS">so</w><w c7="CSA">as</w><w c7="PPIS2">we</w><w c7="VDD">did</w><w c7="XX">n't</w><w c7="VHI">have</w><w c7="TO">to</w><w c7="VVI">give</w><w c7="AT1">a</w><w c7="NN1">lecture</w><w c7="II">to</w><w c7="AT">the</w><w c7="NN1">minister</w><w c7="CS">when</w><w c7="PPIS2">we</w><w c7="VBDR">were</w><w c7="VVG">asking</w><w c7="AT">the</w><w c7="NN1">question</w></p>
+    <p><w c7="PPH1">it</w><w c7="VBDZ">was</w><w c7="RR">fully</w><w c7="VVN">explained</w><w c7="CST">that</w><w c7="PPH1">it</w><w c7="VM">would</w><w c7="UH">erm</w><w c7="VVI">lead</w><w c7="II">to</w><w c7="UH">erm</w></p>
+    <p><w c7="AT">the</w><w c7="NN1">enhancement</w><w c7="IO">of</w><w c7="AT">the</w><w c7="NN1">power</w><w c7="IO">of</w><error><w c7="FU">gl-</w></error></p>
+    <p><w c7="NP1">TTIP</w><w c7="VM">would</w><w c7="VVI">enhance</w><w c7="AT">the</w><w c7="NN1">power</w></p>
+    <p><w c7="IO">of</w><w c7="JJ">global</w><w c7="NN2">corporations</w><w c7="CC">and</w><w c7="VVI">lead</w><w c7="II">to</w><w c7="JJ">increased</w><w c7="NN1">privatisation</w><w c7="II">in</w><w c7="AT">the</w><w c7="NN1">health</w><w c7="NN1">service</w></p>
+    <p><w c7="JJ">Transatlantic</w><w c7="NP1">Trade</w><w c7="UH">erm</w><w c7="UH">erm</w></p>
+    <p><w c7="CC">and</w><w c7="JJ">Industrial</w><w c7="NP1">Partnership</w></p>
+    <p><w c7="NP1">United</w></p>
+    <p><w c7="AT">the</w><w c7="NP121">United</w><w c7="NP122">States</w><w c7="CC">and</w><w c7="NP1">Europe</w><w c7="UH">erm</w></p>
+    <p><error><w c7="FU">tal-</w></error></p>
+    <p><w c7="VVD">talked</w><w c7="CC">and</w><w c7="VVD">negotiated</w><w c7="II">about</w><w c7="UH">erm</w></p>
+    <p><w c7="II">in</w><w c7="NN1">secret</w></p>
+    <p><w c7="AT">the</w><w c7="NN2">negotiations</w><w c7="DB">all</w><w c7="VVG">going</w><w c7="CCB">but</w></p>
+    <p><w c7="NN1">public</w><w c7="VDD">did</w><w c7="XX">n't</w><w c7="VVI">know</w><w c7="II">about</w><w c7="PPH1">it</w><w c7="CS">until</w><w c7="PPH1">it</w><w c7="VBDZ">was</w><w c7="RR">late</w></p>
+    <p><w c7="UH">erm</w><w c7="RRR">earlier</w><w c7="DD1">this</w><w c7="NNT1">year</w></p>
+    <p><w c7="UH">yeah</w></p>
+  </text>
+</annotated>

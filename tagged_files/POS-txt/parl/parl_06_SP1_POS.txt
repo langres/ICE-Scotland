@@ -1,0 +1,19 @@
+the_AT final_JJ item_NN1 of_IO 
+business_NN1 today_RT is_VBZ a_AT1 member_NN1 's_GE business_NN1 debate_NN1 
+on_II motion_NN1 number_NN1 five_MC nine_MC four_MC four_MC 
+in_II the_AT name_NN1 of_IO Hanzala_NP1 Malik_NP1 
+on_II challenging_VVG 
+negative_JJ 
+racial_JJ and_CC religious_JJ stereotypes_NN2 
+this_DD1 debate_NN1 will_VM be_VBI concluded_VVN without_IW any_DD questions_NN2 being_VBG put_VVN and_CC I_PPIS1 'd_VM be_VBI greatful_JJ if_CS those_DD2 members_NN2 who_PNQS wish_VV0 to_TO 
+participate_VVI in_II the_AT debate_NN1 
+could_VM please_RR press_VVI the_AT request-to-speak_NN1 buttons_NN2 now_RT 
+I_PPIS1 call_VV0 in_RP Hanzala_NP1 Malik_NP1 to_TO open_VVI the_AT debate_NN1 
+seven_MC minutes_NNT2 please_RR Mister_NNB Malik_NP1 
+many_DA2 thanks_NN2 
+now_RT turn_VV0 to_II the_AT open_JJ part_NN1 of_IO the_AT debate_NN1 speeches_NN2 of_IO four_MC minutes_NNT2 please_RR 
+and_CC I_PPIS1 'm_VBM going_VVGK to_TO call_VVI Malcolm_NP1 Chisholm_NP1 first_MD because_CS he_PPHS1 has_VHZ indicated_VVN 
+as_II a_AT1 courtesy_NN1 to_II the_AT chamber_NN1 that_CST he_PPHS1 has_VHZ to_TO leave_VVI early_RR for_IF other_JJ parliamentary_JJ business_NN1 
+Malcolm_NP1 Chisholm_NP1 to_TO be_VBI followed_VVN by_II Dennis_NP1 Robertson_NP1 
+thank_VV0 you_PPY very_RG much_RR 
+I_PPIS1 now_RT call_VV0 Dennis_NP1 Robertson_NP1 to_TO be_VBI followed_VVN by_II Anne_NP1 McTaggart_NP1 

@@ -1,0 +1,64 @@
+<annotated>
+  <text>
+    <p><w c7="NP1">Sam</w></p>
+    <p><w c7="UH">erm</w><w c7="NP1">Sam</w><w c7="NP1">Gibson</w></p>
+    <p><w c7="UH">erm</w></p>
+    <p><w c7="NN1">age</w><w c7="NN1">discrimination</w><w c7="VHZ">has</w><w c7="UH">erm</w></p>
+    <p><w c7="UH">erm</w><w c7="VVN">joined</w><w c7="NP1">LGBT</w></p>
+    <p><w c7="II">in</w><w c7="APPGE">their</w><w c7="NN1">quality</w><w c7="NN1">eye</w></p>
+    <p><w c7="II">since</w><w c7="MC41">two</w><w c7="MC42">thousand</w><w c7="MC43">and</w><w c7="MC44">twelve</w><w c7="PPH1">it</w><w c7="VBZ">'s</w></p>
+    <p><w c7="JJ">illegal</w><w c7="TO">to</w><w c7="UH">erm</w></p>
+    <p><w c7="VVI">discriminate</w><w c7="II">against</w><w c7="PN1">anybody</w><w c7="II">on</w><w c7="AT">the</w></p>
+    <p><w c7="NN1">basis</w><w c7="IO">of</w><w c7="NN1">age</w></p>
+    <p><w c7="UH">erm</w><w c7="PPH1">it</w><w c7="VBDZ">was</w><w c7="VVN">extended</w><w c7="II">to</w><w c7="JJ">public</w><w c7="NN2">services</w></p>
+    <p><w c7="UH">erm</w></p>
+    <p><w c7="CC">and</w><w c7="UH">erm</w></p>
+    <p><w c7="CS">if</w><w c7="PPIS1">I</w><w c7="VH0">'ve</w><w c7="VVN">got</w><w c7="PPH1">it</w><w c7="JJ">right</w></p>
+    <p><w c7="AT">the</w><w c7="NN1">health</w><w c7="NN1">service</w><w c7="UH">erm</w><w c7="NN1">provision</w><w c7="IO">of</w><w c7="NN1">healthcare</w><w c7="VBZ">is</w><w c7="XX">n't</w><w c7="JJ">included</w><w c7="II">in</w></p>
+    <p><w c7="DD1">this</w><w c7="NN1">community</w><w c7="NN1">bill</w></p>
+    <p><w c7="UH">erm</w><w c7="PPIS1">I</w><w c7="VBM">'m</w><w c7="VVG">putting</w><w c7="RL">forward</w><w c7="AT">the</w><w c7="NN1">idea</w><w c7="CST">that</w><w c7="EX">there</w></p>
+    <p><w c7="VM">should</w><w c7="VBI">be</w><w c7="DA1">much</w><w c7="DAR">more</w></p>
+    <p><w c7="NN1">community</w><w c7="NN1">involvement</w></p>
+    <p><w c7="II">in</w><w c7="UH">erm</w></p>
+    <p><w c7="AT">the</w><w c7="NN1">supervision</w></p>
+    <p><w c7="AT">the</w><w c7="NN1">supervision</w><w c7="IO">of</w><w c7="NN1">healthcare</w></p>
+    <p><w c7="UH">erm</w></p>
+    <p><w c7="AT">the</w></p>
+    <p><w c7="DDQ">what</w><w c7="UH">erm</w><w c7="VD0">do</w><w c7="PPY">you</w><w c7="VHI">have</w><w c7="II">about</w><w c7="NN1">supervision</w><w c7="IO">of</w><w c7="NN1">healthcare</w><w c7="NN1">community</w><w c7="NN1">involvement</w><w c7="II">in</w><w c7="AT">the</w><w c7="NN1">supervision</w><w c7="PPIS1">I</w><w c7="VBM">'m</w><w c7="VVG">talking</w><w c7="II">about</w></p>
+    <p><w c7="RR">maybe</w><w c7="UH">erm</w></p>
+    <p><w c7="UH">erm</w><error><w c7="FU">c-</w></error></p>
+    <p><w c7="UH">erm</w></p>
+    <p><w c7="AT">the</w><w c7="NN1">community</w><w c7="VVN">involved</w><w c7="II">in</w><w c7="RR">actually</w><w c7="UH">erm</w><w c7="VVG">getting</w><w c7="AT">the</w><w c7="NN2">figures</w><w c7="II">from</w><w c7="JJ">various</w><w c7="NN2">hospitals</w></p>
+    <p><w c7="II">about</w><w c7="JJ">individual</w><w c7="UH">erm</w></p>
+    <p><w c7="NN2">surgeons</w><w c7="REX21">for</w><w c7="REX22">example</w><w c7="APPGE">their</w><w c7="NN1">success</w><w c7="NN2">rates</w></p>
+    <p><w c7="UH">erm</w></p>
+    <p><w c7="AT1">a</w><w c7="NN1">place</w><w c7="RRQ">where</w><w c7="UH">erm</w><w c7="NN">people</w><w c7="VM">can</w><w c7="VVI">go</w><w c7="TO">to</w></p>
+    <p><w c7="UH">erm</w><w c7="JJR">older</w><w c7="NN">people</w><w c7="REX21">for</w><w c7="REX22">example</w><w c7="VM">can</w><w c7="VVI">go</w><w c7="TO">to</w></p>
+    <p><w c7="CS">if</w><w c7="UH">erm</w></p>
+    <p><w c7="PPHS2">they</w><w c7="VV0">think</w><w c7="UH">erm</w></p>
+    <p><w c7="PPHS2">they</w><w c7="VH0">have</w><w c7="VBN">been</w><w c7="VVN">discriminated</w><w c7="UH">erm</w></p>
+    <p><w c7="REX21">for</w><w c7="REX22">example</w><w c7="VVN">put</w><w c7="RP">down</w><w c7="AT">the</w></p>
+    <p><w c7="AT">the</w><w c7="AT">the</w><w c7="NN1">waiting</w><w c7="NN1">list</w></p>
+    <p><w c7="UH">erm</w><w c7="II21">because</w><w c7="II22">of</w><w c7="NN1">age</w></p>
+    <p><w c7="UH">erm</w></p>
+    <p><w c7="CC">and</w><w c7="UH">erm</w></p>
+    <p><w c7="RR">actually</w></p>
+    <p><w c7="IW">with</w><w c7="DD">some</w><w c7="NN2">teeth</w><w c7="UH">erm</w></p>
+    <p><w c7="AT">the</w><w c7="JJ">general</w><w c7="JJ">medical</w><w c7="NN1">council</w></p>
+    <p><w c7="DDQ">which</w><w c7="UH">erm</w></p>
+    <p><w c7="VVZ">judges</w><w c7="II">on</w><w c7="NN1">fitness</w><w c7="TO">to</w><w c7="VVI">practice</w></p>
+    <p><w c7="UH">erm</w></p>
+    <p><w c7="VVZ">meets</w><w c7="II">in</w><w c7="NP1">Manchester</w><w c7="CC">and</w><w c7="PPH1">it</w><w c7="VBZ">'s</w><w c7="II">under</w><w c7="JJ">English</w><w c7="NN1">law</w><w c7="PPIS2">we</w><w c7="VD0">do</w><w c7="XX">n't</w><w c7="VHI">have</w><w c7="DD">any</w><w c7="JJ">Scottish</w><w c7="NN1">body</w></p>
+    <p><w c7="UH">erm</w><w c7="UH">erm</w><w c7="CS">so</w><w c7="UH">erm</w></p>
+    <p><w c7="UH">erm</w><w c7="UH">erm</w></p>
+    <p><w c7="PPIS1">I</w><w c7="VV0">think</w><w c7="DD2">these</w><w c7="NN2">organisations</w><w c7="VM">need</w><w c7="VVN">reformed</w><w c7="CC">and</w><w c7="AT">the</w><w c7="NN1">community</w><w c7="VM">should</w><w c7="VBI">be</w><w c7="VVN">involved</w><w c7="II">in</w><w c7="PPH1">it</w></p>
+    <p><w c7="UH">erm</w><w c7="UH">erm</w></p>
+    <p><w c7="TO">to</w><w c7="VBI">be</w><w c7="JJ">fair</w><w c7="EX">there</w><w c7="VBR">are</w></p>
+    <p><w c7="JJ">Scottish</w><w c7="NN2">bodies</w><w c7="IF">for</w><w c7="NN2">surgeons</w><w c7="CC">and</w><w c7="NN2">physicians</w></p>
+    <p><w c7="CCB">but</w><w c7="PPHS2">they</w><w c7="VBR">'re</w><w c7="JJ">smudged</w><w c7="IW">with</w><w c7="AT">the</w><w c7="JJ">royal</w><w c7="NN1">warrant</w></p>
+    <p><w c7="PPHS2">they</w><w c7="VBR">'re</w><w c7="XX">not</w><w c7="JJ">national</w><w c7="NN2">committees</w></p>
+    <p><w c7="UH">erm</w><w c7="CC">and</w><w c7="UH">erm</w><w c7="PPIS1">I</w><w c7="VV0">think</w><w c7="CS">if</w><w c7="PPY">you</w><w c7="RR">really</w><w c7="VV0">want</w><w c7="NN1">community</w><w c7="NN1">involvement</w><w c7="AT">the</w><w c7="MD">first</w><w c7="NN1">place</w><w c7="TO">to</w><w c7="VVI">start</w></p>
+    <p><w c7="VBZ">is</w><w c7="AT">the</w><w c7="NN1">health</w><w c7="NN1">service</w><w c7="CS">because</w><w c7="PPH1">it</w><w c7="VBZ">'s</w><w c7="AT1">a</w><w c7="NN1">disgrace</w><w c7="DDQ">what</w><w c7="VBZ">'s</w><w c7="VVG">happening</w><w c7="II">in</w><w c7="PPH1">it</w></p>
+    <p><w c7="UH">yeah</w><w c7="CCB">but</w></p>
+  </text>
+</annotated>

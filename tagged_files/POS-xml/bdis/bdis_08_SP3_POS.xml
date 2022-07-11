@@ -1,0 +1,38 @@
+<annotated>
+  <text>
+    <p><w c7="UH">erm</w><w c7="UH">hello</w><w c7="APPGE">my</w><w c7="NN1">name</w><w c7="VBZ">'s</w><w c7="NP1">Christopher</w><w c7="NP1">Watt</w></p>
+    <p><w c7="UH">erm</w></p>
+    <p><w c7="APPGE">my</w><w c7="NN1">question</w><w c7="VBZ">is</w></p>
+    <p><w c7="II31">with</w><w c7="II32">regards</w><w c7="II33">to</w><w c7="AT">the</w></p>
+    <p><w c7="NN1">process</w><w c7="IO">of</w><w c7="AT">the</w><w c7="NN1">consultation</w></p>
+    <p><w c7="UH">erm</w><w c7="II">in</w></p>
+    <p><w c7="II">in</w><w c7="VVG">getting</w><w c7="UH">erm</w><w c7="AT">the</w><w c7="NN1">community</w><w c7="JJ">engaged</w></p>
+    <p><w c7="IW">with</w><w c7="AT">the</w><w c7="NN1">formation</w><w c7="IO">of</w><w c7="AT">the</w><w c7="NN1">bill</w><w c7="RRQ">how</w><w c7="RRQ">how</w><w c7="VDZ">does</w><w c7="AT">the</w><w c7="NN2">opinions</w><w c7="IO">of</w><w c7="DA2">many</w><w c7="VV0">reduce</w><w c7="II">to</w><w c7="MC1">one</w><w c7="NN1">idea</w></p>
+    <p><w c7="CC">and</w><w c7="CC">and</w><w c7="UH">erm</w></p>
+    <p><w c7="CC">and</w></p>
+    <p><w c7="CC">and</w><w c7="DDQ">what</w><w c7="CC">and</w><w c7="CS">if</w></p>
+    <p><w c7="CS">if</w><w c7="PPH1">it</w><w c7="VBZ">'s</w><w c7="II">about</w><w c7="AT">the</w><w c7="NN1">majority</w></p>
+    <p><w c7="CS">if</w><w c7="CS">if</w><w c7="NN2">ideas</w><w c7="VBR">are</w><w c7="VVN">formed</w><w c7="VVN">based</w><w c7="II">on</w><w c7="AT1">a</w><w c7="NN1">majority</w><w c7="NN1">opinion</w></p>
+    <p><w c7="DDQ">what</w><w c7="VVZ">happens</w><w c7="II">to</w><w c7="AT">the</w><w c7="NN1">minority</w><w c7="GE">'s</w></p>
+    <p><w c7="NN1">opinion</w></p>
+    <p><w c7="CC">and</w><w c7="RT">then</w></p>
+    <p><w c7="CC">and</w><w c7="VVG">following</w><w c7="RP">on</w><w c7="II">from</w><w c7="DD1">that</w><w c7="RRQ">how</w><w c7="VD0">do</w><w c7="NN2">minorities</w><w c7="GE">'</w><w c7="NN2">opinions</w></p>
+    <p><w c7="UH">erm</w></p>
+    <p><w c7="RRQ">how</w><w c7="VBR">are</w><w c7="PPHS2">they</w><w c7="VVN">given</w><w c7="NN1">voice</w></p>
+    <p><w c7="UH">erm</w><w c7="RRQ">how</w><w c7="VBR">are</w><w c7="PPHS2">they</w><w c7="VVN">given</w></p>
+    <p><w c7="UH">erm</w><w c7="UH">like</w><w c7="APPGE">their</w><w c7="JJ">due</w></p>
+    <p><w c7="APPGE">their</w><w c7="JJ">due</w><w c7="PPY">you</w><w c7="VV0">know</w></p>
+    <p><w c7="UH">erm</w><w c7="PPIS1">I</w><w c7="VV0">mean</w></p>
+    <p><w c7="IF">for</w><w c7="PPIO1">me</w><w c7="PPH1">it</w><w c7="RR">so</w><w c7="PPH1">it</w><w c7="VVZ">seems</w><w c7="TO">to</w><w c7="VBI">be</w><w c7="AT1">a</w><w c7="NN1">bit</w><w c7="IO">of</w><w c7="AT1">a</w></p>
+    <p><w c7="JJ">hierarchical</w><w c7="NN1">system</w><w c7="II21">rather</w><w c7="II22">than</w><w c7="AT1">a</w></p>
+    <p><w c7="UH">erm</w></p>
+    <p><w c7="UH">erm</w><w c7="AT1">a</w><w c7="NN1">kind</w><w c7="IO">of</w><error><w c7="FU">vo-</w></error></p>
+    <p><w c7="UH">erm</w><w c7="AT1">a</w><w c7="NN1">system</w><w c7="DDQ">which</w><w c7="VBZ">is</w></p>
+    <p><w c7="DDQ">which</w><w c7="VM">would</w><error><w c7="FU">re-</w></error></p>
+    <p><error><w c7="FU">re-</w></error></p>
+    <p><w c7="VVI">reflect</w></p>
+    <p><w c7="UH">erm</w><w c7="DA2">many</w><w c7="NN2">opinions</w></p>
+    <p><w c7="II31">as</w><w c7="II32">opposed</w><w c7="II33">to</w><w c7="RR">just</w></p>
+    <p><w c7="MC1">one</w><w c7="NN1">majority</w><w c7="NN1">opinion</w></p>
+  </text>
+</annotated>

@@ -1,0 +1,64 @@
+<annotated>
+  <text>
+    <p><w c7="NP1">John</w><w c7="NP1">Letham</w></p>
+    <p><w c7="PPY">you</w><w c7="VH0">have</w><w c7="VVN">pleaded</w><w c7="JJ">guilty</w></p>
+    <p><w c7="II">to</w><w c7="AT">the</w><w c7="NN1">murder</w><w c7="IO">of</w><w c7="AT1">a</w><w c7="MC">fifteen</w><w c7="NNT1">year</w><w c7="JJ">old</w></p>
+    <p><w c7="JJ">defenceless</w><w c7="NN1">child</w></p>
+    <p><w c7="CC">and</w><w c7="AT1">a</w><w c7="MD">second</w><w c7="NN1">charge</w><w c7="IO">of</w><w c7="VVG">attempting</w></p>
+    <p><w c7="TO">to</w><w c7="VVI">defeat</w><w c7="AT">the</w><w c7="NN2">ends</w><w c7="IO">of</w><w c7="NN1">justice</w></p>
+    <p><w c7="II">by</w><w c7="VVG">trying</w><w c7="TO">to</w><w c7="VVI">cover</w><w c7="RP">up</w><w c7="APPGE">your</w><w c7="NN2">actions</w></p>
+    <p><w c7="AT">the</w><w c7="NN2">circumstances</w><w c7="IO">of</w><w c7="AT">the</w><w c7="NN1">crime</w></p>
+    <p><w c7="DB">all</w><w c7="CSA">as</w><w c7="VVN">described</w><w c7="II">in</w></p>
+    <p><w c7="II">in</w><w c7="AT">the</w><w c7="JJ">agreed</w><w c7="NN1">narrative</w></p>
+    <p><w c7="VV0">disclose</w><w c7="CST">that</w><w c7="DD1">this</w><w c7="VBDZ">was</w><w c7="AT1">a</w><w c7="JJ">savage</w></p>
+    <p><w c7="JJ">frenzied</w><w c7="NN1">attack</w></p>
+    <p><w c7="II">in</w><w c7="APPGE">my</w><w c7="NN1">view</w></p>
+    <p><w c7="AT">no</w><w c7="NN1">evidence</w><w c7="IO">of</w><w c7="DD">any</w><w c7="NN1">motive</w><w c7="VHZ">has</w><w c7="VBN">been</w><w c7="VVN">put</w><w c7="II">before</w><w c7="PPIO1">me</w></p>
+    <p><w c7="TO">to</w><w c7="VVI">explain</w><w c7="AT">the</w><w c7="NN1">ferocity</w><w c7="IO">of</w><w c7="DD1">this</w><w c7="NN1">attack</w></p>
+    <p><w c7="PPY">you</w><w c7="VM">must</w><w c7="VHI">have</w><w c7="VVN">struck</w><w c7="AT">the</w><w c7="NN1">victim</w><w c7="II31">in</w><w c7="II32">excess</w><w c7="II33">of</w><w c7="AT1">a</w><w c7="MC41">hundred</w><w c7="MC42">and</w><w c7="MC43">forty</w><w c7="MC44">six</w><w c7="NNT2">times</w><w c7="IW">with</w><w c7="AT1">a</w><w c7="NN1">knife</w></p>
+    <p><w c7="DDQ">which</w><w c7="II">on</w><w c7="APPGE">your</w><w c7="NN1">account</w><w c7="RR">just</w><w c7="VVD">happened</w><w c7="TO">to</w><w c7="VBI">be</w><w c7="JJ">handy</w></p>
+    <p><w c7="II">in</w><w c7="AT">the</w><w c7="JJ">back</w><w c7="NN1">room</w><w c7="IO">of</w><w c7="APPGE">your</w><w c7="NN1">shop</w></p>
+    <p><w c7="DD2">these</w><w c7="VBDR">were</w><w c7="XX">not</w><w c7="RR">just</w><w c7="NN1">stab</w><w c7="NN2">wounds</w></p>
+    <p><w c7="CCB">but</w><w c7="PPHS2">they</w><w c7="VVD">included</w><w c7="DA2">many</w><w c7="NN1">slashing</w><w c7="JJ">type</w><w c7="NN2">injuries</w></p>
+    <p><w c7="CC">and</w><w c7="DD1">this</w><w c7="NN1">number</w><w c7="IO">of</w><w c7="NN2">injuries</w><w c7="VVZ">excludes</w></p>
+    <p><w c7="AT">the</w><w c7="JJ">separate</w></p>
+    <p><w c7="JJ">repeated</w><w c7="NN2">blows</w></p>
+    <p><w c7="DDQ">which</w><w c7="VM">must</w><w c7="VHI">have</w><w c7="VBN">been</w><w c7="VVN">delivered</w><w c7="TO">to</w><w c7="VVI">inflict</w></p>
+    <p><w c7="AT">the</w><w c7="JJ">large</w><w c7="JJ">gaping</w><w c7="NN1">wound</w><w c7="II">on</w><w c7="APPGE">her</w><w c7="NN1">neck</w></p>
+    <p><w c7="DDQ">which</w><w c7="RR">ultimately</w></p>
+    <p><w c7="VVD">left</w></p>
+    <p><w c7="VVD">led</w><w c7="II">to</w><w c7="PPHO1">her</w></p>
+    <p><w c7="VVG">bleeding</w><w c7="II">to</w><w c7="NN1">death</w></p>
+    <p><w c7="DDQ">what</w><w c7="PPY">you</w><w c7="VDD">did</w><w c7="VBDZ">was</w><w c7="RR">truly</w></p>
+    <p><w c7="JJ">reprehensible</w></p>
+    <p><w c7="PPH1">it</w><w c7="VBZ">is</w><w c7="JJ">impossible</w><w c7="TO">to</w><w c7="VVI">comprehend</w></p>
+    <p><w c7="RRQ">how</w><w c7="AT1">an</w><w c7="RR">apparently</w><w c7="RR">happily</w><w c7="JJ">married</w><w c7="NN1">man</w></p>
+    <p><w c7="IW">with</w><w c7="AT1">a</w><w c7="JJ">young</w><w c7="NN1">child</w></p>
+    <p><w c7="PNQS">who</w><w c7="VBZ">'s</w><w c7="VVG">running</w><w c7="AT1">a</w><w c7="JJ">successful</w><w c7="NN1">business</w></p>
+    <p><w c7="VBZ">is</w><w c7="JJ">capable</w><w c7="IO">of</w><w c7="DA">such</w></p>
+    <p><w c7="AT1">an</w><w c7="JJ">horrific</w></p>
+    <p><w c7="NN1">level</w></p>
+    <p><w c7="IO">of</w><w c7="NN1">violence</w></p>
+    <p><w c7="APPGE">your</w><w c7="JJ">mental</w><w c7="NN1">state</w><w c7="VHZ">has</w><w c7="VBN">been</w><w c7="VVN">investigated</w></p>
+    <p><w c7="CC">and</w><w c7="EX">there</w><w c7="VBZ">is</w><w c7="AT">no</w><w c7="NN1">suggestion</w><w c7="CS31">as</w><w c7="CS32">far</w><w c7="CS33">as</w><w c7="PPIS1">I</w><w c7="VM">can</w><w c7="VVI">determine</w></p>
+    <p><w c7="IO">of</w><w c7="DD">any</w><w c7="JJ">psychiatric</w></p>
+    <p><w c7="CC">or</w><w c7="JJ">psychological</w><w c7="NN1">explanation</w><w c7="IF">for</w><w c7="DDQ">what</w><w c7="PPY">you</w><w c7="VDD">did</w></p>
+    <p><w c7="II31">in</w><w c7="II32">respect</w><w c7="II33">of</w><w c7="AT">the</w><w c7="NN1">murder</w><w c7="NN1">charge</w><w c7="EX">there</w><w c7="VBZ">is</w><w c7="RR">only</w><w c7="MC1">one</w><w c7="NN1">sentence</w><w c7="DDQ">which</w><w c7="PPIS1">I</w><w c7="VM">can</w><w c7="VVI">impose</w></p>
+    <p><w c7="CC">and</w><w c7="DD1">that</w><w c7="VBZ">is</w><w c7="NN1">life</w><w c7="NN1">imprisonment</w></p>
+    <p><w c7="II">on</w><w c7="NN1">charge</w><w c7="MC1">one</w></p>
+    <p><w c7="PPY">you</w><w c7="VM">will</w><w c7="VBI">be</w><w c7="VVN">sentenced</w><w c7="II">to</w><w c7="NN1">life</w><w c7="NN1">imprisonment</w></p>
+    <p><w c7="CC">and</w><w c7="II31">in</w><w c7="II32">view</w><w c7="II33">of</w><w c7="AT">the</w><w c7="NN1">brutality</w><w c7="CC">and</w><w c7="NN1">nature</w><w c7="IO">of</w><w c7="DD1">this</w><w c7="NN1">attack</w></p>
+    <p><w c7="RL">together</w><w c7="IW">with</w><w c7="AT">the</w><w c7="JJ">aggravating</w><w c7="NN2">factors</w></p>
+    <p><w c7="DB">all</w><w c7="CSA">as</w><w c7="VVN">disclosed</w><w c7="II">in</w><w c7="AT">the</w><w c7="NN1">narrative</w></p>
+    <p><w c7="II">including</w><w c7="AT">the</w><w c7="NN2">circumstances</w><w c7="IO">of</w><w c7="NN1">charge</w><w c7="MC">two</w></p>
+    <p><w c7="AT">the</w><w c7="NN1">punishment</w><w c7="NN1">part</w><w c7="PPIS1">I</w><w c7="VM">would</w><w c7="VHI">have</w><w c7="VVN">imposed</w><w c7="II21">but</w><w c7="II22">for</w><w c7="AT">the</w><w c7="NN1">discount</w></p>
+    <p><w c7="VBZ">is</w><w c7="MC">thirty</w><w c7="NNT2">years</w></p>
+    <p><w c7="PPIS1">I</w><w c7="VBM">'m</w><w c7="VVN">prepared</w><w c7="TO">to</w><w c7="VVI">discount</w><w c7="DD1">that</w><w c7="II">by</w><w c7="MC">three</w><w c7="NNT2">years</w></p>
+    <p><w c7="VHG">having</w><w c7="NN1">regard</w><w c7="II">to</w><w c7="AT">the</w><w c7="NN1">point</w><w c7="II">at</w><w c7="DDQ">which</w><w c7="PPY">you</w><w c7="VVD">pleaded</w><w c7="JJ">guilty</w></p>
+    <p><w c7="AT">the</w><w c7="JJ">resulting</w><w c7="NN1">punishment</w><w c7="NN1">part</w><w c7="VBZ">is</w><w c7="MC21">twenty</w><w c7="MC22">seven</w><w c7="NNT2">years</w></p>
+    <p><w c7="DD2">those</w><w c7="NN2">periods</w><w c7="VM">will</w><w c7="VVI">run</w><w c7="RR">concurrently</w></p>
+    <p><w c7="CC">and</w><w c7="VM">will</w><w c7="VVI">date</w><w c7="II">from</w><w c7="AT">the</w><w c7="MC">twenty</w><w c7="MD">sixth</w><w c7="IO">of</w><w c7="NPM1">March</w><w c7="DD1">this</w><w c7="NNT1">year</w></p>
+    <p><w c7="CS">when</w><w c7="PPY">you</w><w c7="VBDR">were</w><w c7="MD">first</w><w c7="VVN">remanded</w><w c7="II">in</w><w c7="NN1">custody</w></p>
+    <p><w c7="DD1">that</w><w c7="VBZ">'s</w><w c7="DB">all</w></p>
+  </text>
+</annotated>

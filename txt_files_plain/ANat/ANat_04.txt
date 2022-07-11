@@ -1,15 +1,237 @@
-1 . Introduction 
-Female anautogenous mosquitoes need a blood meal from a vertebrate host to reproduce . Therefore , they can act as vectors for numerous pathogens , e.g. , arthropod-borne viruses ( arboviruses ) or parasites , responsible for both human and animal diseases . The most important mosquito-borne viruses include flaviviruses ( Flaviviridae ) such as dengue virus ( DENV ) , yellow fever virus ( YFV ) , West Nile virus ( WNV ) ; alphaviruses ( Togaviridae ) such as chikungunya virus ( CHIKV ) , o'nyong-nyong virus ( ONNV ) , Semliki Forest virus ( SFV ) , Sindbis virus ( SINV ) ; and bunyaviruses ( Bunyaviridae ) such as Rift Valley fever virus ( RVFV ) . All of these arboviruses are mainly transmitted by aedine species including Aedes aegypti and Ae. albopictus as well as Culex species , with the exception of ONNV which is the only known arbovirus to be transmitted by Anopheles , and more specifically the African malaria vector An. gambiae . In recent decades , the incidence of mosquito-borne viral infections has grown dramatically . For example , according to the World Health Organization ( WHO ) , more than 2.5 billion people – over 40 % of the world 's population – are estimated to be at risk from DENV alone . A recent study has evaluated the incidence of dengue infections to be around 390 million worldwide every year , of which 96 million manifest [ 1 ] . Moreover , mosquito-borne virus infections are continuously expanding their geographical range into new areas . The spread of infections from Africa and Asia to other continents is thought to be due to extensive travelling , trade , population growth in high-risk areas , globalization of vectors , urbanization , climatic change , as well as virus genome evolution [ 2–4 ] . The threat of a possible outbreak of dengue fever now exists in Europe . Local transmission of DENV by Ae. albopictus was reported for the first time in France and Croatia in 2010 , and imported cases were detected in three other European countries . Moreover , an epidemic was reported in Madeira ( Portugal ) in 2012–2013 in which 2200 patients tested positive for DENV , 78 of whom were known to have travelled away from the island . This spread of DENV was aided by the establishment of Ae. aegypti in the region . Moreover , imported cases have been detected in a further 10 European countries in addition to mainland Portugal [ 5–8 ] . In 2005–2006 , an outbreak of CHIKV , normally transmitted by Ae. aegypti , occurred in the Indian Ocean . This epidemic has been associated with a single nucleotide mutation in the viral E1 glycoprotein conferring more efficient dissemination and transmission by the secondary vector , Ae. albopictus , which is more prevalent in this region [ 9–11 ] . Given the worldwide distribution of Ae. albopictus , this CHIKV variant has spread into many countries [ 12 ] . Currently , there is a large CHIKV outbreak occurring in the Americas , which started in 2013 with the first reported cases of autochthonous transmission on this continent . According to the Pan America Health Organization ( PAHO ) / WHO , as of February 2015 , local transmission has been identified in 50 countries or territories in the Caribbean , Central America , South America , and North America . From the beginning of the epidemic in 2013 up to February 2015 , a total of 1,176,216 suspected and 27,136 laboratory-confirmed chikungunya cases have been reported from these areas . CHIKV will likely continue to spread to new areas in the Americas through the movement of infected people and mosquitoes to naïve regions [ 4,12,13 ] . 
-There are currently no vaccines for a number of important human-infecting arboviruses including DENV and CHIKV . Therefore , the control of mosquito vectors is still the main tool to eradicate , or at least reduce , the incidence of arboviral diseases [ 14 ] . Insecticides , nets and the reduction of breeding sites are currently the main tools for mosquito vector control . However , growing insecticide resistance in mosquito vectors has increasingly limited the utility of chemical insecticides [ 15–18 ] . Moreover , biting patterns of Ae. aegypti and Ae. albopictus , mainly during the day , makes the use of bed nets rather ineffective . On the other hand , larval habitats may be small , widely dispersed , and transient and it is difficult , if not impossible , to predict when and where the breeding sites will form , to find and treat them before the adults emerge . Thus , alternative methods of mosquito control are urgently needed . 
-The efficiency of mosquito-borne disease transmission under natural conditions is referred to as the vectorial capacity , which is modelled by the following equation , first developed for modeling malaria transmission by Ross in 1910 and later refined by others [ 19 ] : 
+1. Introduction
+Female anautogenous mosquitoes need a blood meal from a 
+    vertebrate host to reproduce. Therefore, they can act as vectors 
+    for numerous pathogens, e.g., arthropod-borne viruses (arboviruses) 
+    or parasites, responsible for both human and animal diseases. The 
+    most important mosquito-borne viruses include flaviviruses 
+    (Flaviviridae) such as dengue virus (DENV), 
+    yellow fever virus (YFV), West Nile virus (WNV); alphaviruses 
+    (Togaviridae) such as chikungunya virus (CHIKV), 
+    o’nyong-nyong virus (ONNV), Semliki Forest virus (SFV), Sindbis 
+    virus (SINV); and bunyaviruses (Bunyaviridae) 
+    such as Rift Valley fever virus (RVFV). All of these arboviruses 
+    are mainly transmitted by aedine species including Aedes 
+    aegypti and Ae. albopictus as well as 
+    Culex species, with the exception of ONNV which 
+    is the only known arbovirus to be transmitted by 
+    Anopheles, and more specifically the African 
+    malaria vector An. gambiae. In recent decades, 
+    the incidence of mosquito-borne viral infections has grown 
+    dramatically. For example, according to the World Health 
+    Organization (WHO), more than 2.5 billion people—over 40% of the 
+    world’s population—are estimated to be at risk from DENV alone. A 
+    recent study has evaluated the incidence of dengue infections to be 
+    around 390 million worldwide every year, of which 96 million 
+    manifest [1]. Moreover, mosquito-borne virus infections are 
+    continuously expanding their geographical range into new areas. The 
+    spread of infections from Africa and Asia to other continents is 
+    thought to be due to extensive travelling, trade, population growth 
+    in high-risk areas, globalization of vectors, urbanization, 
+    climatic change, as well as virus genome evolution [2–4]. The 
+    threat of a possible outbreak of dengue fever now exists in Europe. 
+    Local transmission of DENV by Ae. albopictus was 
+    reported for the first time in France and Croatia in 2010, and 
+    imported cases were detected in three other European countries. 
+    Moreover, an epidemic was reported in Madeira (Portugal) in 
+    2012–2013 in which 2200 patients tested positive for DENV, 78 of 
+    whom were known to have travelled away from the island. This spread 
+    of DENV was aided by the establishment of Ae. 
+    aegypti in the region. Moreover, imported cases have been 
+    detected in a further 10 European countries in addition to mainland 
+    Portugal [5–8]. In 2005–2006, an outbreak of CHIKV, normally 
+    transmitted by Ae. aegypti, occurred in the 
+    Indian Ocean. This epidemic has been associated with a single 
+    nucleotide mutation in the viral E1 glycoprotein conferring more 
+    efficient dissemination and transmission by the secondary vector, 
+    Ae. albopictus, which is more prevalent in this 
+    region [9–11]. Given the worldwide distribution of Ae. 
+    albopictus, this CHIKV variant has spread into many 
+    countries [12]. Currently, there is a large CHIKV outbreak 
+    occurring in the Americas, which started in 2013 with the first 
+    reported cases of autochthonous transmission on this continent. 
+    According to the Pan America Health Organization (PAHO)/WHO, as of 
+    February 2015, local transmission has been identified in 50 
+    countries or territories in the Caribbean, Central America, South 
+    America, and North America. From the beginning of the epidemic in 
+    2013 up to February 2015, a total of 1,176,216 suspected and 27,136 
+    laboratory-confirmed chikungunya cases have been reported from 
+    these areas. CHIKV will likely continue to spread to new areas in 
+    the Americas through the movement of infected people and mosquitoes 
+    to naïve regions [4,12,13].
+There are currently no vaccines for a number of important 
+    human-infecting arboviruses including DENV and CHIKV. Therefore, 
+    the control of mosquito vectors is still the main tool to 
+    eradicate, or at least reduce, the incidence of arboviral diseases 
+    [14]. Insecticides, nets and the reduction of breeding sites are 
+    currently the main tools for mosquito vector control. However, 
+    growing insecticide resistance in mosquito vectors has increasingly 
+    limited the utility of chemical insecticides [15–18]. Moreover, 
+    biting patterns of Ae. aegypti and Ae. 
+    albopictus, mainly during the day, makes the use of bed 
+    nets rather ineffective. On the other hand, larval habitats may be 
+    small, widely dispersed, and transient and it is difficult, if not 
+    impossible, to predict when and where the breeding sites will form, 
+    to find and treat them before the adults emerge. Thus, alternative 
+    methods of mosquito control are urgently needed.
+The efficiency of mosquito-borne disease transmission under 
+    natural conditions is referred to as the vectorial capacity, which 
+    is modelled by the following equation, first developed for modeling 
+    malaria transmission by Ross in 1910 and later refined by others 
+    [19]:
 
-This mathematical model , which can be applied to arbovirus transmission , shows that vectorial capacity ( C ) depends on many factors including : the abundance of vector mosquitoes per vertebrate host ( m ) ; the probability of a bite occurring ( a ) ; the probability of vector survival ( p ) ; the duration of the incubation period after which the vector can transmit the virus ( n ) ; the probability of vector survival after the incubation period is completed ( 1/-ln(p) ) ; and the vector competence ( b ) . Mosquito vector competence for arboviruses is an evaluation of the mosquito 's ability to become infected following an infectious blood meal and to subsequently transmit the virus . After the ingestion of an arbovirus by the female mosquito , it must overcome different barriers in order to be transmitted . The first is the midgut infection barrier ( MIB ) before the virus can invade the midgut epithelium where it undergoes replication in order to pass through the midgut escape barrier ( MEB ) and then disseminate to other tissues , finally reaching and infecting the salivary glands . The salivary gland infection barrier ( SIB ) and salivary gland escape barrier ( SEB ) are the final hurdles for arboviruses to overcome before they can be transmitted during a subsequent mosquito blood meal [ 20–22 ] . Mosquito vector competence for arboviruses has been shown to be determined by the genetic components of both the mosquito and arbovirus and their interactions , a phenomenon called genotype-genotype ( GXG ) interactions . Therefore , mosquito vector competence can vary among mosquito vector / arbovirus species and strains as well as between individual mosquitoes within one strain [ 20 , 23 , 24 ] . As arboviruses often exist as a collection of variable genomes within and among hosts , referred to as a mutant swarm [ 25 ] , vector competence can also vary depending on the genome population of an arbovirus strain . Moreover , mosquito vector competence is dependent on environmental parameters such as temperature or symbiotic microbiota , as previously reviewed [ 24 , 26 ] . Thus , a considerable number of factors can influence competence , even in a same mosquito / arbovirus spp. combination . 
-A change in any of the parameters of vectorial capacity for a specific pathogen can affect the spread of a disease . Therefore , control of Aedes mosquito vectors either by mosquito population reduction or replacement with refractory mosquitoes can play an important role in the fight against arboviral infectious diseases . The reduction of populations is aimed at decreasing the probability of vector survival ( p ) and the abundance of vector mosquitoes per vertebrate host ( m ) leading to a decrease in disease transmission . Proof-of-principle experiments and field trials of such strategies in Ae. aegypti have already been carried out using endosymbiotic Wolbachia bacteria [ 27 , 28 ] or genetically modified ( GM ) mosquitoes with the RIDL ( " Release of Insects carrying a Dominant Lethal " ) genetic system [ 29 ] . Replacing competent mosquito populations with refractory mosquitoes aims to reduce vector competence ( b ) . Although vector competence is not the most important determinant of vectorial capacity , vectorial capacity fluctuates directly with it as competence is a linear term in expressions of vectorial capacity . Therefore , reducing vector competence should lead to a decrease in the spread of a disease . Recently , significant advances in knowledge about the mechanisms of interactions between mosquitoes and arboviruses have been made , especially regarding the influence of mosquito antiviral responses on arbovirus propagation , genetic and phenotypic variation affecting these interactions , the impact of these interactions on mosquito fitness , and how environmental factors affect arbovirus transmission [ 23 , 26 , 30 , 31 ] . This opens the way for the development of novel disease control strategies by altering mosquito vector competence . 
-In this review , we will focus on the development and application of biological approaches , either natural or engineered , to limit mosquito vector competence for arboviruses in Aedes spp. vectors . For overall relevance , some results obtained with other mosquito species , such as Culex or Anopheles , will also be reviewed . We discuss key aspects of mosquito antiviral pathways as targets , either for the selection of naturally resistant mosquito populations or for engineering transgenic mosquitoes resistant to viral infections . We will also consider the use of endosymbiotic bacteria such as Wolbachia , which in some cases have proven to be remarkably efficient in disrupting arbovirus transmission by mosquitoes . Further to this , we will discuss the use of naturally occurring insect-specific viruses that may interfere with arboviruses in mosquito vectors as well as paratransgenesis of endosymbionts to control mosquito vector competence . 
-2 . Natural Control of Arbovirus Transmission 
-2.1 . Mosquitoes Naturally Resistant to Arbovirus Transmission 
-Although genetic engineering strategies to reduce Aedes mosquito populations [ 29 ] and the use of Wolbachia bacteria [ 32 ] have generated new opportunities in vector control , investigations into natural mosquito competence can serve to identify new targets for mosquito transgenic engineering or select resistant mosquitoes by breeding for population replacement strategies . As defined in the introduction , natural competence for pathogens can be due to a number of factors [ 24 , 26 , 30 ] . If environmental factors and viral properties are excluded , mosquito cellular factors such as receptors or proteins , extracellular factors and tissue-related properties ( accessibility , cell types ) can all potentially influence arbovirus midgut infection , replication and dissemination to the saliva . Many experimental studies have compared competence for arboviruses between regional strains of mosquito species or between species of mosquitoes and this section shall only address work where differences at genetic / molecular / physiological levels were observed that may inform vector control strategies . 
-One of the first observations made was that a laboratory strain of Culex pipiens pipiens ( Cx. pipiens pipiens ) , a natural vector of WNV , was refractory to this virus . Studies on the midgut of these mosquitoes revealed an induction of apoptosis in this tissue , which the authors linked to a failure to disseminate virus from the midgut [ 33 ] . 
-Analysis of quantitative trait loci in Ae. aegypti has identified targets and given further insights into the genetics of DENV competence related to midgut infection and escape barriers [ 34–37 ] . However , while these loci can be pinpointed to individual chromosomes , the host genes remain to be identified . Advances in sequencing technologies over the last three to five years may now allow these data and mosquito strains to be analyzed further and candidate regions to be assessed in vivo . Nonetheless , some progress on identifying the role of individual host molecules and their role in competence has been made . 
-A putative DENV receptor present in mosquitoes that can be infected with dengue was identified [ 38 ] , though more detailed descriptions and assays such as knock down studies are required to confirm this finding . More recently , Lambrechts and colleagues [ 39 ] suggested that polymorphisms in the Ae. aegypti Dicer2 ( Dcr2 , a key exogenous siRNAi pathway protein ) are associated with resistance to DENV . While the exact mechanism of virus resistance due to Dcr2 polymorphisms is not known , these findings directly link mosquito innate immunity to resistance . Indeed , Dcr2 initiates the exogenous siRNA pathway by detecting and cleaving viral double-stranded RNA ( induced by replication or potentially secondary structures ) into 21 nucleotide virus-derived small interfering RNAs , a critical step in this antiviral response . 
-The establishment of new techniques for genomics and for the analysis of differential gene expression , such as microarrays and more recently high-throughput sequencing , has allowed comparative studies between refractory and susceptible mosquitoes to be performed , and are novel opportunities for in-depth genetic studies . In the case of DENV2 / Ae. aegypti interactions , comparative studies between susceptible D2S3 and refractory Moyo-D mosquitoes have shown that common factors up-regulated in response to infection include endocytosis , autophagy regulation and a number of other physiological processes ; however , some genes linked to immunity were only up-regulated in the refractory strain suggesting a further role in competence [ 40 ] . Interestingly , genes linked to one of the insect 's immune signaling pathways , the JAK / STAT pathway , previously linked to the control of DENV in this mosquito [ 41 ] were also up-regulated in both strains in response to infection . This leads to the question of potential differences in the JAK / STAT pathway between these strains ( for example inexpression of antiviral effectors ) and whether it is really a defining contributor to competence . To analyze this question , more detailed comparative studies on this pathway between strains would be required . The same authors also compared sub-strains of the Moyo Ae. aegypti mosquitoes that were either resistant ( MOYO-R ) or susceptible ( MOYO-S ) to DENV2 [ 42 ] . While again confirming the important role of the JAK / STAT pathway in both strains , a number of particularly intriguing responses or genes stand out . 
+This mathematical model, which can be applied to arbovirus 
+    transmission, shows that vectorial capacity (C) depends on many 
+    factors including: the abundance of vector mosquitoes per 
+    vertebrate host (m); the probability of a bite occurring (a); the 
+    probability of vector survival (p); the duration of the incubation 
+    period after which the vector can transmit the virus (n); the 
+    probability of vector survival after the incubation period is 
+    completed (1/−ln(p)); and the vector competence (b). Mosquito 
+    vector competence for arboviruses is an evaluation of the 
+    mosquito’s ability to become infected following an infectious blood 
+    meal and to subsequently transmit the virus. After the ingestion of 
+    an arbovirus by the female mosquito, it must overcome different 
+    barriers in order to be transmitted. The first is the midgut 
+    infection barrier (MIB) before the virus can invade the midgut 
+    epithelium where it undergoes replication in order to pass through 
+    the midgut escape barrier (MEB) and then disseminate to other 
+    tissues, finally reaching and infecting the salivary glands. The 
+    salivary gland infection barrier (SIB) and salivary gland escape 
+    barrier (SEB) are the final hurdles for arboviruses to overcome 
+    before they can be transmitted during a subsequent mosquito blood 
+    meal [20–22]. Mosquito vector competence for arboviruses has been 
+    shown to be determined by the genetic components of both the 
+    mosquito and arbovirus and their interactions, a phenomenon called 
+    genotype–genotype (GXG) interactions. Therefore, mosquito vector 
+    competence can vary among mosquito vector/arbovirus species and 
+    strains as well as between individual mosquitoes within one strain 
+    [20,23,24]. As arboviruses often exist as a collection of variable 
+    genomes within and among hosts, referred to as a mutant swarm [25], 
+    vector competence can also vary depending on the genome population 
+    of an arbovirus strain. Moreover, mosquito vector competence is 
+    dependent on environmental parameters such as temperature or 
+    symbiotic microbiota, as previously reviewed [24,26]. Thus, a 
+    considerable number of factors can influence competence, even in a 
+    same mosquito/arbovirus spp. combination.
+A change in any of the parameters of vectorial capacity for a 
+    specific pathogen can affect the spread of a disease. Therefore, 
+    control of Aedes mosquito vectors either by 
+    mosquito population reduction or replacement with refractory 
+    mosquitoes can play an important role in the fight against 
+    arboviral infectious diseases. The reduction of populations is 
+    aimed at decreasing the probability of vector survival (p) and the 
+    abundance of vector mosquitoes per vertebrate host (m) leading to a 
+    decrease in disease transmission. Proof-of-principle experiments 
+    and field trials of such strategies in Ae. 
+    aegypti have already been carried out using endosymbiotic 
+    Wolbachia bacteria [27,28] or genetically 
+    modified (GM) mosquitoes with the RIDL (“Release of Insects 
+    carrying a Dominant Lethal”) genetic system [29]. Replacing 
+    competent mosquito populations with refractory mosquitoes aims to 
+    reduce vector competence (b). Although vector competence is not the 
+    most important determinant of vectorial capacity, vectorial 
+    capacity fluctuates directly with it as competence is a linear term 
+    in expressions of vectorial capacity. Therefore, reducing vector 
+    competence should lead to a decrease in the spread of a disease. 
+    Recently, significant advances in knowledge about the mechanisms of 
+    interactions between mosquitoes and arboviruses have been made, 
+    especially regarding the influence of mosquito antiviral responses 
+    on arbovirus propagation, genetic and phenotypic variation 
+    affecting these interactions, the impact of these interactions on 
+    mosquito fitness, and how environmental factors affect arbovirus 
+    transmission [23,26,30,31]. This opens the way for the development 
+    of novel disease control strategies by altering mosquito vector 
+    competence.
+In this review, we will focus on the development and application 
+    of biological approaches, either natural or engineered, to limit 
+    mosquito vector competence for arboviruses in Aedes spp. vectors. 
+    For overall relevance, some results obtained with other mosquito 
+    species, such as Culex or Anopheles, will also be reviewed. We 
+    discuss key aspects of mosquito antiviral pathways as targets, 
+    either for the selection of naturally resistant mosquito 
+    populations or for engineering transgenic mosquitoes resistant to 
+    viral infections. We will also consider the use of endosymbiotic 
+    bacteria such as Wolbachia, which in some cases have proven to be 
+    remarkably efficient in disrupting arbovirus transmission by 
+    mosquitoes. Further to this, we will discuss the use of naturally 
+    occurring insect-specific viruses that may interfere with 
+    arboviruses in mosquito vectors as well as paratransgenesis of 
+    endosymbionts to control mosquito vector competence.
+2. Natural Control of Arbovirus Transmission
+2.1. Mosquitoes Naturally Resistant to Arbovirus 
+    Transmission
+Although genetic engineering strategies to reduce 
+    Aedes mosquito populations [29] and the use of 
+    Wolbachia bacteria [32] have generated new 
+    opportunities in vector control, investigations into natural 
+    mosquito competence can serve to identify new targets for mosquito 
+    transgenic engineering or select resistant mosquitoes by breeding 
+    for population replacement strategies. As defined in the 
+    introduction, natural competence for pathogens can be due to a 
+    number of factors [24,26,30]. If environmental factors and viral 
+    properties are excluded, mosquito cellular factors such as 
+    receptors or proteins, extracellular factors and tissue-related 
+    properties (accessibility, cell types) can all potentially 
+    influence arbovirus midgut infection, replication and dissemination 
+    to the saliva. Many experimental studies have compared competence 
+    for arboviruses between regional strains of mosquito species or 
+    between species of mosquitoes and this section shall only address 
+    work where differences at genetic/molecular/physiological levels 
+    were observed that may inform vector control strategies.
+One of the first observations made was that a laboratory strain 
+    of Culex pipiens pipiens (Cx. pipiens 
+    pipiens), a natural vector of WNV, was refractory to this 
+    virus. Studies on the midgut of these mosquitoes revealed an 
+    induction of apoptosis in this tissue, which the authors linked to 
+    a failure to disseminate virus from the midgut [33].
+Analysis of quantitative trait loci in Ae. 
+    aegypti has identified targets and given further insights 
+    into the genetics of DENV competence related to midgut infection 
+    and escape barriers [34–37]. However, while these loci can be 
+    pinpointed to individual chromosomes, the host genes remain to be 
+    identified. Advances in sequencing technologies over the last three 
+    to five years may now allow these data and mosquito strains to be 
+    analyzed further and candidate regions to be assessed in 
+    vivo. Nonetheless, some progress on identifying the role 
+    of individual host molecules and their role in competence has been 
+    made.
+A putative DENV receptor present in mosquitoes that can be 
+    infected with dengue was identified [38],though more detailed 
+    descriptions and assays such as knock down studies are required to 
+    confirm this finding. More recently, Lambrechts and colleagues [39] 
+    suggested that polymorphisms in the Ae. aegypti 
+    Dicer2 (Dcr2, a key exogenous siRNAi pathway protein) are 
+    associated with resistance to DENV. While the exact mechanism of 
+    virus resistance due to Dcr2 polymorphisms is not known, these 
+    findings directly link mosquito innate immunity to resistance. 
+    Indeed, Dcr2 initiates the exogenous siRNA pathway by detecting and 
+    cleaving viral double-stranded RNA (induced by replication or 
+    potentially secondary structures) into 21 nucleotide virus-derived 
+    small interfering RNAs, a critical step in this antiviral 
+    response.
+The establishment of new techniques for genomics and for the 
+    analysis of differential gene expression, such as microarrays and 
+    more recently high-throughput sequencing, has allowed comparative 
+    studies between refractory and susceptible mosquitoes to be 
+    performed, and are novel opportunities for in-depth genetic 
+    studies. In the case of DENV2/Ae. aegypti 
+    interactions, comparative studies between susceptible D2S3 and 
+    refractory Moyo-D mosquitoes have shown that common factors 
+    up-regulated in response to infection include endocytosis, 
+    autophagy regulation and a number of other physiological processes; 
+    however, some genes linked to immunity were only up-regulated in 
+    the refractory strain suggesting a further role in competence [40]. 
+    Interestingly, genes linked to one of the insect’s immune signaling 
+    pathways, the JAK/STAT pathway, previously linked to the control of 
+    DENV in this mosquito [41] were also up-regulated in both strains 
+    in response to infection. This leads to the question of potential 
+    differences in the JAK/STAT pathway between these strains (for 
+    example inexpression of antiviral effectors) and whether it is 
+    really a defining contributor to competence. To analyze this 
+    question, more detailed comparative studies on this pathway between 
+    strains would be required. The same authors also compared 
+    sub-strains of the Moyo Ae. aegypti mosquitoes 
+    that were either resistant (MOYO-R) or susceptible (MOYO-S) to 
+    DENV2 [42]. While again confirming the important role of the 
+    JAK/STAT pathway in both strains, a number of particularly 
+    intriguing responses or genes stand out.

@@ -1,29 +1,227 @@
-1 . Introduction 
-Monepantel ( trade name Zolvix® ) was launched , firstly in New Zealand in 2009 , and then in Australia and the UK in 2010 by Novartis Animal Health . It was the first new drug family of anthelmintic to appear on the livestock healthcare market for over 25 years ( Kaminsky et al. , 2008 ) . In an effort to prolong the useful life of this new compound and protect the efficacy of the older anthelmintic families , monepantel has been sold as prescription only medicine ( POM-V ) in the UK . Although efforts have been made to " protect " the compound , the first cases of resistance have been reported only two years after its launch . The first case of resistance was reported in sheep and goats in New Zealand ( Leathwick et al. , 2013 ; Scott et al. , 2013 ) and another case was reported on a goat farm in New South Wales , Australia ( https://wormmailinthecloud.wordpress.com/?s=monepantel+resistance ; last accessed 30APR15 ) . All reports have found that Teladorsagia circumcincta was one of the parasites surviving treatment . 
-An understanding of the development of anthelmintic resistance and evolvement of parasites in the face of anthelmintic pressure is key to developing strategies to preserve their efficacy . Previously different selection processes for the assessment of anthelmintic resistance have been used : ( a ) comparison of anthelmintic resistant and sensitive field derived isolates ( Le Jambre et al. , 1977 ; Hall et al. , 1978 ; Kelly et al. , 1978 ; Hunt et al. , 2008 , 2010 ) ; ( b ) experimental selection via increasing sub-therapeutic dosages in vivo ( Kates et al. , 1973 ; Colglazier et al. , 1974a ; Egerton et al. , 1988 ; Giordano et al. , 1988 ; Shoop et al. , 1990 ; Rohrer et al. , 1994 ; Ranjan et al. , 2002 ; Coles et al. , 2005 ) ; ( c ) in vitro pressurisation and selection of individuals within a population with an inherent insensitivity to a compound and use them for in vivo trials ( Maingi et al. , 1990 ; Kaminsky et al. , 2008 ) ; ( d ) comparison of populations pre- and post in vitro anthelmintic exposure ( Laing , 2010 ; De Graef et al. , 2013 ) ; ( e ) introgression of resistant genes into sensitive populations through the process of backcrossing individuals ( Redman et al. , 2012 ) ; ( f ) comparison of clade V free living model nematode systems to extrapolate information on parasitic nematodes ( Driscoll et al. , 1989 ; Chehresa , 1996 ) . 
-Phenotypic variation in life history traits following selection for benzimidazole ( BZ ; Hall et al. , 1978 , 1981 ; Kelly et al. , 1978 ; Maingi et al. , 1990 ; Leignel and Cabaret , 2001 ) and ivermectin ( IV ; Echevarria et al. , 1993a , 1993b ) resistance has been examined previously in a number of parasite species . Historically , it was believed that chemotherapy that impacts on adult parasite life expectancy would result in one of the two outcomes : either earlier development to sexual maturity of parasites in order to propagate prior to treatment , or delayed development to avoid the effects of treatment ( Arneberg et al. , 1998 ; Skorping and Read , 1998 ) . The finding from the aforementioned selection studies would suggest that the impact of the development of resistance on phenotypes , as one might expect , is not so clear cut , and it is influenced by a number of host related / physiological ( e.g. age , size , diet , immune status , presence of conspecifics and heterospecifics ) and environmental factors ( Poulin , 1996 ) . 
-The aims of this study were : firstly , to generate T. circumcincta isolates selected for monepantel resistance from previously phenotypically characterised parental isolates to improve our understanding of the development , dissemination and detection of MPTL resistance and secondly , to assess the extent of phenotypic changes that occur in selected isolates compared to parental isolates following selection for resistance to MPTL . 
-2 . Materials and method 
-2.1 Parasite isolates 
-Three T. circumcincta ( designated MTci2 , MTci5 and MTci7 ) isolates were used to generate the MPTL resistant isolates , as outlined in section 2.2 ( Table 1 ) . MTci2 is phenotypically sensitive to all broad spectrum anthelmintics ( unpublished data ) whilst MTci5 and MTci7 are phenotypically BZ , levamisole ( LV ) and IV resistant ( Sargison et al. , 2001 ; Bartley et al. , 2004 , 2005 ) . MTci7 also exhibits moxidectin ( MX ) resistance ( Sargison et al. , 2005 ; Wilson and Sargison , 2007 ) . The isolates were passaged through parasite naive lambs that were housed under conditions that precluded contamination with other nematode species prior to use . During the period of selection , the parental isolates were independently passaged four times . 
-2.2 Monepantel resistance selection process 
-Three MPTL resistant T. circumcincta isolates were artificially selected in vivo from phenotypically characterised isolates using an adaptation of a previously outlined methodology ( Coles et al. , 2005 ) . In brief , lambs were initially mono-specifically infected with approximately 20,000 infective larvae of MTci2 , MTci5 or MTci7 . Due to availability of stocks , the infective larvae used to initiate the infections were 1 , 4 and 11 months old for MTci7 , MTci2 and MTci5 , respectively . All subsequent infections were less than 1 month old when administered . All larvae were assessed visually to ensure they appeared active . Prior to infection all larvae were stored in 100 ml tapwater in 75 cm 2 suspension culture flasks ( Startsedt Ltd , Germany ) between 4 and 8 °C . At patency , lambs were administered monepantel ( Zolvix® , Novartis Animal Health ) at 0.125 mg/kg bodyweight ( BW ) , 1/20th of the manufacturer 's recommended dose rate . The lowest dose used was selected because previous work had demonstrated that even a dose of 1.25 mg/kg BW had been effective at removing >99 % of T. circumcincta populations ( Kaminsky et al. , 2009 ) . Eggs from surviving worms were collected and cultured to generate infective larvae . Lambs with positive faecal egg counts ( FEC ) were re-treated at increasing dose rates of MPTL ( e.g. 0.25 , 0.5 , 0.63 , 0.83 , 1.25 , 1.88 and 2.5 mg/kg BW ) until egg counts dropped . At this point , the larvae obtained from the highest dosage were either used to re-infect the donor that had been previously treated or used to infect a new donor . At patency , the process was repeated using increasing dose rates until a fully resistant isolate , i.e. able to survive a full therapeutic dose rate ( 2.5 mg/kg BW ) , was generated . Further information can be found in the supplementary material file attached . 
-2.3 Monepantel efficacy trial design 
-The monepantel efficacy trial overall included 10 groups including parent ( without anthelmintic treatment ) and selected ( with and without monepantel administration on day 28 , i.e. -CON and -MPTL ) isolates . Five lambs were randomly allocated to each of the 10 groups : MTci2 , MTci5 , MTci7 , MTci7-MPTL , MTci2-11-CON , MTci5-13-CON , MTci7-12-CON , MTci2-11-MTPL , MTci5-13-MTPL , MTci7-12-MTPL ( Table 1 ) . The group MTci7-MPTL is a treatment validation group , included for those infected with the parental isolate MTci7 , to confirm that MPTL was effective at removing adult populations in the original parental isolate . On day 0 , Suffolk greyface wormfree crossbred lambs of 5 to 9 months were challenged per os with 7000 infective larvae from one of the three parental isolates ( MTci2 , MTci5 or MTci7 ) or three monepantel selected isolates ( MTci2-11 , MTci5-13 or MTci7-12 ) according to the constituent of group . Faecal egg counts were conducted on the lambs prior to the start of the trial to confirm their worm-free status , and on the day of treatment ( day 28 ) to allow the formation of groups within which all lambs have similar egg counts . Further FECs were conducted throughout the trial to assess time to patency and magnitude of egg output ( details in section 2.3.1 ) . On day 28 post-infection , the lambs were weighed and dosed orally by syringe at the manufacturer 's recommended dose rate with either Zolvix® ( 2.5 mg/kg BW ; -MPTL ) or left untreated to act as controls ( -CON ) . All anthelmintic administrations were rounded up to the nearest 0.2 ml ( dosage range 2.5–2.7 mg/kg BW ) . All of the animals were necropsied seven days post-treatment ; the methods used to euthanase the animals , remove and process their organs for worm burden recovery were as described by Patterson et al. ( 1996 ) . The total worm burdens were estimated from 2 % sub-samples of the abomasal washings and saline digests . Recovered worms were sexed and staged ( MAFF , 1986 ) . Due to animal , material and time constraints the above trials were conducted at two separate time points . The controlled efficacy test ( CET ) using MTci7 and its selected isolate ( MTci7-12 ) was investigated in one trial whilst MTci2 , MTci5 , MTci2-11 and MTci5-13 were investigated in a second trial . All experimental procedures described here were approved by the Moredun Research Institute Experiments and Ethics Committee and were conducted under the legislation of a UK Home Office License ( reference PPL 60/03899 ) in accordance with the Animals ( Scientific Procedures ) Act of 1986 . 
-Table 1 Teladorsagia circumcincta isolate designations pre- ( parent ) and post-selection for monepantel resistance . 
-2.3.1 Faecal egg count 
-Faecal samples were taken per rectum from each lamb prior to infection to confirm that they were negative for nematode eggs : from day 8 post infection ( PI ) egg counts , eggs per gram ( EPG ) , were performed three times a week to assess pre-patency of the isolates , on day 27 PI prior to the anthelmintic treatment ( day 28 ) , and then daily until necropsy seven days later . Faecal egg counts were conducted throughout the trials using a modification of a salt flotation method with a sensitivity of up to one egg per gram ( Christie and Jackson , 1982 ) , allowing the evaluation of the effectiveness of the anthelmintic on faecal egg count reduction . 
-2.3.2 Eggs in utero and worm body lengths 
-Twenty individual adult worms ( 20 male and 20 female worms where available ) were randomly selected from each lamb within a group , mounted in a drop of lactophenol ( GCC Diagnostics ) on a microscope slide and assessed for fecundity . The numbers of eggs in utero in female worms were enumerated at magnification ( ×40 ) on a compound microscope . Images were captured ( Nikon D70 ) of each individual for length determination ; where multiple images were captured , the images were compiled to form a single composite image using an image editing program ( Adobe Photoshop Elements 4.0 ) . Worm lengths were estimated using image processing software ( ImageJ 1.46r ) . 
-2.4 Statistical analysis 
-The main effects to be investigated were : comparisons between groups corresponding to the parental isolates ( MTci2 , MTci5 , MTci7 ) , comparisons between groups corresponding to the parent and selected isolates ( versus MTci2-11-CON , MTci5-13-CON , MTci7-12-CON ) , and finally , comparisons between groups corresponding to the selected isolates without treatment ( -CON ) and with treatment ( -MPTL ) ( versus MTci2-11-MTPL , MTci5-13-MTPL , MTci7-12-MTPL ) . 
-2.4.1 Parasite establishment and worm burden 
-The data on each stage of worm burden ( juvenile , male , female and total ) in individual lamb were investigated by fitting a generalised linear mixed model ( GLMM ) to the counts using a logarithmic link function and assuming the Poisson distribution . Estimates of establishment rate ( the proportion of juvenile and adult worms recovered from the initial challenge dose i.e. 7000 ) and development rate ( the proportion of adult worms out of total worms established ) were obtained for each group by fitting a GLMMs using a logit link function and assuming the binomial distribution . All models included group as a fixed effect , and lamb ( the level of each observation ) as a random effect to allow for over-dispersion . 
-2.4.2 Treatment efficacy 
-The percentage efficacy of the treatment for each selected isolate was calculated using the equation : ( 1-(T/C) ) ×100 , where C and T are the arithmetic mean total worm burdens or faecal egg counts at 35 days PI of the control ( -CON ) and treated ( -MPTL ) groups , respectively ( Coles et al. , 1992 ) . According to Coles et al. ( 1992 ) , anthelmintic resistance was deemed to be present when the mean percentage efficacy at reducing faecal egg output or worm burden was less than 95 % . 
-2.4.3 Adult worm body length 
-The data on length of male and female worms were each analysed using a linear mixed model ( LMM ) . The model included group as a fixed effect and lamb as a random effect . 
-2.4.4 Per capita fecundity 
-The worm egg counts in utero were analysed using a GLMM with a logarithmic link function and assuming the Poisson distribution . The model incorporated the group as a fixed effect and lamb as a random effect , and worm as a random effect to allow for overdispersion . Two separate GLMMs were investigated , with and without an offset variable of the logarithm of the female worm length . An additional GLMM was also fitted to estimate the effect of logarithm of the female worm length on the egg counts . 
-2.4.5 Time to patency 
-The data on time to patency for each animal were calculated as the time when the faecal egg count is greater than or equal to 25 eggs per gram . This was analysed using a linear model ( LM ) . The model included the isolate , combining the two groups for each selected isolate ( -CON and -MPTL ) , as a fixed effect , because days to patency are before the treatment day ( i.e. day 28 ) . 
+1. Introduction
+Monepantel (trade name Zolvix®) was launched, firstly in New 
+    Zealand in 2009, and then in Australia and the UK in 2010 by 
+    Novartis Animal Health. It was the first new drug family of 
+    anthelmintic to appear on the livestock healthcare market for over 
+    25 years (Kaminsky et al., 2008). In an effort to prolong the 
+    useful life of this new compound and protect the efficacy of the 
+    older anthelmintic families, monepantel has been sold as 
+    prescription only medicine (POM-V) in the UK. Although efforts have 
+    been made to “protect” the compound, the first cases of resistance 
+    have been reported only two years after its launch. The first case 
+    of resistance was reported in sheep and goats in New Zealand 
+    (Leathwick et al., 2013; Scott et al., 2013) and another case was 
+    reported on a goat farm in New South Wales, Australia 
+    (https://wormmailinthecloud.wordpress.com/?s=monepantel+resistance; 
+    last accessed 30APR15). All reports have found that 
+    Teladorsagia circumcincta was one of the 
+    parasites surviving treatment.
+An understanding of the development of anthelmintic resistance 
+    and evolvement of parasites in the face of anthelmintic pressure is 
+    key to developing strategies to preserve their efficacy. Previously 
+    different selection processes for the assessment of anthelmintic 
+    resistance have been used: (a) comparison of anthelmintic resistant 
+    and sensitive field derived isolates (Le Jambre et al., 1977; Hall 
+    et al., 1978; Kelly et al., 1978; Hunt et al., 2008, 2010); (b) 
+    experimental selection via increasing sub-therapeutic dosages 
+    in vivo (Kates et al., 1973; Colglazier et al., 
+    1974a; Egerton et al., 1988; Giordano et al., 1988; Shoop et al., 
+    1990; Rohrer et al., 1994; Ranjan et al., 2002; Coles et al., 
+    2005); (c) in vitro pressurisation and selection 
+    of individuals within a population with an inherent insensitivity 
+    to a compound and use them for in vivo trials 
+    (Maingi et al., 1990; Kaminsky et al., 2008); (d) comparison of 
+    populations pre- and post in vitro anthelmintic 
+    exposure (Laing, 2010; De Graef et al., 2013); (e) introgression of 
+    resistant genes into sensitive populations through the process of 
+    backcrossing individuals (Redman et al., 2012); (f) comparison of 
+    clade V free living model nematode systems to extrapolate 
+    information on parasitic nematodes (Driscoll et al., 1989; 
+    Chehresa, 1996).
+Phenotypic variation in life history traits following selection 
+    for benzimidazole (BZ; Hall et al., 1978, 1981; Kelly et al., 1978; 
+    Maingi et al., 1990; Leignel and Cabaret, 2001) and ivermectin (IV; 
+    Echevarria et al., 1993a, 1993b) resistance has been examined 
+    previously in a number of parasite species. Historically, it was 
+    believed that chemotherapy that impacts on adult parasite life 
+    expectancy would result in one of the two outcomes: either earlier 
+    development to sexual maturity of parasites in order to propagate 
+    prior to treatment, or delayed development to avoid the effects of 
+    treatment (Arneberg et al., 1998; Skorping and Read, 1998). The 
+    finding from the aforementioned selection studies would suggest 
+    that the impact of the development of resistance on phenotypes, as 
+    one might expect, is not so clear cut, and it is influenced by a 
+    number of host related/physiological (e.g. age, size, diet, immune 
+    status, presence of conspecifics and heterospecifics) and 
+    environmental factors (Poulin, 1996).
+The aims of this study were: firstly, to generate T. 
+    circumcincta isolates selected for monepantel resistance 
+    from previously phenotypically characterised parental isolates to 
+    improve our understanding of the development, dissemination and 
+    detection of MPTL resistance and secondly, to assess the extent of 
+    phenotypic changes that occur in selected isolates compared to 
+    parental isolates following selection for resistance to MPTL.
+2. Materials and method
+2.1 Parasite isolates
+Three T. circumcincta (designated MTci2, 
+    MTci5 and MTci7) isolates were used to generate the MPTL resistant 
+    isolates, as outlined in section 2.2 (Table 1). MTci2 is 
+    phenotypically sensitive to all broad spectrum anthelmintics 
+    (unpublished data) whilst MTci5 and MTci7 are phenotypically BZ, 
+    levamisole (LV) and IV resistant (Sargison et al., 2001; Bartley et 
+    al., 2004, 2005). MTci7 also exhibits moxidectin (MX) resistance 
+    (Sargison et al., 2005; Wilson and Sargison, 2007). The isolates 
+    were passaged through parasite naive lambs that were housed under 
+    conditions that precluded contamination with other nematode species 
+    prior to use. During the period of selection, the parental isolates 
+    were independently passaged four times.
+2.2 Monepantel resistance selection process
+Three MPTL resistant T. circumcincta isolates 
+    were artificially selected in vivo from 
+    phenotypically characterised isolates using an adaptation of a 
+    previously outlined methodology (Coles et al., 2005). In brief, 
+    lambs were initially mono-specifically infected with approximately 
+    20,000 infective larvae of MTci2, MTci5 or MTci7. Due to 
+    availability of stocks, the infective larvae used to initiate the 
+    infections were 1, 4 and 11 months old for MTci7, MTci2 and MTci5, 
+    respectively. All subsequent infections were less than 1 month old 
+    when administered. All larvae were assessed visually to ensure they 
+    appeared active. Prior to infection all larvae were stored in 100 
+    ml tapwater in 75 cm2 suspension culture 
+    flasks (Startsedt Ltd, Germany) between 4 and 8 °C. At patency, 
+    lambs were administered monepantel (Zolvix®, Novartis Animal 
+    Heath) at 0.125 mg/kg bodyweight 
+    (BW), 1/20th of the manufacturer’s recommended dose rate. The 
+    lowest dose used was selected because previous work had 
+    demonstrated that even a dose of 1.25 mg/kg BW had been effective 
+    at removing >99% of T. circumcincta 
+    populations (Kaminsky et al., 2009). Eggs from surviving worms were 
+    collected and cultured to generate infective larvae. Lambs with 
+    positive faecal egg counts (FEC) were re-treated at increasing dose 
+    rates of MPTL (e.g. 0.25, 0.5, 0.63, 0.83, 1.25, 1.88 and 2.5 mg/kg 
+    BW) until egg counts dropped. At this point, the larvae obtained 
+    from the highest dosage were either used to re-infect the donor 
+    that had been previously treated or used to infect a new donor. At 
+    patency, the process was repeated using increasing dose rates until 
+    a fully resistant isolate, i.e. able to survive a full therapeutic 
+    dose rate (2.5 mg/kg BW), was generated. Further information can be 
+    found in the supplementary material file attached.
+2.3 Monepantel efficacy trial design
+The monepantel efficacy trial overall included 10 groups 
+    including parent (without anthelmintic treatment) and selected 
+    (with and without monepantel administration on day 28, i.e. -CON 
+    and -MPTL) isolates. Five lambs were randomly allocated to each of 
+    the 10 groups: MTci2, MTci5, MTci7, MTci7-MPTL, MTci2-11-CON, 
+    MTci5-13-CON, MTci7-12-CON, MTci2-11-MTPL, MTci5-13-MTPL, 
+    MTci7-12-MTPL (Table 1). The group MTci7-MPTL is a treatment 
+    validation group, included for those infected with the parental 
+    isolate MTci7, to confirm that MPTL was effective at removing adult 
+    populations in the original parental isolate. On day 0, Suffolk 
+    greyface wormfree crossbred lambs of 5 to 9 months were challenged 
+    per os with 7000 infective larvae from one of 
+    the three parental isolates (MTci2, MTci5 or MTci7) or three 
+    monepantel selected isolates (MTci2-11, MTci5-13 or MTci7-12) 
+    according to the constituent of group. Faecal egg counts were 
+    conducted on the lambs prior to the start of the trial to confirm 
+    their worm-free status, and on the day of treatment (day 28) to 
+    allow the formation of groups within which all lambs have similar 
+    egg counts. Further FECs were conducted throughout the trial to 
+    assess time to patency and magnitude of egg output (details in 
+    section 2.3.1). On day 28 post-infection, the lambs were weighed 
+    and dosed orally by syringe at the manufacturer’s recommended dose 
+    rate with either Zolvix® (2.5 mg/kg BW; -MPTL) or left untreated to 
+    act as controls (-CON). All anthelmintic administrations were 
+    rounded up to the nearest 0.2 ml (dosage range 2.5–2.7 mg/kg BW). 
+    All of the animals were necropsied seven days post-treatment; the 
+    methods used to euthanase the animals, remove and process their 
+    organs for worm burden recovery were as described by Patterson et 
+    al. (1996). The total worm burdens were estimated from 2% 
+    sub-samples of the abomasal washings and saline digests. Recovered 
+    worms were sexed and staged (MAFF, 1986). Due to animal, material 
+    and time constraints the above trials were conducted at two 
+    separate time points. The controlled efficacy test (CET) using 
+    MTci7 and its selected isolate (MTci7-12) was investigated in one 
+    trial whilst MTci2, MTci5, MTci2-11 and MTci5-13 were investigated 
+    in a second trial. All experimental procedures described here were 
+    approved by the Moredun Research Institute Experiments and Ethics 
+    Committee and were conducted under the legislation of a UK Home 
+    Office License (reference PPL 60/03899) in accordance with the 
+    Animals (Scientific Procedures) Act of 1986.
+Table 1 
+    Teladorsagia circumcincta isolate designations 
+    pre- (parent) and post-selection for monepantel resistance.
+2.3.1 Faecal egg count
+Faecal samples were taken per rectum from 
+    each lamb prior to infection to confirm that they were negative for 
+    nematode eggs: from day 8 post infection (PI) egg counts, eggs per 
+    gram (EPG), were performed three times a week to assess pre-patency 
+    of the isolates, on day 27 PI prior to the anthelmintic treatment 
+    (day 28), and then daily until necropsy seven days later. Faecal 
+    egg counts were conducted throughout the trials using a 
+    modification of a salt flotation method with a sensitivity of up to 
+    one egg per gram (Christie and Jackson, 1982), allowing the 
+    evaluation of the effectiveness of the anthelmintic on faecal egg 
+    count reduction.
+2.3.2 Eggs in utero and worm body lengths
+Twenty individual adult worms (20 male and 20 female worms where 
+    available) were randomly selected from each lamb within a group, 
+    mounted in a drop of lactophenol (GCC Diagnostics) on a microscope 
+    slide and assessed for fecundity. The numbers of eggs in 
+    utero in female worms were enumerated at magnification 
+    (×40) on a compound microscope. Images were captured (Nikon D70) of 
+    each individual for length determination; where multiple images 
+    were captured, the images were compiled to form a single composite 
+    image using an image editing program (Adobe Photoshop Elements 
+    4.0).Worm lengths were estimated using image processing software 
+    (ImageJ 1.46r).
+2.4 Statistical analysis
+The main effects to be investigated were: comparisons between 
+    groups corresponding to the parental isolates (MTci2, MTci5, 
+    MTci7), comparisons between groups corresponding to the parent and 
+    selected isolates (versus MTci2-11-CON, MTci5-13-CON, 
+    MTci7-12-CON), and finally, comparisons between groups 
+    corresponding to the selected isolates without treatment (-CON) and 
+    with treatment (-MPTL) (versus MTci2-11-MTPL, MTci5-13-MTPL, 
+    MTci7-12-MTPL).
+2.4.1 Parasite establishment and worm burden
+The data on each stage of worm burden (juvenile, male, female 
+    and total) in individual lamb were investigated by fitting a 
+    generalised linear mixed model (GLMM) to the counts using a 
+    logarithmic link function and assuming the Poisson distribution. 
+    Estimates of establishment rate (the proportion of juvenile and 
+    adult worms recovered from the initial challenge dose i.e. 7000) 
+    and development rate (the proportion of adult worms out of total 
+    worms established) were obtained for each group by fitting a GLMMs 
+    using a logit link function and assuming the binomial distribution. 
+    All models included group as a fixed effect, and lamb (the level of 
+    each observation) as a random effect to allow for 
+    over-dispersion.
+2.4.2 Treatment efficacy
+The percentage efficacy of the treatment for each selected 
+    isolate was calculated using the equation: (1-(T/C)) × 100, where C 
+    and T are the arithmetic mean total worm burdens or faecal egg 
+    counts at 35 days PI of the control (-CON) and treated (-MPTL) 
+    groups, respectively (Coles et al., 1992). According to Coles et 
+    al. (1992), anthelmintic resistance was deemed to be present when 
+    the mean percentage efficacy at reducing faecal egg output or worm 
+    burden was less than 95%.
+2.4.3 Adult worm body length
+The data on length of male and female worms were each analysed 
+    using a linear mixed model (LMM). The model included group as a 
+    fixed effect and lamb as a random effect.
+2.4.4 Per capita fecundity
+The worm egg counts in utero were analysed 
+    using a GLMM with a logarithmic link function and assuming the 
+    Poisson distribution. The model incorporated the group as a fixed 
+    effect and lamb as a random effect, and worm as a random effect to 
+    allow for overdispersion. Two separate GLMMs were investigated, 
+    with and without an offset variable of the logarithm of the female 
+    worm length. An additional GLMM was also fitted to estimate the 
+    effect of logarithm of the female worm length on the egg counts.
+2.4.5 Time to patency
+The data on time to patency for each animal were calculated as 
+    the time when the faecal egg count is greater than or equal to 25 
+    eggs per gram. This was analysed using a linear model (LM). The 
+    model included the isolate, combining the two groups for each 
+    selected isolate (-CON and -MPTL), as a fixed effect, because days 
+    to patency are before the treatment day (i.e. day 28).

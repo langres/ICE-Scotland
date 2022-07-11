@@ -1,14 +1,151 @@
-1 . Introduction 
-Delirium is a common neuropsychiatric condition affecting 20–30 % of elderly patients across most hospital settings [ 1 ] . In acute stroke , the incidence of delirium reported by individual studies ranges from 10 % [ 2 ] to 48 % [ 3 ] , and meta analyses recently performed placed the incidence around 26%–28% [ 4 , 5 ] . Delirium is associated with increased mortality , morbidity , and length of hospital stay [ 5–8 ] , and it has been strongly associated with development of cognitive impairment in the long term in the general medical setting [ 9 , 10 ] . In acute stroke , recent studies have clearly demonstrated that patients who develop delirium are more likely to die within 12 months , have poorer functional outcomes , and are at higher risk of developing dementia [ 4 , 5 , 11 , 12 ] . There are calls in the literature for clinicians to place an emphasis on early identification of delirium in stroke patients , using a tool validated specifically for this population , as early intervention may minimise the aforementioned unfavourable outcomes [ 5 , 13 , 14 ] . The most recent guidance published in the United Kingdom ( UK ) by both the National Institute for Health and Clinical Excellence ( NICE ) and the Royal College of Physicians ( RCP ) do not mention delirium as a specific complication of stroke [ 15 , 16 ] ; however , both refer to cognitive impairment and inattention . The word " confusion " is mentioned in the Scottish Intercollegiate Guidelines Network document " Management of Patients with Stroke " ( SIGN 118 ) , but there is no specific guidance about how to screen for or manage this " confusion " [ 17 ] . Clinical guidelines from other English speaking countries were examined for comparison : Australian guidelines [ 18 ] do not mention delirium in stroke patients ; American Heart Association ( AHA ) guidelines mention delirium in the context of screening for psychiatric sequelae to stroke in the end of life care [ 19 ] ; Canadian guidelines were the most detailed , and they contained a clear message about the importance of delirium as a complication in acute stroke . This was discussed in relation to screening for cognitive impairment or a change in cognitive function , and there is a clear call to screen patients at risk , using a validated screening tool [ 20 ] . Screening for delirium in other clinical settings is considered important across several countries . Clinical guidelines published in the UK [ 7 ] , United States of America [ 21 ] , Australia [ 22 ] , and Canada [ 23 ] all guide clinicians to screen for delirium in services which are known to have a high prevalence of the condition . This is in order to ensure that delirium is not missed or misdiagnosed and thus to decrease the length of hospital stay and the unfavourable outcomes and ultimately generate cost savings for the organization [ 7 , 23 ] . As for the method of diagnosis , the UK and Canadian documents specifically recommend the use of the Confusion Assessment Method ( CAM ) [ 24 ] as the diagnostic tool of choice . 
-2 . Description of Screening / Diagnostic Tools 
-Our systematic review [ 4 ] identified a number of tools commonly mentioned in the literature ; however , the most frequently cited are the Delirium Rating Scale ( DRS ) [ 25 ] and the CAM [ 24 ] , both of which are based on the American Psychiatric Association diagnostic and statistical manual ( DSM ) criteria and designed to identify delirium across a variety of medical settings . The DRS was designed to be used by medical staff with specific training [ 25 ] . It comprises of 10 items , the highest possible score is 32 , with a cut-off score of ten indicating the presence of delirium , thus it is a useful tool to rate the severity of delirium [ 13 ] . The CAM comprised four features ( acute onset , fluctuating course , and inattention with either disorganised thinking or altered level of consciousness ) ; it was originally developed for use by any health professional , and it has high sensitivity , specificity , and reliability and is easy to administer [ 24 ] . Other tools mentioned in the literature are the mini mental state examination ( MMSE ) [ 26 ] : it is a screening test for cognitive impairment and not specifically designed for the detection of delirium [ 27 ] ; nonetheless , it seems to be used in some studies as a means of identifying delirium in a stroke patient [ 4 ] . Levkoff et al. [ 27 ] provide a useful review of instruments available for the detection of delirium in hospital patients . 
-In summary , a variety of screening and diagnostic tools for the detection of delirium exist ; screening for delirium is important in a variety of settings , but there is no clear guidance about how , when , and how often to screen patients for delirium after stroke . Although studies of delirium in acute stroke describe how delirium is identified [ 4 ] , it is unclear what happens in clinical practice ; namely , how delirium is identified and diagnosed and by whom . The literature from the general medical / geriatric settings gives an indication that , in practice , delirium is under-recognised , and staff do not routinely use screening tools in daily practice [ 28 , 29 ] . 
-The aims of this web-based survey were to investigate the use of delirium screening and diagnostic tools in patients with acute stroke . We sought to identify whether and if so , how doctors and nurses across Scotland screen for and diagnose delirium in acute stroke . 
-The survey explored the following questions : ( i ) Is delirium screened for in routine clinical practice ? ( ii ) How often does screening for delirium in acute stroke take place and what is the method of screening and or diagnosis in clinical practice ? ( iii ) Who is most likely to identify delirium in acute stroke ? ( iv ) Which delirium identification tools ( if any ) are used ? ( v ) What are clinicians ' views about the suitability of screening tools as they are used within acute stroke care ? 
-3 . Method 
-3.1 Survey Questionnaire 
-The Bristol Online Survey Tool was used to set up , collect , and subsequently analyse the survey data . This tool is widely used by universities and other public bodies in the UK [ 30 ] . Web surveys are inexpensive ; they increase the ease of administration for the research team and allow data to be analysed as soon as it is logged on the online survey tool [ 31 ] . Web-based surveys yield the same findings as paper surveys in terms of content [ 32 , 33 ] although online surveys may yield a slightly lower response rate [ 34 ] . We attempted to maximise response by keeping the length of the survey as short as possible , maintaining a clear structure , and using clear language [ 34 ] . A scrolling design ( rather than the questions set over several webpages ) was chosen to maximise ease of use and minimise potential technical difficulties . This design is reputed to increase response rate as it reduces the time taken to complete the survey [ 35 ] . Survey questions were constructed based on published guidance on effective question writing [ 36 ] and effective design for web-based response options such as minimising " drop down boxes " as they are burdensome to respondents [ 37 ] . Following questionnaire development , the survey tool was distributed to three clinicians : a stroke physician , a stroke nurse specialist , and a psychiatrist . This process was used to check for language , structure , and sequence of the questions presented [ 38 ] , but no data were collected during this process . Two minor difficulties related to the ambiguity of questions were identified and rectified prior to the survey being distributed among stroke clinicians practising throughout Scotland . 
-3.2 Sample and Recruitment 
-The survey was distributed to 217 clinicians ( doctors and nurses ) working in the acute stroke setting in Scotland by the administrators of the British Association of Stroke Physicians ( BASP ) and the Scottish Stroke Research Network ( SSRN ) , and the first author contacted all ( n = 114 ) members of the Scottish Stroke Nurses Forum ( SSNF ) directly . The first author cross checked the complete distribution lists of SSRN and SSNF and removed duplicate names and email addresses . The BASP database was not shared with the first author ; therefore , it was not possible to check for duplicates with other databases , and we were informed by the administrator that the approximate number of BASP members in Scotland is 60 . The initial invitations were sent by email in July 2012 . Two further email reminders were sent two weeks apart , in August 2012 . In order to be able to calculate response rate as accurately as possible , respondents were asked not to disseminate the email invitation among their colleagues . 
-3.3 Data Analysis 
-Descriptive statistics were used to report nominal data . Free text comments were analysed by the first author using qualitative content analysis methodology : the first author read and reread the words used in the responses and then classified them into small sets of categories or codes of shared meaning . The codes were counted to determine how frequently they appear within the text responses and patterns relating to the key themes emerged [ 39–41 ] . Data regarding size of stroke unit and number of stroke beds of all hospitals across Scotland were obtained via Information Service Division Scotland [ 42 ] ; these are presented in Table 1 to categorise respondent characteristics . 
+1. Introduction
+Delirium is a common neuropsychiatric condition affecting 20–30% 
+    of elderly patients across most hospital settings [1]. In acute 
+    stroke, the incidence of delirium reported by individual studies 
+    ranges from 10% [2] to 48% [3], and meta analyses recently 
+    performed placed the incidence around 26%–28% [4, 5]. Delirium is 
+    associated with increased mortality, morbidity, and length of 
+    hospital stay [5–8], and it has been strongly associated with 
+    development of cognitive impairment in the long term in the general 
+    medical setting [9, 10]. In acute stroke, recent studies have 
+    clearly demonstrated that patients who develop delirium are more 
+    likely to die within 12 months, have poorer functional outcomes, 
+    and are at higher risk of developing dementia [4, 5, 11, 12]. There 
+    are calls in the literature for clinicians to place an emphasis on 
+    early identification of delirium in stroke patients, using a tool 
+    validated specifically for this population, as early intervention 
+    may minimise the aforementioned unfavourable outcomes [5, 13, 14]. 
+    The most recent guidance published in the United Kingdom (UK) by 
+    both the National Institute for Health and Clinical Excellence 
+    (NICE) and the Royal College of Physicians (RCP) do not mention 
+    delirium as a specific complication of stroke [15, 16]; however, 
+    both refer to cognitive impairment and inattention. The word 
+    “confusion” is mentioned in the Scottish Intercollegiate Guidelines 
+    Network document “Management of Patients with Stroke” (SIGN 118), 
+    but there is no specific guidance about how to screen for or manage 
+    this “confusion” [17]. Clinical guidelines from other English 
+    speaking countries were examined for comparison: Australian 
+    guidelines [18] do not mention delirium in stroke patients; 
+    American Heart Association (AHA) guidelines mention delirium in the 
+    context of screening for psychiatric sequelae to stroke in the end 
+    of life care [19]; Canadian guidelines were the most detailed, and 
+    they contained a clear message about the importance of delirium as 
+    a complication in acute stroke. This was discussed in relation to 
+    screening for cognitive impairment or a change in cognitive 
+    function, and there is a clear call to screen patients at risk, 
+    using a validated screening tool [20]. Screening for delirium in 
+    other clinical settings is considered important across several 
+    countries. Clinical guidelines published in the UK [7], United 
+    States of America [21], Australia [22], and Canada [23] all guide 
+    clinicians to screen for delirium in services which are known to 
+    have a high prevalence of the condition. This is in order to ensure 
+    that delirium is not missed or misdiagnosed and thus to decrease 
+    the length of hospital stay and the unfavourable outcomes and 
+    ultimately generate cost savings for the organization [7, 23]. As 
+    for the method of diagnosis, the UK and Canadian documents 
+    specifically recommend the use of the Confusion Assessment Method 
+    (CAM) [24] as the diagnostic tool of choice.
+2. Description of Screening/Diagnostic Tools
+Our systematic review [4] identified a number of tools commonly 
+    mentioned in the literature; however, the most frequently cited are 
+    the Delirium Rating Scale (DRS) [25] and the CAM [24], both of 
+    which are based on the American Psychiatric Association diagnostic 
+    and statistical manual (DSM) criteria and designed to identify 
+    delirium across a variety of medical settings. The DRS was designed 
+    to be used by medical staff with specific training [25]. It 
+    comprises of 10 items, the highest possible score is 32, with a 
+    cut-off score of ten indicating the presence of delirium, thus it 
+    is a useful tool to rate the severity of delirium [13]. The CAM 
+    comprised four features (acute onset, fluctuating course, and 
+    inattention with either disorganised thinking or altered level of 
+    consciousness); it was originally developed for use by any health 
+    professional, and it has high sensitivity, specificity, and 
+    reliability and is easy to administer [24]. Other tools mentioned 
+    in the literature are the mini mental state examination (MMSE) 
+    [26]: it is a screening test for cognitive impairment and not 
+    specifically designed for the detection of delirium [27]; 
+    nonetheless, it seems to be used in some studies as a means of 
+    identifying delirium in a stroke patient [4]. Levkoff et al. [27] 
+    provide a useful review of instruments available for the detection 
+    of delirium in hospital patients.
+In summary, a variety of screening and diagnostic tools for the 
+    detection of delirium exist; screening for delirium is important in 
+    a variety of settings, but there is no clear guidance about how, 
+    when, and how often to screen patients for delirium after stroke. 
+    Although studies of delirium in acute stroke describe how delirium 
+    is identified [4], it is unclear what happens in clinical practice; 
+    namely, how delirium is identified and diagnosed and by whom. The 
+    literature from the general medical/geriatric settings gives an 
+    indication that, in practice, delirium is under-recognised, and 
+    staff do not routinely use screening tools in daily practice [28, 
+    29].
+The aims of this web-based survey were to investigate the use of 
+    delirium screening and diagnostic tools in patients with acute 
+    stroke. We sought to identify whether and if so, how doctors and 
+    nurses across Scotland screen for and diagnose delirium in acute 
+    stroke.
+The survey explored the following questions: (i) Is delirium 
+    screened for in routine clinical practice? (ii) How often does 
+    screening for delirium in acute stroke take place and what is the 
+    method of screening and or diagnosis in clinical practice? (iii) 
+    Who is most likely to identify delirium in acute stroke? (iv) Which 
+    delirium identification tools (if any) are used? (v) What are 
+    clinicians’ views about the suitability of screening tools as they 
+    are used within acute stroke care?
+3. Method
+3.1 Survey Questionnaire
+The Bristol Online Survey Tool was used to set up, collect, and 
+    subsequently analyse the survey data. This tool is widely used by 
+    universities and other public bodies in the UK [30]. Web surveys 
+    are inexpensive; they increase the ease of administration for the 
+    research team and allow data to be analysed as soon as it is logged 
+    on the online survey tool [31]. Web-based surveys yield the same 
+    findings as paper surveys in terms of content [32, 33] although 
+    online surveys may yield a slightly lower response rate [34]. We 
+    attempted to maximise response by keeping the length of the survey 
+    as short as possible, maintaining a clear structure, and using 
+    clear language [34]. A scrolling design (rather than the questions 
+    set over several webpages) was chosen to maximise ease of use and 
+    minimise potential technical difficulties. This design is reputed 
+    to increase response rate as it reduces the time taken to complete 
+    the survey [35]. Survey questions were constructed based on 
+    published guidance on effective question writing [36] and effective 
+    design for web-based response options such as minimising “drop down 
+    boxes” as they are burdensome to respondents [37]. Following 
+    questionnaire development, the survey tool was distributed to three 
+    clinicians: a stroke physician, a stroke nurse specialist, and a 
+    psychiatrist. This process was used to check for language, 
+    structure, and sequence of the questions presented [38], but no 
+    data were collected during this process. Two minor difficulties 
+    related to the ambiguity of questions were identified and rectified 
+    prior to the survey being distributed among stroke clinicians 
+    practising throughout Scotland.
+3.2 Sample and Recruitment
+The survey was distributed to 217 clinicians (doctors and 
+    nurses) working in the acute stroke setting in Scotland by the 
+    administrators of the British Association of Stroke Physicians 
+    (BASP) and the Scottish Stroke Research Network (SSRN), and the 
+    first author contacted all (n = 114) members of 
+    the Scottish Stroke Nurses Forum (SSNF) directly. The first author 
+    cross checked the complete distribution lists of SSRN and SSNF and 
+    removed duplicate names and email addresses. The BASP database was 
+    not shared with the first author; therefore, it was not possible to 
+    check for duplicates with other databases, and we were informed by 
+    the administrator that the approximate number of BASP members in 
+    Scotland is 60. The initial invitations were sent by email in July 
+    2012. Two further email reminders were sent two weeks apart, in 
+    August 2012. In order to be able to calculate response rate as 
+    accurately as possible, respondents were asked not to disseminate 
+    the email invitation among their colleagues.
+3.3 Data Analysis
+Descriptive statistics were used to report nominal data. Free 
+    text comments were analysed by the first author using qualitative 
+    content analysis methodology: the first author read and reread the 
+    words used in the responses and then classified them into small 
+    sets of categories or codes of shared meaning. The codes were 
+    counted to determine how frequently they appear within the text 
+    responses and patterns relating to the key themes emerged [39–41]. 
+    Data regarding size of stroke unit and number of stroke beds of all 
+    hospitals across Scotland were obtained via Information Service 
+    Division Scotland [42]; these are presented in Table 1 to 
+    categorise respondent characteristics.

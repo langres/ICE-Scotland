@@ -1,0 +1,86 @@
+Rise of the robots is bringing huge benefits to 
+    farming
+ 
+FARMING is embracing a technological revolution that involves 
+    the likes of computers, global positioning systems (GPS), unmanned 
+    drones, driverless tractors, and robots and much more.
+The industry is on the brink of enjoying major developments in 
+    robots that could take the hard work and drudgery out of harvesting 
+    fruit and vegetables by hand.
+There are two critical factors that separate a robot from a 
+    machine - the capacity to be autonomous or to act with some degree 
+    of decision, and presence of actuators, which allow a machine to 
+    alter its environments. This precludes computers and fridges from 
+    being called robots.
+Researchers are using their knowledge of soft robotics to create 
+    deformable manipulators, or "hands", that can manipulate 
+    "fragile" produce, such as broccoli, strawberries and 
+    mushrooms. Currently, UK researchers are working on a harvesting 
+    robot that can handle and cut iceberg lettuces with the same 
+    handling care as human harvesters. 
+The technology has the potential to be deployed at any time of 
+    day and impact positively on the productivity and life quality of 
+    agricultural workers.
+Researchers now envisage robots that could perform multiple 
+    tasks. For example, inter-changeable tools would allow switching 
+    between tasks such as seeding, tillage, spraying and harvesting.
+You could also have robots for agriculture and food production 
+    that would perform other useful tasks at the same time such as 
+    surveillance, keeping a watchful eye on crops, livestock and 
+    expensive farm machinery, while carrying out their primary duties 
+    on the farm or in the factory.
+Satellite imaging is used a lot in agriculture nowadays. A 
+    drawback with that technology is that the images aren't as 
+    good when there is cloud cover, but low-flying drones can 
+    consistently produce high resolution pictures of crops and their 
+    condition.
+Different sensors - visible light, infra-red and thermal - are 
+    being used to identify different features of crops.Researchers have 
+    created a database that, for example, recognise weed types, the 
+    presence of disease, plant stress levels, crop damage, and crop 
+    yield potential.
+Identifying weeds, their density and precise location within a 
+    field could, with a GPS-programmed sprayer, result in localised 
+    spraying and a big saving in chemical costs. Similarly, by 
+    identifying chlorophyll content in the crop plants the technique 
+    could be used for variable rate nitrogen fertiliser application.
+"EyeSpot", a research project part-funded by AHDB 
+    Horticulture, is driving innovation in weed control and aims to 
+    reduce herbicide inputs for field vegetables by up to 95 per 
+    cent.
+A team of experts at University of Reading are developing the 
+    use of a cutting-edge automated spot herbicide ejector, which will 
+    "point and shoot" metered droplets to individual leaves 
+    of unwanted plants in row crops.
+The ejector will use an innovative imaging system to distinguish 
+    weeds in field vegetable crops and will evaluate the dose of 
+    droplets required to kill weeds at different growth stages. 
+    Herbicide droplets will then be accurately targeted to the leaves 
+    of the unwanted plants. The concept is "no herbicide 
+    applied to the crop; none to the soil; only to the 
+    weeds".
+The project has been developed in response to concerns about the 
+    loss of herbicides through legislation and pressure to target 
+    pesticides better and in lower doses. The technology will precisely 
+    apply herbicide only to the weeds in such a way as to eliminate 
+    drift and splatter, while minimising the likelihood of run-off to 
+    soil and non-target organisms, including the crop. By applying 
+    droplets of a systemic, non-selective herbicide to individual 
+    leaves, it represents a paradigm shift in weed technology, 
+    achieving selective weed control by engineering rather than 
+    chemistry.
+An automated vision-guided droplet application system should be 
+    ready for preliminary trials in 2018.
+Livestock farmers are also using advanced technologies and 
+    robots. More and more dairy cows are being milked by stationary 
+    "robots". After some initial training, cows learn to 
+    stand over the robotic milking machine. They are encouraged to do 
+    so by the prospect of having their udders relieved of milk as well 
+    as a measured portion of tasty, concentrated feed being offered to 
+    them from an automated dispenser.
+Once in place, the robot uses electronic sensors to locate the 
+    cow's teats, attach the cluster and then milk the cow. 
+    Meanwhile, a computer recognises the cow by means of an electronic 
+    transponder fixed to her neck, records the amount of milk she gives 
+    and dispenses an amount of feed appropriate to her yield. It also 
+    knows not to feed a greedy cow that has come forward too often.

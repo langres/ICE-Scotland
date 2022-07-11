@@ -1,0 +1,245 @@
+Introduction
+There is a growing interest in the use of mobile technologies in 
+    the educational sector, evidenced by both research and uptake in 
+    the use of tablets and mobile phones in K-12 and Higher Education 
+    (Groupe Spéciale Mobile Association (GSMA) 2012;Wu et 
+    al. 2012). The recent New Media Consortium (NMC) Horizon 
+    Report (Johnson et al. 2013) identified that the 
+    adoption of tablet computing in higher education would occur within 
+    a year or less, signifying that adoption is actually already 
+    established in some areas.
+Key opportunities in mobile learning include: encourage anytime, 
+    anywhere learning; reach underserved children; improve 21st century 
+    social interactions; fit with learning environments; and enable a 
+    personalized learning experience (Shuler 2009, p. 6). In their 
+    toolkit for adopting mobile learning, Joint Information Systems 
+    Committee (JISC) (2011) provided some tangible benefits associated 
+    with the use of mobile technologies. Most of these are examples on 
+    Shuler’s list but also add the promotion of active learning, 
+    enablement of new learning environments, and accessibility, to the 
+    list of tangible benefits when using mobile technologies.
+Recently, the University of Hull was commissioned by the 
+    Scottish government to research the affordability and effectiveness 
+    of iPads in education (Burden et al. 2012). The 
+    study found that the use of tablet devices such as the iPad 
+    facilitates the achievement of many of the core elements required 
+    within the Curriculum for Excellence framework. It also noted that 
+    the adoption of mobile technologies comes with many attendant 
+    benefits for learning, which include motivation, engagement, 
+    parental involvement, and understanding of complex ideas. 
+    Furthermore, the study having tried several setups for implementing 
+    the use of the iPad, found that the personal ownership of the 
+    device is the single most important factor for successful use 
+    (Burden et al. 2012, p. 9). Although this report 
+    is encouraging, it flags up the issue of cost of implementation in 
+    Further Education, with more students, and many more simultaneous 
+    classes.
+This pilot study aims to investigate the benefits as well as the 
+    potential issues in implementing the use of mobile devices as 
+    shared devices, and aims to answer the following questions:
+(1) What are the benefits linked to the use of tablet devices in 
+    the classroom?
+(2) What are the potential issues linked to tablet use?
+Literature review
+The rate of adoption of mobile devices in Further Education 
+    compared to K-12 has been at a slower pace and smaller in scale 
+    (Wishart and Green 2010). A search of education index databases 
+    using the search term ‘mobile learning’ in Further Education and 
+    its counterparts produced only a handful of results in comparison 
+    to a search of mobile learning in K-12 and higher education. Whilst 
+    dissemination of mobile learning in Further Education has been 
+    limited in peer-reviewed journals, m-learning in Further Education 
+    has attracted attention via a proliferation of case studies and 
+    good practice on the Internet.
+Amongst the attributed benefits of mobile learning in Further 
+    Education were the improvement of communication channels, updating 
+    students about course materials via SMS (Derwen College 2008) and 
+    other forms of alerts and updates through mobile devices. This 
+    process has proven to be useful in engaging students and has 
+    improved learner welfare and retention (Northampton College 2010; 
+    Yorkshire Coast College 2010).
+On a one tablet per class setup, there are cost benefits 
+    associated with cheaper applications on tablets and cheaper 
+    hardware (Bridgewater College 2013; Clydebank College 2012). Mobile 
+    devices also facilitated location-based assessments (Excellence 
+    Gateway 2008; South Lanarkshire College 2012) allowing assessors to 
+    document student progress using various multimedia. This highlights 
+    not just the digitisation of processes, but also the manner in 
+    which mobile technologies can widen the physical scope of the 
+    classroom environment.
+Location-based learning using mobile devices facilitated 
+    learners to have meaningful language interaction (JISC 2005b) and 
+    explore concepts in authentic environments (Lius 2011; Mobiilisti 
+    2012). In addition, the mobility of these devices allows learners 
+    to engage with their learning materials anytime, anywhere and not 
+    just in the classroom environment (JISC 2005a). Mobile devices have 
+    now evolved from mere communication tools to pocket computers with 
+    their own share of added functionalities and limitations. Patten, 
+    Sanchez, and Tangney (2006) identified seven functions by which a 
+    mobile device would serve educational requirements: administration, 
+    referential, interactive, micro world, data collection, location 
+    aware, and collaborative. The first four items are functions that 
+    can be carried out with traditional fixed-location computers while 
+    the latter three items highlight beneficial features of mobile 
+    devices. Patten’s framework shows that a variety of learning 
+    activities can be carried out with mobile devices.
+Puentedura (2009) introduced the Substitution Augmentation 
+    Modification Redefinition (SAMR) model for technology integration 
+    (see Figure 1). The framework states that technology adoption 
+    ranges from substitution, where the technology acts as a direct 
+    substitute for traditional tools, to that of redefinition, where 
+    the technology allows for the creation of new tasks previously 
+    inconceivable. These two frameworks of mobile use and technology 
+    integration will be used to evaluate the range of activities 
+    carried out in the different subjects during the intervention, 
+    alongside the evaluation of the benefits of using mobile 
+    devices.
+Methodology
+This is an interventionist/action research project that examines 
+    how the use of tablets as a shared device can contribute in a 
+    Further Education learning environment. The authors’ role in the 
+    research was interventionist, in that propositions were identified, 
+    and then practitioners were consulted to invite their collaboration 
+    to help to prove or disprove the propositions. Action research was 
+    then undertaken in various classroom scenarios to observe, gather 
+    data, and evaluate outcomes.
+Project description
+The pilot project was undertaken between November 2012 and May 
+    2013, covering a period of 6 months. Prior to the start of the 
+    pilot project, potential partners were identified. The subject 
+    areas chosen were Hairdressing, the Language School and Social and 
+    Vocational Studies (SVS) to spread the diversity of the pilot 
+    study.
+
+Figure 1. SAMR model of technology integration (Puentedura 
+    2009).
+The SVS department at Perth College works with students with 
+    additional learning support needs, and these can be at the extreme 
+    end of the support scale. They work to ensure that students can 
+    attain and achieve, and progress through the system to obtain 
+    higher level qualifications.
+Contact with lecturers from the three subject areas was 
+    established at the outset. The lecturers involved were briefed 
+    about the nature of the pilot study and were also given 
+    introductory training on how to use the tablets and potential 
+    learning activities. The lecturers were also provided with 
+    individual tablets for the duration of the pilot study to allow 
+    them to explore the various apps available on the market.
+Lecturers decided when and how they would implement the tablets 
+    in their lesson planning, whilst trying not to disrupt the normal 
+    course of activities for the semester. Support from the Learning 
+    Technologies Centre was provided in terms of technical guidance on 
+    the use of the tablets; pedagogical support by providing exemplars 
+    of use; and in the case of one subject area, the development of a 
+    bespoke application. Throughout the pilot study, this partnership 
+    was maintained through immediate feedback on the part of the 
+    lecturers and on-going support on the part of the Learning 
+    Technologies Centre.
+Joint Information Systems Committee Regional Support Centre 
+    (JISC RSC) Scotland were involved in this pilot project, offering 
+    support for the SVS project, which used the Infolio tool created by 
+    JISC Techdis, (York, United Kingdom). This tool is still under 
+    development, and the project offered feedback to JISC about 
+    practical use of the tool, as well as suggestions for its 
+    improvement.
+Participants
+The lecturers were nominated because of their track record in 
+    using innovative technologies in the classroom and their previous 
+    involvement with the Learning Technologies Centre. They also had 
+    ideas for specific uses for the tablets, and were prepared to plan 
+    and prepare for such use. These lecturers then selected the classes 
+    to trial the tablets. A summary of participant numbers during the 
+    pilot study is available in Table 1.
+Equipment
+Three operating systems were considered: Android, Apple and 
+    Windows 8. Windows 8 was attractive from an organisational 
+    viewpoint, because there was a potential for operating via the 
+    College network for security and identification purposes. However, 
+    at that time Win 8 tablets were not generally available and price 
+    was an issue. Android was chosen on the basis of two factors: 
+    price, and the relative ease of native app creation.
+Table 1. Summary of participants per subject area.
+
+A bank of 15 Samsung Galaxy Tab 2 10.1 tablets were purchased 
+    together with a 20-slot charging unit. The devices run on the 
+    Android 4.0 operating system, and have front and back facing 
+    cameras. This purchase was financed by the college.
+Students did not always have 1:1 access to devices. Students in 
+    SVS had a 1:1 ratio during use, but hairdressing and Language 
+    School students had to share devices. Three was the maximum number 
+    of student groups.
+Data collection and analysis
+Data in the form of observation, video recordings, practitioner 
+    interviews, and survey data were gathered throughout the pilot 
+    study. The authors conducted all interviews with practitioners, and 
+    recorded classroom activity for analysis. One camcorder on a tripod 
+    and one portable flip-camera were used to record classroom 
+    activities. Practitioner interviews were conducted throughout the 
+    6-month period; two informal interviews, and one final formal 
+    interview per curricular area. The informal interviews were related 
+    to progress and immediate issues, and the formal interviews were 
+    more evaluative in nature. Student surveys were conducted at the 
+    end of the intervention.
+Results and discussion
+This section outlines the results of the pilot study in terms of 
+    (1) the range of activities the tablets were able to support; (2) 
+    student engagement; and (3) issues encountered.
+A variety of learning activities were carried out using the 
+    tablets as shown in Table 2. Most of these activities were carried 
+    out as group activities with 2-3 members in a group. In the SVS 
+    area, it was possible to provide a one-to-one student tablet 
+    provision, with some activities carried out individually, and later 
+    converged into a group activity.
+The assortment of activities carried out varied greatly, ranging 
+    from referential to collaborative activities. Table 3 shows how 
+    each subject area utilized the tablets
+Table 2. Activities carried out with the tablets.
+
+Table 3. Activities mapped into Patten, Sa´nchez, and Tangney 
+    (2006) functional pedagogical
+framework.
+
+following Patten, Sánchez, and Tangney (2006) functional 
+    pedagogical framework. This shows that tablets can be suitable 
+    alternatives for the standard fixed-location computers. At the same 
+    time, the tablet’s data gathering features, as well as its form 
+    factor, make it suitable for carrying out collaborative learning 
+    activities inside or outside the classroom.
+The activities carried out with the tablets in the various 
+    subject areas are analysed in terms of the SAMR model. The tablet 
+    feature(s) used, the nature of the activity, information on how an 
+    activity is normally carried out without the tablets, and the 
+    mapping of these tablet-based activities to the SAMR model is 
+    available on Table 4.
+From Table 4, it can be seen that some activities carried out 
+    with the tablets offer only minor enhancements, such as the use of 
+    the tablet for word processing, whereby the only measurable 
+    benefit, as the practitioner states, is that it made reading the 
+    student output a lot easier as opposed to a short story written on 
+    paper. In one case, this minor enhancement provided a functional 
+    improvement, namely, the case of using the Socrative App, which 
+    allowed the lecturer to see how many students had made a mistake. 
+    This allowed for instant corrective action or advice. The Socrative 
+    App allows the lecturer to ask questions in the form of a multiple 
+    choice question or a short answer without having to create the 
+    questions in advance. This way, the question can be elsewhere (e.g. 
+    from a textbook, or a totally new, impromptu concept), which is a 
+    valued feature over some traditional classroom response systems.
+Some tasks constituted a transformation of the learning activity 
+    and from Table 4 we can see that these are activities that made use 
+    of the tablet’s multiple features for the same task. This 
+    highlights how the multiple features and functions of the tablets 
+    make them suitable tools to be used in the classroom environment, 
+    making previously unrealistic activities feasible.
+Student engagement and feedback
+The practitioners reported that students enjoyed using the 
+    tablets regardless of which spectrum of the SAMR model this 
+    technology integration fell into. In one instance of using the 
+    LearnEnglish App, the practitioner reported that students spent as 
+    much as 45 minutes exploring the app and trying out the different 
+    exercises before eventually becoming disengaged and looking for 
+    further direction. Whilst the novelty of the device may explain 
+    this enthusiasm in engaging the students, it flags up that altering 
+    the usual course methodologies can come with benefits, such as 
+    improved engagement with the learning activity, and the ability to 
+    carry out tasks they could not have done by traditional methods.

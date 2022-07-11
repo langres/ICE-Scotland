@@ -1,8 +1,25 @@
-Superfast broadband arrives in Forres 
+Superfast broadband arrives in Forres
 
-Super-fast broadband has today ( Wednesday ) arrived in Forres . 
-More than 2,320 homes and businesses in the Moray town now have access to the high-speed technology – and this figure will increase to around 5,450 as Openreach engineers complete the local upgrade in the weeks ahead . 
-The BT investment was welcomed by Councillor John Cowe , chairman of Moray Council 's economic development and infrastructure services committee , who described it as great news for the town . 
-Councillor Cowe said : " Super-fast fibre broadband in Forres offers huge benefits to local residents and businesses and will help our local economy to flourish . Better , faster communications help businesses to grow and stimulate job creation . 
-" The arrival of fibre broadband means local people and firms can do more online at faster speeds and on multiple devices . This is great news for many people in Forres and I look forward to fibre broadband being rolled out across the rest of Moray . " 
-In Scotland , BT is investing around £ 126 million in fibre broadband partnerships with the Scottish Government , Highlands and Islands Enterprise , the Department for Culture , Media and Sport ( Broadband Delivery UK ) , European Regional Development Fund and Scotland 's local authorities . 
+Super-fast broadband has today (Wednesday) arrived in Forres.
+More than 2,320 homes and businesses in the Moray town now have 
+    access to the high-speed technology – and this figure will increase 
+    to around 5,450 as Openreach engineers complete the local upgrade 
+    in the weeks ahead.
+The BT investment was welcomed by Councillor John Cowe, chairman 
+    of Moray Council’s economic development and infrastructure services 
+    committee, who described it as great news for the town.
+Councillor Cowe said: "Super-fast fibre broadband in 
+    Forres offers huge benefits to local residents and businesses and 
+    will help our local economy to flourish. Better, faster 
+    communications help businesses to grow and stimulate job 
+    creation.
+"The arrival of fibre broadband means local people 
+    and firms can do more online at faster speeds and on multiple 
+    devices. This is great news for many people in Forres and I look 
+    forward to fibre broadband being rolled out across the rest of 
+    Moray."
+In Scotland, BT is investing around £126 million in fibre 
+    broadband partnerships with the Scottish Government, Highlands and 
+    Islands Enterprise, the Department for Culture, Media and Sport 
+    (Broadband Delivery UK), European Regional Development Fund and 
+    Scotland’s local authorities.

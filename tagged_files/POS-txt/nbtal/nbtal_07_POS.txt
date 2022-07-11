@@ -1,0 +1,43 @@
+in_II two_MC41 thousand_MC42 and_MC43 twelve_MC44 
+erm_UH Joe_NP1 Wilson_NP1 and_CC I_PPIS1 were_VBDR 
+both_DB2 
+at_II 
+the_AT 
+OER_NP1 Conference_NP1 in_II Cambridge_NP1 which_DDQ was_VBDZ run_VVN jointly_RR with_IW the_AT Open_JJ Courseware_NP1 Consortium_NP1 
+and_CC Sir_NNB John_NP1 Daniel_NP1 was_VBDZ presenting_VVG a_AT1 keynote_NN1 on_II UNESCO_NP1 's_GE government_NN1 OER_NP1 draft_NN1 declaration_NN1 consultation_NN1 
+at_II the_AT time_NNT1 there_EX had_VHD been_VBN no_AT formal_JJ response_NN1 from_II the_AT UK_NP1 
+however_RRQV Westminster_NP1 did_VDD subsequently_RR respond_VVI 
+and_CC that_DD1 was_VBDZ in_II ?_FU part_NN1 due_II21 to_II22 his_APPGE encouragement_NN1 from_II JISC_NP1 and_CC I_PPIS1 think_VV0 David_NP1 Curran_NP1 who_PNQS is_VBZ here_RL today_RT was_VBDZ instrumental_JJ 
+in_II getting_VVG a_AT1 response_NN1 to_II that_DD1 consultation_NN1 
+however_RRQV as_CS31 far_CS32 as_CS33 we_PPIS2 know_VV0 the_AT consultation_NN1 document_NN1 did_VDD n't_XX make_VVI it_PPH1 north_ND1 of_IO the_AT border_NN1 
+and_CC there_EX was_VBDZ no_AT formal_JJ response_NN1 from_II the_AT Scottish_JJ government_NN1 or_CC from_II anyone_PN1 in_II Scotland_NP1 indeed_RR 
+at_II the_AT same_DA time_NNT1 
+Hefce_NP1 funded_VVD erm_UH UK_NP1 OER_NP1 programmes_NN2 which_DDQ would_VM be_VBI run_VVN by_II JISC_NP1 and_CC the_AT Higher_JJR Education_NP1 Academy_NP1 
+who_PNQS 're_VBR making_VVG huge_JJ strides_NN2 in_II releasing_VVG open_JJ e-_FU 
+open_JJ educational_JJ resources_NN2 
+and_CC embedding_VVG open_JJ practice_NN1 in_II institutions_NN2 south_ND1 of_IO the_AT border_NN1 
+now_RT while_CS Scottish_JJ education_NN1 can_VM benefit_VVI from_II the_AT resources_NN2 produced_VVN by_II the_AT UK_NP1 OER_NP1 programmes_NN2 
+institutions_NN2 have_VH0 been_VBN slower_JJR to_TO respond_VVI to_II the_AT cultural_JJ shift_NN1 required_VVN to_TO embed_VVI open_JJ practices_NN2 in_II education_NN1 
+and_CC these_DD2 are_VBR the_AT two_MC factors_NN2 that_DD1 prompted_VVD erm_UH Joe_NP1 to_TO suggest_VVI 
+that_CST it_PPH1 would_VM be_VBI useful_JJ for_IF o-_FU 
+for_IF 
+erm_UH organisations_NN2 such_II21 as_II22 ALTS_NP2 
+Cetus_NP1 and_CC erm_UH the_AT RAC_NP1 
+to_TO work_VVI together_RL 
+to_TO raise_VVI awareness_NN1 of_IO the_AT benefits_NN2 of_IO openness_NN1 in_II education_NN1 
+and_CC support_VVI the_AT development_NN1 of_IO open_JJ education_NN1 policy_NN1 
+and_CC open_JJ policy_NN1 in_RR21 general_RR22 in_II Scotland_NP1 
+we_PPIS2 hope_VV0 that_CST this_DD1 event_NN1 will_VM provide_VVI a_AT1 starting_NN1 point_NN1 to_TO identify_VVI shared_JJ strategic_JJ interests_NN2 
+and_CC start_VVI developing_JJ open_JJ policies_NN2 and_CC practices_NN2 
+that_DD1 will_VM benefit_VVI the_AT Scottish_JJ education_NN1 sector_NN1 as_II a_AT1 whole_NN1 
+hopefully_RR this_DD1 will_VM go_VVI some_DD way_NN1 
+towards_II helping_VVG us_PPIO2 to_TO achieve_VVI the_AT benefits_NN2 identified_VVN by_II the_AT UNESCO_NP1 and_CC accompanying_VVG their_APPGE Paris_NP1 OER_NP1 declaration_NN1 
+UNESCO_NP1 believes_VVZ that_CST universal_JJ acts-_FU 
+access_NN1 to_II high_JJ quality_NN1 education_NN1 
+is_VBZ key_JJ to_II the_AT building_NN1 of_IO peace_NN1 sustainable_JJ social_JJ and_CC economic_JJ development_NN1 
+and_CC intercultural_JJ dialogue_NN1 
+open_JJ educational_JJ resources_NN2 provide_VV0 a_AT1 strategic_JJ opportunity_NN1 
+to_TO improve_VVI the_AT quality_NN1 of_IO education_NN1 
+as_II31 well_II32 as_II33 facilitate_VVI policy_NN1 dialogue_NN1 
+knowledge_NN1 sharing_NN1 
+and_CC capacity_NN1 building_NN1 

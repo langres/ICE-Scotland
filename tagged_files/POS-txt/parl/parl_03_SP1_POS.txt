@@ -1,0 +1,9 @@
+thank_VV0 you_PPY very_RG much_RR 
+I_PPIS1 now_RT call_VV0 Anne_NP1 McTaggert_NP1 to_TO be_VBI followed_VVN by_II Annabel_NP1 Goldie_NP1 
+thank_VV0 you_PPY 
+I_PPIS1 now_RT call_VV0 
+Annabel_NP1 Goldie_NP1 
+to_TO be_VBI followed_VVN by_II Mary_NP1 Fee_NP1 
+thank_VV0 you_PPY very_RG much_RR 
+and_CC finally_RR Mary_NP1 Fee_NP1 
+thank_VV0 you_PPY very_RG much_RR 

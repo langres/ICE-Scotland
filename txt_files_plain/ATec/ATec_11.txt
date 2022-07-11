@@ -1,0 +1,221 @@
+1. Introduction
+Due to its semi-enclosed morphology and shoaling bathymetry, the 
+    North Sea experiences extreme wave conditions, in particular during 
+    winter periods (Woolf et al., 2002). When combined with sea-level 
+    surges such events can lead to damaging inundation of low-lying 
+    coastal regions, due to wave overtopping of sea defences. 
+    Development of a modelling and predictive capability for 
+    high-resolution wave conditions in the North Sea is therefore a 
+    high priority. However, the task is complicated due to interaction 
+    between locally generated waves and incoming swell from outside the 
+    region, and especially due to interactions between waves and tidal 
+    currents.
+Crossing, or bimodal, sea states occur between 5 and 40% of the 
+    time in the North Sea (Guedes Soares, 1984). These are generated 
+    when swell waves propagating into the region from distant storm 
+    events interact with locally generated waves which may be of very 
+    different direction, period, and height. Swell waves from the North 
+    Atlantic and the Norwegian Sea propagate into the North Sea, 
+    interacting with local wind-sea-generated waves, modifying the main 
+    spectral parameters. The interaction between differing wave trains 
+    is not fully understood, but crossing seas have been statistically 
+    associated with freak wave incidence, and shipping accidents 
+    (Waseda et al., 2011; Tamura et al., 2009; Cavaleri et al., 2012; 
+    Onorato et al., 2006, 2010; Sabatino and Serio, 2015; Toffoli et 
+    al., 2011a). The North Sea is particularly prone to rogue wave 
+    events, such as the famous Draupner wave recorded in 1994 (Haver, 
+    2004), the first ever recorded rogue wave event, that occurred in 
+    crossing sea conditions (Adcock et al., 2011). In the paper, the 
+    effect of the enhancement of the wind-sea waves due to swell is 
+    assessed during storms.
+In addition to crossing seas, wave–current interactions are a 
+    well-known cause of wave height amplification or attenuation. 
+    Wave–current interactions (WCIs) are depth- and current-induced 
+    modification of wave features. A seminal study carried out by 
+    Tolman (1991) highlighted that WCIs are significant in the North 
+    Sea, changing the significant wave height 
+    (Hs) and the mean wave 
+    period (Tm) by 5 and 10 
+    %, respectively, during storm periods. However, the model that was 
+    used by Tolman (1991) to assess this effect was at very course 
+    resolution and broad scale. In particular, the effect of the WCI in 
+    the coastal shallow areas was not considered. Phillips (1977) 
+    showed that in the absence of wave breaking, local wave amplitude 
+    is given by
+
+where A is the resulting wave amplitude, 
+    A0 is the unperturbed 
+    amplitude of the wave field, c is the wave phase 
+    speed, and U is the current that interacts with 
+    the wave train. It is important to notice that the sign of the 
+    current is determinant on the effect of the WCI: if the current 
+    travels in opposite direction with the wave train, there will be an 
+    enhancement of the significant wave height. Conversely, if current 
+    and waves are in the same direction, the 
+    Hs decreases. For deep 
+    water waves, the phase speed c depends only on 
+    the period of the wave, while in shallow water c depends only on 
+    the depth. Equation (1) shows that the waves travelling in a 
+    direction opposing the current (U < 0) have a 
+    positive ratio 
+    A=A0 
+    and consequently, an enhancement of the wave amplitude.
+WCIs could also lead to the breaking of the wave: if the current 
+    is strong enough to block the wave train (Ris and Holthuijsen, 
+    1996), these waves can break and lose energy before arriving to the 
+    coastline (Chawla and Kirby, 2002, 1998).
+WCIs are particularly difficult to quantify empirically, and 
+    computationally intensive to model. In addition, the WCIs are a 
+    well-known mechanism for the formation of rogue waves in the ocean: 
+    the Agulhas current, that flows near the coastline of South Africa, 
+    was one of the first places in which this mechanism was identified 
+    (Mallory, 1974; Lavrenov, 1998; Lavrenov and Porubov, 2006). 
+    Recently, many studies (Onorato et al., 2011; Toffoli et al., 2013, 
+    2015; Shrira and Slunyaev, 2014; Ma et al., 2013) highlighted that 
+    the interaction between a train of waves with an adverse current 
+    could increase its wave steepness, and cause rogue waves due to the 
+    modulational instability (Benjamin and Feir, 1967). However, it is 
+    clear that shallow coastal waters, embayments, and headlands are 
+    particular foci for interactions (Hearn et al., 1987; Signell et 
+    al., 1990a). Model studies have concentrated on comparing wave 
+    height and period in coupled and uncoupled model versions showing, 
+    for example, 3% difference in wave height and 20% in wave period in 
+    the Dutch and German coastal waters of the North Sea (Osuna and 
+    Monbaliu, 2004). Similar results have been obtained for coastal 
+    waters of the Adriatic during bora conditions (Benetazzo et al., 
+    2013), finding a maximum reduction for the 
+    Hs of 0.6m in the central 
+    Adriatic and a simultaneous increase up to 0.5m in the gulfs of 
+    Trieste and Venice. WCIs were also studied during hurricane 
+    conditions off the eastern seaboard of the USA (Xie et al., 
+    2008).
+Sea defences of coastal settlements along the northeast coast of 
+    Scotland have suffered several damaging events during the period 
+    2009–2014 as a result of surges and waves. The coastal waters are 
+    dominated by strong tidal currents and wind-driven residuals, are 
+    exposed to wave trains entering the North Sea from the north, and 
+    generated by storm events in the central and southern North Sea. 
+    Although the oceanography of the North Sea as a whole has been 
+    intensively studied since the 1830s (Whewell, 1830; Proudman and 
+    Doodson, 1924; Dietrich, 1950; Huthnance, 1991; Otto et al., 1990), 
+    and the region was one of the earliest to be subjected to 
+    computational hydrodynamic modelling (Flather, 1987; Davies et al., 
+    1985), high-resolution modelling activity has been largely 
+    concentrated in areas with potential for wave and tidal energy 
+    extraction (Adcock et al., 2013; Bryden and Couch, 2006; Baston and 
+    Harris, 2011; Shields et al., 2011, 2009). However, there are no 
+    such models for the northeast coast of mainland Scotland, and none 
+    which include coupled WCIs. Our objective here was to develop and 
+    test such a model for the stretch of coastline between the Firth of 
+    Tay and Peterhead, centred on the strategically important port city 
+    of Aberdeen and the town of Stonehaven (Fig. 1). The latter is the 
+    base for a governmentally supported marine monitoring site with a 
+    > 15-year time series of high-resolution data on a wide range of 
+    environmental parameters (Bresnan et al., 2009).
+2 Materials and methods
+The MIKE by DHI model was used to simulate the tidaland
+wind-driven circulation, and the wave propagation. The MIKE 
+    software is composed of different modules, for the creation of a 
+    model grid and input files and to simulate different hydrodynamical 
+    features at the same time or separately.
+The following modules were used:
+– The MIKE Zero modules for generating the computational grid 
+    and the input files.
+– The MIKE 3 FM module for simulating the tidal and the 
+    wind-driven circulation.
+– The MIKE 21 SW module for modelling the wave propagation.
+For the simulation of the WCIs, a one-way coupling between MIKE 
+    3 FM and MIKE 21 SW was set up. The depth average flow fields and 
+    the water level output from MIKE 3 FM was provided as input to the 
+    MIKE 21 SW model.
+2.1 The computational grid
+Both MIKE 3 FM and MIKE 21 SW use an unstructured grid approach, 
+    with triangular elements (Ferziger and Perić,
+ Figure 1. The area 
+    studied in the present paper.
+ Figure 2. The 
+    computational grid generated with MIKE Zero software.
+2002). Unstructured grids can represent complex coastlines 
+    better than a rectangular grid and potentially provide more 
+    realistic flows, enabling the geography of the coastline to affect 
+    the propagation of tidal and surface waves in a realistic manner. 
+    In addition, triangular grid elements allow smoothly changing cell 
+    sizes across a region, with the highest resolution concentrated in 
+    an area of particular interest. The mesh for the area of study is 
+    shown in Fig. 2. An enhanced-resolution area was created near 
+    Stonehaven, because this work is part of a wider study focusing on 
+    the resuspension of the sediments in this part of the domain. This 
+    high-resolution area also covered the Firth of Forth and the 
+    Aberdeenshire coastline, where previous studies have shown enhanced 
+    currents due to interaction between the tidal wave and the Scottish 
+    coastline (Dietrich, 1950; Otto et al., 1990).
+2.2 The MIKE 3 FM hydrodynamic model
+MIKE 3 FM (flow model) is based on the numerical solution of the 
+    3-D incompressible Reynolds-averaged Navier–Stokes equations, under 
+    the Boussinesq and the hydrostatic pressure approximations (DHI, 
+    2011a). The spatial discretization of the primitive equations is 
+    performed using a cell-centred finite-volume method. In the 
+    finite-volume method the volume integrals in the partial 
+    differential equations with a divergence are converted to surface 
+    integrals using the Gauss– Ostrogradsky theorem (Toro, 2009).
+MIKE 3 FM has a flexible approach for simulating the flow in the 
+    water column. It is possible to choose between sigma layers (Song 
+    and Haidvogel, 1994), z layers, and coupled 
+    sigma and z layers. For our purpose we decided 
+    to use the equidistant sigma layers approach, because the 
+    bathymetry of the area was not sufficiently complex to require a 
+    more accurate description with a coupled sigma and 
+    z layer that would be extremely computationally 
+    expensive. Sigma layers are also useful for resolving the water 
+    column well throughout the tidal cycle, given the large tidal 
+    range.
+The coupled sigma and z layers were tested, 
+    but there was no significant improvement for simulating the flow. 
+    For the horizontal eddy viscosity the formulation proposed by 
+    Smagorinsky (1963) was used, in which the sub-gridscale transport 
+    is expressed by an effective eddy viscosity related to a 
+    characteristic length scale rather than a constant eddy viscosity. 
+    This sub-grid-scale viscosity is given by
+
+where cs is the 
+    Smagorinsky constant, l is the characteristic length of the grid 
+    size, and the deformation rate is given by (Lilly, 1966; Deardorff, 
+    1971; Smagorinsky, 1963)
+
+The bed resistance was parameterized using a constant quadratic 
+    drag coefficient cf . The 
+    average bottom stress is determined by a quadratic friction law:
+
+where  ̄ub is the 
+    average flow velocity above the bottom and p0 is 
+    the density of the water. The value of the above parameters chosen 
+    for the model are reported in Sect. 3.1. The model was forced with 
+    a time series of tidal elevations at the open boundaries from the 
+    open-source OSU (Oregon State University) Tidal Prediction Software 
+    (OTPS) (Egbert et al., 2010), based on TOPEX satellite observation 
+    of the water-level observations interpolated with tide gauge data 
+    from the European shelf region. In order to take account of the 
+    wind-driven circulation and surge in the model, meteorological 
+    forcing was applied across the model domain, using the ERA-Interim 
+    reanalysis for wind velocity and mean sealevel pressure (Dee et 
+    al., 2011).
+2.3 The MIKE 21 SW wave model
+The MIKE 21 SW (spectral wave) is an unstructured grid model for 
+    wave prediction and analysis (DHI, 2011b). The MIKE 21 SW is based 
+    on the wave action conservation equation (Komen et al., 1996; 
+    Young, 1999), where the dependent variable is the 
+    frequency-directional wave action spectrum. This is given by
+
+where S is the energy source term, defined 
+    as
+
+that depends on the energy transfer from the wind to the wave 
+    field Sin, on the 
+    nonlinear wave–wave interaction 
+    Snl, on the dissipation 
+    due to depth-induced wave breaking 
+    Ssurf, on the dissipation 
+    due to bottom friction 
+    Sbot, and on the 
+    dissipation caused by the white-capping 
+    Sds.

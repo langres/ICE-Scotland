@@ -44,7 +44,7 @@ David_NP1 Mundell_NP1 himself_PPX1 observed_VVD
 we_PPIS2 did_VDD not_XX need_VVI a_AT1 referendum_NN1 to_TO know_VVI 
 that_DD1 was_VBDZ one_MC1 union_NN1 doomed_VVN to_II disappointment_NN1 from_II the_AT start_NN1 
 Your_APPGE Majesty_NP1 over_RG nine_MC decades_NNT2 you_PPY have_VH0 witnessed_VVN 
-so_RG much_DAR 
+so_RG much_DA1 
 extraordinary_JJ social_JJ and_CC economic_JJ change_NN1 phenomenal_JJ 
 scientific_JJ and_CC technological_JJ advances_NN2 
 disturbing_JJ and_CC ever-increasing_JJ 

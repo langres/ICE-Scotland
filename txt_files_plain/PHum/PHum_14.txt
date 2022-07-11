@@ -1,0 +1,166 @@
+Open Scotland
+Open Scotland http://openscot.net/ is a cross sector initiative 
+    that aims to raise awareness of open education, encourage the 
+    sharing of open educational resources, and explore the potential of 
+    open policy and practice to benefit all sectors of Scottish 
+    education. The initiative was launched in 2013 and was originally 
+    supported by Cetis, ALT, SQA and the Jisc RSC Scotland. Since 2015, 
+    the University of Edinburgh has provided a home for Open Scotland, 
+    with additional support provided by the ALT Scotland SIG. Open 
+    Scotland maintains a blog which acts as a focal point to engage the 
+    community and disseminate news and developments relating to all 
+    aspects of openness in education in Scotland and further afield. 
+    
+Scottish Open Education Declaration
+Open Scotland also supports the Scottish Open Education 
+    Declaration an open community draft based on the UNESCO OER 
+    Declaration which broadens the scope of the guidelines to encompass 
+    all aspects of open education. The ALT Scotland SIG has contacted 
+    previous Scottish Government education minsters, Mike Russell and 
+    Angela Constance to raise awareness of the Declaration, and in both 
+    instances met with an encouraging but non-committal response. In 
+    May 2016, following a Cabinet reshuffle, John Swinney was appointed 
+    as the new Cabinet Secretary for Education and the ALT Scotland SIG 
+    will bring the Declaration to his attention in the autumn.
+Although the Scottish Open Education Declaration has not yet 
+    gained traction within Scotland it has generated considerable 
+    interest elsewhere in Europe, particularly in Slovenia where the 
+    Slovenian government are exploring the potential of adopting it. 
+    
+Scottish Government
+Although the Scottish Government allocated a substantial amount 
+    of funding to the Open University’s Opening Educational Practices 
+    in Scotland Project in 2014, there have been no further open 
+    education funding initiatives and open education does not appear to 
+    be high on the political agenda. At best, open education is seen as 
+    being somewhat peripheral to Scottish Government priorities, 
+    primarily due to the perceived lack of a statistical evidence base 
+    supporting the impact of open education on learners. 
+Opening Educational Practices in Scotland Project
+The Open University’s OEPS project, which runs from 2014 – 2017, 
+    is funded by the Scottish Funding Council and aims to facilitate 
+    best practice in open education in Scotland. The project undertakes 
+    a wide range of activities include running workshops and events, 
+    providing expert guidance, collating case studies and supporting 
+    open practice communities. The project has been particularly 
+    successful in engaging with third sector organisations including 
+    Scottish Union Learning and Parkinson’s UK. OEPS recently launched 
+    a number of open courses developed in collaboration with partners 
+    including Understanding Parkinson’s with Parkinson’s UK; My Seaweed 
+    Looks Weird, with UHI and the Scottish Association for Marine 
+    Science; and Becoming an Open Educator. 
+Glasgow Caledonian University
+Glasgow Caledonian University became the first university in 
+    Scotland to approve an interim open education resources policy in 
+    2015  . The policy defines what OERs are, explains why GCU supports 
+    their creation, sharing and use, and gives advice on how to cite 
+    third party resources.  GCU Library is now undertaking advocacy 
+    work and providing training to raise awareness of OER and the 
+    policy. The University has also recently established the EdShare 
+    repository to manage teaching and learning resources; 300 resources 
+    have been deposited in the first 6 months of which 40% are open 
+    access. 
+University of Edinburgh
+The University of Edinburgh’s has also approved an OER policy, 
+    which encourages staff and students to make informed decisions 
+    about using, creating and publishing OERs to enhance the quality of 
+    the student experience. This policy is underpinned by an OER vision 
+    which builds on the history of the Edinburgh Settlement, excellent 
+    education and research collections, traditions of the Enlightenment 
+    and the University’s civic mission. The University also has an OER 
+    Service which undertakes a wide range of activities that support 
+    staff and students to engage with OER, and help the institution to 
+    mainstream digital education across the curriculum.
+Rather than implement an OER repository, the University of 
+    Edinburgh releases OERs through a wide range of platforms, 
+    including flickr, TES, YouTube, Sketchfab, Wikimedia Commons and 
+    Media Hopper, the institution’s own media asset management 
+    platform. These resources are then aggregated into the University’s 
+    one stop shop for open education resources, Open.Ed.
+Edinburgh also recently became the first University in Scotland 
+    to employ a dedicated Wikimedian in Residence, as an advocate for 
+    openness the Wikimedian in residence delivers training events and 
+    workshops to further the quantity and quality of open knowledge and 
+    enhance digital literacy through skills training sessions and 
+    editathons, and redress the gender imbalance of contributors by 
+    encouraging more women to engage with Wikimedia and enhance the 
+    coverage of articles about women.
+Edinburgh’s efforts in supporting open education were recognized 
+    earlier this year, when the University was awarded Wikimedia UK’s 
+    Partnership Award for hosting the OER 16 Open Culture Conference, 
+    and the Association for Learning Technology awarded the Open 
+    Education Team third place in the Learning Technologist of the Year 
+    team awards. 
+University of Dundee
+Although Dundee has not yet approved an OER policy, the 
+    University is hoping to progress to one in the future. Dundee are 
+    currently sharing open licensed student developed content through 
+    Vimeo and Flickr channels, including a showcase of OER from Masters 
+    in Medical Art students. The School of Dentistry is also using 
+    Sketchfab to share CC licensed dental models developed by students. 
+    MOOCs
+Many Scottish universities have developed MOOCs which are 
+    running on a number of commercial platforms including FutureLearn, 
+    Coursera and EdX. Although MOOCs are a significant part of the open 
+    education landscape, engaging with MOOCs does not necessarily 
+    equate to engaging with open education. Only two universities that 
+    run MOOCs have developed an OER policy, however anecdotal evidence 
+    suggests that a number of institutions are rethinking their MOOC 
+    production strategies with a view to making the process more open 
+    and sustainable. 
+FE Sector
+The FE sector is still bedding down after the upheaval of 
+    regionalization and mergers. As a result merging institutional 
+    systems and creating shared infrastructure has become a priority, 
+    however engagement with open education is low. The Re:Source OER 
+    repository previously hosted by Jorum has been moved to a new 
+    repository ResourceShare, supported by the College Development 
+    Network. However while the sector is accepting of open educational 
+    practice and OER in theory, colleges tend to be cautious in actual 
+    practice and there is more interest in the walled garden approach 
+    to sharing educational content. The is some interest in the Blended 
+    Learning Consortium led by Heart of Worcestershire College and a 
+    number of Scottish colleges have subscribed to join the closed 
+    consortium. 
+Jisc
+Jisc announced the retirement of the national Jorum OER 
+    repository in 2015 and the service will finally close at the end 
+    ofSeptember 2016. Jorum customers have the option of migrating 
+    copies of their content from the repository and selected resources 
+    are being migrated to the new Jisc App and Resource Store which 
+    will host free and open licensed content alongside paid for 
+    content. It remains to be seen how receptive the sector are to this 
+    approach with some within the open education community cautioning 
+    against the risk of open washing. 
+ALT
+The Association for Learning Technology is playing and 
+    increasingly active role in supporting open education in Scotland. 
+    In addition to supporting the Open Scotland initiative, the ALT 
+    Scotland SIG liaises with the OEPS Project, hosts annual events to 
+    showcase the use of education technology and open education across 
+    sector, brings together policy makers at an annual policy summit 
+    and raises awareness of open education at Scottish Government 
+    level. 
+National Library of Scotland
+The National Library of Scotland launched a new strategy in 2015 
+    and continues to review its open licensing policy with a view to 
+    making more of the library’s collections openly available. All 
+    images up to 1000px, core metadata and OCR scanned resources are 
+    now licensed CC BY, unless the library does not own the copyright, 
+    metadata supplied to Europeana is licensed CC0 and high resolution 
+    images, extended metadata and manually transcribed resources are 
+    licensed CC BY NC SA. In addition, the Library is planning to share 
+    more images through Wikimedia Commons. 
+Summary
+Although there is significant engagement with open education 
+    within individual institutions across Scotland, the Scottish 
+    Government has yet to recognise the value of open education to 
+    expand access to education, widen participation, and support social 
+    inclusion. However 2017 marks the anniversary of two significant 
+    open education initiatives; the tenth anniversary of the Cape Town 
+    Declaration and the fifth anniversary of the UNESCO OER 
+    Declaration. These anniversaries will be marked by significant 
+    global events and it is possible that these can be leveraged to 
+    raise awareness of the value of open education within the Scottish 
+    Government and to drive forward the development of national open 
+    education policy.

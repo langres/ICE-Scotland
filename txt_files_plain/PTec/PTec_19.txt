@@ -1,0 +1,41 @@
+Google launches Android mobile payment system in UK 
+    
+ A Google employee gives a demonstration 
+    of Android Pay on a phone. Picture: AP/Jeff Chiu
+GOOGLE’S Android Pay mobile payment system has 
+    launched in the UK, enabling users to make purchases using a 
+    smartphone.
+The “tap and go” system lets users of Android smartphones - 
+    including those made by HTC, Samsung, Sony and Huawei - store a 
+    digital version of their debit or credit card on their device.
+They pay for items by tapping it against a contactless card 
+    point, including in high street stores and on the London transport 
+    system.
+The system rivals Apple Pay, which was launched by the iPhone 
+    maker in the UK in July last year. 
+Most of the major UK banks have signed up for the Android system 
+    from launch day, so holders of an eligible Visa or MasterCard at 
+    Bank of Scotland, First Direct, Halifax, HSBC, Lloyds Bank, M&S 
+    Bank, MBNA and Nationwide Building Society can now use Android Pay. 
+    Google has confirmed more banks will be added in the future.
+An Android Pay app has been launched to help users set up and 
+    manage their transactions. The payment system can also be used 
+    within certain apps as a form of payment, including Ticketmaster, 
+    Uber and Domino’s Pizza.
+Android Pay enables users to make transactions of up to £30 
+    without unlocking their phone, while payments of more than £30 can 
+    be completed by confirming using a fingerprint or pin entry.
+All transactions are encrypted for additional security, with 
+    specially generated digital tokens used instead of real card 
+    details when a purchase is made, to protect personal 
+    information.
+Pali Bhat, Google’s senior director of product management, said: 
+    “Security is at the centre of Android Pay. With industry standard 
+    tokenisation, Android Pay doesn’t send merchants your real card 
+    number when you purchase. 
+“Android Pay also makes it convenient to keep track of payments 
+    and to lock your device if it becomes lost or stolen.”
+The system will work on any Android smartphone with near-field 
+    communication (NFC) technology built in and at least version 4.4 of 
+    the Android operating system. This means most Android devices 
+    released in the last two years are compatible. 

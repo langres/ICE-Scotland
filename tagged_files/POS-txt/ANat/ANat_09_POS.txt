@@ -40,7 +40,7 @@ The_AT tested_JJ models_NN2 were_VBDR visually_RR inspected_VVN and_CC compared_
 Probability_NN1 of_IO Habitat_NN1 Distribution_NN1 
 The_AT probability_NN1 of_IO occurrence_NN1 values_NN2 (_( 0_MC to_II 1_MC1 )_) estimated_VVN in_II the_AT Maxent_NP1 model_NN1 training_NN1 and_CC projection_NN1 runs_NN2 were_VBDR separated_VVN into_II 10_MC bands_NN2 and_CC the_AT area_NN1 (_( Km_NNU21 2_NNU22 )_) covered_VVN by_II each_DD1 band_NN1 was_VBDZ calculated_VVN ._. 
 The_AT 10_MC probability_NN1 bands_NN2 were_VBDR further_RRR separated_VVN into_II 3_MC categories_NN2 for_IF MPA_NP1 region_NN1 assessment_NN1 :_: 
-i_MC )_) 0.5–1.0_MCMC representing_VVG a_AT1 situation_NN1 where_CS M._NP121 modiolus_NP122 beds_NN2 may_VM be_VBI more_RGR likely_JJ to_TO occur_VVI (_( "_" most_RGT suitable_JJ habitat_NN1 "_" )_) ;_; 
+i_MC1 )_) 0.5–1.0_MCMC representing_VVG a_AT1 situation_NN1 where_CS M._NP121 modiolus_NP122 beds_NN2 may_VM be_VBI more_RGR likely_JJ to_TO occur_VVI (_( "_" most_RGT suitable_JJ habitat_NN1 "_" )_) ;_; 
 ii_MC )_) 0.1–0.49_MCMC representing_VVG a_AT1 situation_NN1 where_CS M._NP121 modiolus_NP122 beds_NN2 are_VBR less_RGR likely_JJ to_TO occur_VVI (_( "_" less_RGR suitable_JJ habitat_NN1 "_" )_) ;_; and_CC 
 iii_MC )_) 0.0–0.09_MCMC representing_VVG a_AT1 situation_NN1 where_CS M._NP121 modiolus_NP122 beds_NN2 are_VBR highly_RR likely_JJ not_XX to_TO occur_VVI (_( "_" unsuitable_JJ "_" )_) ._. 
 In_II this_DD1 study_NN1 ,_, MPA_NP1 Regions_NP2 are_VBR defined_VVN as_II designated_JJ regions_NN2 of_IO search_NN1 for_IF potential_JJ MPAs_NP2 within_II UK_NP1 waters_NN2 (_( 200_MC nm_NNU limit_NN1 )_) ._. 

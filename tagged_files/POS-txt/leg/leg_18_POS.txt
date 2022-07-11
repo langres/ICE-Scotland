@@ -1,0 +1,29 @@
+
+the_AT court_NN1 will_VM issue_VVI parties_NN2 with_IW drafts_NN2 of_IO the_AT opinions_NN2 which_DDQ have_VH0 been_VBN prepared_VVN by_II each_DD1 judge_NN1 
+
+since_CS the_AT hearing_NN1 last_MD week_NNT1 
+
+I_PPIS1 emphasise_VV0 that_CST these_DD2 are_VBR draft_NN1 opinions_NN2 
+
+erm_UH which_DDQ are_VBR being_VBG issued_VVN because_II21 of_II22 the_AT urgency_NN1 of_IO the_AT situation_NN1 
+
+and_CC they_PPHS2 will_VM be_VBI subject_II21 to_II22 typographical_JJ and_CC other_JJ minor_JJ corrections_NN2 
+
+of_IO which_DDQ there_EX are_VBR quite_RG a_AT1 few_DA2 in_II the_AT course_NN1 of_IO the_AT week_NNT1 
+
+each_DD1 opinion_NN1 expresses_VVZ the_AT view_NN1 
+
+that_CST the_AT advice_NN1 given_VVN 
+
+by_II the_AT government_NN1 
+
+to_II her_APPGE Majesty_NP1 the_AT Queen_NP1 
+
+to_II prorogue_VVI parliament_NN1 
+
+from_II ninth_MD September_NPM1 to_II fourteenth_MD October_NPM1 
+
+was_VBDZ unlawful_JJ 
+
+and_CC that_CST therefore_RR the_AT prorogation_NN1 itself_PPX1 is_VBZ unlawful_JJ 
+

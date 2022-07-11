@@ -1,7 +1,30 @@
-Identity project to include areas in Glasgow 
-THE UK 's largest research project on ethnicity and identity in the UK will include studies into two of Glasgow 's most prominent multi-cultural areas as well as Scotland 's " Irish Catholic question " . 
-The Centre on Dynamics of Ethnicity ( CoDE ) , jointly based at Glasgow and Manchester universities , is launched this week , with 13 reports by world renowned academics covering issues such as where minorities live , which languages they speak , how healthy they are and how British they feel . 
-Funded by the Economic and Social Research Council over the next four years , the first published data will focus on the 2011 Census for England and Wales , with the Scottish findings being made public within three months . 
-As well as the census data , the study will focus on how neighbourhoods in London , Manchester , and Cardiff , as well as Pollokshields and Govanhill in Glasgow , have changed since 1945 . 
-Andrew Smith , senior lecturer in sociology at Glasgow University said : " The centre will be producing briefings on the Scottish census data from 2011 , exploring questions of national identity and diversity in Scotland , and will support new research studies investigating the Irish Catholic question , the engagement of minority communities with the forthcoming independence referendum , as well as a detailed case-study of the changing dynamics of ethnicity in the Govanhill and Pollokshields . " 
-He said one finding in the England Wales Census was that ethnic minority groups were more likely to describe themselves as exclusively British compared with the white British population , who are more likely to see themselves as English . 
+Identity project to include areas in Glasgow
+THE UK's largest research project on ethnicity 
+    and identity in the UK will include studies into two of 
+    Glasgow's most prominent multi-cultural areas as well as 
+    Scotland's "Irish Catholic question".
+The Centre on Dynamics of Ethnicity (CoDE), jointly based at 
+    Glasgow and Manchester universities, is launched this week, with 13 
+    reports by world renowned academics covering issues such as where 
+    minorities live, which languages they speak, how healthy they are 
+    and how British they feel.
+Funded by the Economic and Social Research Council over the next 
+    four years, the first published data will focus on the 2011 Census 
+    for England and Wales, with the Scottish findings being made public 
+    within three months.
+As well as the census data, the study will focus on how 
+    neighbourhoods in London, Manchester, and Cardiff, as well as 
+    Pollokshields and Govanhill in Glasgow, have changed since 1945.
+Andrew Smith, senior lecturer in sociology at Glasgow University 
+    said: "The centre will be producing briefings on the 
+    Scottish census data from 2011, exploring questions of national 
+    identity and diversity in Scotland, and will support new research 
+    studies investigating the Irish Catholic question, the engagement 
+    of minority communities with the forthcoming independence 
+    referendum, as well as a detailed case-study of the changing 
+    dynamics of ethnicity in the Govanhill and 
+    Pollokshields."
+He said one finding in the England Wales Census was that ethnic 
+    minority groups were more likely to describe themselves as 
+    exclusively British compared with the white British population, who 
+    are more likely to see themselves as English.

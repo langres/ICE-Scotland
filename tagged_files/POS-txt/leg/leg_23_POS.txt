@@ -1,0 +1,146 @@
+Ms_NNB McBride_NP1 is_VBZ a_AT1 fingerprint_NN1 expert_NN1 
+she_PPHS1 and_CC certain_JJ other_JJ fingerprints_NN2 experts_NN2 
+fingerprint_NN1 experts_NN2 
+who_PNQS worked_VVD for_IF the_AT Scottish_JJ criminal_JJ records_NN2 office_NN1 
+were_VBDR involved_JJ in_II the_AT disputed_JJ identification_NN1 
+of_IO a_AT1 fingerprint_NN1 
+at_II the_AT scem-_FU of_IO a_AT1 crime_NN1 
+at_II the_AT scene_NN1 of_IO a_AT1 crime_NN1 
+as_CSA belonging_VVG to_II Detective_NNB Constable_NNB Shirley_NP1 McKie_NP1 
+this_DD1 resulted_VVD in_II d-_FU 
+Detective_NNB Constable_NNB McKie_NP1 being_VBG prosecuted_VVN for_IF perjury_NN1 
+and_CC after_II a_AT1 trial_NN1 
+in_II which_DDQ the_AT accuracy_NN1 of_IO that_DD1 fingerprint_NN1 evidence_NN1 was_VBDZ challenged_VVN 
+acquitted_VVN 
+of_IO that_DD1 charge_NN1 
+the_AT events_NN2 created_VVD a_AT1 scandal_NN1 in_II Scotland_NP1 
+and_CC generated_VVD much_DA1 criticism_NN1 of_IO the_AT fingerprint_NN1 service_NN1 
+Ms_NNB McBride_NP1 and_CC the_AT other_JJ experts_NN2 involved_JJ in_II the_AT disputed_JJ identification_NN1 
+were_VBDR suspended_VVN from_II their_APPGE duties_NN2 
+during_II an_AT1 investigation_NN1 
+but_CCB 
+after_CS the_AT investigation_NN1 rejected_VVD 
+any_DD malicious_JJ wrong-doing_NN1 
+and_CC recommended_VVD that_CST they_PPHS2 return_VV0 to_II work_NN1 without_IW disciplinary_JJ action_NN1 
+she_PPHS1 and_CC they_PPHS2 resumed_VVD work_NN1 
+erm_UH on_II restricted_JJ duties_NN2 
+in_II May_NPM1 
+two_MC41 thousand_MC42 and_MC43 two_MC44 
+they_PPHS2 sought_VVD to_TO return_VVI to_II their_APPGE full_JJ duties_NN2 
+which_DDQ included_VVD signing_VVG fingerprint_NN1 reports_NN2 for_IF use_NN1 in_II court_NN1 
+and_CC also_RR giving_VVG oral_JJ evidence_NN1 in_II court_NN1 
+but_CCB 
+because_CS there_EX remained_VVD disagreement_NN1 among_II fingerprint_NN1 experts_NN2 
+over_II the_AT McKie_NP1 scandal_NN1 
+and_CC because_CS the_AT prosecuting_JJ authorities_NN2 
+did_VDD not_XX want_VVI their_APPGE evidence_NN1 at_II trial_NN1 to_TO be_VBI undermined_VVN 
+by_II cross-examination_NN1 relating_VVG to_II the_AT m-_FU 
+McGee_NP1 
+erm_UH Mc_NP1 McKie_NP1 
+scandal_NN1 
+their_APPGE employer_NN1 did_VDD not_XX allow_VVI them_PPHO2 
+to_TO resume_VVI those_DD2 duties_NN2 
+when_CS the_AT Scottish_JJ Police_NP2 Services_NP2 Authority_NP1 was_VBDZ established_VVN in_II two_MC41 thousand_MC42 and_MC43 seven_MC44 
+the_AT officer_NN1 charged_VVN with_IW its_APPGE establishment_NN1 made_VVD clear_JJ 
+that_CST he_PPHS1 did_VDD not_XX want_VVI the_AT fingerprint_NN1 experts_NN2 who_PNQS had_VHD been_VBN involved_JJ in_II the_AT McKie_NP1 scandal_NN1 
+to_TO transfer_VVI to_II that_DD1 service_NN1 
+he_PPHS1 proposed_VVD 
+that_CST they_PPHS2 should_VM be_VBI redeployed_VVN 
+when_CS her_APPGE employment_NN1 was_VBDZ transferred_VVN to_II the_AT SPSA_NP1 
+in_II April_NPM1 two_MC41 thousand_MC42 and_MC43 seven_MC44 
+Ms_NNB McBride_NP1 indicated_VVD that_CST she_PPHS1 would_VM discuss_VVI redeployment_NN1 
+but_CCB first_MD she_PPHS1 wished_VVD to_TO discuss_VVI 
+reinstatement_NN1 
+to_II unrestricted_JJ duties_NN2 
+this_DD1 discussion_NN1 
+did_VDD not_XX happen_VVI 
+and_CC she_PPHS1 was_VBDZ dismissed_VVN by_II her_APPGE employers_NN2 
+on_II first_MD of_IO May_NPM1 
+two_MC41 thousand_MC42 and_MC43 seven_MC44 
+after_CS her_APPGE internal_JJ appeal_NN1 failed_VVD 
+she_PPHS1 succeeded_VVD in_II establishing_VVG in_II employment_NN1 tribunal_NN1 
+that_CST she_PPHS1 'd_VHD been_VBN unfairly_RR dismissed_VVN 
+that_DD1 finding_NN1 
+has_VHZ not_XX been_VBN challenged_VVN 
+but_CCB the_AT tribunal_NN1 's_GE order_NN1 that_CST she_PPHS1 should_VM be_VBI reinstated_VVN 
+was_VBDZ successfully_RR challenged_VVN 
+on_II appeal_NN1 
+the_AT employment_NN1 tribunal_NN1 had_VHD ordered_VVN that_CST Ms_NNB McBride_NP1 should_VM be_VBI reinstated_VVN to_II the_AT position_NN1 as_II fingerprint_NN1 officer_NN1 
+and_CC treated_VVN in_II all_DB respects_NN2 
+as_CS21 if_CS22 she_PPHS1 had_VHD not_XX been_VBN 
+dismissed_VVN 
+but_CCB the_AT employment_NN1 appeal_NN1 tribunal_NN1 overturned_VVD that_DD1 ruling_NN1 
+on_II the_AT ground_NN1 that_CST the_AT 
+employment_NN1 tribunal_NN1 was_VBDZ perverse_JJ 
+in_II holding_VVG that_CST it_PPH1 was_VBDZ practicable_JJ 
+for_IF the_AT employers_NN2 
+to_TO comply_VVI with_IW the_AT order_NN1 
+for_IF reinstatement_NN1 
+on_II Ms_NNB McBride_NP1 's_GE further_JJR appeal_NN1 to_II the_AT Inner_JJ House_NP1 of_IO the_AT Court_NP1 of_IO Session_NNT1 
+the_AT Inner_JJ House_NP1 rejected_VVD 
+the_AT EAT_NP1 's_GE finding_NN1 of_IO perversity_NN1 
+but_CCB held_VVD that_CST the_AT employment_NN1 tribunal_NN1 had_VHD erred_VVN 
+in_II law_NN1 
+because_CS they_PPHS2 had_VHD in_II effect_NN1 ordered_VVN that_CST Ms_NNB McBride_NP1 be_VBI reemployed_VVN 
+on_II altered_JJ 
+contractual_JJ terms_NN2 
+and_CC that_CST that_DD1 could_VM not_XX be_VBI done_VDN 
+by_II an_AT1 order_NN1 
+for_IF reinstatement_NN1 
+Ms_NNB McBride_NP1 appealed_VVD to_II this_DD1 court_NN1 
+in_II the_AT unanimous_JJ judgement_NN1 this_DD1 court_NN1 allows_VVZ her_APPGE appeal_NN1 
+this_DD1 court_NN1 interprets_VVZ the_AT employment_NN1 tribunal_NN1 's_GE order_NN1 
+not_XX as_CSA changing_VVG her_APPGE contract_NN1 
+but_CCB as_CSA recognising_VVG a_AT1 practical_JJ limitation_NN1 
+on_II the_AT scope_NN1 of_IO her_APPGE work_NN1 
+because_II21 of_II22 circumstances_NN2 beyond_II 
+her_APPGE control_NN1 
+and_CC also_RR that_CST of_IO her_APPGE employers_NN2 
+if_CS the_AT prosecutors_NN2 would_VM not_XX use_VVI her_PPHO1 in_II court_NN1 
+there_EX was_VBDZ nothing_PN1 that_DD1 her_APPGE employers_NN2 could_VM do_VDI 
+to_TO give_VVI her_APPGE such_DA duties_NN2 
+we_PPIS2 have_VH0 
+we_PPIS2 have_VH0 erm_UH 
+given_VVN four_MC reasons_NN2 for_IF our_APPGE view_NN1 
+first_MD 
+as_II the_AT employment_NN1 tribunal_NN1 knew_VVD 
+for_IF several_DA2 rea-_FU 
+years_NNT2 she_PPHS1 had_VHD worked_VVN without_IW being_VBG asked_VVN to_TO sign_VVI reports_NN2 
+or_CC give_VVI evidence_NN1 in_II court_NN1 
+the_AT reinstatement_NN1 order_NN1 
+simply_RR returned_VVD her_PPHO1 to_II that_DD1 status_NN121 quo_NN122 
+secondly_RR 
+the_AT employment_NN1 tribunal_NN1 knew_VVD that_CST she_PPHS1 wished_VVD to_TO return_VVI to_II those_DD2 duties_NN2 
+but_CCB held_VVD that_CST her_APPGE employer_NN1 's_GE decision_NN1 
+that_CST she_PPHS1 could_VM not_XX 
+was_VBDZ 
+reasonable_JJ 
+thirdly_RR 
+the_AT employment_NN1 tribunal_NN1 accepted_VVD evidence_NN1 from_II her_APPGE managers_NN2 
+that_CST she_PPHS1 'd_VHD made_VVN a_AT1 valuable_JJ contribution_NN1 
+during_II the_AT years_NNT2 in_II which_DDQ her_APPGE duties_NN2 had_VHD been_VBN curtailed_VVN 
+and_CC fourthly_RR 
+on_II a_AT1 proper_JJ construction_NN1 
+the_AT employment_NN1 tribunal_NN1 's_GE parenthetical_JJ statement_NN1 
+of_IO her_APPGE being_VBG reinstated_VVN and_CC I_PPIS1 quote_VV0 
+to_II a_AT1 non-court_NN1 going_VVG role_NN1 
+was_VBDZ an_AT1 expression_NN1 of_IO their_APPGE understanding_NN1 of_IO the_AT practical_JJ context_NN1 
+of_IO the_AT reinstatement_NN1 
+and_CC not_XX an_AT1 alteration_NN1 of_IO the_AT terms_NN2 of_IO her_APPGE employment_NN1 
+in_II other_JJ words_NN2 it_PPH1 made_VVD clear_JJ 
+that_CST the_AT reinstatement_NN1 did_VDD not_XX require_VVI her_APPGE employers_NN2 
+to_TO restore_VVI her_PPHO1 
+to_II the_AT duties_NN2 
+from_II which_DDQ she_PPHS1 had_VHD been_VBN excluded_VVN 
+the_AT court_NN1 also_RR rejected_VVD an_AT1 argument_NN1 by_II the_AT employers_NN2 
+which_DDQ had_VHD not_XX been_VBN advanced_VVN in_II the_AT tribunals_NN2 or_CC in_II the_AT court_NN1 below_RL 
+erm_UH it_PPH1 did_VDD not_XX accept_VVI 
+that_CST the_AT order_NN1 of_IO reinstatement_NN1 would_VM expose_VVI the_AT employers_NN2 to_II a_AT1 claim_NN1 by_II Ms_NNB McBride_NP1 
+for_IF breach_NN1 of_IO contract_NN1 
+for_IF refusing_VVG to_TO allow_VVI her_PPHO1 to_TO return_VVI 
+to_II the_AT excluded_JJ duties_NN2 
+had_VHD such_DA an_AT1 argument_NN1 been_VBN developed_VVN below_RL 
+it_PPH1 would_VM have_VHI failed_VVN 
+in_II31 face_II32 of_II33 the_AT employers_NN2 
+employment_NN1 tribunal_NN1 's_GE 
+findings_NN2 of_IO fact_NN1 

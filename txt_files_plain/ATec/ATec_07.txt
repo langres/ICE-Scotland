@@ -1,0 +1,202 @@
+
+With regard to the psychophysiological self-report measures, 
+    there were also no differences in the mean ratings of perceived 
+    level of physical exertion between routines or motion sensing 
+    technologies (Figure 4). However, both Move1 and Move2 were 
+    reported by the subjects as being significantly more difficult than 
+    all the other routines on the other two consoles (Figure 5). 
+    Finally, comparison of the levels of perceived enjoyment of each of 
+    the routines indicated that the Kinect1 routine was rated 
+    significantly more enjoyable than Move1, Move2, and Wii2 routines 
+    (Figure 6) and the Kinect2 routine was rated significantly more 
+    enjoyable than the Move2 routine (Figure 6).
+ Figure 4: Rating 
+    of perceived exertion reported immediately after performing each of 
+    the different dance routines using the various different body 
+    motion sensing technologies. Data are shown as mean 
+    (n = 11) and error bars indicate SEM.
+ Figure 5: Rating 
+    of perceived game difficulty reported immediately after performing 
+    each of the different dance routines using the various different 
+    body motion sensing technologies. Data are shown as mean 
+    (n = 11) and error bars indicate SEM. *indicates 
+    significantly more difficult versus the other sensing technologies 
+    (P < 0.05).
+ Figure 6: Rating 
+    of perceived game enjoyment reported immediately after performing 
+    each of the different dance routines using the various different 
+    body motion sensing technologies. Data are shown as mean 
+    (n = 11) and error bars indicate SEM. *indicates 
+    significantly more enjoyable versus Move1, Move2 and Wii2 
+    (P < 0.05). ‡indicates significantly more 
+    enjoyable versus Move2 (P < 0.05).
+The results were also analysed according to the randomised order 
+    in which the subjects performed each of the routines and no 
+    evidence of any order effects was found (data not shown).
+In order to investigate whether there was any association 
+    between perceived game difficulty and self-reported enjoyment 
+    ratings for each routine and body motion sensing technologies, the 
+    group means of each set of enjoyment rating scores were plotted 
+    against the corresponding group means of the difficulty ratings. 
+    The results of this analysis revealed a positive correlation 
+    between increasing perceived game difficulty and declining game 
+    enjoyment ratings (Figure 7).
+ Figure 7: Group means 
+    (n = 11) for rating of game enjoyment plotted 
+    against rating of game difficulty for each separate dance routine 
+    and body motion sensing technology. Error bars indicate SEM. The 
+    data points were significantly correlated 
+    (r2 = 0.84, 
+    P < 0.05).
+4. Discussion
+The main findings of this study were that while the three 
+    different consumer body motion sensors differ in the underlying 
+    technologies, and therefore the type and number of body limbs they 
+    are able to track the motion of, the separate dance-based exergames 
+    developed for each video game console all required comparable 
+    amounts of physical exertion (equivalent to moderate exercise) to 
+    play them. However, while the perceived level of physical exertion 
+    that the subjects reported after completing each of the routines 
+    were comparable, the games were rated differently by the subjects 
+    in their levels of difficulty and this appeared to influence the 
+    level of enjoyment that they experienced.
+Dance-based exergames normally comprise of a range of different 
+    songs and associated routines. The routines selected for use in the 
+    current study were selected on the basis that they all were at 
+    similar tempos and all involved comparable amounts of arm and leg 
+    movements. The results are somewhat surprising in that it was 
+    expected that routines using the Microsoft Kinect peripheral would 
+    elicit from the subjects more body movement during game play 
+    compared to the other two peripherals. This was because of its full 
+    body motion tracking capability compared to the more limited 
+    tracking of only one arm by the other two peripherals. The absence 
+    of an observed difference in the measured rates of oxygen 
+    consumption between peripherals tends to suggest that the 
+    technological differences between the three body motion sensing 
+    peripherals do not matter in this regard. Furthermore, the measured 
+    rates of oxygen consumption in this study are comparable to 
+    previously published studies of dance-based exergames using 
+    original foot-switch game controllers [13, 15, 21].
+It has previously been suggested that interactive forms of 
+    exercise may provide a degree of distraction from the sensations of 
+    exertional discomfort [22], which would be a significant benefit, 
+    particularly if the player is unaccustomed to exercising. It has 
+    already been shown [20] that a variety of different exergames can 
+    promote a flow state experience [23] that is in fact closer to 
+    sport than exercise because of the challenge-based nature of video 
+    game play. However, this issue has not been specifically 
+    investigated in relation to dance-based exergames. It is therefore 
+    of interest to consider whether the results of the present study 
+    show any evidence of distraction from the sensations of physical 
+    exertion. The numerical rating of perceived exertion scale has been 
+    designed and validated so that the values (reduced by a factor of 
+    10) correspond reasonably closely to heart rate [19]. Thus, if 
+    dance-based exergames were also to provide a degree of distraction, 
+    then the mean ratings of perceived exertion values shown in Figure 
+    4 would be expected to be lower, given the magnitude of the mean 
+    heart rates reported in Figure 2. Rather, the ratings of perceived 
+    exertion values are a little higher than might be expected for 
+    traditional forms of exercise at a comparable intensity. One 
+    possible explanation is that the significant involvement of the 
+    arms in the dance routines might have given the subjects the 
+    impression that the exercise was of a higher overall intensity than 
+    it actually was. Such a situation could arise since the arms have 
+    proportionally smaller skeletal muscle mass compared to the legs 
+    and therefore may be working at a higher metabolic rate. A further 
+    possible explanation for this observation is that the dance-based 
+    exergames require the player to focus specifically on rhythmically 
+    coordinating the movements of their limbs and this increased need 
+    for conscious proprioceptive awareness resulted in a greater 
+    instead of a lesser-perceived level of exertion.
+Game developers are well versed in the need to pay careful 
+    attention to the balance of challenge versus player skill balance 
+    in order to present them with a meaningful challenge [24]. However, 
+    the results of the other self-report measures indicate that while 
+    the difficulty and enjoyment ratings of each pair of dance routine 
+    games on the same console were comparable, there were significant 
+    differences in the ratings between the various consoles (Figures 5 
+    and 6). Furthermore, the correlation analysis presented in Figure 7 
+    suggests that the games that were perceived to be easier were also 
+    the ones that the subjects reported as being more enjoyable and 
+    conversely higher levels of perceived difficulty were associated 
+    with reduced levels of enjoyment. There are several potential 
+    reasons that may account at least in part for these observed 
+    differences. The first is that there were significant differences 
+    between the games (and therefore peripherals) in the level of motor 
+    skill required to play them. The second is that the games differed 
+    in their thresholds of acceptability for timing accuracy of a 
+    player’s movements. The third potential reason is that the body 
+    motion tracking peripherals differ in their underlying technologies 
+    and affordances and as a consequence vary in the type and number of 
+    limbs that they can track. The Kinect peripheral, by virtue of 
+    being able to track all four limbs, is best placed to potentially 
+    help guide and coordinate player movement. In contrast, the 
+    movement of a single arm detected by the Wiimote peripheral is only 
+    responsive to changes in relative rather than absolute position. As 
+    a consequence, the tracked arm is unlikely to need to follow such 
+    precise trajectories in space; moreover the player will also have 
+    considerable freedom of movement in their nontracked limbs. 
+    Finally, the Playstation Move peripheral by spatially tracking the 
+    absolute position of the motion of the player’s arm requires 
+    greater spatial precision of movement, but the absence of any 
+    detection of lower limb movement means that it is less able to 
+    guide and coordinate player movement. Unfortunately it is not 
+    possible to make a clear distinction between these potential 
+    explanations outlined above. However, it does seem unlikely that 
+    any of the three games used in the current study would 
+    intentionally be designed to be significantly more difficult at the 
+    beginner level, given that they will have been subject to extensive 
+    play-testing. Instead, it seems more likely that the subjects found 
+    the games, that either more fully tracked and guided their 
+    movements, or permitted significant movement freedom, to be more 
+    enjoyable compared to the games that closely tracked a single limb 
+    (arm) but at the same time gave less overall feedback. This 
+    interplay between the degree of movement precision required and the 
+    nature and extent of the feedback given to a player is an important 
+    issue that needs to more fully investigated in order to help inform 
+    the design of future exergames.
+In terms of the potential to promote health benefits, it is 
+    likely that most players who encounter dance-based exergames in 
+    social or physical education settings will do so at beginner or 
+    possibly intermediate skill levels and that considerable amounts of 
+    practice will be required to progress beyond these levels. Thus, 
+    from a health perspective, it would be highly desirable for 
+    dance-based exergames to be designed such that, even at beginner to 
+    intermediate skill levels, the games maximise the amount and 
+    intensity of body movement while at the same time providing an 
+    enjoyable and engaging game play experience. It is however 
+    recognised that this would not necessarily be an easy outcome to 
+    achieve. The most likely way in which this might be achieved would 
+    be to steer game progression towards increasing step rates coupled 
+    with less of an emphasis on increasing the complexity of moves 
+    (i.e., faster repetitive movement instead of greater complexity). 
+    It is probable that such an approach will also need some adjustment 
+    (reduction) in the temporal accuracy requirements for movements to 
+    be scored (at least at less advanced skill levels). Finally, the 
+    initial skill demands should be set at a very low level to make a 
+    game as widely accessible as possible and straightforward for 
+    players to follow, and the game should be carefully structured in a 
+    way that effectively facilitates player motor skill development and 
+    progression. 
+5. Conclusion
+The results of this study suggest that while the three different 
+    body motion sensor peripherals differ in their underlying 
+    technologies and affordances, contrary to what was expected, they 
+    do not appear to differ in the amount of physical exertion they 
+    facilitate when used to incorporate body movement into dance-based 
+    exergames. However, based on the self-reports measures from the 
+    subjects, there appear to be differences in the game play 
+    experiences that they offer. While the reasons for this remain 
+    unclear and warrant further investigation, there is one particular 
+    issue that has been highlighted and is of major importance. 
+    Specifically, it is the relative influences on game play experience 
+    of whole body motion tracking that is able to more holistically 
+    guide and support player movement versus restricted limb motion 
+    tracking that is agnostic to the movement of nontracked limbs and 
+    therefore as a consequence offers players greater freedom of 
+    movement. Finally, the potential commercial and health benefits of 
+    widespread adoption and sustained use of dance-based exergames are 
+    significant. There is, therefore, also a need to investigate the 
+    factors that help to sustain long-term playing of dance-based 
+    exergames and how these might be optimised, if these benefits are 
+    to be realised.

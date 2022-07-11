@@ -1,0 +1,53 @@
+as_II the_AT 
+erm_UH First_MD Commission_NP1 Scotland_NP1 archaeologist_NN1 
+I_PPIS1 am_VBM responsible_JJ for_IF providing_VVG information_NN and_CC advice_NN1 
+in_II31 regard_II32 to_II33 the_AT historic_JJ environment_NN1 on_II Scotland_NP1 's_GE National_JJ Forest_NP1 Estate_NP1 
+erm_UH and_CC for_IF developing_VVG 
+relevant_JJ guidance_NN1 in_II seeking_VVG opportunities_NN2 
+in_II31 regard_II32 to_II33 best_JJT practice_NN1 conservation_NN1 management_NN1 
+erm_UH this_DD1 paper_NN1 erm_UH and_CC the_AT supporting_JJ exhibition_NN1 
+highlights_VVZ a_AT1 number_NN1 of_IO recent_JJ 
+archaeological_JJ measured_JJ surveys_NN2 
+erm_UH we_PPIS2 've_VH0 undertaken_VVN over_II the_AT last_MD few_DA2 years_NNT2 
+erm_UH the_AT common_JJ threat_NN1 
+is_VBZ of_IO 
+innovative_JJ new_JJ survey_NN1 techniques_NN2 combined_VVN with_IW an_AT1 aesthetic_JJ illustrative_JJ mil-_FU methodology_NN1 
+erm_UH of_IO beautiful_JJ pictures_NN2 designed_VVN to_TO encourage_VVI and_CC inspire_VVI 
+erm_UH 
+for_CS I_PPIS1 believe_VV0 that_CST the_AT true_JJ heroes_NN2 of_IO Scottish_JJ archaeology_NN1 are_VBR not_XX skeletons_NN2 artefacts_NN2 or_CC ecofacts_NN2 
+but_CCB the_AT sites_NN2 themselves_PPX2 
+archaeology_NN1 is_VBZ a_AT1 very_RG visual_JJ activity_NN1 
+and_CC almost_RR always_RR involves_VVZ photography_NN1 measure_NN1 survey_NN1 techniques_NN2 and_CC informed_JJ illustration_NN1 
+erm_UH aerial_JJ and_CC terrestrial_JJ laser_NN1 scanning_NN1 
+rectified_JJ photography_NN1 terrain_NN1 modelling_NN1 and_CC low-altitude_JJ aerial_JJ photography_NN1 
+by_II microcopter_NN1 combine_VV0 with_IW archive_NN1 images_NN2 
+and_CC traditional_JJ topographic_JJ survey_NN1 to_TO create_VVI exciting_JJ new_JJ angles_NN2 from_II which_DDQ to_TO appreciate_VVI the_AT past_NN1 
+erm_UH FCS_NP1 are_VBR committed_JJ to_II undertaking_VVG conservation_NN1 management_NN1 
+condition_NN1 monitoring_NN1 
+erm_UH 
+erm_UH and_CC archaeological_JJ recording_NN1 are_VBR our_APPGE most_RGT significant_JJ historic_JJ assets_NN2 
+and_CC to_II helping_VVG to_TO develop_VVI share_VVI 
+and_CC promote_VVI best_JJT practice_NN1 
+historic_JJ environment_NN1 conservation_NN1 management_NN1 
+we_PPIS2 are_VBR proud_JJ to_TO support_VVI the_AT Scottish_JJ historic_JJ environment_NN1 strategy_NN1 
+erm_UH the_AT emerging_JJ Scottish_JJ archaeology_NN1 strategy_NN1 and_CC often_RR seek_VV0 to_TO contribute_VVI to_II ScARF_NP1 the_AT Scottish_JJ Archaeological_JJ Research_NP1 Framework_NP1 
+good_JJ archaeological_JJ illustration_NN1 
+helps_VVZ to_TO consolidate_VVI understanding_NN1 
+by_II encouraging_VVG the_AT active_JJ participation_NN1 of_IO the_AT audience_NN1 you_PPY have_VH0 to_TO think_VVI to_TO understand_VVI 
+it_PPH1 supports_VVZ 
+effective_JJ archaelogical_JJ analysis_NN1 and_CC can_VM greatly_RR enhance_VVI the_AT historic_JJ environment_NN1 records_NN2 
+from_II submillimeter_JJR accuracy_NN1 through_II stone_NN1 by_II stone_NN1 recording_NN1 
+to_II landscape-scale_JJ terrain_NN1 modelling_NN1 these_DD2 site-based_JJ studies_NN2 let_VV0 their_APPGE pictures_NN2 tell_VVI a_AT1 story_NN1 
+my_APPGE playground_NN1 
+is_VBZ the_AT National_JJ Forest_NP1 Estate_NP1 
+the_AT largest_JJT single_JJ public_JJ land_NN1 resource_NN1 
+held_VVN by_II the_AT Scottish_JJ government_NN1 
+the_AT National_JJ Forest_NP1 Estate_NP1 comprises_VVZ over_RG six_MC41 hundred_MC42 and_MC43 fifty_MC44 thousand_NNO hectares_NNU2 
+or_CC almost_RR nine_MC percent_NNU of_IO Scotland_NP1 
+and_CC over_RG thirty_MC21 five_MC22 percent_NNU of_IO Scotland_NP1 's_GE woodlands_NN2 
+around_RG two_MC thirds_MF of_IO the_AT estate_NN1 is_VBZ woodland_NN1 and_CC one_MC1 third_MF is_VBZ open_JJ ground_NN1 including_II agricultural_JJ land_NN1 mountains_NN2 peat_NN1 bogs_NN2 water_NN1 bodies_NN2 and_CC coast_NN1 
+and_CC there_EX are_VBR all_DB over_RG three_MC41 hundred_MC42 and_MC43 fifty_MC44 designated_JJ historic_JJ assets_NN2 
+and_CC twelve_MC thousand_NNO archaeological_JJ features_NN2 on_II record_NN1 
+and_CC this_DD1 is_VBZ one_MC1 of_IO them_PPHO2 
+the_AT impressive_JJ hillfort_NN1 
+of_IO Castle_NP1 O'er_NP1 in_II the_AT White_JJ Esk_NP1 valley_NN1 

@@ -1,0 +1,42 @@
+Mars-bound humanoid robot built by Edinburgh scientists 
+    and Nasa 
+
+University of Edinburgh PhD students and researchers working on 
+    NASA's Valkyrie robot in the University of Edinburgh's 
+    School of Informatics. Picture: PA 
+A HUMAN-LIKE robot that walks upright and can hold 
+    objects in its hands is being developed by Scottish scientists to 
+    boldly go where no man has gone before – on missions to 
+    Mars.
+It is hoped the Nasa android, the only one of its type in Europe 
+    and one of only three prototypes in the world, will make the 
+    journey to the red planet years ahead of the first human astronauts 
+    in order to lay crucial groundwork for their arrival.
+Reminiscent of a Star Wars stormtrooper, the 1.8m-tall bionic 
+    being has been named Valkyrie after the warrior maidens of Norse 
+    mythology. 
+The automaton has been designed with a humanoid shape so it can 
+    work alongside real people or step in to carry out high-­risk tasks 
+    in their place.
+Currently, Valkyrie can walk on two legs and perform basic 
+    movements such as holding and manipulating objects.
+In a collaboration with Nasa, researchers at the University of 
+    Edinburgh will work to give it a more sophisticated set of skills, 
+    enabling it to better understand and respond to its 
+    surroundings.
+They also aim to improve the robot’s handling and walking 
+    capabilities by employing sophisticated on­board sensors to help it 
+    make sense of its environment and improve manoeuvrability.
+The robot’s ability to interact closely and safely with humans 
+    and other machines will also be developed.
+“Valkyrie is a huge scientific undertaking,” said Professor 
+    Sethu Vijayakumar, of the University of Edinburgh’s School of 
+    Informatics and director of the Edinburgh Centre for Robotics.
+“We are looking forward to tackling the many technical 
+    challenges involved in developing a large-­scale humanoid robot, 
+    and pushing the state of the art in humanoid robotics.”
+The first humans are not scheduled to blast off for the fourth 
+    planet from the sun until at least 2024.
+However, several missions are planned over the next few years to 
+    pave the way for the next giant leap for mankind.
+

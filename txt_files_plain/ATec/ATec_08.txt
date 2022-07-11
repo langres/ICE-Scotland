@@ -1,0 +1,104 @@
+1. Introduction
+There context for addressing energy use in the built environment 
+    includes: the climate change agenda; concerns about peak oil 
+    supply; increasing fuel costs; costs of de-carbonising grid supply; 
+    and security of supply for certain regions. All of these highlight 
+    the value and need for renewable energy supplies. The context for 
+    the increased development of renewable energy is clear. The balance 
+    of evidence coming from the scientific community concerning the 
+    threats and impacts of anthropogenic climate change is now widely 
+    accepted (IPCC 2007). This had led to an economic analysis of the 
+    actions needed to address these problems (Stern 2007), which 
+    identify the benefits of early action. In addition to the climate 
+    change agenda, other drivers in the form of concerns about peak oil 
+    supply in turn leading to scarcity and increasing fuel costs, the 
+    costs of decarbonising grid supply, and security of supply for 
+    certain regions all highlight the value and need for renewable 
+    energy supplies. To address these problems, a range of policies and 
+    technologies are being developed to reduce consumption and to 
+    provide a greater generating capacity of low carbon and renewable 
+    energy. This requires action at a range of scales and across 
+    industries, from national generators to individual consumers.
+The built environment has particular responsibilities with 
+    respect to its demand for energy and resources. The majority of the 
+    population live in urban environments and buildings account for 
+    about 50% the UK energy consumption, and housing produces 27% of 
+    CO2 emissions (Boardman 2007). Furthermore, 
+    the need for a national grid to serve the built environment, which 
+    also results in transmission losses, is also a factor. Energy 
+    consumption is based on both space and water heating, and 
+    electrical use for lighting, appliances, etc. These demands can be 
+    reduced by measures such as improved insulation and air tightness, 
+    and this is typified through approaches such as 
+    Passivhaus design, which aims to reduce fabric 
+    and ventilation losses to a minimum. Further reductions can be made 
+    through the use of efficient appliances and controls, but even with 
+    these measures residual electrical loads remain.
+Wind energy is one of the most mature renewable technologies. 
+    The development of large scale wind farms both onshore and latterly 
+    offshore, provides a significant proportion of the UK renewable 
+    energy generation capacity. It is also one of the most visible, and 
+    thus in some quarters, contentious generators. However, the use of 
+    wind generation in urban environments has increased in scale in 
+    recent years and provides significant potential. This chapter 
+    discusses the policy drivers and approaches that are forming this 
+    market at present.
+2. Policy
+Despite an inability of the global community to reach an accord 
+    at the Copenhagen summit, many governments are committed to action 
+    to address these problems. Both the UK and Scottish Governments 
+    have identified targets to reduce both energy and carbon reduction 
+    and these are supported through both legislation and incentives. 
+    The targets identified with the UK Climate Change Act 2008 aim for 
+    an 80% reduction in carbon emissions by 2050, with interim target 
+    of 34% by 2020 (DECC 2009). The Scottish Government Climate Change 
+    (Scotland) Act 2009 has the same 2050 target, with an interim 
+    target of 42% by 2020 (Scottish Government 2009).
+Many of these targets will be achieved through reductions in 
+    demand and the decarbonisation of energy supply through both carbon 
+    reducing energy generation technologies and large-scale renewable 
+    generation such as wind farms, tidal and nuclear. Nevertheless, 
+    there is considerable potential for energy production from 
+    localised, distributed, small scale systems, (generally referred to 
+    as micro generation), produced on or near buildings using a range 
+    of technologies such as photovoltaics, combined heat and power, 
+    micro-hydro and wind. An Energy Savings Trust micro generation 
+    study (Energy Saving Trust 2005) estimated that micro generation 
+    could produce up to 30-40% of electricity demand by 2050.
+Small, distributed renewable generators are extremely well 
+    placed to help achieve Government targets (A.S. Bahaj, L. Myers, 
+    2007). Early reports such as the DTI Microgeneration strategy (DTI 
+    2005) and the Scottish Executive Energy Efficiency and 
+    Micro-Generation Bill proposal (Boyack 2005) highlighted the 
+    potential benefits of this approach, which is now included in the 
+    Climate Change legislation. The current UK coalition government 
+    have recently opened consultation on a new Micro-generation 
+    Strategy (DECC 2010), which aims to further develop this area.
+The targets set in the Climate Change legislation and also 
+    associated instruments such as the UK Low Carbon Transition Plan 
+    and the UK Renewable Energy Strategy also impact on other 
+    departments, so for example, planning authorities are also required 
+    include policies in their development plans that require a 
+    percentage of the energy in new developments to come from on-site 
+    renewables (ODPM 2004)
+In order to enable businesses and consumers to take steps to 
+    meet these targets, a number of schemes for assistance, in the form 
+    of advice and financial support have also been provided. These 
+    include support for advisory organisations such as the Energy 
+    Savings Trust, and the Carbon Trust and until 2010 these 
+    organisations also administered major financial incentives in the 
+    form of grants for energy saving and renewable measures, including 
+    wind turbines. However on the 1st April 2010 Feed-in-Tarrifs were 
+    introduced across the UK, which provides payments for the 
+    generation of electricity from small-scale renewables including 
+    Micro-Hydro turbines, Photovoltaics, Micro Combined Heat and Power, 
+    and Small Wind Turbines (UK Government 2010). The principle of 
+    FIT’s is that the owner is paid a tarrif per kWh of renewably 
+    generated energy that offsets demand on the grid. This 
+    significantly reduces the running costs and payback periods of 
+    systems, making them financially attractive to householders and 
+    building owners.
+FITs cover use of Photovoltaics (PV), small scale combined heat 
+    and power (CHP), small-scale hydroelectricity and small scale wind 
+    (up to 15 kW). While all of these may be viable depending on the 
+    site location and building form, there are some key differences.

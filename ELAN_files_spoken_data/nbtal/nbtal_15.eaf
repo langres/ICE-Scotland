@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-06-28T13:00:30+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/User/pacx_workspace_icescot/icescot/raw/spoken/non-broadcast talks/nbtal_15.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../../raw/spoken/non-broadcast talks/nbtal_15.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:09dc0c2c-2eb0-4790-ac93-f606af360d17</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">35</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="20"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="2550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="2830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="3560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="3730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="5090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="5700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="8620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="8635"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="11485"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="11905"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="13625"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="15370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="17930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="18785"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="19535"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="19995"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="22735"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="23940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="25550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="26570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="28120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="28840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="33600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="34055"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="36275"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="36530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="37650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="38405"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="40485"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="40580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="41220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="41645"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="42265"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="42340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="46000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="46660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="50810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="51220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="53020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="53480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="55470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="55690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="58500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="58845"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="59525"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="59685"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="60595"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="61045"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="62235"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="62825"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="63245"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="63400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="65000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="65185"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="66935"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="67255"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="67615"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="67780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="68200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="68375"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="69035"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="ug TODO-3" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="2016-09-09;?;f;50+;?" TIER_ID="Transcription 1">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>the enforcement of international law has always been seen</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>as a weakness</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>of the international system</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>inevitably and I don't need to explain to everyone in this room</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>we're all familiar with the so-called Austinian handicap</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>as we've often heard described</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>we understand that international law</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>tries to</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>please a lot of people and maybe in the end pleases no one</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>maybe that is its greatest strength</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>we also know that many</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>people have described the breaches of international laws fitting into the man-bites-dog category</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>and at most of the time the system is enforced</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>and works very well</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>how is it enforced why is it enforced</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>why is there</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>generally</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>a pull towards compliance they're all issues that we're all very very familiar with</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>we also know that we have to be careful to avoid the so-called snap conclusion</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>on what international law's power</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>an- of enforcement actually is</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>we also have to be clear about unrealistic expectations</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>and we also</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>are more than aware</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>of the very very</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>erm</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>diverese constituencies</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>that international law hopefully</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>does</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>try</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>to serve</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="Tagging" PARENT_REF="Transcription 1" TIER_ID="Annotation 1"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="Properties" PARENT_REF="Annotation 1" TIER_ID="Properties 1"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" CONTROLLED_VOCABULARY_REF="Tags" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Tagging" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" CONTROLLED_VOCABULARY_REF="Properties" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Properties" TIME_ALIGNABLE="false"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001" LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="Tags">
+        <DESCRIPTION LANG_REF="und">all tags allowed in tagging</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE LANG_REF="und">other-language</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE LANG_REF="und">anonymous</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid2">
+            <CVE_VALUE LANG_REF="und">unclear</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid3">
+            <CVE_VALUE LANG_REF="und">interrupted</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid4">
+            <CVE_VALUE LANG_REF="und">hesitation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid5">
+            <CVE_VALUE LANG_REF="und">repair</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid6">
+            <CVE_VALUE LANG_REF="und">mention</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid7">
+            <CVE_VALUE LANG_REF="und">transcriber's comment</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Properties">
+        <DESCRIPTION LANG_REF="und">all values allowed in properties</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE LANG_REF="und">place</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE LANG_REF="und">first name</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid2">
+            <CVE_VALUE LANG_REF="und">last name</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid3">
+            <CVE_VALUE LANG_REF="und">initial</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid4">
+            <CVE_VALUE LANG_REF="und">organisation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid5">
+            <CVE_VALUE LANG_REF="und">country</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid6">
+            <CVE_VALUE LANG_REF="und">Gaelic</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid7">
+            <CVE_VALUE LANG_REF="und">(not sure)</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>

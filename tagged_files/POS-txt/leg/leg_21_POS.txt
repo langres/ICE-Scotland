@@ -1,0 +1,48 @@
+erm_UH my_APPGE Lords_NP2 
+this_DD1 is_VBZ a_AT1 petition_NN1 
+from_II the_AT Sentencing_NP1 Council_NP1 seeking_VVG approval_NN1 
+of_IO a_AT1 Sentencing_NP1 Guideline_NP1 
+erm_UH that_DD1 guideline_NN1 is_VBZ that_CST the_AT core_NN1 principle_NN1 of_IO sentencing_NN1 
+should_VM be_VBI that_CST sentences_NN2 
+must_VM be_VBI fair_JJ and_CC proportionate_JJ 
+that_CST this_DD1 requires_VVZ 
+that_CST all_DB relevant_JJ factors_NN2 must_VM be_VBI considered_VVN 
+including_II the_AT seriousness_NN1 of_IO the_AT offence_NN1 
+the_AT impact_NN1 on_II the_AT victim_NN1 and_CC others_NN2 
+and_CC the_AT circumstances_NN2 of_IO the_AT offender_NN1 
+sentences_NN2 should_VM be_VBI no_AT more_RGR severe_JJ than_CSN is_VBZ necessary_JJ to_TO achieve_VVI the_AT appropriate_JJ purposes_NN2 of_IO sentencing_NN1 
+in_II each_DD1 case_NN1 
+reasons_NN2 for_IF sentencing_NN1 decisions_NN2 
+must_VM be_VBI stated_VVN as_RG clearly_RR 
+and_CC openly_RR as_CSA circumstances_NN2 permit_VV0 
+sentencing_NN1 decisions_NN2 must_VM be_VBI made_VVN lawfully_RR and_CC sentencers_NN2 
+must_VM have_VHI regard_NN1 
+to_II any_DD applicable_JJ sentencing_NN1 guidelines_NN2 
+people_NN 
+should_VM be_VBI treated_VVN equally_RR and_CC without_IW discrimination_NN1 
+sentencing_NN1 decisions_NN2 
+should_VM treat_VVI similar_JJ cases_NN2 
+in_II a_AT1 similar_JJ way_NN1 
+assisting_VVG consistency_NN1 
+and_CC predictability_NN1 
+the_AT purposes_NN2 of_IO sentencing_NN1 may_VM include_VVI protection_NN1 of_IO the_AT public_NN1 
+punishment_NN1 
+rehabilitation_NN1 of_IO the_AT offender_NN1 
+giving_VVG the_AT offender_NN1 the_AT opportunity_NN1 to_TO make_VVI amends_NN2 
+and_CC expressing_VVG disapproval_NN1 of_IO offending_JJ behaviour_NN1 
+in_II31 terms_II32 of_II33 the_AT relevant_JJ legislation_NN1 
+a_AT1 draft_NN1 of_IO the_AT guideline_NN1 was_VBDZ published_VVN in_II August_NPM1 of_IO last_MD year_NNT1 
+the_AT Scottish_JJ ministers_NN2 
+and_CC the_AT Lord_NNB Advocate_NP1 
+have_VH0 been_VBN consulted_VVN 
+a_AT1 public_JJ consultation_NN1 
+has_VHZ also_RR taken_VVN place_NN1 
+erm_UH in_II these_DD2 circumstances_NN2 
+are_VBR Your_APPGE Lordships_NP2 content_JJ 
+that_CST the_AT guidelines_NN2 should_VM be_VBI formally_RR 
+approved_VVN 
+very_RG well_RR 
+the_AT 
+guideline_NN1 
+is_VBZ approved_VVN 
+and_CC the_AT court_NN1 will_VM now_RT adjourn_VVI 

@@ -1,24 +1,237 @@
-3 . Method and Outline 
-To create a structure from which to explore how we might come to say the things we do in qualitative interviews ( arguably the artifacts of such conversations ) and what , in turn , might be inferred from the content of such narratives , I concentrated specifically on writings about collective memory : Recruited for the key protagonists were : Maurice Halbwach 's , The Collective Memory ( 1980 ) , On Collective Memory ( 1992 ) [ 16 , 17 ] . Added to these were cameo but relevant roles to be played by components of Paul Ricoeur 's , Memory , History , Forgetting ( 2004 ) , James Wertsch 's ( 2002 ) concept of collective remembering and Bakhtinian ( Bakhtin , 1986 ) notions of speech genres [ 18-20 ] . The method which unfolded symbolizes a promiscuous polymathery on my part and , from the outset , I acknowledge that liberties may have been taken with the scholarship of others to create an interpretative framework . Structured interdisciplinary reading inevitably transfigures the material on which it has drawn . Consequently , for specialists in the original canons , its results often seem lacking in rigour and thus intellectually irritating . However , the emphasis in this paper is on the transformation of the components into a slightly different whole through their interweaving . To explore the implications of these interwoven readings , what follows is divided into the following sections : 
-– A theoretical methodology that draws together : the nature of our qualitative data around learning and teaching , the concept of collective memory , evidence of the limited geography in which we come to construct narratives about pedagogy and instruction , and the potential to identify particular speech genres within the data-sets . This means that to understand how our stories are constructed we need to combine the social theorizing of Halbwachs and Ricoeur , with the anthropological observations of Wertsch , and Bakhtin 's concept of speech genres . In the interpretative dialogue between these works , four closely mingled assumptions about what might be present in qualitative data related to learning and teaching emerges : Firstly , stories of significance ( even if apparently mundane ) are recalled in interviews ; secondly , we re-member ( recollect , recognize ourselves and others , and re-materialize ) the teaching context when we reflect on what we consider to be important about the links between teaching and learning in such interviews ; thirdly , re-membering involves not only our individually separable perceptions and experiences but , via the process of recall , also the framing of them through an interaction with a culturally shared repertoire of concerns , sentiments , and problem-solving approaches that link us to our disciplinary predecessors as well as current colleagues ; fourthly , and consequently , that the concept of collective re-membering , predicated on the " irreducible tension between active agent and cultural tool " [ 19,21 ] , is a pragmatically useful interpretative device when considering our findings . As a result of such a theoretical methodology , it is asserted that the phrase collective re-membering is of more use than collective memory when we consider our present teaching stories . 
-– Two short case studies which illustrate the implications of the theoretical methodology when exploring the types of stories Humanities ' lecturers seem to build and maintain in conversations about aspects of their teaching : Firstly , myths about transformational reciprocity in our discussion of research-teaching linkages and , secondly , saints ' lives or sagas of inattention and suspicion around institutional-level educational agendas such as employability and global citizenship ( particularly referred to collectively in the UK and Australia under the rubric of " graduate attributes ' agendas " ) . These examples present story categories that emerged whilst I undertook two qualitative research projects around how research-teaching linkages and graduate attributes respectively currently operated within the Humanities [ 14 , 15 ] and a brief reference to each of the data-sets introduces the case studies purely to establish the scene . Whilst by no means the fulcrum of this paper , the gathering and interpretation of these projects ' related data represent the back-story of the more theoretical discussion outlined here . 
-– A final section raising the question of whether we erect and excavate simultaneously the wrong stories in our current designs of qualitative research when studying learning and teaching . This section concludes that it would be better to cultivate different types of narratives within the research process ( particularly those being used by lecturers in the disciplines to understand teaching practices ) . If we want to capture the nuances of our experience as academic teachers of the Humanities , we actually need to shift the narratives / narrative resources on which we have come to depend when talking about learning and teaching . 
-In the spirit of storytelling and deliberate playfulness that lay behind this article 's first outing as a conference keynote , I have also pressed Herodotus into service to provide illuminating metaphors . I have thus co-opted his description of Babylonian customs to emphasize or elucidate points . I ask my readers , therefore , to imagine they are travelling along the Euphrates to Babylon , where a river of interpretation runs through a city built from the fired bricks of primary and secondary sources . 
-4 . Theoretical Methodology : Unravelling the Narrative 
-4.1 . Plot 1 : Excavating the Emic Foundations of Our Stories : Bringing Qualitative Data together with the Concept of Collective Memory 
-Forms of qualitative inquiry , with narrative at their heart , dominate the higher education ( HE ) learning and teaching landscape . The prominence of the single , semi-structured interview is embedded across the journals which deal with higher education practice-based research . In particular , over the last decade , a significant amount of emic material has been recorded and analyzed in terms of the outcomes of research-teaching linkages across Anglophone and European universities [ 22 ] . The Humanities have certainly not been immune to this trend [ 14 , 23 ] . Through our conversations with and as educational developers and researchers we have arguably been reflecting back local customs , meanings , and beliefs , rather than illustrating our material practices and how these might be contradictory or dissonant to our narratives about those practices [ 24 ] . These conversations are only concerned with communicating the meanings we ascribe to our actions , harmonizing ideal and experience and giving only one side of an insider 's view [ 25 ] . Through them we tell our stories . 
-Additionally , the ascription of meaning is part of the constant dialogue between individual memory and the socio-cultural tools which help in its formation . As Ricoeur observes , " it is essentially along the path of recollection and recognition that we encounter the memories of others " ( [ 18 ] , p. 120 ) . Our stories tell of how we make meaning of teaching situations and in so doing generate recollection , recognition , and thus to a certain extent re-materialization through conversation . Our recall of such stories in interviews is thus in part informed by collective ( and in this case , often disciplinary ) memories . With regard to making meaning of current learning and teaching situations and what we value as important , this suggests the possibility of uncovering a shared repertoire of concerns , sentiments , disciplinary morality , and phraseology that links our narratives to the past . In effect , it suggests a Halbwachs-like underlying mechanism operating between our contemporary experience and that of our disciplinary predecessors . Thus , what we say in qualitative interviews is a location not only for the excavation of our individual story but also the collective re-membering retained in the story . Our transcripts hint at the past beyond our immediate experience , expanding the time-frame in which the story was generated . ( Reflecting on Halbwachs , Ricoeur refers to this as a widening of the temporal horizon of younger generations , [ 18 ] , p. 394 ) . 
-4.2 . Plot 2 : Discovering that Collective Memories are Constructed in the Public Square 
-If collective re-membering fashions our stories into a form of archaeological artifact , we need to excavate the factors involved in the propagation of a commonly shared repertoire that links the contemporary generation of disciplinary academics to the past . Here , Herodotus can help . When describing Babylonian customs , Herodotus notes that the sick do not consult physicians but rather , if someone is ill , they are laid in the public square and if the passers-by have had a similar ailment or know someone themselves who has had the disease , they : " give him advice , recommending him to do whatever they found good in their own case , or in a case known to them . " ( Herodotus , Histories , 1:197 ) . We have a similar process when it comes to learning about how to resolve issues in teaching . Studies make it quite clear that when we have a problem-solving situation in our classrooms , we are highly likely to prefer the example or advice of an associate to abstract theory or empirical findings ( [ 26 ] , p. 116 ) . 
-Like the Babylonians , when it comes to teaching , rather than going for a robust evidence-base , Humanities academics enter the disciplinary public square to see how colleagues made meaning out of an apparently similar situation . In this we encounter a context where how we remember the circumstances and what is important to value is directly influenced by the " interruption " of our colleagues . In turn , those colleagues may well be recalling what they heard previously . This process is similar , then , to Halbwach 's notion that collective memories are " recalled to us through others even though only we were participants in the events " ( [ 16 ] , p. 23 ) . We have the original experience , but in discussion with others , there is the potential for a collectively influenced reframing . How we make sense of the circumstances becomes entwined with the register of sense-making of our predecessors as well as our contemporaries . 
-4.3 . Plot 3 : Finding the Public Square Turned into a Disciplinary Gated-Community 
-The prologue noted how stories can function to invite in or exclude those who encounter them , which raises the question of whether our collective re-membering operates in such a way that the public square conversations increasingly occur within a virtual fence , one that includes and excludes . The work on significant conversational networks about learning and teaching analyzed in Roxä and Märtensson [ 27 , 28 ] demonstrates how the bulk of conversational " passers-by " in the public square are drawn from our immediate disciplinary circle . The resultant network is based on trust , privacy , and shared intellectual problem-solving regarding teaching . What this means is , we have a clique to whom and from whom we construct our understanding of teaching . Our insularity can turn the public square into a virtually gated community . 
-Given that collective culture will orchestrate forgetting as well as re-membering , the skewing of our meaning-making towards a dominant or authoritative narrative within it becomes more probable [ 29 , 30 ] . This is not to deny the role of contestation and mediation within the process , which Halbwachs failed to address ( [ 30 ] , p. 379 ) and is increasingly the focus of debate [ 19 ] . Instead , it is to indicate the possibility of repetitions across generations that would result in a shared repertoire ( sometimes regardless of changes to the material circumstances ) because of the apparent legitimacy and authority associated with collective memories . 
-Recognizing this is important because , if Boyer and Wertsch ( [ 31 ] , p. 113 ) are right , the cultural " tools " represented in such repetitions express a particular agenda or goal ( an implicit plot perhaps ) without seeking recourse to explicit standards of veracity ( as is witnessed when our discourse slips into nostalgia , for example ) . Indeed , if we examine what our qualitative data-sets suggest about our agendas related to the links between research , teaching and graduate attributes , what is exhibited maps onto evidence of how collective re-memories function , including : 
-( 1 ) Toleration of distortion ( such as inconsistencies between espoused over-all beliefs about learning and teaching and the narrative resources used to illustrate what we mean ) ; 
-( 2 ) Smoothing over of paradoxes ; 
-( 3 ) Inattention to omissions . In re-narration , for example , problematic and ambiguous content is often omitted ( [ 32 ] , p. 15 ) . For Halbwachs this is one of the ways we deal with " inconvenient memories " ( [ 17 ] , p. 50 ) ; 
-( 4 ) Assimilation of our senior colleagues ' memories . This may " widen our temporal horizon " , giving us access to practical wisdom evolved over time , but it might also imprison the conversations in a passive persistence of first impressions ( [ 18 ] , pp. 394 , 427 ) , circumscribing criticality and consequential expertise acquisition ; 
-( 5 ) Amalgamation of phantoms which allow our immediate past to be linked to decontextualised beliefs about disciplinary predecessors we have not known . These phantoms often help locate our identity in a more positive history of the discipline . This process , in turn , can lapse into nostalgia and stereotyping , suppressing negative aspects of the longer past in the service of the kind of people we are or assume ourselves to be ( see : [ 21 ] ) . These phantoms , in effect , enable us to engage historical representations to provoke and solidify particular identity-oriented affect and meaning ( see : [ 33 ] , p. 16 ) . In this such phantoms lead to : 
-( 6 ) Provision of forms of moral regulation . 
-In the process of translating practical wisdom from one situation to another , the plot may be subtly driven by established frameworks so that sight of the need to be creative is lost . Moreover , the translations cultivate a portfolio of narratives that exclude those who fail to accept the incorporated distortions , impressions , phantoms , and moral regulation . 
+3. Method and Outline
+To create a structure from which to explore how we might come to 
+    say the things we do in qualitative interviews (arguably the 
+    artifacts of such conversations) and what, in turn, might be 
+    inferred from the content of such narratives, I concentrated 
+    specifically on writings about collective memory: Recruited for the 
+    key protagonists were: Maurice Halbwach’s, The Collective 
+    Memory (1980), On Collective Memory 
+    (1992) [16,17]. Added to these were cameo but relevant roles to be 
+    played by components of Paul Ricoeur’s, Memory, History, 
+    Forgetting (2004), James Wertsch’s (2002) concept of 
+    collective remembering and Bakhtinian (Bakhtin, 
+    1986) notions of speech genres [18–20]. The method which unfolded 
+    symbolizes a promiscuous polymathery on my part and, from the 
+    outset, I acknowledge that liberties may have been taken with the 
+    scholarship of others to create an interpretative framework. 
+    Structured interdisciplinary reading inevitably transfigures the 
+    material on which it has drawn. Consequently, for specialists in 
+    the original canons, its results often seem lacking in rigour and 
+    thus intellectually irritating. However, the emphasis in this paper 
+    is on the transformation of the components into a slightly 
+    different whole through their interweaving. To explore the 
+    implications of these interwoven readings, what follows is divided 
+    into the following sections:
+- A theoretical methodology that draws together: the nature of 
+    our qualitative data around learning and teaching, the concept of 
+    collective memory, evidence of the limited geography in which we 
+    come to construct narratives about pedagogy and instruction, and 
+    the potential to identify particular speech genres within the 
+    data-sets. This means that to understand how our stories are 
+    constructed we need to combine the social theorizing of Halbwachs 
+    and Ricoeur, with the anthropological observations of Wertsch, and 
+    Bakhtin’s concept of speech genres. In the interpretative dialogue 
+    between these works, four closely mingled assumptions about what 
+    might be present in qualitative data related to learning and 
+    teaching emerges: Firstly, stories of significance (even if 
+    apparently mundane) are recalled in interviews; secondly, we 
+    re-member (recollect, recognize ourselves and others, and 
+    re-materialize) the teaching context when we reflect on what we 
+    consider to be important about the links between teaching and 
+    learning in such interviews; thirdly, 
+    re-membering involves not only our individually 
+    separable perceptions and experiences but, via the process of 
+    recall, also the framing of them through an interaction with a 
+    culturally shared repertoire of concerns, sentiments, and 
+    problem-solving approaches that link us to our disciplinary 
+    predecessors as well as current colleagues; fourthly, and 
+    consequently, that the concept of collective 
+    re-membering, predicated on the “irreducible 
+    tension between active agent and cultural tool” [19,21], is a 
+    pragmatically useful interpretative device when considering our 
+    findings. As a result of such a theoretical methodology, it is 
+    asserted that the phrase collective re-membering 
+    is of more use than collective memory when we consider our present 
+    teaching stories.
+- Two short case studies which illustrate the implications of 
+    the theoretical methodology when exploring the types of stories 
+    Humanities’ lecturers seem to build and maintain in conversations 
+    about aspects of their teaching: Firstly, myths about 
+    transformational reciprocity in our discussion of research-teaching 
+    linkages and, secondly, saints’ lives or sagas of inattention and 
+    suspicion around institutional-level educational agendas such as 
+    employability and global citizenship (particularly referred to 
+    collectively in the UK and Australia under the rubric of “graduate 
+    attributes’ agendas”). These examples present story categories that 
+    emerged whilst I undertook two qualitative research projects around 
+    how research-teaching linkages and graduate attributes respectively 
+    currently operated within the Humanities [14,15] and a brief 
+    reference to each of the data-sets introduces the case studies 
+    purely to establish the scene. Whilst by no means the fulcrum of 
+    this paper, the gathering and interpretation of these projects’ 
+    related data represent the back-story of the more theoretical 
+    discussion outlined here.
+- A final section raising the question of whether we erect and 
+    excavate simultaneously the wrong stories in our 
+    current designs of qualitative research when studying learning and 
+    teaching. This section concludes that it would be better to 
+    cultivate different types of narratives within the research process 
+    (particularly those being used by lecturers in the disciplines to 
+    understand teaching practices). If we want to capture the nuances 
+    of our experience as academic teachers of the Humanities, we 
+    actually need to shift the narratives/narrative resources on which 
+    we have come to depend when talking about learning and teaching.
+In the spirit of storytelling and deliberate playfulness that 
+    lay behind this article’s first outing as a conference keynote, I 
+    have also pressed Herodotus into service to provide illuminating 
+    metaphors. I have thus co-opted his description of Babylonian 
+    customs to emphasize or elucidate points. I ask my readers, 
+    therefore, to imagine they are travelling along the Euphrates to 
+    Babylon, where a river of interpretation runs through a city built 
+    from the fired bricks of primary and secondary sources.
+4. Theoretical Methodology: Unravelling the 
+    Narrative
+4.1. Plot 1: Excavating the Emic Foundations of Our 
+    Stories: Bringing Qualitative Data together with the Concept of 
+    Collective Memory
+Forms of qualitative inquiry, with narrative at their heart, 
+    dominate the higher education (HE) learning and teaching landscape. 
+    The prominence of the single, semi-structured interview is embedded 
+    across the journals which deal with higher education practice-based 
+    research. In particular, over the last decade, a significant amount 
+    of emic material has been recorded and analyzed 
+    in terms of the outcomes of research-teaching linkages across 
+    Anglophone and European universities [22]. The Humanities have 
+    certainly not been immune to this trend [14,23]. Through our 
+    conversations with and as educational developers 
+    and researchers we have arguably been reflecting back local 
+    customs, meanings, and beliefs, rather than illustrating our 
+    material practices and how these might be contradictory or 
+    dissonant to our narratives about those practices [24]. These 
+    conversations are only concerned with communicating the meanings we 
+    ascribe to our actions, harmonizing ideal and experience and giving 
+    only one side of an insider’s view [25]. Through them we tell our 
+    stories.
+Additionally, the ascription of meaning is part of the constant 
+    dialogue between individual memory and the socio-cultural tools 
+    which help in its formation. As Ricoeur observes, “it is 
+    essentially along the path of recollection and recognition that we 
+    encounter the memories of others” ([18], p. 120). Our stories tell 
+    of how we make meaning of teaching situations and in so doing 
+    generate recollection, recognition, and thus to a certain extent 
+    re-materialization through conversation. Our recall of such stories 
+    in interviews is thus in part informed by collective (and in this 
+    case, often disciplinary) memories. With regard to making meaning 
+    of current learning and teaching situations and what we value as 
+    important, this suggests the possibility of uncovering a shared 
+    repertoire of concerns, sentiments, disciplinary morality, and 
+    phraseology that links our narratives to the past. In effect, it 
+    suggests a Halbwachs-like underlying mechanism operating between 
+    our contemporary experience and that of our disciplinary 
+    predecessors. Thus, what we say in qualitative interviews is a 
+    location not only for the excavation of our individual story but 
+    also the collective re-membering retained in the 
+    story. Our transcripts hint at the past beyond our immediate 
+    experience, expanding the time-frame in which the story was 
+    generated. (Reflecting on Halbwachs, Ricoeur refers to this as a 
+    widening of the temporal horizon of younger generations, [18], p. 
+    394).
+4.2. Plot 2: Discovering that Collective Memories are 
+    Constructed in the Public Square
+If collective re-membering fashions our stories into a form of 
+    archaeological artifact, we need to excavate the factors involved 
+    in the propagation of a commonly shared repertoire that links the 
+    contemporary generation of disciplinary academics to the past. 
+    Here, Herodotus can help. When describing Babylonian customs, 
+    Herodotus notes that the sick do not consult physicians but rather, 
+    if someone is ill, they are laid in the public square and if the 
+    passers-by have had a similar ailment or know someone themselves 
+    who has had the disease, they: “give him advice, recommending him 
+    to do whatever they found good in their own case, or in a case 
+    known to them.” (Herodotus, Histories, 1:197). 
+    We have a similar process when it comes to learning about how to 
+    resolve issues in teaching. Studies make it quite clear that when 
+    we have a problem-solving situation in our classrooms, we are 
+    highly likely to prefer the example or advice of an associate to 
+    abstract theory or empirical findings ([26], p. 116).
+Like the Babylonians, when it comes to teaching, rather than 
+    going for a robust evidence-base, Humanities academics enter the 
+    disciplinary public square to see how colleagues made meaning out 
+    of an apparently similar situation. In this we encounter a context 
+    where how we remember the circumstances and what is important to 
+    value is directly influenced by the “interruption” of our 
+    colleagues. In turn, those colleagues may well be recalling what 
+    they heard previously. This process is similar, then, to Halbwach’s 
+    notion that collective memories are “recalled to us through others 
+    even though only we were participants in the events” ([16], p. 23). 
+    We have the original experience, but in discussion with others, 
+    there is the potential for a collectively influenced reframing. How 
+    we make sense of the circumstances becomes entwined with the 
+    register of sense-making of our predecessors as well as our 
+    contemporaries.
+4.3. Plot 3: Finding the Public Square Turned into a 
+    Disciplinary Gated-Community
+The prologue noted how stories can function to invite in or 
+    exclude those who encounter them, which raises the question of 
+    whether our collective re-membering operates in such a way that the 
+    public square conversations increasingly occur within a virtual 
+    fence, one that includes and excludes. The work on significant 
+    conversational networks about learning and teaching analyzed in 
+    Roxä and Märtensson [27,28] demonstrates how the bulk of 
+    conversational “passers-by” in the public square are drawn from our 
+    immediate disciplinary circle. The resultant network is based on 
+    trust, privacy, and shared intellectual problem-solving regarding 
+    teaching. What this means is, we have a clique to whom and from 
+    whom we construct our understanding of teaching. Our insularity can 
+    turn the public square into a virtually gated community.
+Given that collective culture will orchestrate forgetting as 
+    well as re-membering, the skewing of our meaning-making towards a 
+    dominant or authoritative narrative within it becomes more probable 
+    [29,30]. This is not to deny the role of contestation and mediation 
+    within the process, which Halbwachs failed to address ([30], p. 
+    379) and is increasingly the focus of debate [19]. Instead, it is 
+    to indicate the possibility of repetitions across generations that 
+    would result in a shared repertoire (sometimes regardless of 
+    changes to the material circumstances) because of the apparent 
+    legitimacy and authority associated with collective memories.
+Recognizing this is important because, if Boyer and Wertsch 
+    ([31], p. 113) are right, the cultural “tools” represented in such 
+    repetitions express a particular agenda or goal (an implicit plot 
+    perhaps) without seeking recourse to explicit standards of veracity 
+    (as is witnessed when our discourse slips into nostalgia, for 
+    example). Indeed, if we examine what our qualitative data-sets 
+    suggest about our agendas related to the links between research, 
+    teaching and graduate attributes, what is exhibited maps onto 
+    evidence of how collective re-memories function, including:
+(1) Toleration of distortion (such as inconsistencies between 
+    espoused over-all beliefs about learning and teaching and the 
+    narrative resources used to illustrate what we mean);
+(2) Smoothing over of paradoxes;
+(3) Inattention to omissions. In re-narration, for example, 
+    problematic and ambiguous content is often omitted ([32], p. 15). 
+    For Halbwachs this is one of the ways we deal with “inconvenient 
+    memories” ([17], p. 50);
+(4) Assimilation of our senior colleagues’ memories. This may 
+    “widen our temporal horizon”, giving us access to practical wisdom 
+    evolved over time, but it might also imprison the conversations in 
+    a passive persistence of first impressions ([18], pp. 394, 427), 
+    circumscribing criticality and consequential expertise 
+    acquisition;
+(5) Amalgamation of phantoms which allow our immediate past to 
+    be linked to decontextualised beliefs about disciplinary 
+    predecessors we have not known. These phantoms often help locate 
+    our identity in a more positive history of the discipline. This 
+    process, in turn, can lapse into nostalgia and stereotyping, 
+    suppressing negative aspects of the longer past in the service of 
+    the kind of people we are or assume ourselves to be (see: [21]). 
+    These phantoms, in effect, enable us to engage historical 
+    representations to provoke and solidify particular 
+    identity-oriented affect and meaning (see: [33], p. 16). In this 
+    such phantoms lead to:
+(6) Provision of forms of moral regulation.
+In the process of translating practical wisdom from one 
+    situation to another, the plot may be subtly driven by established 
+    frameworks so that sight of the need to be creative is lost. 
+    Moreover, the translations cultivate a portfolio of narratives that 
+    exclude those who fail to accept the incorporated distortions, 
+    impressions, phantoms, and moral regulation.

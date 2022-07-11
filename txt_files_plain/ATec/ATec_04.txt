@@ -1,0 +1,225 @@
+1. Introduction
+This article is about the colour sonar method in concept and 
+    principle and a practical implementation based on a prototype 
+    three-frequency sidescan sonar system. The utility of the method is 
+    demonstrated using data acquired in the Pentland Firth off northern 
+    Scotland.
+The seabed backscatters incident sonar signal because: there are 
+    acoustic impedance contrasts across the seabed interface; and the 
+    seabed interface is rough in comparison to the wavelength of the 
+    sonar carrier wave. The seabed interface comprises usually a seabed 
+    surface where one is well defined and shallow sub-seabed surfaces 
+    between contrasting materials. High absorption of ultrasound in 
+    sub-seabed materials severely limits the skin depth of the 
+    interface. The backscatter response of a seabed to the incident 
+    sonar signal, being dependent on seabed interface roughness, is 
+    therefore dependent on the wavelength of a sonar’s carrier wave: 
+    i.e., the seabed is acoustically colourful. 
+That the seabed is intrinsically acoustically colourful may be 
+    recognised in developing a sonar technology and data at multiple 
+    sonar frequencies acquired and mapped to optical primary colour 
+    frequencies to generate optical colour images of the seabed for 
+    human visualization. The principal advantage of colour imagery over 
+    greyscale is that at each pixel, a colour datum occupies a position 
+    in a three-dimensional (3D) RGB (red, green, blue) data space. If 
+    colour data are reduced to greyscale, the data in three dimensions 
+    are projected onto and will then occupy positions on a line (e.g., 
+    the diagonal across the RGB data space). If data are colourful, 
+    points distributed within the 3D RGB data space are more separate 
+    from each other than they are along a line. Therefore, 
+    multi-frequency colour images of the seabed enable greater 
+    discrimination between different types of seabed than broadband or 
+    single-frequency data represented as greyscale images. A secondary 
+    advantage of colour sonar images of the seabed is that they can 
+    (subject to the eye of the beholder) be very beautiful.
+The idea of colour sonar is not new; colour sonar (and 
+    concurrently radar) was patented in 1971 (Moore and Kans [1]). 
+    However, the greyscale display of sonar data has persisted and not 
+    been ubiquitously replaced by colour as it has in television (TV) 
+    technology since the 1960s. Whilst the sonar amplitude backscatter 
+    response of the seabed is a function of sonar system frequency, it 
+    is also a function of several other things (e.g., Reed and Hussong 
+    [2]; Searle et al. [3]; Augustin and Lurton [4]), which confound 
+    the effect of frequency. These lead to a ploughed field effect on 
+    mosaicked images in which distracting “plough swaths” are seen to 
+    correspond to sonar swaths. Such artefacts are not uncommon on 
+    mosaicked sonar images. They detract from the interpretability of 
+    greyscale images, and the impact of colour is deleterious, further 
+    detracting from, rather than facilitating, image interpretation. In 
+    images affected in this way, artefacts are less distracting in a 
+    greyscale image than a colour one, and this is quite likely a 
+    primary reason for the persistence of greyscale display in sidescan 
+    sonar imagery. 
+For sidescan sonar image amplitude, and in a multi-frequency 
+    system, colour, to be a meaningful property of the seabed, the 
+    confounding effects need to be corrected. The principal confounding 
+    effects are due to: absorption by water; geometrical spreading; the 
+    shape of the sonar beam function (the combined transmit-receive 
+    sonar beam intensity as a function of inclination angle in the 
+    sonar’s frame of reference); sonar vehicle roll; the shape of the 
+    seabed backscatter function (the proportion of signal incident on 
+    the seabed backscattered to the sonar as a function of the incident 
+    angle relative to the seabed); and seabed slope. The effects of 
+    absorption and geometrical spreading may be corrected relatively 
+    straightforwardly. The effects of sonar beam function and seabed 
+    backscatter function are angular rather than time-varied effects 
+    and more difficult to account for. It is only relatively recently 
+    that adequate corrections have been devised (Hughes Clarke, 
+    Danforth and Valentine [5]; Tamsett and Hogarth [6]). Further 
+    details of these corrections are provided in the section covering 
+    the processing of the experimental data presented in this 
+    article.
+After corrections have been applied, image amplitude and colour 
+    constitute an effect of the seabed (normalised to the seabed 
+    response at a reference inclination angle), and the additional 
+    dimensions of information inherent in acoustic colour images of the 
+    seabed compared to greyscale images are then directly analogous to 
+    the additional information inherent in optical colour images 
+    compared to greyscale images, e.g., in colour TV compared to black 
+    and white TV images. 
+For colour sonar, there is very little existing work. Some 
+    colour images generated from multi-frequency multi-beam sonar data 
+    are presented in Hughes Clarke and Muggah [7]. Colour has been used 
+    to present multi-frequency infrasound data (<20 Hz) in deep 
+    seismic sections (e.g., Partyka et al. [8]; Henderson et al. [9]; 
+    McArdle et al. [10]). Uses for colour in medical ultrasound 
+    applications have been explored (Holasek et al. [11]; Purnnell et 
+    al. [12]; Holasek et al. [13]; Jones et al. [14]; Ide and Masuzawa 
+    [15]), but are not in routine use. RADARSAT is an electromagnetic 
+    (e-m) analogue of sidescan sonar, and wideband RADARSAT data are 
+    displayed as a colour image in Mayer [16]. Additionally, for a long 
+    time, satellite non-optical e-m data have routinely been mapped to 
+    optical frequencies for human visualisation (e.g., Chuvieco and 
+    Huete [17]). 
+In this article, we describe: (i) a prototype multi-frequency 
+    colour sidescan sonar system and its deployment in a survey of the 
+    seafloor in the Inner Sound of the Pentland Firth, northern 
+    Scotland; (ii) the sonar data processing methods applied to render 
+    sonar data amplitude as a function of frequency, an unconfounded 
+    effect of the seabed normalized to the response of the seabed at a 
+    reference inclination angle; (iii) methods for rendering 
+    three-frequency sonar data as colour images for human 
+    visualisation; we discuss their pros and cons and recommend 
+    preferred methods, which in our opinion have colour characteristics 
+    that are harmonious with human visualisation facilitating image 
+    interpretation; (iv) images of the seabed in the Pentland Firth 
+    with particular emphasis on the colours generated for a variety of 
+    seabed materials; we note the interesting phenomenon of colour 
+    anisotropy (the dependence of the acoustic colour response of the 
+    seabed on the direction of ensonification); (v) natural sonar 
+    systems, and we compare them to anthropic ones and note that 
+    Microchiropteran (echo-locating) bats’ sonar satisfies the 
+    information criteria for acoustic colour, suggesting the hypothesis 
+    that they perceive a colourful world view informed by sonar.
+ 2. Sonar System and Deployment in the Pentland 
+    Firth
+A prototype digital colour sidescan sonar system has been built 
+    by Kongsberg GeoAcoustics (Underwater Mapping) Ltd. (Great 
+    Yarmouth, UK). This transmits simultaneous port and starboard pings 
+    at three frequencies: 114, 256 and 410 kilohertz (kHz). The sonar 
+    is a basic range-only system. The ping for all frequencies is 16 
+    cycles long corresponding to 128, 64 and 32 µs, respectively. The 
+    fore-aft sonar beam widths are 1.0°, 0.75° and 0.5°, respectively. 
+    The beams are directed at an inclination of 30° below the 
+    horizontal in the sonar’s frame of reference, and the nominal beam 
+    widths in the vertical plane perpendicular to the axis of the sonar 
+    vehicle are approximately 60°. The sonar incorporates an attitude 
+    sensor to measure pitch, roll and heading. 
+A survey was conducted on 25 June 2015 in the Inner Sound of the 
+    Pentland Firth, to the south of Stroma Island off the north coast 
+    of Caithness, Scotland, over an area of approximately 900 by 1250 m 
+    in an exploration of the seafloor in the tidally-energetic 
+    environment (Figure 1).
+ Figure 1. The 
+    Inner Sound of the Pentland Firth is located between Stroma Island 
+    and Gills Bay, northern Scotland. The experimental data in the 
+    article were acquired in the area represented by the rectangle 
+    immediately south of Stroma Island. This is shown enlarged to the 
+    right with the extents of the swath in Figure 2, Figure 3, Figure 
+    4, Figure 5 and Figure 6 and the swath montage in Figure 7 and 
+    Figure 8. 
+The sonar was deployed from a 7 m catamaran; the “ERI Aurora”. 
+    The sonar was coupled to the vessel’s hull and suspended beneath it 
+    via a pole mounted to the side of the boat. A Hemisphere V110 GPS 
+    heading sensor was mounted directly above the sonar to measure 
+    position and vessel/sonar heading. The ping rate was approximately 
+    7.7 Hz. The sonar trace length was 120 ms, corresponding to a 
+    maximum range and half-swath width of approximately 90 m from the 
+    sonar. The survey was conducted along 15 lines spaced at 50 m 
+    intervals running north-south approximately at right angles to the 
+    general trend of isobaths. The vessel speed relative to the seabed 
+    was approximately 4 knots (2 ms−1). 
+The seabed was at depths varying from approximately 40 m below 
+    the sonar vehicle across the south of the survey area shoaling to 
+    approximately 10 m at the northern end of the survey area. The 
+    bedrock is Devonian flagstone of Middle Red Sandstone age steeply 
+    dipping at approximately 50° to the east. This is exposed at the 
+    seabed over much of the survey area. It is overlain by a ridge of 
+    gravel running across the southern half of the survey area and by a 
+    sub-aqueous dune of sand underlain and surrounded by a field of 
+    cobbles in the northern half.
+3. Sonar Data Processing
+Geometrical spreading was compensated for in two stages. First, 
+    a time-varied gain (TVG) of +30 log(R) decibels (dB) (where R is 
+    one-way travel range in meters) was applied during data 
+    acquisition. This accounts for two-way intensity loss for point 
+    targets (inversely proportional to the fourth power of range) and 
+    for the effect of the area of the seabed ensonified by the sonar 
+    pulse (proportional to range as a far-range approximation). 
+    Secondly, the effect of the area of seabed ensonified by the sonar 
+    pulse was corrected more accurately post-acquisition, accounting 
+    for inclination angle, as well as range. 
+Other processes were applied post-acquisition. Corrections for 
+    absorption of +A.2R dB were applied, where A = 0.0335, 0.0600 and 
+    0.1007 dB/m are the respective absorption coefficients for the 
+    three frequencies estimated using van Moll, Ainslie and van Vossen 
+    [18]. 
+The locations of the first arrival of the seabed at normal 
+    incidence on traces were determined. For a range-only sonar system, 
+    this provides the sole estimate for the depth to the seabed from 
+    the sonar, and a flat seabed across swath is assumed in subsequent 
+    processing. 
+The process of trace normalisation (TN) was applied. The angular 
+    response of the sonar in the vertical plane orthogonal to the sonar 
+    vehicle was normalised to the response at a reference angle in the 
+    sonar’s frame of reference (30° below the horizontal). The angular 
+    response of the seabed as a function of inclination angle estimated 
+    with respect to the seabed’s frame of reference (the grazing angle) 
+    was normalised to the seabed’s response at the reference 
+    inclination angle. 
+Beam functions and seabed backscatter functions are dependent on 
+    sonar carrier wave frequency. Beam functions were estimated by 
+    extraction from sonar trace and sonar vehicle roll data using the 
+    method of Tamsett and Hogarth [6] (patent pending WO2014/170213) 
+    from just over 600 contiguous traces affected by ±5° of roll from a 
+    swath running over a rocky seabed approximately parallel to the dip 
+    direction exhibiting an approximately uniform seabed across swath. 
+    The method takes advantage of the rotation of the sonar’s frame of 
+    reference with respect to the seabed’s frame of reference during 
+    sonar vehicle roll. This enables multiple sonar beam sub-functions 
+    to be extracted with angular extent equal to the amount of roll. 
+    The multiple sub-functions are extracted in such a way that they 
+    overlap with respect to angle at their ends and may subsequently be 
+    reconciled in constructing single functions for the full range of 
+    incident angles encountered in the data. In addition to normalising 
+    data to the response at the reference inclination angle, a 
+    correction was also applied for sonar vehicle roll. 
+During processing of swaths, seabed backscatter functions were 
+    extracted from the nearest 201 traces centred on the trace being 
+    processed. Where swath bathymetry data are available, corrections 
+    are also applied for slope, but this cannot be done for data 
+    acquired using a range-only sonar system. 
+The process of slant range correction was applied to display 
+    data as a function of horizontal distance from the sonar vehicle. 
+    
+Finally, the process of rendering tri-frequency acoustic 
+    amplitude for colour visualisation is applied. Humans perceive 
+    colour optically, and therefore, the acoustic frequencies are 
+    mapped to optical ones for human visualisation. This is a natural 
+    extension of the presentation of single-frequency sidescan sonar 
+    swaths as greyscale images with which we are familiar. It would 
+    seem appropriate that seabed responses at the lowest sonar 
+    frequency (114 kHz) should appear as the low-frequency optical 
+    primary colour red in the electromagnetic spectrum and that the 
+    mid-sonar frequency (256 kHz) appear as green, while the high sonar 
+    frequency (410 kHz) as blue.

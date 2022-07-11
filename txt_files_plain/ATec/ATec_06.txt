@@ -1,0 +1,228 @@
+1. Introduction
+In this paper, we review gamma-ray spectroscopy as a survey tool 
+    for geothermal resource exploration. We hope the paper will also be 
+    useful as a practical guide for those unfamiliar with gamma-ray 
+    surveying, who might benefit from using it in geothermal 
+    exploration.
+Gamma-ray spectroscopy allows determination of concentrations of 
+    selected radioelements from which the heat being produced from 
+    radioactive decay can be calculated. This may be by counting 
+    gamma-rays produced either in a rock sample during a laboratory 
+    test or an area of land during an in-situ 
+    survey. However, the relationship between recorded gamma fluence 
+    and radioelemental concentration in the geosphere is complex. 
+    Factors such as decay series disequilibria, topographical errors, 
+    and atmospheric influence during surveying can lead to results that 
+    are not representative of the underlying rock. The radioelements of 
+    interest for geothermal resources are potassium (K), uranium (U), 
+    and thorium (Th). Rocks of high concentrations of these 
+    radioelements can be characterised by high heat flow, and the 
+    geothermal gradient can thus be favourably enhanced. Such 
+    enhancement creates useable heat at shallower depths than would 
+    otherwise be the case, thus reducing the drilling costs of a 
+    geothermal project.
+Many granites are enriched in the radioelements potassium, 
+    thorium and uranium, and thus typically have higher radioactivity 
+    than many other rocks. Granite is therefore a favoured target in 
+    geothermal exploration worldwide, e.g., USA [1], Japan [2], UK [3], 
+    France [4], Switzerland [5], Australia [6]. This heat producing 
+    property of granite is particularly effective when the pluton is 
+    buried beneath layers of low heat conductivity “duvet rocks” such 
+    as coal or shale [7]. There can be crossover between 
+    classifications of duvet rocks and caprocks 
+    (i.e., reservoir topseals), where the rocks both 
+    have low thermal conductivity and permeability. However, some 
+    potential duvet rocks such as the Clyde Plateau Lavas in the 
+    Midland Valley of Scotland would likely not be effective caprocks, 
+    in this case due to extensive fracturing. Where such duvet rocks 
+    cap highly radiogenic granite, vastly enhanced heat can be obtained 
+    [8,9,10]. Radiogenic heat production is not just a phenomenon 
+    peculiar to granite as all rocks contain some concentration of 
+    radio-elements. Depending on the depositional environment, 
+    mudstones can have elevated concentrations of radio-elements 
+    compared to other sedimentary rocks. Due to their low thermal 
+    conductivities (because of their low quartz content) this heat can 
+    remain in place within mudstones over geological time, which may 
+    result in viable geothermal resources. Metamorphic rocks, on the 
+    other hand, tend to be depleted in radio-elements [11,12]; such 
+    depletion is actually part of the process that feeds the upper 
+    crust with relatively higher concentrations of radioelements 
+    [13].
+Within geothermal exploration, gamma-ray surveying can be put to 
+    a number of uses beyond heat production investigations. In 
+    geothermal investigations, gamma-ray surveying is also useful for 
+    fracture identification. Fractures in the subsurface have 
+    previously been associated with elevated uranium concentrations 
+    [14,15] due to the mobility of uranium in subsurface fluid 
+    circulation. Such mobility can cause a significant issue for 
+    gamma-ray spectrometry survey interpretation known as 
+    disequilibrium (discussed in Section 4.2). Fractures can be a 
+    source of significantly enhanced permeability [15,16,17] providing 
+    key conduits for fluid extraction in a geothermal system; thus, it 
+    is advantageous to accurately characterise the fluid flow 
+    properties of a fracture network during resource evaluation. The 
+    duvet layers of low heat conduction, e.g., mudstone, can also be 
+    detected by their higher gamma-ray output compared to surrounding 
+    formations. These gamma-ray counts show up during wire-line logging 
+    of boreholes.
+Gamma-ray surveying also has a wide range of applications beyond 
+    geothermal exploration including: uranium exploration [18,19], 
+    sedimentary facies identification for oil and gas exploration 
+    [20,21,22], detection of radioactive contamination [23,24], and 
+    mineral exploration [25]. It can also be used for pure earth 
+    science discoveries, e.g., constraining deep crustal processes from 
+    potassium, uranium, and thorium concentrations in modern day 
+    outcrops [26,27].
+2. Revision of Physical Concepts
+2.1. Gamma-ray Formation and Detection
+Gamma-ray is the name generally given to high-energy photons 
+    emitted during decay of atomic nuclei. Gamma-rays have frequencies 
+    greater than 1019 Hz, wavelengths less 
+    than 10−12 m, and have energies above 
+    104 eV; gamma-rays are generally the 
+    highest energy photons in the electro-magnetic spectrum. 
+    Radioelements spontaneously decay leading to emission of alpha, 
+    beta, and/or gamma radiation depending on the decaying element. 
+    These radio-elements are naturally present in most rocks, but tend 
+    to be concentrated at higher levels in certain types (e.g., 
+    granite, mudstone). Potassium, uranium, and thorium are of 
+    particular interest for geothermal production because they 
+    contribute significantly to the heat produced during radioactive 
+    decay in the rock. The concentrations of these elements show an 
+    approximate trend to increase with silica content [28]; the same 
+    relationship has been found for gamma ray intensity in volcanic 
+    rocks [29].
+Gamma-rays penetrate through materials (e.g., rock and air) much 
+    further than the other forms of radiation (alpha or beta). This 
+    penetrating ability is what makes gamma-rays useful for detecting 
+    radioelement concentrations within rock. They can penetrate up to 
+    0.5 m through rock, allowing a sample to be collected by a portable 
+    gamma-surveyor which is large enough to not be grossly biased by 
+    local concentration heterogeneity. However, the half-length of a 
+    gamma-ray in rock such as granite is much less than 0.5 m; 
+    half-length is the distance through a material where half the 
+    gamma-rays will be attenuated. During an in-situ survey, most of 
+    the gamma-rays detected will effectively come from the top 0.15 m 
+    of material. For example, a portable detector placed on a rock 
+    surface will sample gamma-rays from approximately a 0.15 m deep by 
+    1.0 m diameter disc (Figure 1); with a small contribution from 
+    deeper sources. Penetration through air can be up to several 
+    hundreds of metres; therefore, aerial surveys are typically 
+    conducted 30–300 m above the surface [30,31]. Although the 
+    penetrating property of gamma rays allow surveys to be conducted, 
+    having most gamma radiation coming from the top 0.15 m at the 
+    surface does present problems. Aerial surveys (explained in Section 
+    3) sample a wide area during each reading; such a sample may be a 
+    mixture of bare rock, peat cover, and water courses. The portion of 
+    the measured gamma-rays that originated from bare rock can be a 
+    significant uncertainty when interpreting the results. A further 
+    issue is weathering can alter the concentration of potassium, 
+    uranium, and thorium at the rock surface [28]. These issues can be 
+    compensated for by calibrating aerial results with direct surveying 
+    of a freshly created rock surface or testing borehole samples in 
+    the laboratory [32,33].
+ Figure 1. 
+    Schematic showing approximate areas of rock sampled by portable 
+    gamma surveyor placed on rock surface. 
+The concentrations of specific radioelements can be determined 
+    as they each impart a specific energy signature onto the photon 
+    produced during decay. The isotope 40K 
+    produces photons with energy of 1.46 MeV. However, uranium and 
+    thorium are detected by their daughter products; therefore, uranium 
+    and thorium concentrations are detected as equivalent uranium (eU) 
+    and equivalent thorium (eTh). The early spectrometers used the 
+    daughter products 214Bi (1.76 MeV) for 
+    uranium and 208Tl (2.62 MeV) for 
+    thorium. These daughter products were originally used because their 
+    produced gamma-ray energy signatures are relatively large (e.g., 
+    0.8 MeV for Bi214 compared with 0.2 MeV 
+    for U235 or no gamma-ray produced for 
+    U238) and can be more easily 
+    distinguished. Modern spectrometers are not limited to solely these 
+    daughter products to estimate eU and eTh as improvements in 
+    spectrometers means that many of the lines in the uranium or 
+    thorium decay series can be distinguished. This allows adequate 
+    confidence in estimates of potassium, uranium, and thorium derived 
+    from gamma-ray sources. Additionally, Compton Scattering affects 
+    gamma-rays as they pass through rock due to gamma-rays “bouncing 
+    off” electrons which absorb some of the energy from the gamma-ray. 
+    This Compton Scattering means that when a photon is detected by the 
+    surveyor it may have much less energy than when it was created 
+    during decay. This diminishing energy results in photons created by 
+    thorium decay arriving at the detector with energy expected from 
+    uranium or potassium decay, in addition to U photons arriving with 
+    the expected potassium decay energy. However, these scattering 
+    affects can be compensated for in spectral analysis.
+The photoelectric effect [34,35] is utilised to detect 
+    gamma-rays [36] with many detectors made from material which 
+    undergo scintillation; i.e., visible light is 
+    produced when struck by gamma-rays (the use of this effect is 
+    described further in Section 3). Detectors made from sodium-iodine 
+    are typically used in in-situ surveys [20,26,37,38]. Many other 
+    materials are used for scintillators such as bismuth germinate; 
+    ceasium-iodide detectors may also be used but these have poor 
+    resolution. Alternatively, lanthanum bromide detectors provide good 
+    resolution but have self-dose issues; cerium bromide has less 
+    self-dose problems but remains expensive. Also in use are 
+    semiconductor detectors such as intrinsic germanium. This is used 
+    for lab studies as it requires cryogenic cooling. 
+2.2. Heat Production from Radioelements
+The heat from radioactive decay is produced in accordance with 
+    the well-known Einsteinian expression E = mc2 
+    [39]. This summarises the fact that energy cannot be created or 
+    destroyed, but mass can be converted into energy and vice-versa. 
+    During the decay processes, some mass must be converted into the 
+    energy that produces the heat. Initially, this energy exists in the 
+    form of the emitted particle’s kinetic energy. During subsequent 
+    collisions, this energy is absorbed and converted to heat.
+It is important to note that, although gamma-rays are used to 
+    determine the quantities of potassium, uranium, and thorium in 
+    rock, the gamma-rays themselves are not actually responsible for 
+    significant quantities of the heat produced. Alpha and Beta 
+    components of decay produce much more heat than gamma-rays; in 
+    particular, the alpha decay of uranium [40]. Such heat producing 
+    decays come from different parts of the decay series to the 
+    detected gamma-rays, thus disequilibrium of the decay series 
+    (further discussed in Section 4.2) can lead to radioelemental 
+    concentrations that do not represent the radiogenic heat being 
+    produced by the rock. Neutrinos are also produced during decay but 
+    pass through the planet, thus some energy of the Earth is lost to 
+    outer space [41].
+3. Instrumentation
+Several different types of gamma spectrometers can be used 
+    in-situ in the field or laboratory, but all share a common basic 
+    architecture (Figure 2). Detectors are either based on 
+    scintillation or semiconductors. Scintillation detectors consist of 
+    both a scintillator and photomultiplier. The scintillator is made 
+    out of material which reacts with gamma-ray photons producing 
+    photons of visible light. The visible light forces electrons to be 
+    ejected from the photomultiplier which are then multiplied [42]. 
+    The electrons strike an anode, which produces a negative voltage 
+    pulse which is proportional to the energy of the photon which 
+    struck the scintillator. This proportionality is how the energy can 
+    be determined by the spectral analyzer and thus the origin of the 
+    gamma-ray can be determined. Semiconductor detectors are diodes in 
+    which incident radiation generates electron-hole pairs which 
+    migrate to electrodes due to a high voltage across the diode. This 
+    produces a current pulse proportional to the energy deposited by 
+    the incident radiation.
+ Figure 2. Block 
+    diagram showing the main sections which are common to most 
+    gamma-ray spectrometers. Figure adapted from International Atomic 
+    Energy Agency (IAEA) 2003 report [42]. 
+Many geothermal exploration studies utilise lab-based 
+    gamma-spectrometers. These gamma-spectrometers can be very precise, 
+    such as intrinsic germanium semiconductor counters. They deliver 
+    reliable results because they can be regularly checked against 
+    standards and the surrounding environment remains largely stable. 
+    To conduct the gamma readings, a sample of approximately 100 g is 
+    crushed (less material may be used for more highly radioactive 
+    samples). The crushed sample is then put in the chamber with the 
+    counter; the chamber being housed in minimizes influences of 
+    externally created gamma rays. Lab techniques are often used during 
+    geothermal drilling since small drill cutting samples can be used 
+    for the analysis. Using the drill cuttings has the advantage that 
+    drilling does not have to be interrupted for wire-line logging to 
+    gain data about the heat production of the geothermal exploration 
+    target rocks. Laboratory measurements have typical errors of 
+    0.03%–0.1% K, 0.5–2 ppm eU, and 0.1–0.3 ppm eTh [42].

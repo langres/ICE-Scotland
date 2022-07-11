@@ -1,0 +1,142 @@
+parliament_NN1 has_VHZ confered_VVN statutory_JJ rights_NN2 on_II employees_NN2 
+often_RR implementing_VVG EU_NP1 law_NN1 
+many_DA2 employment_NN1 rights_NN2 are_VBR not_XX of_IO a_AT1 financial_JJ nature_NN1 
+they_PPHS2 include_VV0 for_REX21 example_REX22 the_AT right_NN1 to_II written_JJ particular_JJ subterms_NN2 of_IO employment_NN1 
+those_DD2 employment_NN1 rights_NN2 which_DDQ do_VD0 have_VHI financial_JJ consequences_NN2 
+often_RR involve_VV0 small_JJ sums_NN2 
+for_REX21 example_REX22 two_MC weeks_NNT2 '_GE pay_NN1 
+most_DAT employment_NN1 rights_NN2 can_VM only_RR be_VBI enforced_VVN in_II employment_NN1 tribunals_NN2 
+with_IW an_AT1 appeal_NN1 line_NN1 to_II the_AT employment_NN1 appeal_NN1 tribunal_NN1 
+until_II recently_RR 
+proceedings_NN2 could_VM be_VBI brought_VVN without_IW any_DD fee_NN1 being_VBG paid_VVN 
+that_DD1 changed_VVD 
+when_CS a_AT1 fees_NN2 order_NN1 was_VBDZ introduced_VVN 
+in_II July_NPM1 
+of_IO twenty_MC21 thirteen_MC22 
+under_II the_AT fees_NN2 order_NN1 
+the_AT amount_NN1 which_DDQ must_VM be_VBI paid_VVN 
+before_CS a_AT1 claim_NN1 or_CC appeal_NN1 can_VM be_VBI dealt_VVN with_IW 
+depends_VVZ on_II whether_CSW the_AT claim_NN1 is_VBZ classified_VVN as_II type_NN1 A_ZZ1 or_CC type_NN1 B_ZZ1 
+type_NN1 A_ZZ1 claims_NN2 
+generally_RR require_VV0 little_DA1 prehearing_NN1 work_NN1 
+and_CC only_RR a_AT1 short_JJ hearing_NN1 
+type_NN1 B_ZZ1 claims_NN2 
+generally_RR require_VV0 more_DAR of_IO the_AT tribunal_NN1 's_GE time_NNT1 
+they_PPHS2 include_VV0 
+unfair_JJ dismissal_NN1 
+equal_JJ pay_NN1 
+and_CC discrimination_NN1 claims_NN2 
+for_IF a_AT1 single_JJ claimant_NN1 
+the_AT fees_NN2 in_II the_AT employment_NN1 tribunal_NN1 
+total_NN1 three_MC41 hundred_MC42 and_MC43 ninety_MC44 pounds_NNU2 
+for_IF a_AT1 type_NN1 A_ZZ1 claim_NN1 
+and_CC one_MC31 thousand_MC32 two_MC33 hundred_NNO pounds_NNU2 
+for_IF a_AT1 type_NN1 B_ZZ1 claim_NN1 
+the_AT fees_NN2 order_NN1 
+makes_VVZ provision_NN1 for_IF the_AT remission_NN1 of_IO those_DD2 fees_NN2 
+if_CS a_AT1 claimant_NN1 's_GE disposable_JJ capital_NN1 
+and_CC that_DD1 of_IO their_APPGE partner_NN1 
+erm_UH totals_VVZ 
+less_DAR than_CSN three_MC thousand_NNO pounds_NNU2 
+the_AT amount_NN1 of_IO remission_NN1 depends_VVZ on_II the_AT claimant_NN1 's_GE gross_JJ monthly_JJ income_NN1 
+and_CC that_DD1 of_IO their_APPGE partner_NN1 
+and_CC the_AT number_NN1 of_IO children_NN2 they_PPHS2 have_VH0 
+a_AT1 couple_NN1 earning_VVG the_AT minimum_JJ wage_NN1 
+would_VM not_XX qualify_VVI for_IF remission_NN1 in_II a_AT1 type_NN1 A_ZZ1 case_NN1 
+but_CCB they_PPHS2 might_VM get_VVI some_DD remission_NN1 
+in_II a_AT1 type_NN1 B_ZZ1 case_NN1 
+a_AT1 fee_NN1 may_VM also_RR be_VBI remitted_VVN 
+if_CS the_AT Lord_NNB Chancellor_NP1 
+is_VBZ satisfied_JJ that_CST there_EX are_VBR exceptional_JJ circumstances_NN2 
+which_DDQ in_II practice_NN1 means_VVZ 
+exceptional_JJ hardship_NN1 
+successful_JJ claimants_NN2 
+may_VM obtain_VVI an_AT1 order_NN1 for_IF reimbursement_NN1 
+of_IO the_AT fees_NN2 
+by_II the_AT losing_JJ party_NN1 
+but_CCB in_II practice_NN1 
+most_DAT successful_JJ claimants_NN2 do_VD0 not_XX recover_VVI the_AT full_JJ amount_NN1 order_NN1 to_TO be_VBI paid_VVN 
+and_CC many_DA2 recover_VV0 nothing_PN1 at_RR21 all_RR22 
+this_DD1 appeal_NN1 arises_VVZ out_II21 of_II22 an_AT1 application_NN1 for_IF judicial_JJ review_NN1 
+in_II which_DDQ the_AT trade_NN1 union_NN1 UNISON_NP1 
+argues_VVZ that_CST the_AT making_NN1 of_IO the_AT fees_NN2 order_NN1 
+was_VBDZ not_XX a_AT1 lawful_JJ exercise_NN1 of_IO the_AT Lord_NNB Chancellor_NP1 's_GE statutory_JJ power_NN1 to_TO prescribe_VVI fees_NN2 
+because_CS the_AT fees_NN2 imposed_VVN 
+interfere_VV0 
+unjustifiably_RR 
+with_IW the_AT right_NN1 of_IO access_NN1 to_II justice_NN1 
+under_II both_RR the_AT common_JJ law_NN1 
+and_CC EU_NP1 law_NN1 
+frustrate_VV0 the_AT operation_NN1 of_IO parliamentary_JJ legislation_NN1 granting_VVG employment_NN1 rights_NN2 
+and_CC discriminate_VV0 unlawfully_RR against_II women_NN2 and_CC other_JJ protected_JJ groups_NN2 
+the_AT application_NN1 was_VBDZ dismissed_VVN by_II the_AT High_JJ Court_NP1 
+and_CC its_APPGE decision_NN1 was_VBDZ upheld_VVN by_II the_AT court_NN1 of_IO appeal_NN1 
+the_AT Supreme_JJ Court_NP1 unanimously_RR allows_VVZ UNISON_NP1 's_GE appeal_NN1 
+it_PPH1 holds_VVZ that_CST the_AT fees_NN2 order_NN1 is_VBZ unlawful_JJ 
+under_II both_RR domestic_JJ and_CC EU_NP1 law_NN1 
+because_CS it_PPH1 has_VHZ the_AT effect_NN1 of_IO preventing_VVG access_NN1 to_II justice_NN1 
+and_CC it_PPH1 's_VBZ also_RR discriminatory_JJ 
+the_AT court_NN1 's_GE decision_NN1 is_VBZ based_VVN principally_RR on_II the_AT common_JJ law_NN1 right_NN1 of_IO access_NN1 to_II the_AT courts_NN2 
+that_DD1 right_NN1 is_VBZ a_AT1 vital_JJ component_NN1 of_IO the_AT rule_NN1 of_IO law_NN1 
+it_PPH1 is_VBZ needed_VVN to_TO ensure_VVI that_CST the_AT laws_NN2 created_VVN by_II parliament_NN1 
+including_II those_DD2 creating_VVG employment_NN1 rights_NN2 
+are_VBR applied_VVN and_CC enforced_VVN 
+the_AT effect_NN1 of_IO a_AT1 right_NN1 
+is_VBZ that_CST access_NN1 to_II the_AT courts_NN2 and_CC tribunals_NN2 
+can_VM not_XX be_VBI taken_VVN away_RL without_IW parliament_NN1 's_GE express_NN1 authority_NN1 
+and_CC parliament_NN1 did_VDD not_XX give_VVI that_DD1 authority_NN1 
+when_CS it_PPH1 empowered_VVD the_AT Lord_NNB Chancellor_NP1 to_TO prescribe_VVI fees_NN2 
+the_AT court_NN1 bases_VVZ its_APPGE conclusion_NN1 that_CST the_AT fees_NN2 are_VBR inconsistent_JJ with_IW access_NN1 to_II justice_NN1 
+on_II a_AT1 number_NN1 of_IO factors_NN2 
+one_PN1 is_VBZ that_CST the_AT fees_NN2 have_VH0 resulted_VVN in_II 
+such_DA a_AT1 substantial_JJ and_CC sustained_JJ fall_NN1 in_II the_AT number_NN1 of_IO claims_NN2 being_VBG brought_VVN 
+that_CST it_PPH1 points_VVZ to_II the_AT conclusion_NN1 
+that_CST a_AT1 significant_JJ number_NN1 of_IO people_NN have_VH0 found_VVN the_AT fees_NN2 unaffordable_JJ 
+secondly_RR 
+surveys_NN2 have_VH0 confirmed_VVN that_CST people_NN who_PNQS notified_VVD ACAS_NP1 
+of_IO claims_NN2 
+but_CCB did_VDD not_XX present_VVI claims_NN2 to_II the_AT employment_NN1 tribunal_NN1 
+gave_VVD as_II a_AT1 reason_NN1 
+that_CST they_PPHS2 could_VM not_XX afford_VVI the_AT fees_NN2 
+thirdly_RR 
+worked_JJ examples_NN2 of_IO claimants_NN2 in_II low_JJ to_II middle_JJ income_NN1 households_NN2 
+confirmed_VVD that_CST they_PPHS2 can_VM not_XX afford_VVI the_AT fees_NN2 
+without_IW sacrificing_VVG ordinary_JJ and_CC reasonable_JJ expenditure_NN1 
+for_IF substantial_JJ periods_NN2 of_IO time_NNT1 
+fourthly_RR 
+the_AT evidence_NN1 establishes_VVZ that_CST the_AT fees_NN2 have_VH0 had_VHN a_AT1 particularly_RR deterrent_JJ effect_NN1 
+on_II claims_NN2 of_IO low_JJ monetary_JJ value_NN1 
+or_CC claims_NN2 where_CS no_AT financial_JJ remedy_NN1 is_VBZ available_JJ 
+indeed_RR the_AT fees_NN2 render_VV0 it_PPH1 futile_JJ 
+to_TO bring_VVI many_DA2 such_DA claims_NN2 
+given_VVN the_AT level_NN1 of_IO the_AT fees_NN2 
+relative_II21 to_II22 the_AT amo-_FU 
+to_II the_AT amount_NN1 of_IO any_DD financial_JJ award_NN1 which_DDQ might_VM be_VBI obtained_VVN 
+and_CC the_AT prospects_NN2 of_IO recovering_VVG 
+a-_FU any_DD amount_NN1 awarded_VVN 
+the_AT fees_NN2 order_NN1 is_VBZ also_RR unlawful_JJ because_CS it_PPH1 contravenes_VVZ the_AT EU_NP1 law_NN1 guarantee_NN1 
+of_IO an_AT1 effective_JJ remedy_NN1 before_II a_AT1 tribunal_NN1 
+it_PPH1 imposes_VVZ disproportionate_JJ limitations_NN2 on_II the_AT enforcement_NN1 of_IO EU_NP1 employment_NN1 rights_NN2 
+in_RR21 addition_RR22 
+the_AT fees_NN2 order_NN1 is_VBZ indirectly_RR discriminatory_JJ 
+contrary_II21 to_II22 the_AT Equality_NP1 Act_NP1 of_IO two_MC41 thousand_MC42 and_MC43 ten_MC44 
+a_AT1 higher_JJR proportion_NN1 of_IO women_NN2 bring_VV0 type_NN1 B_ZZ1 claims_NN2 than_CSN type_NN1 A_ZZ1 claims_NN2 
+and_CC so_CS the_AT higher_JJR fees_NN2 that_DD1 are_VBR charged_VVN for_IF type_NN1 B_ZZ1 claims_NN2 
+put_VV0 women_NN2 at_II a_AT1 particular_JJ disadvantage_NN1 
+the_AT higher_JJR fees_NN2 can_VM not_XX be_VBI justified_VVN on_II the_AT basis_NN1 of_IO the_AT objectives_NN2 of_IO the_AT fees_NN2 order_NN1 
+which_DDQ were_VBDR to_TO transfer_VVI part_NN1 of_IO the_AT cost_NN1 burden_NN1 of_IO the_AT tribunals_NN2 
+from_II tax_NN1 payers_NN2 
+to_II users_NN2 of_IO their_APPGE services_NN2 
+to_TO deter_VVI unmeritorious_JJ claims_NN2 
+and_CC to_TO encourage_VVI the_AT earlier_JJR settlement_NN1 of_IO claims_NN2 
+it_PPH1 has_VHZ not_XX been_VBN shown_VVN that_CST the_AT higher_JJR fees_NN2 
+for_IF type_NN1 B_ZZ1 claims_NN2 
+are_VBR any_DD more_DAR effective_JJ than_CSN lower_JJR fees_NN2 
+in_II transferring_VVG the_AT cost_NN1 of_IO the_AT service_NN1 
+from_II tax_NN1 payers_NN2 to_II users_NN2 
+or_CC if_CS they_PPHS2 are_VBR more_RGR effective_JJ in_II deterring_VVG unmeritorious_JJ claims_NN2 
+or_CC that_CST they_PPHS2 are_VBR more_RGR effective_JJ 
+in_II encouraging_VVG the_AT earlier_JJR settlement_NN1 of_IO claims_NN2 
+the_AT fees_NN2 order_NN1 
+is_VBZ therefore_RR quashed_VVN 
+the_AT Lord_NNB Chancellor_NP1 has_VHZ undertaken_VVN to_TO reimburse_VVI fees_NN2 already_RR paid_VVN 

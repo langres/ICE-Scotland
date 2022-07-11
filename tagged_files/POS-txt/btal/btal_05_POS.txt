@@ -154,8 +154,8 @@ and_CC pursue_VVI
 your_APPGE own_DA passion_NN1 
 as_CS31 long_CS32 as_CS33 they_PPHS2 're_VBR legal_JJ of_RR21 course_RR22 
 our_APPGE true_JJ wealth_NN1 
-is_VBZ not_XX in_II how_RGQ much_DAR we_PPIS2 give_VV0 
-but_CCB how_RGQ much_DAR we_PPIS2 do_VD0 for_IF our_APPGE fellow_JJ man_NN1 
+is_VBZ not_XX in_II how_RGQ much_DA1 we_PPIS2 give_VV0 
+but_CCB how_RGQ much_DA1 we_PPIS2 do_VD0 for_IF our_APPGE fellow_JJ man_NN1 
 I_PPIS1 really_RR believe_VV0 that_DD1 
 and_CC we_PPIS2 live_VV0 
 in_II an_AT1 interdependent_JJ world_NN1 

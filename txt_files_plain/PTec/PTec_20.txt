@@ -1,0 +1,202 @@
+The virtual birth of a brave new world
+THE gap - or maybe it's the rift - between the real world 
+    and the virtual one has just got a little bit smaller.
+Tech enthusiasts across the globe were electrified this week 
+    with the news that Facebook's Oculus Rift VR (virtual reality) 
+    headset is finally on sale.
+Oculus claims to have radically redefined digital entertainment. 
+    Fans can immerse themselves in games or even experience 
+    destinations thousands of miles away. "Time travel, 
+    space travel, or hang out with friends in VR," it says 
+    of this stunning, 360-degree realm. "Endless worlds 
+    await."
+The first 30 Rift games have now gone on sale, with at least 
+    another 100 to follow by the year's end.
+The Oculus Rift headset won't be on sale in the UK until 
+    June and though it will not come cheap, its £450 price-tag will do 
+    nothing to deter those tech fans eager to explore new worlds in 
+    ultra-high definition.
+The new generation of HR headsets is already, however, a crowded 
+    field. The entry-level Google Cardboard headsets have proved 
+    popular. The Samsung Gear VR has its devotees. A new rival, HTC 
+    Vive, is on the way, as is Sony’s PlayStation VR. The VR horizon 
+    bristles with other companies. There's speculation that Apple 
+    and Google are eyeing the field.
+Virtual reality's presence has been felt for a long time 
+    now - and not just in gaming.
+In the early 1960s there was the Sensorama, a TV booth which 
+    screened 3D films and heightened their impact with a moving chair 
+    and vibration. In 1966, according to the New Scientist, the US Air 
+    Force developed the first computer-driven flight simulator. Two 
+    years after that, a Harvard University specialist devised a 
+    head-mounted cathode ray tube display, with users exploring 
+    wire-frame graphics simply by turning their head.
+A huge step forward came four years ago, when Oculus Rift's 
+    VR headset managed to attract $2.4 million in funding on the 
+    Kickstarter crowdfunding website.
+When Facebook tycoon Mark Zuckerberg bought the company behind 
+    Oculus Rift two years ago for $2 billion, he wrote: “One 
+    day, we believe this kind of immersive, augmented reality will 
+    become a part of daily life for billions of people." He held 
+    out the tantalising prospect of people enjoying a court-side seat 
+    at a sports game, studying in a classroom of students and teachers 
+    all over the world or consulting with a doctor face-to-face – 
+    "just by putting on goggles in your home.” 
+APPLICATIONS
+Palmer Luckey, the 23-year-old 'tech 
+    wunderkind' founder of Oculus VR, is a keen advocate 
+    of the use of VR in education, highlighting the benefits for pupils 
+    and students in simulating the past and exploring landmark 
+    events.
+In August 2015 the British Museum staged a Virtual Reality 
+    Weekend. It was the first time that Samsung Gear VR devices had 
+    been used to engage families with BM collections. Visitors were 
+    able to explore a virtual reality Bronze Age site designed by 
+    Soluis Heritage, where they saw 3D scans of objects from the 
+    Museum’s collection of this period, placed in their original 
+    setting.
+One new app, which has been funded via Kickstarter, is seen by 
+    its makers as a tribute to "an incredible moment in 
+    human history" – the Apollo 11 moon-landings in 1969. 
+    Its premise is simple: Using VR, you will become Neil Armstrong on 
+    what is the 20th century's "most enduring 
+    achievement."
+“There’s a lot of potential for virtual reality in the 
+    education industry,” Luckey has said. “Classrooms are broken. Kids 
+    don’t learn the best by reading books. Even if visiting Paris for 
+    real is something that’s better [than doing it with VR] it’s not 
+    something that eight, nine, 10 billion people in the world are 
+    going to be able to do.”
+Fiction or documentary films made with VR have been another 
+    notable growth area. Subjects have ranged from child refugees, the 
+    aftermath of the Nepal earthquake and a reconstruction of the death 
+    of Trayvon Martin, a 17 year-old African American shot dead by a 
+    neighbourhood watch volunteer in 2012.
+Healthcare has not been slow to recognise the potential of HR, 
+    bringing it to everything from surgery simulation to robotic 
+    surgery. Fortune magazine says: "Mobile virtual reality 
+    devices like Google Cardboard, Gear VR, and VR One are changing the 
+    way hospitals and health care providers are training doctors, 
+    nurses and medical personnel."
+Perhaps inevitably, pornography has also been quick to seize on 
+    the potential of VR, just as it alighted on video-tapes. One writer 
+    who bravely sampled various forms of VR porn has described the 
+    "unsettling" detail of one film in which 
+    the viewer is placed inside a woman's body. 
+VR IN SCOTLAND
+One Scottish company which understands the prevailing trend of 
+    VR is the Edinburgh-based Eyedak, responsible for a device called 
+    vrAse, which was released two years ago and turns your handset into 
+    a VR headset. Eyedak's CEO, Miguel Schiaffino, says: 
+    “VR will be more mainstream as time passes because 
+    smartphone capabilities will grow. As long as people keep using the 
+    smartphone and using them wherever they go, VR tech will continue 
+    to get more mainstream. Think about what we use smartphones for 
+    today; communications, interaction with our daily lives (photos, 
+    bookings, writing, recording) but on a greater scale in the future 
+    as people will grow more dependent on smartphones.
+“We will start becoming dependent on it because 
+    mainstream VR will be based around the smartphone and we’re already 
+    addicted to that. Change is the only constant in the universe. Some 
+    will embrace it and others won’t, which is an old story, really. 
+    Everything will be revolutionised.”
+Alistair Rawlinson, Head of Data Acquisition at the Glasgow 
+    School of Art, has an entire Digital Design Studio to work with.
+Says Rawlinson: “VR technology is on the cusp of breaking 
+    into everyday use. Over the past few years the development of 
+    head-mounted displays [HMDs] has seen a significant push with 
+    headsets becoming more technologically advanced in terms of screen 
+    resolution and motion tracking as well as becoming more affordable. 
+    With technology like the Samsung Gear VR, Oculus Rift and the Vive 
+    as well as large companies such as Facebook, Sony and Microsoft 
+    involved in their development, their exposure to large markets 
+    increases.
+“The Digital Design Studio has made good use of VR 
+    technology in our detailed digital documentation and 3D modelling 
+    of the Mackintosh Building at the Glasgow School of Art post-fire. 
+    The data is currently being used to aid the ongoing conservation 
+    work with the creation of a building information model.” 
+    
+THE DOWNSIDE
+VR-as-entertainment has been around for long enough for some 
+    observers to note potential drawbacks. The wiseGEEK website has 
+    helpfully listed some of them: "One issue is social 
+    isolation, in which the user of virtual reality relies more on 
+    interactions that take place in a virtual world than on experiences 
+    in the real world. This lack of true, physical interaction has the 
+    potential to create incorrect associations that are not part of 
+    real social settings. The isolation could eventually cause 
+    depression, disassociation and other conditions, if it is severe 
+    enough." Desensitisation is another possible 
+    disadvantage, it added.
+For Shari Frilot, chief curator of Sundance Film Festival's 
+    New Frontiers section, however, VR-as-entertainment is not 
+    necessarily an isolating experience. “I know there’s a lot 
+    of anxiety about VR being an individual experience, and number one: 
+    that’s not a bad thing," she was quoted as saying in 
+    January. "Part of the VR experience, the power of it, 
+    is that it’s fully immersive around your individual body. I don’t 
+    think that it’s isolating. I’ve been watching VR at the festival 
+    since 2012, and I’ve seen people getting excited about watching 
+    their friends go through it, talking about it, wanting to share it. 
+    It’s an intensely social experience.”
+Tom Wiggins, Deputy Editor of Stuff Magazine, says: 
+    "I've used all three of the major headsets (Oculus 
+    Rift, HTC Vive and Playstation VR) and I think the benefits 
+    outweigh the drawbacks but there certainly are one or two that 
+    can't be ignored. At the moment, cost is definitely the 
+    biggest barrier. It's not just the headsets that are 
+    expensive; in order to run one you need a pretty pricey, high-end 
+    PC. This will obviously come down over time but right now 
+    it'll put all but the most dedicated early adopter off. 
+    It's a shame because the experiences can be really 
+    mind-blowing.
+"There's also the challenge of how to translate 
+    movement into the game world. HTC's Vive tackles this by using 
+    sensors that need to be positioned around the room you're 
+    playing in but in order to work properly you need fairly 
+    significant floor space. Some people have also suffered from a 
+    version of motion sickness when using VR, but I think that's 
+    likely to be reduced as the tech gets better, screen resolution 
+    goes up and refresh rates increase."
+BBC News tech reporter Zoe Kleinman knows what he is talking 
+    about. At a VR demo in January she “virtually” climbed Mount 
+    Everest, the Himalayas all around her in stunning detail. But she 
+    had a bad case of motion sickness in the next demo, in which she 
+    floated in a glass-windowed dome above earth. "I 
+    started to feel very hot and very disorientated," she 
+    wrote. "I was tumbling around, bumping into walls and 
+    debris and no longer knew which way was up. My virtual space helmet 
+    visor was cracking. Within about 30 seconds I wanted to rip the 
+    helmet off and run to the bathroom." 
+VR IN CULTURE
+Virtual reality has long intrigued authors and film-makers. Back 
+    in 1992, for example, there was a film, The Lawnmower Man, starring 
+    a pre-007 Pierce Brosnan. In the words of the Den of Geek website, 
+    this "curious" movie is 
+    "quintessentially 90s. It has virtual reality helmets, 
+    Pierce Brosnan in white shorts, those spinning aerotrim gyroscope 
+    things you don't see very much anymore, gratuitous sex scenes, 
+    and lots of once novel computer graphics."
+The Sundance film festival, ever alert to new trends, featured 
+    VR offerings at its 2016 showcase in January. The Funny or Die 
+    collective ran its first virtual reality project, Interrogation, 
+    which was shot in full 360-degree 3-D. Starring comedians Rob 
+    Heubel and Paul Sheer, it allowed viewers to experience the 
+    sensation of what it was like to be the suspect of a horrible crime 
+    in the hot seat of an interrogation room, "getting 
+    grilled by the worst detectives in the business". The 
+    project, says Funny or Die, "sends comedy into an 
+    entirely new medium, blurring the lines between sketch and 
+    reality".
+Another VR hit at Sundance 2016 allowed viewers to walk on the 
+    surface of Star Wars’ planet Jakku.
+The many virtual reality films have included Christopher 
+    Nolan's Inception, the Wachowski Brothers' groundbreaking 
+    Matrix franchise, and David Cronenberg's eXistenZ. Among VR 
+    books are William Gibson's Neuromancer and Neal 
+    Stephenson's Snowcrash. Michael Abrash, Chief Scientist at 
+    Oculus, has never forgotten a scene in Robert A Heinlein’s 1939 
+    short story, Misfit, in which a captain straps himself into the 
+    saddle of the “ponderous integral calculator” in order to compute a 
+    spaceship’s orbit.

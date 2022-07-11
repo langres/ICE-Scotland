@@ -53,7 +53,7 @@ a_AT1 new_JJ bursary_NN1 scheme_NN1 is_VBZ launched_VVN to_TO attract_VVI new_JJ
 into_II the_AT industry_NN1 
 Rachel_NP1 Stewart_NP1 reports_VVZ 
 well_UH Rachel_NP1 is_VBZ on_II the_AT banks_NN2 of_IO the_AT river_NN1 Dee_NP1 for_IF us_PPIO2 now_RT so_CS Rachel_NP1 how_RRQ is_VBZ the_AT season_NNT1 looking_VVG 
-okay_UH Rachel_NP1 many_DA2 thanks_NN2 for_IF that_DD1 
+okay_RR Rachel_NP1 many_DA2 thanks_NN2 for_IF that_DD1 
 it_PPH1 's_VBZ time_NNT1 now_RT for_IF the_AT local_JJ news_NN1 where_CS you_PPY are_VBR I_PPIS1 'll_VM have_VHI stories_NN2 for_IF the_AT north_ND1 
 and_CC in_II Dundee_NP1 for_IF viewers_NN2 on_II freeview_NN1 and_CC cable_NN1 with_IW news_NN1 for_IF Tayside_NP1 here_RL is_VBZ Susan_NP1 Nicholson_NP1 
 now_RT a_AT1 reminder_NN1 of_IO today_RT 's_GE top_JJ stories_NN2 

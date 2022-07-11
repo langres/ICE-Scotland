@@ -1,0 +1,4 @@
+Mister_NNB Darling_NP1 you_PPY said_VVD that_CST 
+erm_UH 
+Scotland_NP1 is_VBZ not_XX a_AT1 foreign_JJ country_NN1 
+have_VH0 you_PPY ever_RR tried_VVN to_TO pay_VVI a_AT1 London_NP1 taxi-driver_NN1 with_IW a_AT1 Scottish_JJ twenty_MC pound_NNU1 note_NN1 
